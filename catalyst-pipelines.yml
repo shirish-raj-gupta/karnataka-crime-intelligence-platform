@@ -1,0 +1,14 @@
+version: 1.0
+jobs:
+  build-web:
+    steps:
+      - cd web && npm ci && npm run build
+  deploy:
+    steps:
+      - npm install -g zcatalyst-cli
+      - catalyst deploy
+stages:
+  - name: build-and-deploy
+    jobs:
+      - build-web
+      - deploy
