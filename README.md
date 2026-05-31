@@ -151,7 +151,7 @@ catalyst deploy                   # or: catalyst deploy --only "client,functions
 cd appsail && catalyst deploy
 ```
 
-CI/CD is configured via **Catalyst Pipelines** (`catalyst-pipeline.yml`): a push
+CI/CD is configured via **Catalyst Pipelines** (`catalyst-pipelines.yml`): a push
 to `main` builds the frontend and runs `catalyst deploy` automatically.
 
 ### Configuration
