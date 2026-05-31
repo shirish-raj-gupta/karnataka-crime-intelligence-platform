@@ -34,6 +34,7 @@ export default function Network() {
         </div>
       )}
 
+      <div className="section-label"><Icon name="network" size={13} /> Relationship graph &amp; link analysis</div>
       <Card
         title="Criminal network graph"
         icon="network"
@@ -57,6 +58,7 @@ export default function Network() {
         <p className="note">Edges: blue = co-offender, grey = associate, green = financial. Drag-free force layout; hover a node for details.</p>
       </Card>
 
+      <div className="section-label"><Icon name="users" size={13} /> Repeat offenders, money trail &amp; gang detection</div>
       <div className="grid-2">
         <Card title="Repeat offenders & cross-jurisdiction activity" icon="network">
           {repeat.loading && <Loading />}
@@ -69,7 +71,7 @@ export default function Network() {
                   <tr key={r.offender_id}>
                     <td>{r.name}{r.gang_id ? <span className="band Critical" style={{ marginLeft: 6 }}>{r.gang_id}</span> : null}</td>
                     <td>{r.home_district}</td>
-                    <td className="right">{r.incident_count}</td>
+                    <td className="right">{fmt(r.incident_count)}</td>
                     <td className="right">{r.jurisdictions}</td>
                     <td className="right">{r.distinct_mo}</td>
                   </tr>
@@ -90,7 +92,7 @@ export default function Network() {
                   <tr key={m.account_id}>
                     <td>{m.account_id}</td>
                     <td>{m.bank}</td>
-                    <td className="right">{m.linked_offenders}</td>
+                    <td className="right">{fmt(m.linked_offenders)}</td>
                     <td>{m.flagged ? <span className="band Critical">flagged</span> : <span className="band Low">clear</span>}</td>
                   </tr>
                 ))}
@@ -110,8 +112,8 @@ export default function Network() {
               {gangs.data.results.map((g) => (
                 <tr key={g.gang_id} style={{ cursor: "pointer" }} onClick={() => setGangFilter(g.gang_id)}>
                   <td>{g.gang_id}</td>
-                  <td className="right">{g.member_count}</td>
-                  <td className="right">{g.total_incidents}</td>
+                  <td className="right">{fmt(g.member_count)}</td>
+                  <td className="right">{fmt(g.total_incidents)}</td>
                   <td className="right">{g.jurisdictions}</td>
                   <td className="right">{g.distinct_mo}</td>
                   <td className="right">{g.shared_accounts}</td>

@@ -13,7 +13,7 @@ const SUGGESTIONS = [
 
 const GREETING = {
   role: "bot",
-  text: "Namaskara. I'm your crime intelligence assistant for Karnataka (2025 data). Ask me about districts, hotspots, crime categories, risk scores, or crimes against vulnerable groups. Every answer is backed by the source data.",
+  text: "Namaskara. I'm your crime intelligence assistant for Karnataka. Ask me about districts, hotspots, crime categories, risk scores, monthly trends, or crimes against vulnerable groups — grounded in the real KSP Monthly Crime Review (2025) and 1.6M+ FIR records (2016–2024). Every answer is backed by the source data.",
   evidence: null,
 };
 
@@ -90,10 +90,6 @@ export default function Assistant() {
     } catch (e) {
       push({ role: "bot", text: "Translation unavailable: " + e.message, evidence: null });
     }
-  }
-
-  function speak(text) {
-    ttsSpeak(text, lang);
   }
 
   function startVoice() {
@@ -214,6 +210,12 @@ export default function Assistant() {
           <span key={s} className="chip" onClick={() => send(s)}>{s}</span>
         ))}
       </div>
+      <div className="assist-caps">
+        <span><Icon name="brain" size={12} /> Grounded LLM (Catalyst QuickML · Qwen 2.5)</span>
+        <span><Icon name="mic" size={12} /> Voice in</span>
+        <span><Icon name="translate" size={12} /> EN ⇄ ಕನ್ನಡ</span>
+        <span><Icon name="doc" size={12} /> PDF export (SmartBrowz)</span>
+      </div>
     </Card>
     </>
   );
@@ -251,10 +253,17 @@ function Message({ msg }) {
                     data: series.map((p) => p.count),
                     borderColor: "#4f9cff",
                     backgroundColor: "rgba(79,156,255,0.15)",
-                    fill: true, tension: 0.35, pointRadius: 2,
+                    fill: true, tension: 0.35, pointRadius: 2, borderWidth: 2.5,
                   }],
                 }}
-                options={{ responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } } }}
+                options={{
+                  responsive: true, maintainAspectRatio: false,
+                  plugins: {
+                    legend: { display: false },
+                    tooltip: { backgroundColor: "rgba(15,22,32,0.95)", borderColor: "#2a3850", borderWidth: 1, padding: 10, cornerRadius: 8 },
+                  },
+                  scales: { x: { grid: { display: false }, ticks: { color: "#93a6c0", font: { size: 10 } } }, y: { grid: { color: "rgba(42,56,80,0.5)" }, ticks: { color: "#93a6c0", font: { size: 10 } }, beginAtZero: true } },
+                }}
               />
             </div>
           </div>

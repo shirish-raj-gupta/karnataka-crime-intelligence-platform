@@ -326,6 +326,15 @@ tbody tr:last-child td { border-bottom: none; }
 }
 .src-chip svg { color: var(--ok); }
 
+/* Assistant capability hints */
+.assist-caps {
+  display: flex; flex-wrap: wrap; gap: 8px 18px;
+  margin-top: 14px; padding-top: 12px; border-top: 1px solid var(--line-soft);
+  font-size: 11.5px; color: var(--muted-2);
+}
+.assist-caps span { display: inline-flex; align-items: center; gap: 6px; }
+.assist-caps svg { color: var(--accent); }
+
 /* ============================================================
    Responsive — component-level mobile caps
    ============================================================ */

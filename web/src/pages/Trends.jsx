@@ -2,8 +2,9 @@ import { useState } from "react";
 import { Bar, Line } from "react-chartjs-2";
 import { api, fmt } from "../api";
 import { useAsync } from "../hooks/useAsync";
-import { Card, Loading, ErrorBanner, PageHead } from "../components/Common.jsx";
+import { Card, StatCard, Loading, ErrorBanner, PageHead } from "../components/Common.jsx";
 import Icon from "../components/Icon.jsx";
+import { horizontalBar, lineOptions } from "../components/charts/chartOptions";
 
 const SEVERITY_COLOR = {
   critical: "#ff5c6c",
@@ -63,7 +64,25 @@ export default function Trends() {
   return (
     <>
       <PageHead icon="trends" title="Trends &amp; Forecast"
-        subtitle="Real month-by-month KSP data, emerging-spike alerts, and transparent projections." />
+        subtitle="Real month-by-month KSP data, emerging-spike alerts, anomaly detection, and transparent projections." />
+
+      {/* KPI summary band */}
+      <div className="kpi-row">
+        <StatCard cls="accent" icon="trends"
+          value={monthly.data?.found ? (monthly.data.trend ? monthly.data.trend[0].toUpperCase() + monthly.data.trend.slice(1) : "–") : "…"}
+          label="State 12-month trend"
+          hint={monthly.data?.found ? `${monthly.data.slope_per_month > 0 ? "+" : ""}${monthly.data.slope_per_month}/month` : ""} />
+        <StatCard cls="warn" icon="alert"
+          rawValue={alerts.data?.alerts ? alerts.data.alerts.length : 0}
+          label="Emerging spike alerts" hint={`${section} · MoM ≥ 20%`} />
+        <StatCard cls="danger" icon="radar"
+          rawValue={anomalies.data?.summary ? anomalies.data.summary.total : 0}
+          label="Behavioural anomalies" hint={anomalies.data?.summary ? `${anomalies.data.summary.critical || 0} critical` : ""} />
+        <StatCard cls="ok" icon="doc"
+          rawValue={monthly.data?.found ? monthly.data.history.reduce((a, p) => a + p.count, 0) : 0}
+          label="12-month volume (scope)" hint={monthly.data?.found ? monthly.data.scope : ""} />
+      </div>
+
       <Card title="Real 12-month trend & 3-month forecast (2025)" icon="trends" headRight={monthlyControl}>
         <p className="note">
           Actual month-by-month counts from the 12 KSP Monthly Crime Review files (Jan–Dec 2025),
@@ -89,11 +108,11 @@ export default function Trends() {
                   data={{
                     labels,
                     datasets: [
-                      { label: "Actual (real KSP monthly data)", data: histData, borderColor: "#4f9cff", backgroundColor: "#4f9cff33", tension: 0.3, spanGaps: false },
-                      { label: "Forecast (linear trend)", data: fcData, borderColor: "#ff5c6c", borderDash: [6, 4], backgroundColor: "transparent", tension: 0.2, spanGaps: true },
+                      { label: "Actual (real KSP monthly data)", data: histData, borderColor: "#4f9cff", backgroundColor: "rgba(79,156,255,0.18)", fill: true, tension: 0.35, pointRadius: 3, spanGaps: false },
+                      { label: "Forecast (linear trend)", data: fcData, borderColor: "#ff5c6c", borderDash: [6, 4], backgroundColor: "transparent", tension: 0.2, pointRadius: 3, spanGaps: true },
                     ],
                   }}
-                  options={{ responsive: true, maintainAspectRatio: false, plugins: { legend: { position: "bottom" } } }}
+                  options={lineOptions}
                 />
               </div>
               <p className="note">
@@ -224,11 +243,11 @@ export default function Trends() {
               data={{
                 labels: fc.data.results.map((r) => r.category.split("(")[0].trim().slice(0, 24)),
                 datasets: [
-                  { label: "Current month", data: fc.data.results.map((r) => r.current_month), backgroundColor: "#4f9cff" },
-                  { label: "Projected next month", data: fc.data.results.map((r) => r.projected_next_month), backgroundColor: "#7b61ff" },
+                  { label: "Current month", data: fc.data.results.map((r) => r.current_month), backgroundColor: "#4f9cff", borderRadius: 5 },
+                  { label: "Projected next month", data: fc.data.results.map((r) => r.projected_next_month), backgroundColor: "#7b61ff", borderRadius: 5 },
                 ],
               }}
-              options={{ responsive: true, maintainAspectRatio: false, indexAxis: "y", plugins: { legend: { position: "bottom" } } }}
+              options={{ ...horizontalBar, plugins: { ...horizontalBar.plugins, legend: { display: true, position: "bottom", labels: { color: "#93a6c0", usePointStyle: true, padding: 14 } } } }}
             />
           </div>
         )}

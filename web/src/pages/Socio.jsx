@@ -2,8 +2,9 @@ import { useState } from "react";
 import { Bar, Scatter } from "react-chartjs-2";
 import { api, fmt } from "../api";
 import { useAsync } from "../hooks/useAsync";
-import { Card, Loading, ErrorBanner, PageHead } from "../components/Common.jsx";
+import { Card, StatCard, Loading, ErrorBanner, PageHead } from "../components/Common.jsx";
 import Icon from "../components/Icon.jsx";
+import { horizontalBar, scatterOptions } from "../components/charts/chartOptions";
 
 const STRENGTH_COLOR = { strong: "#ff5c6c", moderate: "#ffb347", weak: "#4f9cff", negligible: "#9bb0c9" };
 const BAND_COLOR = { Critical: "#ff5c6c", High: "#ffb347", Moderate: "#4f9cff", Low: "#3ddc97" };
@@ -32,6 +33,35 @@ export default function Socio() {
     <>
       <PageHead icon="socio" title="Socio-Economic Correlation"
         subtitle="The 'why' behind the 'where' — Census 2011 indicators correlated with crime, plus the ML risk model." />
+
+      {/* KPI summary band */}
+      {(() => {
+        const dd = dists.data?.results || [];
+        const topRate = dd[0];
+        const sorted = corr.data?.results ? [...corr.data.results].sort((a, b) => Math.abs(b.correlation) - Math.abs(a.correlation)) : [];
+        const strongest = sorted[0];
+        const critical = (ml.data?.results || []).filter((r) => r.predicted_band === "Critical").length;
+        return (
+          <div className="kpi-row">
+            <StatCard cls="danger" icon="socio"
+              value={topRate ? topRate.district : "…"}
+              label="Highest crime rate / 100k"
+              hint={topRate ? `${topRate.crime_rate} per 100k` : ""} />
+            <StatCard cls="accent" icon="activity"
+              value={strongest ? strongest.correlation : "…"}
+              label="Strongest correlation (r)"
+              hint={strongest ? `${strongest.indicator}` : ""} />
+            <StatCard cls="warn" icon="brain"
+              rawValue={critical}
+              label="ML: Critical-band districts" hint="k-NN + Zia AutoML" />
+            <StatCard cls="ok" icon="doc"
+              rawValue={dd.length}
+              label="Districts profiled" hint="Census 2011 × KSP crime" />
+          </div>
+        );
+      })()}
+
+      <div className="section-label"><Icon name="socio" size={13} /> Socio-economic correlation · Census 2011 × KSP crime</div>
       <Card title="Why behind the where — socio-economic correlation" icon="socio">
         <p className="note">
           Pearson correlation between each district's crime rate (per 100k population) and its
@@ -65,9 +95,9 @@ export default function Socio() {
               <Bar
                 data={{
                   labels: dists.data.results.slice(0, 15).map((d) => d.district),
-                  datasets: [{ label: "Crime rate / 100k", data: dists.data.results.slice(0, 15).map((d) => d.crime_rate), backgroundColor: "#4f9cff" }],
+                  datasets: [{ label: "Crime rate / 100k", data: dists.data.results.slice(0, 15).map((d) => d.crime_rate), backgroundColor: "#4f9cff", borderRadius: 5 }],
                 }}
-                options={{ responsive: true, maintainAspectRatio: false, indexAxis: "y", plugins: { legend: { display: false } } }}
+                options={horizontalBar}
               />
             </div>
           )}
@@ -82,14 +112,15 @@ export default function Socio() {
                     label: "Districts",
                     data: dists.data.results.map((d) => ({ x: d.density, y: d.crime_rate })),
                     backgroundColor: "#7b61ff",
+                    pointRadius: 5,
+                    pointHoverRadius: 7,
                   }],
                 }}
                 options={{
-                  responsive: true, maintainAspectRatio: false,
-                  plugins: { legend: { display: false } },
+                  ...scatterOptions,
                   scales: {
-                    x: { title: { display: true, text: "Population density (/sq.km)" } },
-                    y: { title: { display: true, text: "Crime rate / 100k" } },
+                    x: { ...scatterOptions.scales.x, title: { display: true, text: "Population density (/sq.km)", color: "#93a6c0" } },
+                    y: { ...scatterOptions.scales.y, title: { display: true, text: "Crime rate / 100k", color: "#93a6c0" } },
                   },
                 }}
               />
@@ -117,6 +148,7 @@ export default function Socio() {
           </table>
         )}
       </Card>
+      <div className="section-label"><Icon name="brain" size={13} /> AI/ML predictive intelligence · k-NN + Catalyst Zia AutoML</div>
       <Card title="AI/ML predictive risk model — crime-risk band classifier" icon="spark">
         <p className="note">
           Supervised <b>k-NN classifier</b> trained on district socio-economic features
