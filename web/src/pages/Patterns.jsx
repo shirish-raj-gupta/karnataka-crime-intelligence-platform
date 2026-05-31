@@ -1,10 +1,11 @@
 import { useState } from "react";
 import { Bar, Line } from "react-chartjs-2";
-import { api, fmt } from "../api";
+import { api, fmt, PALETTE } from "../api";
 import { useAsync } from "../hooks/useAsync";
-import { Card, Loading, ErrorBanner, PageHead, EmptyState } from "../components/Common.jsx";
+import { Card, Loading, ErrorBanner, PageHead } from "../components/Common.jsx";
 import Segmented from "../components/ui/Segmented.jsx";
 import Icon from "../components/Icon.jsx";
+import { horizontalBar, noLegend } from "../components/charts/chartOptions";
 
 export default function Patterns() {
   const [law, setLaw] = useState("IPC");
@@ -14,6 +15,7 @@ export default function Patterns() {
   const [monthly, setMonthly] = useState(null); // real 12-month series for the drilled category
 
   const cats = useAsync(() => api.categories(law, 12), [law]);
+  const firGroups = useAsync(() => api.firGroups(15), []);
 
   async function drill(query) {
     if (!query) return;
@@ -23,7 +25,6 @@ export default function Patterns() {
     try {
       const d = await api.categoryDetail(query);
       setDetail(d);
-      // Fetch the real 12-month series for this category in parallel (best-effort).
       if (d && d.found) {
         api.monthlySeries(query).then((m) => { if (m && m.found) setMonthly(m); }).catch(() => {});
       }
@@ -42,29 +43,67 @@ export default function Patterns() {
     />
   );
 
+  const groups = firGroups.data?.results || [];
+  const groupGrand = firGroups.data?.grand_total || 0;
+  const topGroups = groups.slice(0, 6);
+
   return (
     <>
       <PageHead icon="patterns" title="Crime Patterns &amp; Categories"
-        subtitle="Crime-head breakdown with click-through sub-type drill-down and real monthly trends." />
-      <Card title="Crime categories" icon="patterns" headRight={lawControl}>
-        {cats.loading && <Loading />}
-        {cats.error && <ErrorBanner message={cats.error} />}
-        {cats.data && (
-          <div className="chart-wrap tall">
-            <Bar
-              data={{
-                labels: cats.data.results.map((r) => r.category.split("(")[0].trim().slice(0, 28)),
-                datasets: [{ label: `${law} crimes`, data: cats.data.results.map((r) => r.count), backgroundColor: "#7b61ff" }],
-              }}
-              options={{
-                responsive: true, maintainAspectRatio: false, indexAxis: "y",
-                plugins: { legend: { display: false } },
-                onClick: (evt, items) => { if (items.length) drill(cats.data.results[items[0].index].category); },
-              }}
-            />
+        subtitle="Aggregate crime-head breakdown plus real FIR crime-group frequency, with click-through drill-down." />
+
+      {/* Real FIR crime-group highlight band */}
+      <div className="section-label"><Icon name="activity" size={13} /> Real crime-group frequency · {fmt(groupGrand)} FIRs (2016–2024)</div>
+      <div className="kpi-row">
+        {topGroups.map((g, i) => (
+          <div className={`kpi ${["accent", "warn", "danger", "ok", "accent", "warn"][i]}`} key={g.crime_group}>
+            <div className="kpi-top">
+              <div className="label" style={{ minHeight: 30 }}>{g.crime_group.length > 30 ? g.crime_group.slice(0, 28) + "…" : g.crime_group}</div>
+            </div>
+            <div className="value" style={{ fontSize: 22 }}>{fmt(g.count)}</div>
+            <div className="kpi-hint">{g.share_pct}% of all FIRs</div>
           </div>
-        )}
-      </Card>
+        ))}
+      </div>
+
+      <div className="grid-2">
+        <Card title="Crime categories (KSP review)" icon="patterns" headRight={lawControl}>
+          <p className="note">Aggregate {law} crime-head totals. Click a bar to drill into sub-types &amp; the real monthly trend.</p>
+          {cats.loading && <Loading />}
+          {cats.error && <ErrorBanner message={cats.error} />}
+          {cats.data && (
+            <div className="chart-wrap tall">
+              <Bar
+                data={{
+                  labels: cats.data.results.map((r) => r.category.split("(")[0].trim().slice(0, 28)),
+                  datasets: [{ label: `${law} crimes`, data: cats.data.results.map((r) => r.count), backgroundColor: "#7b61ff", borderRadius: 5 }],
+                }}
+                options={{
+                  ...horizontalBar,
+                  onClick: (evt, items) => { if (items.length) drill(cats.data.results[items[0].index].category); },
+                }}
+              />
+            </div>
+          )}
+        </Card>
+
+        <Card title="Crime-group distribution (real FIRs)" icon="activity">
+          <p className="note">Actual frequency of crime groups across real incident records.</p>
+          {firGroups.loading && <Loading />}
+          {firGroups.error && <ErrorBanner message={firGroups.error} />}
+          {firGroups.data && (
+            <div className="chart-wrap tall">
+              <Bar
+                data={{
+                  labels: groups.map((g) => g.crime_group.length > 24 ? g.crime_group.slice(0, 22) + "…" : g.crime_group),
+                  datasets: [{ label: "FIRs", data: groups.map((g) => g.count), backgroundColor: groups.map((_, i) => PALETTE[i % PALETTE.length]), borderRadius: 5 }],
+                }}
+                options={horizontalBar}
+              />
+            </div>
+          )}
+        </Card>
+      </div>
 
       <Card title="Sub-type drill-down" icon="search">
         <p className="note">Click a category bar above, or search a crime head.</p>
@@ -76,7 +115,7 @@ export default function Patterns() {
             onChange={(e) => setSearch(e.target.value)}
             onKeyDown={(e) => { if (e.key === "Enter") drill(search); }}
           />
-          <button className="btn" onClick={() => drill(search)}><Icon name="search" size={14} />Drill down</button>
+          <button className="btn btn-primary" onClick={() => drill(search)}><Icon name="search" size={14} />Drill down</button>
         </div>
 
         {detail === "loading" && <Loading />}
@@ -86,7 +125,7 @@ export default function Patterns() {
         )}
         {detail && detail !== "loading" && detail.found && (
           <>
-            <h3>{detail.category} — total {fmt(detail.total)}</h3>
+            <h3 style={{ marginTop: 16 }}>{detail.category} — total {fmt(detail.total)}</h3>
 
             {monthly && monthly.found && (
               <div style={{ margin: "10px 0 18px" }}>
@@ -112,11 +151,23 @@ export default function Patterns() {
             )}
 
             <table>
-              <thead><tr><th>Sub-type</th><th className="right">Count</th></tr></thead>
+              <thead><tr><th>Sub-type</th><th className="right">Count</th><th className="right">Share</th></tr></thead>
               <tbody>
-                {detail.subtypes.slice(0, 15).map((s, i) => (
-                  <tr key={i}><td>{s.subtype}</td><td className="right">{fmt(s.count)}</td></tr>
-                ))}
+                {detail.subtypes.slice(0, 15).map((s, i) => {
+                  const share = detail.total ? ((s.count / detail.total) * 100).toFixed(1) : "0";
+                  return (
+                    <tr key={i}>
+                      <td>{s.subtype}</td>
+                      <td className="right">{fmt(s.count)}</td>
+                      <td className="right" style={{ width: 120 }}>
+                        <div className="hot-track" style={{ display: "inline-block", width: 70, verticalAlign: "middle", marginRight: 8 }}>
+                          <span style={{ width: `${Math.min(100, share)}%`, background: "#7b61ff" }} />
+                        </div>
+                        {share}%
+                      </td>
+                    </tr>
+                  );
+                })}
               </tbody>
             </table>
           </>

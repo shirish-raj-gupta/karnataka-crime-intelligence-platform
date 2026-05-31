@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { MapContainer, TileLayer, CircleMarker, Popup, Marker, ZoomControl } from "react-leaflet";
+import { MapContainer, TileLayer, CircleMarker, Popup, Marker, ZoomControl, useMap } from "react-leaflet";
 import { Bar } from "react-chartjs-2";
 import L from "leaflet";
 import { api, fmt } from "../api";
@@ -15,6 +15,18 @@ function pulseIcon() {
     iconSize: [20, 20],
     iconAnchor: [10, 10],
   });
+}
+
+// Smoothly fit the map to the points currently shown.
+function FitBounds({ points }) {
+  const map = useMap();
+  if (points && points.length) {
+    try {
+      const b = L.latLngBounds(points);
+      if (b.isValid()) map.flyToBounds(b, { padding: [40, 40], duration: 0.6, maxZoom: 12 });
+    } catch (e) { /* noop */ }
+  }
+  return null;
 }
 
 // Smooth 5-stop heat scale (cool -> hot) keyed on 0..1 intensity.
@@ -83,6 +95,11 @@ export default function HotspotMap() {
   const firTotal = firSummary.data?.source?.total_firs || 0;
   const firGeo = firSummary.data?.source?.geo_valid_firs || 0;
 
+  // Points to auto-fit the map to, per active layer.
+  let fitPoints = null;
+  if (level === "incidents" && incidentCells.length) fitPoints = incidentCells.slice(0, 200).map((c) => [c.lat, c.lng]);
+  else if (level === "station" && stationRows.length) fitPoints = stationRows.slice(0, 200).map((s) => [s.latitude, s.longitude]);
+
   const metricLabel = metric === "ipc_bns_crimes" ? "IPC/BNS" : metric === "sll_crimes" ? "SLL" : "Total";
 
   return (
@@ -131,6 +148,7 @@ export default function HotspotMap() {
               attribution="&copy; OpenStreetMap &copy; CARTO"
             />
             <ZoomControl position="bottomright" />
+            <FitBounds points={fitPoints} />
 
             {level === "district" && districts.data
               .filter((d) => d.latitude && d.longitude)
