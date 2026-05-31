@@ -1,0 +1,481 @@
+fir_id,offender_id,crime_type,modus_operandi,district,month,year,synthetic
+SYN-FIR-00001,SYN-OFF-0181,Theft,mobile_theft,Bagalkot,1,2025,true
+SYN-FIR-00002,SYN-OFF-0133,Robbery,robbery_highway,Bengaluru City,9,2025,true
+SYN-FIR-00003,SYN-OFF-0178,Criminal Intimidation,extortion,Belagavi City,7,2025,true
+SYN-FIR-00004,SYN-OFF-0191,Burglary,house_burglary,Raichur,9,2025,true
+SYN-FIR-00005,SYN-OFF-0002,Criminal Intimidation,extortion,Bengaluru City,7,2025,true
+SYN-FIR-00006,SYN-OFF-0189,Theft,vehicle_theft,Bengaluru Dist,4,2025,true
+SYN-FIR-00007,SYN-OFF-0118,Burglary,house_burglary,Belagavi City,4,2025,true
+SYN-FIR-00008,SYN-OFF-0218,Counterfeiting,counterfeit,Bagalkot,10,2025,true
+SYN-FIR-00009,SYN-OFF-0032,Cheating,atm_fraud,Bengaluru City,11,2025,true
+SYN-FIR-00010,SYN-OFF-0143,Robbery,robbery_highway,Bengaluru Dist,8,2025,true
+SYN-FIR-00011,SYN-OFF-0109,Theft,vehicle_theft,Hubballi Dharwad City,9,2025,true
+SYN-FIR-00012,SYN-OFF-0199,Cheating,otp_fraud,Mysuru Dist,7,2025,true
+SYN-FIR-00013,SYN-OFF-0112,Robbery,chain_snatching,Tumakuru,3,2025,true
+SYN-FIR-00014,SYN-OFF-0059,Burglary,house_burglary,Mandya,12,2025,true
+SYN-FIR-00015,SYN-OFF-0179,Criminal Intimidation,extortion,Chamarajanagar,3,2025,true
+SYN-FIR-00016,SYN-OFF-0060,Dacoity,dacoity,Chitradurga,5,2025,true
+SYN-FIR-00017,SYN-OFF-0203,Cheating,atm_fraud,Bengaluru Dist,6,2025,true
+SYN-FIR-00018,SYN-OFF-0001,Cheating,otp_fraud,Bengaluru City,7,2025,true
+SYN-FIR-00019,SYN-OFF-0183,Theft,mobile_theft,Bengaluru City,9,2025,true
+SYN-FIR-00020,SYN-OFF-0102,Counterfeiting,counterfeit,Bengaluru Dist,10,2025,true
+SYN-FIR-00021,SYN-OFF-0079,Counterfeiting,counterfeit,Ballari,2,2025,true
+SYN-FIR-00022,SYN-OFF-0147,Robbery,chain_snatching,Chitradurga,1,2025,true
+SYN-FIR-00023,SYN-OFF-0219,Theft,mobile_theft,Bengaluru City,11,2025,true
+SYN-FIR-00024,SYN-OFF-0218,Counterfeiting,counterfeit,Mandya,8,2025,true
+SYN-FIR-00025,SYN-OFF-0082,Theft,cattle_theft,Hassan,11,2025,true
+SYN-FIR-00026,SYN-OFF-0179,Criminal Intimidation,extortion,Chamarajanagar,8,2025,true
+SYN-FIR-00027,SYN-OFF-0049,Counterfeiting,counterfeit,Udupi,9,2025,true
+SYN-FIR-00028,SYN-OFF-0001,Cheating,otp_fraud,Bengaluru City,10,2025,true
+SYN-FIR-00029,SYN-OFF-0208,Burglary,house_burglary,Haveri,12,2025,true
+SYN-FIR-00030,SYN-OFF-0106,Robbery,chain_snatching,Mysuru Dist,6,2025,true
+SYN-FIR-00031,SYN-OFF-0049,Counterfeiting,counterfeit,Hassan,1,2025,true
+SYN-FIR-00032,SYN-OFF-0133,Robbery,robbery_highway,Mysuru Dist,12,2025,true
+SYN-FIR-00033,SYN-OFF-0155,Theft,mobile_theft,Dharwad,6,2025,true
+SYN-FIR-00034,SYN-OFF-0116,Theft,cattle_theft,Vijayapur,12,2025,true
+SYN-FIR-00035,SYN-OFF-0011,Dacoity,dacoity,Bengaluru City,8,2025,true
+SYN-FIR-00036,SYN-OFF-0183,Theft,mobile_theft,Bengaluru City,4,2025,true
+SYN-FIR-00037,SYN-OFF-0033,Theft,vehicle_theft,Bengaluru City,8,2025,true
+SYN-FIR-00038,SYN-OFF-0218,Counterfeiting,counterfeit,Bengaluru City,5,2025,true
+SYN-FIR-00039,SYN-OFF-0156,Cheating,investment_scam,Bengaluru City,9,2025,true
+SYN-FIR-00040,SYN-OFF-0203,Cheating,atm_fraud,Bengaluru Dist,1,2025,true
+SYN-FIR-00041,SYN-OFF-0057,Theft,cattle_theft,Raichur,6,2025,true
+SYN-FIR-00042,SYN-OFF-0160,Robbery,chain_snatching,Hassan,9,2025,true
+SYN-FIR-00043,SYN-OFF-0208,Burglary,house_burglary,Haveri,6,2025,true
+SYN-FIR-00044,SYN-OFF-0007,Cheating,atm_fraud,Mangaluru City,8,2025,true
+SYN-FIR-00045,SYN-OFF-0171,Criminal Intimidation,extortion,Kolar,4,2025,true
+SYN-FIR-00046,SYN-OFF-0071,Burglary,house_burglary,Hassan,12,2025,true
+SYN-FIR-00047,SYN-OFF-0102,Cheating,atm_fraud,Bengaluru Dist,2,2025,true
+SYN-FIR-00048,SYN-OFF-0178,Criminal Intimidation,extortion,Vijayapur,10,2025,true
+SYN-FIR-00049,SYN-OFF-0071,Burglary,house_burglary,Vijayapur,9,2025,true
+SYN-FIR-00050,SYN-OFF-0018,Dacoity,dacoity,Chikkamagaluru,6,2025,true
+SYN-FIR-00051,SYN-OFF-0088,Dacoity,dacoity,Udupi,11,2025,true
+SYN-FIR-00052,SYN-OFF-0107,Cheating,atm_fraud,Bengaluru City,10,2025,true
+SYN-FIR-00053,SYN-OFF-0037,Cheating,otp_fraud,Mysuru City,5,2025,true
+SYN-FIR-00054,SYN-OFF-0191,Burglary,house_burglary,Davanagere,9,2025,true
+SYN-FIR-00055,SYN-OFF-0129,Cheating,investment_scam,Bengaluru City,12,2025,true
+SYN-FIR-00056,SYN-OFF-0163,Robbery,robbery_highway,Kalaburagi,11,2025,true
+SYN-FIR-00057,SYN-OFF-0026,Dacoity,dacoity,Koppal,2,2025,true
+SYN-FIR-00058,SYN-OFF-0110,Cheating,atm_fraud,Bengaluru City,8,2025,true
+SYN-FIR-00059,SYN-OFF-0211,Cheating,atm_fraud,Belagavi City,12,2025,true
+SYN-FIR-00060,SYN-OFF-0120,Cheating,investment_scam,Bengaluru City,9,2025,true
+SYN-FIR-00061,SYN-OFF-0215,Cheating,investment_scam,Hassan,5,2025,true
+SYN-FIR-00062,SYN-OFF-0011,Dacoity,dacoity,Bidar,3,2025,true
+SYN-FIR-00063,SYN-OFF-0104,Theft,mobile_theft,Bengaluru City,8,2025,true
+SYN-FIR-00064,SYN-OFF-0157,Counterfeiting,counterfeit,K.G.F,12,2025,true
+SYN-FIR-00065,SYN-OFF-0012,Cheating,otp_fraud,Uttara Kannada,1,2025,true
+SYN-FIR-00066,SYN-OFF-0012,Cheating,otp_fraud,Bengaluru City,5,2025,true
+SYN-FIR-00067,SYN-OFF-0191,Robbery,robbery_highway,Bengaluru City,2,2025,true
+SYN-FIR-00068,SYN-OFF-0133,Robbery,robbery_highway,Mysuru Dist,5,2025,true
+SYN-FIR-00069,SYN-OFF-0127,Theft,cattle_theft,Bidar,9,2025,true
+SYN-FIR-00070,SYN-OFF-0012,Robbery,robbery_highway,Bengaluru City,8,2025,true
+SYN-FIR-00071,SYN-OFF-0079,Counterfeiting,counterfeit,Bengaluru Dist,1,2025,true
+SYN-FIR-00072,SYN-OFF-0155,Theft,mobile_theft,Belagavi Dist,7,2025,true
+SYN-FIR-00073,SYN-OFF-0102,Counterfeiting,counterfeit,Bengaluru City,11,2025,true
+SYN-FIR-00074,SYN-OFF-0065,Theft,vehicle_theft,Bengaluru City,9,2025,true
+SYN-FIR-00075,SYN-OFF-0063,Cheating,investment_scam,Bengaluru City,10,2025,true
+SYN-FIR-00076,SYN-OFF-0215,Cheating,investment_scam,Hassan,8,2025,true
+SYN-FIR-00077,SYN-OFF-0137,Dacoity,dacoity,Hassan,4,2025,true
+SYN-FIR-00078,SYN-OFF-0174,Robbery,robbery_highway,Kalaburagi City,1,2025,true
+SYN-FIR-00079,SYN-OFF-0002,Criminal Intimidation,extortion,Bengaluru City,11,2025,true
+SYN-FIR-00080,SYN-OFF-0046,Theft,vehicle_theft,Chamarajanagar,10,2025,true
+SYN-FIR-00081,SYN-OFF-0174,Robbery,robbery_highway,Kalaburagi City,5,2025,true
+SYN-FIR-00082,SYN-OFF-0085,Cheating,atm_fraud,Uttara Kannada,2,2025,true
+SYN-FIR-00083,SYN-OFF-0189,Theft,vehicle_theft,Yadgir,4,2025,true
+SYN-FIR-00084,SYN-OFF-0072,Cheating,atm_fraud,Dharwad,10,2025,true
+SYN-FIR-00085,SYN-OFF-0127,Theft,cattle_theft,Bidar,10,2025,true
+SYN-FIR-00086,SYN-OFF-0085,Cheating,atm_fraud,Uttara Kannada,8,2025,true
+SYN-FIR-00087,SYN-OFF-0191,Burglary,house_burglary,Bengaluru Dist,6,2025,true
+SYN-FIR-00088,SYN-OFF-0004,Cheating,otp_fraud,Bengaluru City,9,2025,true
+SYN-FIR-00089,SYN-OFF-0128,Robbery,chain_snatching,Bengaluru Dist,10,2025,true
+SYN-FIR-00090,SYN-OFF-0061,Counterfeiting,counterfeit,Raichur,5,2025,true
+SYN-FIR-00091,SYN-OFF-0032,Cheating,atm_fraud,Bengaluru Dist,9,2025,true
+SYN-FIR-00092,SYN-OFF-0051,Robbery,chain_snatching,Bengaluru City,1,2025,true
+SYN-FIR-00093,SYN-OFF-0102,Counterfeiting,counterfeit,Bengaluru Dist,11,2025,true
+SYN-FIR-00094,SYN-OFF-0025,Burglary,house_burglary,Dharwad,10,2025,true
+SYN-FIR-00095,SYN-OFF-0068,Counterfeiting,counterfeit,Bengaluru City,10,2025,true
+SYN-FIR-00096,SYN-OFF-0046,Theft,vehicle_theft,Tumakuru,6,2025,true
+SYN-FIR-00097,SYN-OFF-0147,Robbery,chain_snatching,Chamarajanagar,1,2025,true
+SYN-FIR-00098,SYN-OFF-0156,Theft,mobile_theft,Bengaluru City,5,2025,true
+SYN-FIR-00099,SYN-OFF-0074,Counterfeiting,counterfeit,Ballari,8,2025,true
+SYN-FIR-00100,SYN-OFF-0119,Counterfeiting,counterfeit,Bengaluru Dist,11,2025,true
+SYN-FIR-00101,SYN-OFF-0123,Theft,cattle_theft,Bengaluru City,11,2025,true
+SYN-FIR-00102,SYN-OFF-0022,Criminal Intimidation,extortion,Bengaluru City,10,2025,true
+SYN-FIR-00103,SYN-OFF-0124,Theft,cattle_theft,Bidar,4,2025,true
+SYN-FIR-00104,SYN-OFF-0023,Criminal Intimidation,extortion,Raichur,5,2025,true
+SYN-FIR-00105,SYN-OFF-0139,Burglary,house_burglary,Raichur,9,2025,true
+SYN-FIR-00106,SYN-OFF-0101,Dacoity,dacoity,Mangaluru City,11,2025,true
+SYN-FIR-00107,SYN-OFF-0150,Counterfeiting,counterfeit,Tumakuru,3,2025,true
+SYN-FIR-00108,SYN-OFF-0155,Theft,mobile_theft,Belagavi Dist,4,2025,true
+SYN-FIR-00109,SYN-OFF-0190,Theft,mobile_theft,Bengaluru City,4,2025,true
+SYN-FIR-00110,SYN-OFF-0028,Theft,vehicle_theft,Vijayapur,11,2025,true
+SYN-FIR-00111,SYN-OFF-0208,Burglary,house_burglary,Haveri,6,2025,true
+SYN-FIR-00112,SYN-OFF-0016,Burglary,house_burglary,Mandya,7,2025,true
+SYN-FIR-00113,SYN-OFF-0092,Cheating,otp_fraud,Bengaluru City,3,2025,true
+SYN-FIR-00114,SYN-OFF-0102,Counterfeiting,counterfeit,Bengaluru Dist,10,2025,true
+SYN-FIR-00115,SYN-OFF-0053,Robbery,robbery_highway,Bengaluru City,12,2025,true
+SYN-FIR-00116,SYN-OFF-0203,Cheating,atm_fraud,Bengaluru Dist,4,2025,true
+SYN-FIR-00117,SYN-OFF-0142,Robbery,robbery_highway,Bengaluru Dist,8,2025,true
+SYN-FIR-00118,SYN-OFF-0065,Cheating,investment_scam,Bengaluru City,10,2025,true
+SYN-FIR-00119,SYN-OFF-0092,Cheating,otp_fraud,Bengaluru City,9,2025,true
+SYN-FIR-00120,SYN-OFF-0170,Cheating,investment_scam,Bengaluru City,5,2025,true
+SYN-FIR-00121,SYN-OFF-0198,Dacoity,dacoity,Belagavi Dist,5,2025,true
+SYN-FIR-00122,SYN-OFF-0085,Cheating,atm_fraud,Uttara Kannada,3,2025,true
+SYN-FIR-00123,SYN-OFF-0149,Criminal Intimidation,extortion,Chamarajanagar,8,2025,true
+SYN-FIR-00124,SYN-OFF-0214,Dacoity,dacoity,Bengaluru City,4,2025,true
+SYN-FIR-00125,SYN-OFF-0070,Cheating,atm_fraud,Tumakuru,3,2025,true
+SYN-FIR-00126,SYN-OFF-0107,Cheating,atm_fraud,Bengaluru City,6,2025,true
+SYN-FIR-00127,SYN-OFF-0113,Robbery,robbery_highway,Bengaluru South,8,2025,true
+SYN-FIR-00128,SYN-OFF-0082,Theft,cattle_theft,Hassan,10,2025,true
+SYN-FIR-00129,SYN-OFF-0209,Theft,vehicle_theft,Bidar,4,2025,true
+SYN-FIR-00130,SYN-OFF-0155,Theft,mobile_theft,Bengaluru City,4,2025,true
+SYN-FIR-00131,SYN-OFF-0071,Burglary,house_burglary,Bengaluru City,5,2025,true
+SYN-FIR-00132,SYN-OFF-0083,Theft,vehicle_theft,Bengaluru City,2,2025,true
+SYN-FIR-00133,SYN-OFF-0127,Theft,cattle_theft,Bidar,5,2025,true
+SYN-FIR-00134,SYN-OFF-0022,Criminal Intimidation,extortion,Bengaluru City,7,2025,true
+SYN-FIR-00135,SYN-OFF-0129,Cheating,atm_fraud,Bengaluru City,11,2025,true
+SYN-FIR-00136,SYN-OFF-0136,Dacoity,dacoity,Bagalkot,5,2025,true
+SYN-FIR-00137,SYN-OFF-0065,Cheating,investment_scam,Bengaluru City,1,2025,true
+SYN-FIR-00138,SYN-OFF-0129,Cheating,investment_scam,Vijayapur,5,2025,true
+SYN-FIR-00139,SYN-OFF-0130,Cheating,investment_scam,Chikkamagaluru,2,2025,true
+SYN-FIR-00140,SYN-OFF-0202,Dacoity,dacoity,Bengaluru South,7,2025,true
+SYN-FIR-00141,SYN-OFF-0102,Counterfeiting,counterfeit,Bengaluru Dist,3,2025,true
+SYN-FIR-00142,SYN-OFF-0155,Theft,mobile_theft,Belagavi Dist,5,2025,true
+SYN-FIR-00143,SYN-OFF-0207,Theft,vehicle_theft,Bengaluru City,9,2025,true
+SYN-FIR-00144,SYN-OFF-0131,Burglary,house_burglary,Yadgir,1,2025,true
+SYN-FIR-00145,SYN-OFF-0179,Criminal Intimidation,extortion,Chamarajanagar,6,2025,true
+SYN-FIR-00146,SYN-OFF-0061,Counterfeiting,counterfeit,Raichur,11,2025,true
+SYN-FIR-00147,SYN-OFF-0075,Criminal Intimidation,extortion,Belagavi Dist,10,2025,true
+SYN-FIR-00148,SYN-OFF-0051,Counterfeiting,counterfeit,Chikkamagaluru,10,2025,true
+SYN-FIR-00149,SYN-OFF-0135,Theft,mobile_theft,Bengaluru City,9,2025,true
+SYN-FIR-00150,SYN-OFF-0057,Theft,cattle_theft,Raichur,9,2025,true
+SYN-FIR-00151,SYN-OFF-0136,Dacoity,dacoity,Bagalkot,4,2025,true
+SYN-FIR-00152,SYN-OFF-0055,Cheating,investment_scam,Kalaburagi City,10,2025,true
+SYN-FIR-00153,SYN-OFF-0100,Cheating,otp_fraud,Bengaluru Dist,3,2025,true
+SYN-FIR-00154,SYN-OFF-0044,Robbery,chain_snatching,Kalaburagi,1,2025,true
+SYN-FIR-00155,SYN-OFF-0145,Cheating,investment_scam,Bengaluru South,2,2025,true
+SYN-FIR-00156,SYN-OFF-0155,Theft,mobile_theft,Belagavi Dist,12,2025,true
+SYN-FIR-00157,SYN-OFF-0217,Burglary,house_burglary,Mangaluru City,11,2025,true
+SYN-FIR-00158,SYN-OFF-0027,Robbery,robbery_highway,Bengaluru City,11,2025,true
+SYN-FIR-00159,SYN-OFF-0030,Theft,vehicle_theft,Bengaluru City,9,2025,true
+SYN-FIR-00160,SYN-OFF-0102,Cheating,atm_fraud,Bidar,4,2025,true
+SYN-FIR-00161,SYN-OFF-0178,Robbery,robbery_highway,Vijayanagara,3,2025,true
+SYN-FIR-00162,SYN-OFF-0124,Theft,cattle_theft,Uttara Kannada,11,2025,true
+SYN-FIR-00163,SYN-OFF-0202,Dacoity,dacoity,Bengaluru South,1,2025,true
+SYN-FIR-00164,SYN-OFF-0087,Robbery,robbery_highway,Haveri,7,2025,true
+SYN-FIR-00165,SYN-OFF-0207,Theft,vehicle_theft,Kolar,5,2025,true
+SYN-FIR-00166,SYN-OFF-0167,Robbery,chain_snatching,Mysuru City,2,2025,true
+SYN-FIR-00167,SYN-OFF-0129,Cheating,atm_fraud,Bengaluru City,2,2025,true
+SYN-FIR-00168,SYN-OFF-0171,Criminal Intimidation,extortion,Kolar,4,2025,true
+SYN-FIR-00169,SYN-OFF-0056,Dacoity,dacoity,Tumakuru,7,2025,true
+SYN-FIR-00170,SYN-OFF-0029,Cheating,atm_fraud,Bengaluru Dist,12,2025,true
+SYN-FIR-00171,SYN-OFF-0033,Theft,vehicle_theft,Bengaluru City,1,2025,true
+SYN-FIR-00172,SYN-OFF-0201,Dacoity,dacoity,K.G.F,9,2025,true
+SYN-FIR-00173,SYN-OFF-0189,Theft,vehicle_theft,Yadgir,3,2025,true
+SYN-FIR-00174,SYN-OFF-0133,Robbery,robbery_highway,Mysuru Dist,7,2025,true
+SYN-FIR-00175,SYN-OFF-0203,Cheating,atm_fraud,Mysuru Dist,9,2025,true
+SYN-FIR-00176,SYN-OFF-0217,Burglary,house_burglary,Haveri,7,2025,true
+SYN-FIR-00177,SYN-OFF-0055,Cheating,investment_scam,Bengaluru City,4,2025,true
+SYN-FIR-00178,SYN-OFF-0130,Cheating,investment_scam,Chikkamagaluru,8,2025,true
+SYN-FIR-00179,SYN-OFF-0101,Dacoity,dacoity,Mandya,6,2025,true
+SYN-FIR-00180,SYN-OFF-0056,Dacoity,dacoity,Belagavi Dist,9,2025,true
+SYN-FIR-00181,SYN-OFF-0181,Theft,mobile_theft,Hassan,10,2025,true
+SYN-FIR-00182,SYN-OFF-0065,Cheating,investment_scam,Bengaluru City,2,2025,true
+SYN-FIR-00183,SYN-OFF-0070,Cheating,atm_fraud,Haveri,3,2025,true
+SYN-FIR-00184,SYN-OFF-0034,Burglary,house_burglary,Bengaluru City,6,2025,true
+SYN-FIR-00185,SYN-OFF-0130,Cheating,investment_scam,Bengaluru City,9,2025,true
+SYN-FIR-00186,SYN-OFF-0149,Criminal Intimidation,extortion,Shivamogga,3,2025,true
+SYN-FIR-00187,SYN-OFF-0033,Theft,vehicle_theft,Bengaluru City,9,2025,true
+SYN-FIR-00188,SYN-OFF-0178,Criminal Intimidation,extortion,Vijayapur,6,2025,true
+SYN-FIR-00189,SYN-OFF-0097,Dacoity,dacoity,Chitradurga,9,2025,true
+SYN-FIR-00190,SYN-OFF-0008,Robbery,robbery_highway,Gadag,5,2025,true
+SYN-FIR-00191,SYN-OFF-0181,Theft,mobile_theft,Hassan,9,2025,true
+SYN-FIR-00192,SYN-OFF-0178,Criminal Intimidation,extortion,Vijayapur,8,2025,true
+SYN-FIR-00193,SYN-OFF-0085,Cheating,atm_fraud,Mandya,1,2025,true
+SYN-FIR-00194,SYN-OFF-0218,Counterfeiting,counterfeit,Mandya,11,2025,true
+SYN-FIR-00195,SYN-OFF-0136,Dacoity,dacoity,Bagalkot,7,2025,true
+SYN-FIR-00196,SYN-OFF-0207,Theft,vehicle_theft,Bengaluru City,12,2025,true
+SYN-FIR-00197,SYN-OFF-0074,Counterfeiting,counterfeit,Ballari,6,2025,true
+SYN-FIR-00198,SYN-OFF-0085,Cheating,atm_fraud,Uttara Kannada,9,2025,true
+SYN-FIR-00199,SYN-OFF-0039,Robbery,robbery_highway,Udupi,9,2025,true
+SYN-FIR-00200,SYN-OFF-0097,Dacoity,dacoity,Chitradurga,8,2025,true
+SYN-FIR-00201,SYN-OFF-0085,Cheating,atm_fraud,Uttara Kannada,11,2025,true
+SYN-FIR-00202,SYN-OFF-0068,Counterfeiting,counterfeit,Bengaluru City,4,2025,true
+SYN-FIR-00203,SYN-OFF-0191,Burglary,house_burglary,Bengaluru City,11,2025,true
+SYN-FIR-00204,SYN-OFF-0168,Robbery,robbery_highway,Bengaluru City,9,2025,true
+SYN-FIR-00205,SYN-OFF-0002,Criminal Intimidation,extortion,Bengaluru City,4,2025,true
+SYN-FIR-00206,SYN-OFF-0133,Robbery,robbery_highway,Raichur,5,2025,true
+SYN-FIR-00207,SYN-OFF-0133,Robbery,robbery_highway,Mysuru Dist,2,2025,true
+SYN-FIR-00208,SYN-OFF-0171,Criminal Intimidation,extortion,Bengaluru Dist,12,2025,true
+SYN-FIR-00209,SYN-OFF-0129,Cheating,investment_scam,Tumakuru,7,2025,true
+SYN-FIR-00210,SYN-OFF-0009,Cheating,otp_fraud,Raichur,4,2025,true
+SYN-FIR-00211,SYN-OFF-0174,Robbery,robbery_highway,Mandya,4,2025,true
+SYN-FIR-00212,SYN-OFF-0129,Cheating,atm_fraud,Bengaluru City,7,2025,true
+SYN-FIR-00213,SYN-OFF-0218,Counterfeiting,counterfeit,Chickballapura,6,2025,true
+SYN-FIR-00214,SYN-OFF-0129,Cheating,atm_fraud,Bengaluru City,12,2025,true
+SYN-FIR-00215,SYN-OFF-0023,Criminal Intimidation,extortion,Bengaluru City,6,2025,true
+SYN-FIR-00216,SYN-OFF-0139,Burglary,house_burglary,Uttara Kannada,2,2025,true
+SYN-FIR-00217,SYN-OFF-0001,Cheating,otp_fraud,Bengaluru City,9,2025,true
+SYN-FIR-00218,SYN-OFF-0012,Cheating,otp_fraud,Bengaluru City,9,2025,true
+SYN-FIR-00219,SYN-OFF-0209,Theft,vehicle_theft,Bidar,6,2025,true
+SYN-FIR-00220,SYN-OFF-0011,Dacoity,dacoity,Bengaluru South,7,2025,true
+SYN-FIR-00221,SYN-OFF-0129,Cheating,investment_scam,Bengaluru City,11,2025,true
+SYN-FIR-00222,SYN-OFF-0189,Theft,vehicle_theft,Chitradurga,1,2025,true
+SYN-FIR-00223,SYN-OFF-0024,Cheating,atm_fraud,Bengaluru City,3,2025,true
+SYN-FIR-00224,SYN-OFF-0056,Dacoity,dacoity,Chickballapura,7,2025,true
+SYN-FIR-00225,SYN-OFF-0161,Cheating,investment_scam,Chikkamagaluru,6,2025,true
+SYN-FIR-00226,SYN-OFF-0131,Burglary,house_burglary,Yadgir,5,2025,true
+SYN-FIR-00227,SYN-OFF-0079,Counterfeiting,counterfeit,Bengaluru Dist,11,2025,true
+SYN-FIR-00228,SYN-OFF-0194,Cheating,investment_scam,Bengaluru City,5,2025,true
+SYN-FIR-00229,SYN-OFF-0207,Theft,vehicle_theft,Bengaluru City,2,2025,true
+SYN-FIR-00230,SYN-OFF-0001,Cheating,otp_fraud,Bengaluru City,4,2025,true
+SYN-FIR-00231,SYN-OFF-0191,Burglary,house_burglary,Bengaluru City,2,2025,true
+SYN-FIR-00232,SYN-OFF-0191,Burglary,house_burglary,Tumakuru,12,2025,true
+SYN-FIR-00233,SYN-OFF-0101,Dacoity,dacoity,Bengaluru City,6,2025,true
+SYN-FIR-00234,SYN-OFF-0182,Robbery,chain_snatching,Kolar,9,2025,true
+SYN-FIR-00235,SYN-OFF-0214,Dacoity,dacoity,Mysuru Dist,6,2025,true
+SYN-FIR-00236,SYN-OFF-0166,Theft,cattle_theft,Tumakuru,4,2025,true
+SYN-FIR-00237,SYN-OFF-0191,Robbery,robbery_highway,K.G.F,11,2025,true
+SYN-FIR-00238,SYN-OFF-0200,Theft,vehicle_theft,Chikkamagaluru,12,2025,true
+SYN-FIR-00239,SYN-OFF-0016,Burglary,house_burglary,Bengaluru Dist,9,2025,true
+SYN-FIR-00240,SYN-OFF-0061,Counterfeiting,counterfeit,Raichur,11,2025,true
+SYN-FIR-00241,SYN-OFF-0146,Theft,vehicle_theft,Bidar,1,2025,true
+SYN-FIR-00242,SYN-OFF-0136,Dacoity,dacoity,Mysuru Dist,9,2025,true
+SYN-FIR-00243,SYN-OFF-0070,Cheating,atm_fraud,Haveri,3,2025,true
+SYN-FIR-00244,SYN-OFF-0052,Theft,vehicle_theft,Bengaluru Dist,1,2025,true
+SYN-FIR-00245,SYN-OFF-0071,Burglary,house_burglary,Belagavi City,7,2025,true
+SYN-FIR-00246,SYN-OFF-0092,Cheating,otp_fraud,Bengaluru City,3,2025,true
+SYN-FIR-00247,SYN-OFF-0007,Cheating,atm_fraud,Mangaluru City,5,2025,true
+SYN-FIR-00248,SYN-OFF-0138,Burglary,house_burglary,Vijayapur,7,2025,true
+SYN-FIR-00249,SYN-OFF-0154,Counterfeiting,counterfeit,Chitradurga,12,2025,true
+SYN-FIR-00250,SYN-OFF-0180,Cheating,otp_fraud,Bengaluru City,6,2025,true
+SYN-FIR-00251,SYN-OFF-0107,Cheating,atm_fraud,Bengaluru City,2,2025,true
+SYN-FIR-00252,SYN-OFF-0210,Criminal Intimidation,extortion,Bengaluru City,11,2025,true
+SYN-FIR-00253,SYN-OFF-0200,Theft,vehicle_theft,Gadag,4,2025,true
+SYN-FIR-00254,SYN-OFF-0136,Dacoity,dacoity,Bagalkot,4,2025,true
+SYN-FIR-00255,SYN-OFF-0122,Counterfeiting,counterfeit,Bengaluru City,3,2025,true
+SYN-FIR-00256,SYN-OFF-0208,Burglary,house_burglary,Haveri,5,2025,true
+SYN-FIR-00257,SYN-OFF-0129,Cheating,atm_fraud,Bengaluru City,1,2025,true
+SYN-FIR-00258,SYN-OFF-0165,Dacoity,dacoity,Haveri,2,2025,true
+SYN-FIR-00259,SYN-OFF-0140,Counterfeiting,counterfeit,Bengaluru City,5,2025,true
+SYN-FIR-00260,SYN-OFF-0178,Criminal Intimidation,extortion,Vijayapur,2,2025,true
+SYN-FIR-00261,SYN-OFF-0136,Dacoity,dacoity,Bagalkot,5,2025,true
+SYN-FIR-00262,SYN-OFF-0130,Cheating,investment_scam,Chikkamagaluru,12,2025,true
+SYN-FIR-00263,SYN-OFF-0174,Robbery,robbery_highway,Kalaburagi City,1,2025,true
+SYN-FIR-00264,SYN-OFF-0004,Cheating,otp_fraud,Bengaluru City,4,2025,true
+SYN-FIR-00265,SYN-OFF-0079,Counterfeiting,counterfeit,Bengaluru Dist,7,2025,true
+SYN-FIR-00266,SYN-OFF-0198,Robbery,robbery_highway,Belagavi Dist,10,2025,true
+SYN-FIR-00267,SYN-OFF-0140,Counterfeiting,counterfeit,Tumakuru,1,2025,true
+SYN-FIR-00268,SYN-OFF-0059,Burglary,house_burglary,Davanagere,11,2025,true
+SYN-FIR-00269,SYN-OFF-0216,Burglary,house_burglary,Bengaluru City,11,2025,true
+SYN-FIR-00270,SYN-OFF-0032,Cheating,atm_fraud,Mysuru City,2,2025,true
+SYN-FIR-00271,SYN-OFF-0127,Theft,cattle_theft,Hubballi Dharwad City,8,2025,true
+SYN-FIR-00272,SYN-OFF-0184,Dacoity,dacoity,Bengaluru South,4,2025,true
+SYN-FIR-00273,SYN-OFF-0124,Theft,cattle_theft,Shivamogga,10,2025,true
+SYN-FIR-00274,SYN-OFF-0010,Theft,mobile_theft,Bengaluru City,8,2025,true
+SYN-FIR-00275,SYN-OFF-0051,Counterfeiting,counterfeit,Mysuru Dist,10,2025,true
+SYN-FIR-00276,SYN-OFF-0127,Robbery,chain_snatching,Hassan,9,2025,true
+SYN-FIR-00277,SYN-OFF-0063,Cheating,atm_fraud,Bengaluru City,1,2025,true
+SYN-FIR-00278,SYN-OFF-0157,Counterfeiting,counterfeit,Chamarajanagar,3,2025,true
+SYN-FIR-00279,SYN-OFF-0059,Burglary,house_burglary,Mandya,12,2025,true
+SYN-FIR-00280,SYN-OFF-0057,Theft,cattle_theft,Raichur,1,2025,true
+SYN-FIR-00281,SYN-OFF-0088,Dacoity,dacoity,Raichur,2,2025,true
+SYN-FIR-00282,SYN-OFF-0136,Dacoity,dacoity,Bagalkot,9,2025,true
+SYN-FIR-00283,SYN-OFF-0169,Cheating,otp_fraud,Davanagere,3,2025,true
+SYN-FIR-00284,SYN-OFF-0153,Cheating,atm_fraud,Bengaluru City,12,2025,true
+SYN-FIR-00285,SYN-OFF-0115,Cheating,investment_scam,Mysuru City,2,2025,true
+SYN-FIR-00286,SYN-OFF-0101,Dacoity,dacoity,Mangaluru City,12,2025,true
+SYN-FIR-00287,SYN-OFF-0138,Cheating,otp_fraud,Vijayapur,4,2025,true
+SYN-FIR-00288,SYN-OFF-0013,Criminal Intimidation,extortion,Davanagere,10,2025,true
+SYN-FIR-00289,SYN-OFF-0108,Counterfeiting,counterfeit,Bengaluru City,1,2025,true
+SYN-FIR-00290,SYN-OFF-0028,Theft,vehicle_theft,Mysuru Dist,7,2025,true
+SYN-FIR-00291,SYN-OFF-0095,Burglary,house_burglary,Yadgir,5,2025,true
+SYN-FIR-00292,SYN-OFF-0189,Theft,vehicle_theft,Mandya,5,2025,true
+SYN-FIR-00293,SYN-OFF-0057,Theft,cattle_theft,Raichur,11,2025,true
+SYN-FIR-00294,SYN-OFF-0147,Robbery,chain_snatching,Bengaluru Dist,9,2025,true
+SYN-FIR-00295,SYN-OFF-0106,Robbery,chain_snatching,Bengaluru City,11,2025,true
+SYN-FIR-00296,SYN-OFF-0011,Dacoity,dacoity,Bengaluru City,1,2025,true
+SYN-FIR-00297,SYN-OFF-0206,Counterfeiting,counterfeit,Koppal,6,2025,true
+SYN-FIR-00298,SYN-OFF-0093,Theft,mobile_theft,Yadgir,6,2025,true
+SYN-FIR-00299,SYN-OFF-0011,Dacoity,dacoity,Bengaluru City,1,2025,true
+SYN-FIR-00300,SYN-OFF-0208,Burglary,house_burglary,Bengaluru City,8,2025,true
+SYN-FIR-00301,SYN-OFF-0170,Cheating,investment_scam,Bengaluru City,11,2025,true
+SYN-FIR-00302,SYN-OFF-0165,Dacoity,dacoity,Haveri,8,2025,true
+SYN-FIR-00303,SYN-OFF-0060,Dacoity,dacoity,Chitradurga,9,2025,true
+SYN-FIR-00304,SYN-OFF-0040,Cheating,investment_scam,Bengaluru City,5,2025,true
+SYN-FIR-00305,SYN-OFF-0042,Criminal Intimidation,extortion,Belagavi Dist,3,2025,true
+SYN-FIR-00306,SYN-OFF-0162,Theft,mobile_theft,Bengaluru City,3,2025,true
+SYN-FIR-00307,SYN-OFF-0034,Cheating,atm_fraud,Bengaluru City,6,2025,true
+SYN-FIR-00308,SYN-OFF-0071,Burglary,house_burglary,Bengaluru City,8,2025,true
+SYN-FIR-00309,SYN-OFF-0174,Robbery,robbery_highway,Kalaburagi City,3,2025,true
+SYN-FIR-00310,SYN-OFF-0207,Theft,vehicle_theft,Bengaluru City,1,2025,true
+SYN-FIR-00311,SYN-OFF-0117,Theft,vehicle_theft,Bengaluru South,11,2025,true
+SYN-FIR-00312,SYN-OFF-0037,Cheating,otp_fraud,Ballari,1,2025,true
+SYN-FIR-00313,SYN-OFF-0047,Counterfeiting,counterfeit,Bengaluru City,5,2025,true
+SYN-FIR-00314,SYN-OFF-0065,Cheating,investment_scam,Tumakuru,4,2025,true
+SYN-FIR-00315,SYN-OFF-0021,Theft,vehicle_theft,Dharwad,9,2025,true
+SYN-FIR-00316,SYN-OFF-0169,Cheating,otp_fraud,Davanagere,9,2025,true
+SYN-FIR-00317,SYN-OFF-0121,Cheating,investment_scam,Mandya,4,2025,true
+SYN-FIR-00318,SYN-OFF-0002,Criminal Intimidation,extortion,Bengaluru City,3,2025,true
+SYN-FIR-00319,SYN-OFF-0068,Counterfeiting,counterfeit,Bengaluru City,4,2025,true
+SYN-FIR-00320,SYN-OFF-0155,Theft,mobile_theft,Belagavi Dist,3,2025,true
+SYN-FIR-00321,SYN-OFF-0061,Counterfeiting,counterfeit,Raichur,9,2025,true
+SYN-FIR-00322,SYN-OFF-0001,Cheating,otp_fraud,Bengaluru City,4,2025,true
+SYN-FIR-00323,SYN-OFF-0085,Cheating,atm_fraud,Uttara Kannada,9,2025,true
+SYN-FIR-00324,SYN-OFF-0088,Dacoity,dacoity,Raichur,1,2025,true
+SYN-FIR-00325,SYN-OFF-0085,Cheating,atm_fraud,Uttara Kannada,6,2025,true
+SYN-FIR-00326,SYN-OFF-0007,Cheating,atm_fraud,Mangaluru City,3,2025,true
+SYN-FIR-00327,SYN-OFF-0120,Cheating,investment_scam,Bengaluru City,12,2025,true
+SYN-FIR-00328,SYN-OFF-0079,Counterfeiting,counterfeit,Bengaluru City,3,2025,true
+SYN-FIR-00329,SYN-OFF-0077,Theft,vehicle_theft,Bagalkot,9,2025,true
+SYN-FIR-00330,SYN-OFF-0169,Cheating,otp_fraud,Davanagere,2,2025,true
+SYN-FIR-00331,SYN-OFF-0130,Cheating,investment_scam,Chikkamagaluru,11,2025,true
+SYN-FIR-00332,SYN-OFF-0016,Burglary,house_burglary,Bengaluru City,8,2025,true
+SYN-FIR-00333,SYN-OFF-0212,Burglary,house_burglary,Bengaluru City,7,2025,true
+SYN-FIR-00334,SYN-OFF-0218,Counterfeiting,counterfeit,Uttara Kannada,7,2025,true
+SYN-FIR-00335,SYN-OFF-0200,Theft,vehicle_theft,Chikkamagaluru,4,2025,true
+SYN-FIR-00336,SYN-OFF-0179,Dacoity,dacoity,Chamarajanagar,12,2025,true
+SYN-FIR-00337,SYN-OFF-0198,Dacoity,dacoity,Hassan,5,2025,true
+SYN-FIR-00338,SYN-OFF-0056,Dacoity,dacoity,Tumakuru,4,2025,true
+SYN-FIR-00339,SYN-OFF-0033,Theft,vehicle_theft,Shivamogga,1,2025,true
+SYN-FIR-00340,SYN-OFF-0016,Burglary,house_burglary,Belagavi City,5,2025,true
+SYN-FIR-00341,SYN-OFF-0178,Criminal Intimidation,extortion,Bengaluru City,5,2025,true
+SYN-FIR-00342,SYN-OFF-0085,Cheating,atm_fraud,Uttara Kannada,1,2025,true
+SYN-FIR-00343,SYN-OFF-0016,Burglary,house_burglary,Bengaluru Dist,6,2025,true
+SYN-FIR-00344,SYN-OFF-0124,Theft,cattle_theft,Tumakuru,3,2025,true
+SYN-FIR-00345,SYN-OFF-0189,Theft,vehicle_theft,Yadgir,8,2025,true
+SYN-FIR-00346,SYN-OFF-0216,Burglary,house_burglary,Shivamogga,1,2025,true
+SYN-FIR-00347,SYN-OFF-0168,Robbery,robbery_highway,Bengaluru City,9,2025,true
+SYN-FIR-00348,SYN-OFF-0080,Theft,cattle_theft,Dharwad,10,2025,true
+SYN-FIR-00349,SYN-OFF-0174,Robbery,robbery_highway,Kalaburagi City,1,2025,true
+SYN-FIR-00350,SYN-OFF-0157,Counterfeiting,counterfeit,Chamarajanagar,10,2025,true
+SYN-FIR-00351,SYN-OFF-0087,Robbery,robbery_highway,Haveri,12,2025,true
+SYN-FIR-00352,SYN-OFF-0102,Counterfeiting,counterfeit,Bengaluru Dist,12,2025,true
+SYN-FIR-00353,SYN-OFF-0130,Cheating,investment_scam,Bengaluru City,5,2025,true
+SYN-FIR-00354,SYN-OFF-0127,Theft,cattle_theft,Bidar,3,2025,true
+SYN-FIR-00355,SYN-OFF-0064,Robbery,chain_snatching,Hassan,2,2025,true
+SYN-FIR-00356,SYN-OFF-0114,Cheating,otp_fraud,Bengaluru City,5,2025,true
+SYN-FIR-00357,SYN-OFF-0130,Cheating,investment_scam,Mandya,4,2025,true
+SYN-FIR-00358,SYN-OFF-0006,Robbery,robbery_highway,Dakshina Kannada,1,2025,true
+SYN-FIR-00359,SYN-OFF-0136,Dacoity,dacoity,Bagalkot,10,2025,true
+SYN-FIR-00360,SYN-OFF-0220,Robbery,robbery_highway,Tumakuru,7,2025,true
+SYN-FIR-00361,SYN-OFF-0001,Cheating,otp_fraud,Bengaluru City,11,2025,true
+SYN-FIR-00362,SYN-OFF-0145,Robbery,chain_snatching,K.G.F,9,2025,true
+SYN-FIR-00363,SYN-OFF-0056,Dacoity,dacoity,Koppal,7,2025,true
+SYN-FIR-00364,SYN-OFF-0056,Dacoity,dacoity,Tumakuru,1,2025,true
+SYN-FIR-00365,SYN-OFF-0112,Robbery,chain_snatching,Kolar,6,2025,true
+SYN-FIR-00366,SYN-OFF-0046,Theft,vehicle_theft,Raichur,10,2025,true
+SYN-FIR-00367,SYN-OFF-0178,Robbery,robbery_highway,Vijayapur,9,2025,true
+SYN-FIR-00368,SYN-OFF-0081,Dacoity,dacoity,Vijayanagara,2,2025,true
+SYN-FIR-00369,SYN-OFF-0007,Cheating,atm_fraud,Mysuru Dist,10,2025,true
+SYN-FIR-00370,SYN-OFF-0178,Criminal Intimidation,extortion,Vijayapur,8,2025,true
+SYN-FIR-00371,SYN-OFF-0057,Theft,cattle_theft,Raichur,5,2025,true
+SYN-FIR-00372,SYN-OFF-0195,Robbery,robbery_highway,Bengaluru City,6,2025,true
+SYN-FIR-00373,SYN-OFF-0078,Theft,vehicle_theft,Tumakuru,12,2025,true
+SYN-FIR-00374,SYN-OFF-0005,Criminal Intimidation,extortion,Bagalkot,12,2025,true
+SYN-FIR-00375,SYN-OFF-0202,Dacoity,dacoity,Bengaluru South,8,2025,true
+SYN-FIR-00376,SYN-OFF-0133,Robbery,robbery_highway,Mysuru Dist,1,2025,true
+SYN-FIR-00377,SYN-OFF-0091,Robbery,chain_snatching,Raichur,9,2025,true
+SYN-FIR-00378,SYN-OFF-0155,Theft,mobile_theft,Belagavi Dist,8,2025,true
+SYN-FIR-00379,SYN-OFF-0159,Cheating,atm_fraud,Bengaluru City,4,2025,true
+SYN-FIR-00380,SYN-OFF-0026,Cheating,otp_fraud,Yadgir,3,2025,true
+SYN-FIR-00381,SYN-OFF-0071,Burglary,house_burglary,Uttara Kannada,11,2025,true
+SYN-FIR-00382,SYN-OFF-0065,Cheating,investment_scam,Bengaluru City,1,2025,true
+SYN-FIR-00383,SYN-OFF-0111,Dacoity,dacoity,Bengaluru City,8,2025,true
+SYN-FIR-00384,SYN-OFF-0079,Counterfeiting,counterfeit,Belagavi Dist,8,2025,true
+SYN-FIR-00385,SYN-OFF-0115,Cheating,investment_scam,Mysuru City,6,2025,true
+SYN-FIR-00386,SYN-OFF-0168,Robbery,robbery_highway,Tumakuru,3,2025,true
+SYN-FIR-00387,SYN-OFF-0156,Cheating,investment_scam,Bengaluru City,2,2025,true
+SYN-FIR-00388,SYN-OFF-0045,Burglary,house_burglary,Kolar,11,2025,true
+SYN-FIR-00389,SYN-OFF-0218,Counterfeiting,counterfeit,Kolar,2,2025,true
+SYN-FIR-00390,SYN-OFF-0174,Robbery,robbery_highway,Kalaburagi City,6,2025,true
+SYN-FIR-00391,SYN-OFF-0057,Theft,cattle_theft,Raichur,7,2025,true
+SYN-FIR-00392,SYN-OFF-0216,Burglary,house_burglary,Shivamogga,2,2025,true
+SYN-FIR-00393,SYN-OFF-0065,Theft,vehicle_theft,Bengaluru City,8,2025,true
+SYN-FIR-00394,SYN-OFF-0022,Theft,cattle_theft,Bengaluru City,2,2025,true
+SYN-FIR-00395,SYN-OFF-0057,Theft,cattle_theft,Raichur,5,2025,true
+SYN-FIR-00396,SYN-OFF-0128,Robbery,chain_snatching,Vijayapur,5,2025,true
+SYN-FIR-00397,SYN-OFF-0189,Theft,vehicle_theft,Yadgir,1,2025,true
+SYN-FIR-00398,SYN-OFF-0142,Robbery,robbery_highway,Bengaluru Dist,7,2025,true
+SYN-FIR-00399,SYN-OFF-0057,Theft,cattle_theft,Raichur,1,2025,true
+SYN-FIR-00400,SYN-OFF-0149,Criminal Intimidation,extortion,Bengaluru City,12,2025,true
+SYN-FIR-00401,SYN-OFF-0206,Counterfeiting,counterfeit,Koppal,10,2025,true
+SYN-FIR-00402,SYN-OFF-0131,Burglary,house_burglary,Yadgir,12,2025,true
+SYN-FIR-00403,SYN-OFF-0199,Cheating,otp_fraud,Mysuru Dist,6,2025,true
+SYN-FIR-00404,SYN-OFF-0085,Cheating,atm_fraud,Uttara Kannada,1,2025,true
+SYN-FIR-00405,SYN-OFF-0059,Burglary,house_burglary,Bengaluru Dist,4,2025,true
+SYN-FIR-00406,SYN-OFF-0100,Cheating,investment_scam,Vijayapur,5,2025,true
+SYN-FIR-00407,SYN-OFF-0181,Theft,mobile_theft,Hassan,4,2025,true
+SYN-FIR-00408,SYN-OFF-0061,Counterfeiting,counterfeit,Raichur,1,2025,true
+SYN-FIR-00409,SYN-OFF-0102,Counterfeiting,counterfeit,Bengaluru City,7,2025,true
+SYN-FIR-00410,SYN-OFF-0174,Robbery,robbery_highway,Kalaburagi City,10,2025,true
+SYN-FIR-00411,SYN-OFF-0012,Robbery,robbery_highway,Bengaluru City,10,2025,true
+SYN-FIR-00412,SYN-OFF-0200,Theft,vehicle_theft,Chikkamagaluru,5,2025,true
+SYN-FIR-00413,SYN-OFF-0007,Cheating,atm_fraud,Mangaluru City,4,2025,true
+SYN-FIR-00414,SYN-OFF-0133,Robbery,robbery_highway,Mysuru Dist,10,2025,true
+SYN-FIR-00415,SYN-OFF-0057,Theft,cattle_theft,Raichur,11,2025,true
+SYN-FIR-00416,SYN-OFF-0034,Burglary,house_burglary,Bengaluru City,6,2025,true
+SYN-FIR-00417,SYN-OFF-0142,Robbery,robbery_highway,Bengaluru City,7,2025,true
+SYN-FIR-00418,SYN-OFF-0057,Theft,cattle_theft,Raichur,8,2025,true
+SYN-FIR-00419,SYN-OFF-0190,Theft,mobile_theft,Bagalkot,10,2025,true
+SYN-FIR-00420,SYN-OFF-0150,Counterfeiting,counterfeit,Tumakuru,12,2025,true
+SYN-FIR-00421,SYN-OFF-0210,Criminal Intimidation,extortion,Bengaluru City,4,2025,true
+SYN-FIR-00422,SYN-OFF-0101,Dacoity,dacoity,Mangaluru City,4,2025,true
+SYN-FIR-00423,SYN-OFF-0085,Cheating,atm_fraud,Uttara Kannada,2,2025,true
+SYN-FIR-00424,SYN-OFF-0157,Counterfeiting,counterfeit,Chikkamagaluru,6,2025,true
+SYN-FIR-00425,SYN-OFF-0100,Cheating,otp_fraud,Bengaluru Dist,2,2025,true
+SYN-FIR-00426,SYN-OFF-0127,Robbery,chain_snatching,Bidar,2,2025,true
+SYN-FIR-00427,SYN-OFF-0133,Robbery,robbery_highway,Mysuru Dist,11,2025,true
+SYN-FIR-00428,SYN-OFF-0130,Cheating,investment_scam,Chikkamagaluru,5,2025,true
+SYN-FIR-00429,SYN-OFF-0201,Dacoity,dacoity,K.G.F,11,2025,true
+SYN-FIR-00430,SYN-OFF-0016,Burglary,house_burglary,Bengaluru Dist,9,2025,true
+SYN-FIR-00431,SYN-OFF-0087,Dacoity,dacoity,Haveri,5,2025,true
+SYN-FIR-00432,SYN-OFF-0130,Cheating,investment_scam,Mysuru Dist,2,2025,true
+SYN-FIR-00433,SYN-OFF-0097,Dacoity,dacoity,Belagavi Dist,7,2025,true
+SYN-FIR-00434,SYN-OFF-0129,Cheating,investment_scam,Bengaluru City,11,2025,true
+SYN-FIR-00435,SYN-OFF-0092,Cheating,otp_fraud,Bengaluru City,7,2025,true
+SYN-FIR-00436,SYN-OFF-0006,Robbery,robbery_highway,Dakshina Kannada,4,2025,true
+SYN-FIR-00437,SYN-OFF-0191,Robbery,robbery_highway,Bengaluru City,2,2025,true
+SYN-FIR-00438,SYN-OFF-0072,Cheating,atm_fraud,Dharwad,5,2025,true
+SYN-FIR-00439,SYN-OFF-0205,Theft,cattle_theft,Koppal,3,2025,true
+SYN-FIR-00440,SYN-OFF-0198,Robbery,robbery_highway,Tumakuru,6,2025,true
+SYN-FIR-00441,SYN-OFF-0194,Cheating,investment_scam,Bengaluru City,10,2025,true
+SYN-FIR-00442,SYN-OFF-0072,Cheating,atm_fraud,Dharwad,10,2025,true
+SYN-FIR-00443,SYN-OFF-0108,Counterfeiting,counterfeit,Bengaluru City,7,2025,true
+SYN-FIR-00444,SYN-OFF-0130,Cheating,investment_scam,Bidar,6,2025,true
+SYN-FIR-00445,SYN-OFF-0168,Robbery,robbery_highway,Bengaluru City,3,2025,true
+SYN-FIR-00446,SYN-OFF-0169,Theft,mobile_theft,Davanagere,2,2025,true
+SYN-FIR-00447,SYN-OFF-0112,Robbery,chain_snatching,Kolar,2,2025,true
+SYN-FIR-00448,SYN-OFF-0079,Counterfeiting,counterfeit,Bengaluru Dist,11,2025,true
+SYN-FIR-00449,SYN-OFF-0085,Cheating,atm_fraud,Uttara Kannada,12,2025,true
+SYN-FIR-00450,SYN-OFF-0007,Cheating,atm_fraud,Mangaluru City,9,2025,true
+SYN-FIR-00451,SYN-OFF-0175,Theft,mobile_theft,Vijayapur,2,2025,true
+SYN-FIR-00452,SYN-OFF-0189,Theft,vehicle_theft,Yadgir,1,2025,true
+SYN-FIR-00453,SYN-OFF-0155,Theft,mobile_theft,Belagavi Dist,6,2025,true
+SYN-FIR-00454,SYN-OFF-0191,Robbery,robbery_highway,Bengaluru City,3,2025,true
+SYN-FIR-00455,SYN-OFF-0138,Burglary,house_burglary,Vijayapur,11,2025,true
+SYN-FIR-00456,SYN-OFF-0057,Theft,cattle_theft,Belagavi Dist,6,2025,true
+SYN-FIR-00457,SYN-OFF-0027,Robbery,robbery_highway,Bengaluru City,1,2025,true
+SYN-FIR-00458,SYN-OFF-0186,Theft,vehicle_theft,Bengaluru Dist,9,2025,true
+SYN-FIR-00459,SYN-OFF-0170,Cheating,investment_scam,Bengaluru City,3,2025,true
+SYN-FIR-00460,SYN-OFF-0049,Counterfeiting,counterfeit,Yadgir,8,2025,true
+SYN-FIR-00461,SYN-OFF-0074,Counterfeiting,counterfeit,Ballari,7,2025,true
+SYN-FIR-00462,SYN-OFF-0124,Theft,cattle_theft,Davanagere,4,2025,true
+SYN-FIR-00463,SYN-OFF-0149,Criminal Intimidation,extortion,Bengaluru City,6,2025,true
+SYN-FIR-00464,SYN-OFF-0192,Theft,mobile_theft,Udupi,4,2025,true
+SYN-FIR-00465,SYN-OFF-0023,Criminal Intimidation,extortion,Raichur,5,2025,true
+SYN-FIR-00466,SYN-OFF-0018,Dacoity,dacoity,Mysuru Dist,10,2025,true
+SYN-FIR-00467,SYN-OFF-0187,Theft,mobile_theft,Ballari,2,2025,true
+SYN-FIR-00468,SYN-OFF-0155,Theft,mobile_theft,Belagavi Dist,3,2025,true
+SYN-FIR-00469,SYN-OFF-0203,Cheating,atm_fraud,Bengaluru Dist,10,2025,true
+SYN-FIR-00470,SYN-OFF-0204,Theft,cattle_theft,Bengaluru South,9,2025,true
+SYN-FIR-00471,SYN-OFF-0061,Counterfeiting,counterfeit,Raichur,1,2025,true
+SYN-FIR-00472,SYN-OFF-0120,Cheating,investment_scam,K.G.F,2,2025,true
+SYN-FIR-00473,SYN-OFF-0039,Robbery,robbery_highway,Udupi,9,2025,true
+SYN-FIR-00474,SYN-OFF-0176,Theft,cattle_theft,Bengaluru South,10,2025,true
+SYN-FIR-00475,SYN-OFF-0135,Theft,mobile_theft,Bengaluru City,8,2025,true
+SYN-FIR-00476,SYN-OFF-0146,Theft,vehicle_theft,Bagalkot,3,2025,true
+SYN-FIR-00477,SYN-OFF-0016,Burglary,house_burglary,Bengaluru Dist,9,2025,true
+SYN-FIR-00478,SYN-OFF-0127,Theft,cattle_theft,Bidar,6,2025,true
+SYN-FIR-00479,SYN-OFF-0198,Robbery,robbery_highway,Belagavi Dist,3,2025,true
+SYN-FIR-00480,SYN-OFF-0009,Cheating,otp_fraud,Kalaburagi,6,2025,true

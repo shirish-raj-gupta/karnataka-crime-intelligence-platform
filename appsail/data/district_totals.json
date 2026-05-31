@@ -1,0 +1,353 @@
+[
+  {
+    "district_id": "D01",
+    "district": "Bengaluru City",
+    "range_name": "Commissionerates",
+    "district_type": "Commissionerate",
+    "ipc_bns_crimes": 37181,
+    "sll_crimes": 19291,
+    "year": 2025
+  },
+  {
+    "district_id": "D02",
+    "district": "Mysuru City",
+    "range_name": "Commissionerates",
+    "district_type": "Commissionerate",
+    "ipc_bns_crimes": 2224,
+    "sll_crimes": 1040,
+    "year": 2025
+  },
+  {
+    "district_id": "D03",
+    "district": "Hubballi Dharwad City",
+    "range_name": "Commissionerates",
+    "district_type": "Commissionerate",
+    "ipc_bns_crimes": 1488,
+    "sll_crimes": 1160,
+    "year": 2025
+  },
+  {
+    "district_id": "D04",
+    "district": "Mangaluru City",
+    "range_name": "Commissionerates",
+    "district_type": "Commissionerate",
+    "ipc_bns_crimes": 2278,
+    "sll_crimes": 1205,
+    "year": 2025
+  },
+  {
+    "district_id": "D05",
+    "district": "Belagavi City",
+    "range_name": "Commissionerates",
+    "district_type": "Commissionerate",
+    "ipc_bns_crimes": 1655,
+    "sll_crimes": 652,
+    "year": 2025
+  },
+  {
+    "district_id": "D06",
+    "district": "Kalaburagi City",
+    "range_name": "Commissionerates",
+    "district_type": "Commissionerate",
+    "ipc_bns_crimes": 1730,
+    "sll_crimes": 1010,
+    "year": 2025
+  },
+  {
+    "district_id": "D07",
+    "district": "Bengaluru Dist",
+    "range_name": "Central Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 6433,
+    "sll_crimes": 1187,
+    "year": 2025
+  },
+  {
+    "district_id": "D08",
+    "district": "Bengaluru South",
+    "range_name": "Central Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 3644,
+    "sll_crimes": 936,
+    "year": 2025
+  },
+  {
+    "district_id": "D09",
+    "district": "Tumakuru",
+    "range_name": "Central Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 5961,
+    "sll_crimes": 2509,
+    "year": 2025
+  },
+  {
+    "district_id": "D10",
+    "district": "Kolar",
+    "range_name": "Central Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 2245,
+    "sll_crimes": 505,
+    "year": 2025
+  },
+  {
+    "district_id": "D11",
+    "district": "Chickballapura",
+    "range_name": "Central Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 2542,
+    "sll_crimes": 1619,
+    "year": 2025
+  },
+  {
+    "district_id": "D12",
+    "district": "K.G.F",
+    "range_name": "Central Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 782,
+    "sll_crimes": 360,
+    "year": 2025
+  },
+  {
+    "district_id": "D13",
+    "district": "Chitradurga",
+    "range_name": "Eastern Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 4098,
+    "sll_crimes": 1740,
+    "year": 2025
+  },
+  {
+    "district_id": "D14",
+    "district": "Davanagere",
+    "range_name": "Eastern Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 3385,
+    "sll_crimes": 1386,
+    "year": 2025
+  },
+  {
+    "district_id": "D15",
+    "district": "Shivamogga",
+    "range_name": "Eastern Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 4840,
+    "sll_crimes": 2155,
+    "year": 2025
+  },
+  {
+    "district_id": "D16",
+    "district": "Haveri",
+    "range_name": "Eastern Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 2406,
+    "sll_crimes": 1155,
+    "year": 2025
+  },
+  {
+    "district_id": "D17",
+    "district": "Dakshina Kannada",
+    "range_name": "Western Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 1816,
+    "sll_crimes": 417,
+    "year": 2025
+  },
+  {
+    "district_id": "D18",
+    "district": "Udupi",
+    "range_name": "Western Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 2249,
+    "sll_crimes": 752,
+    "year": 2025
+  },
+  {
+    "district_id": "D19",
+    "district": "Chikkamagaluru",
+    "range_name": "Western Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 2722,
+    "sll_crimes": 1488,
+    "year": 2025
+  },
+  {
+    "district_id": "D20",
+    "district": "Uttara Kannada",
+    "range_name": "Western Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 2334,
+    "sll_crimes": 1596,
+    "year": 2025
+  },
+  {
+    "district_id": "D21",
+    "district": "Belagavi Dist",
+    "range_name": "Northern Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 4535,
+    "sll_crimes": 2059,
+    "year": 2025
+  },
+  {
+    "district_id": "D22",
+    "district": "Bagalkot",
+    "range_name": "Northern Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 2208,
+    "sll_crimes": 1362,
+    "year": 2025
+  },
+  {
+    "district_id": "D23",
+    "district": "Vijayapur",
+    "range_name": "Northern Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 3062,
+    "sll_crimes": 1992,
+    "year": 2025
+  },
+  {
+    "district_id": "D24",
+    "district": "Dharwad",
+    "range_name": "Northern Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 1016,
+    "sll_crimes": 625,
+    "year": 2025
+  },
+  {
+    "district_id": "D25",
+    "district": "Gadag",
+    "range_name": "Northern Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 1043,
+    "sll_crimes": 1225,
+    "year": 2025
+  },
+  {
+    "district_id": "D26",
+    "district": "Kalaburagi",
+    "range_name": "North Eastern Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 2683,
+    "sll_crimes": 1025,
+    "year": 2025
+  },
+  {
+    "district_id": "D27",
+    "district": "Bidar",
+    "range_name": "North Eastern Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 3054,
+    "sll_crimes": 1172,
+    "year": 2025
+  },
+  {
+    "district_id": "D28",
+    "district": "Yadgir",
+    "range_name": "North Eastern Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 1622,
+    "sll_crimes": 1093,
+    "year": 2025
+  },
+  {
+    "district_id": "D29",
+    "district": "Mysuru Dist",
+    "range_name": "Southern Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 4952,
+    "sll_crimes": 912,
+    "year": 2025
+  },
+  {
+    "district_id": "D30",
+    "district": "Mandya",
+    "range_name": "Southern Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 4780,
+    "sll_crimes": 1150,
+    "year": 2025
+  },
+  {
+    "district_id": "D31",
+    "district": "Chamarajanagar",
+    "range_name": "Southern Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 2068,
+    "sll_crimes": 844,
+    "year": 2025
+  },
+  {
+    "district_id": "D32",
+    "district": "Hassan",
+    "range_name": "Southern Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 4781,
+    "sll_crimes": 1366,
+    "year": 2025
+  },
+  {
+    "district_id": "D33",
+    "district": "Kodagu",
+    "range_name": "Southern Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 1724,
+    "sll_crimes": 600,
+    "year": 2025
+  },
+  {
+    "district_id": "D34",
+    "district": "Ballari",
+    "range_name": "Ballari Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 1924,
+    "sll_crimes": 1961,
+    "year": 2025
+  },
+  {
+    "district_id": "D35",
+    "district": "Koppal",
+    "range_name": "Ballari Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 1945,
+    "sll_crimes": 1255,
+    "year": 2025
+  },
+  {
+    "district_id": "D36",
+    "district": "Raichur",
+    "range_name": "Ballari Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 2813,
+    "sll_crimes": 1458,
+    "year": 2025
+  },
+  {
+    "district_id": "D37",
+    "district": "Vijayanagara",
+    "range_name": "Ballari Range",
+    "district_type": "District",
+    "ipc_bns_crimes": 1781,
+    "sll_crimes": 1467,
+    "year": 2025
+  },
+  {
+    "district_id": "D38",
+    "district": "Karnataka Railways",
+    "range_name": "Karnataka Railways",
+    "district_type": "Railways",
+    "ipc_bns_crimes": 662,
+    "sll_crimes": 138,
+    "year": 2025
+  },
+  {
+    "district_id": "STATE",
+    "district": "STATE",
+    "range_name": "STATE",
+    "district_type": "State Total",
+    "ipc_bns_crimes": 138666,
+    "sll_crimes": 63867,
+    "year": 2025
+  }
+]

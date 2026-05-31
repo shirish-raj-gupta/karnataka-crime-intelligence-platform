@@ -1,0 +1,221 @@
+offender_id,name,age,gender,home_district,primary_mo,mo_tags,gang_id,synthetic
+SYN-OFF-0001,Manoj Acharya,32,M,Bengaluru City,otp_fraud,otp_fraud,SYN-GANG-02,true
+SYN-OFF-0002,Farhan Hegde,47,F,Bengaluru City,extortion,extortion,,true
+SYN-OFF-0003,Naga Khan,42,M,Bengaluru Dist,otp_fraud,otp_fraud,SYN-GANG-08,true
+SYN-OFF-0004,Yusuf Pujari,30,M,Bengaluru City,otp_fraud,otp_fraud,,true
+SYN-OFF-0005,Ravi Murthy,23,M,Bengaluru Dist,extortion,extortion|vehicle_theft,,true
+SYN-OFF-0006,Deepak Reddy,25,M,Dakshina Kannada,robbery_highway,robbery_highway|dacoity,,true
+SYN-OFF-0007,Farhan Acharya,42,M,Mangaluru City,atm_fraud,atm_fraud,,true
+SYN-OFF-0008,Farhan Hegde,36,M,Gadag,robbery_highway,robbery_highway,,true
+SYN-OFF-0009,Yusuf Pujari,30,M,Raichur,otp_fraud,otp_fraud,,true
+SYN-OFF-0010,Anand Patil,19,M,Bengaluru City,mobile_theft,mobile_theft|house_burglary,,true
+SYN-OFF-0011,Deepak Gowda,47,M,Bengaluru City,dacoity,dacoity,,true
+SYN-OFF-0012,Ravi Reddy,23,M,Bengaluru City,robbery_highway,robbery_highway|otp_fraud,,true
+SYN-OFF-0013,Basava Reddy,30,F,Bengaluru City,extortion,extortion|counterfeit,,true
+SYN-OFF-0014,Deepak Bhat,32,F,Bengaluru Dist,house_burglary,house_burglary,,true
+SYN-OFF-0015,Santosh Kumar,36,M,Kalaburagi,cattle_theft,cattle_theft,,true
+SYN-OFF-0016,Rahul Murthy,51,M,Bengaluru Dist,house_burglary,house_burglary,SYN-GANG-06,true
+SYN-OFF-0017,Deepak Kulkarni,50,M,Bengaluru City,dacoity,dacoity,SYN-GANG-02,true
+SYN-OFF-0018,Prakash Sharma,28,M,Chikkamagaluru,dacoity,dacoity,,true
+SYN-OFF-0019,Santosh Kulkarni,55,M,Mandya,house_burglary,house_burglary|mobile_theft,,true
+SYN-OFF-0020,Rahul Reddy,35,M,Koppal,cattle_theft,cattle_theft|dacoity,SYN-GANG-04,true
+SYN-OFF-0021,Manoj Patil,24,M,Dharwad,vehicle_theft,vehicle_theft,,true
+SYN-OFF-0022,Naveen Patil,22,M,Bengaluru City,cattle_theft,cattle_theft|extortion,SYN-GANG-01,true
+SYN-OFF-0023,Rahul Singh,53,M,Raichur,extortion,extortion|investment_scam,SYN-GANG-08,true
+SYN-OFF-0024,Ganesh Gowda,19,M,Bengaluru City,atm_fraud,atm_fraud|chain_snatching,,true
+SYN-OFF-0025,Ganesh Gowda,24,F,Uttara Kannada,house_burglary,house_burglary|counterfeit,,true
+SYN-OFF-0026,Rahul Kumar,46,M,Mangaluru City,otp_fraud,otp_fraud|dacoity,SYN-GANG-01,true
+SYN-OFF-0027,Ganesh Joshi,45,M,Bengaluru City,house_burglary,house_burglary|robbery_highway,,true
+SYN-OFF-0028,Manoj Khan,31,M,Vijayapur,vehicle_theft,vehicle_theft|house_burglary,,true
+SYN-OFF-0029,Naga Shetty,24,M,Bengaluru Dist,atm_fraud,atm_fraud,SYN-GANG-07,true
+SYN-OFF-0030,Mahesh Murthy,22,M,Bengaluru City,vehicle_theft,vehicle_theft|dacoity,,true
+SYN-OFF-0031,Santosh Shetty,30,M,Bengaluru City,counterfeit,counterfeit|extortion,,true
+SYN-OFF-0032,Imran Sharma,20,M,Bengaluru Dist,atm_fraud,atm_fraud|dacoity,SYN-GANG-01,true
+SYN-OFF-0033,Basava Patil,21,M,Bengaluru City,vehicle_theft,vehicle_theft,SYN-GANG-05,true
+SYN-OFF-0034,Mahesh Pujari,48,M,Bengaluru City,house_burglary,house_burglary|atm_fraud,SYN-GANG-08,true
+SYN-OFF-0035,Imran Bhat,54,M,Tumakuru,vehicle_theft,vehicle_theft,SYN-GANG-06,true
+SYN-OFF-0036,Rahul Acharya,56,M,Haveri,robbery_highway,robbery_highway|dacoity,,true
+SYN-OFF-0037,Mahesh Desai,32,F,Mysuru City,otp_fraud,otp_fraud,,true
+SYN-OFF-0038,Anand Kulkarni,31,M,Chickballapura,otp_fraud,otp_fraud,,true
+SYN-OFF-0039,Basava Bhat,25,M,Udupi,robbery_highway,robbery_highway,SYN-GANG-04,true
+SYN-OFF-0040,Naga Sharma,57,F,Bengaluru City,investment_scam,investment_scam,,true
+SYN-OFF-0041,Arjun Reddy,50,M,Bengaluru Dist,cattle_theft,cattle_theft,,true
+SYN-OFF-0042,Arjun Pujari,28,M,Belagavi Dist,extortion,extortion,,true
+SYN-OFF-0043,Kiran Hegde,45,M,Mangaluru City,robbery_highway,robbery_highway,,true
+SYN-OFF-0044,Yusuf Khan,51,M,Kalaburagi,robbery_highway,robbery_highway|chain_snatching,,true
+SYN-OFF-0045,Anand Bhat,48,M,Bengaluru City,house_burglary,house_burglary,,true
+SYN-OFF-0046,Arjun Hegde,40,M,Bengaluru Dist,vehicle_theft,vehicle_theft,SYN-GANG-07,true
+SYN-OFF-0047,Naveen Singh,30,M,Bengaluru City,counterfeit,counterfeit|vehicle_theft,,true
+SYN-OFF-0048,Farhan Hegde,56,M,Bengaluru City,otp_fraud,otp_fraud|atm_fraud,SYN-GANG-01,true
+SYN-OFF-0049,Mahesh Kulkarni,22,M,Udupi,counterfeit,counterfeit,SYN-GANG-04,true
+SYN-OFF-0050,Naveen Acharya,53,F,Belagavi City,extortion,extortion,,true
+SYN-OFF-0051,Ravi Nayak,57,M,Bengaluru City,counterfeit,counterfeit|chain_snatching,,true
+SYN-OFF-0052,Deepak Patil,19,M,Bengaluru City,vehicle_theft,vehicle_theft,SYN-GANG-04,true
+SYN-OFF-0053,Vijay Desai,21,M,Bengaluru City,robbery_highway,robbery_highway,,true
+SYN-OFF-0054,Yusuf Nayak,22,M,Bengaluru City,mobile_theft,mobile_theft,,true
+SYN-OFF-0055,Ganesh Bhat,23,M,Bengaluru City,investment_scam,investment_scam,,true
+SYN-OFF-0056,Mahesh Gowda,35,M,Tumakuru,dacoity,dacoity,SYN-GANG-08,true
+SYN-OFF-0057,Naga Singh,29,M,Raichur,cattle_theft,cattle_theft,,true
+SYN-OFF-0058,Imran Khan,49,M,Kalaburagi City,cattle_theft,cattle_theft,SYN-GANG-01,true
+SYN-OFF-0059,Anand Shetty,46,M,Mandya,house_burglary,house_burglary,SYN-GANG-07,true
+SYN-OFF-0060,Arjun Shetty,28,M,Chitradurga,otp_fraud,otp_fraud|dacoity,,true
+SYN-OFF-0061,Farhan Kulkarni,53,M,Raichur,counterfeit,counterfeit,,true
+SYN-OFF-0062,Basava Kumar,53,M,Mysuru Dist,vehicle_theft,vehicle_theft|counterfeit,,true
+SYN-OFF-0063,Basava Singh,38,M,Bengaluru City,atm_fraud,atm_fraud|investment_scam,,true
+SYN-OFF-0064,Naveen Sharma,26,M,Hassan,chain_snatching,chain_snatching,,true
+SYN-OFF-0065,Santosh Singh,54,M,Bengaluru City,investment_scam,investment_scam|vehicle_theft,,true
+SYN-OFF-0066,Naveen Acharya,19,M,Bengaluru City,investment_scam,investment_scam,,true
+SYN-OFF-0067,Mahesh Rao,48,M,Mandya,investment_scam,investment_scam,,true
+SYN-OFF-0068,Farhan Shetty,25,M,Bengaluru City,counterfeit,counterfeit,SYN-GANG-06,true
+SYN-OFF-0069,Farhan Sharma,37,M,Chikkamagaluru,counterfeit,counterfeit,,true
+SYN-OFF-0070,Manoj Naik,54,M,Haveri,atm_fraud,atm_fraud,,true
+SYN-OFF-0071,Shankar Rao,43,M,Vijayapur,house_burglary,house_burglary,,true
+SYN-OFF-0072,Manoj Reddy,46,M,Dharwad,atm_fraud,atm_fraud,,true
+SYN-OFF-0073,Yusuf Iyer,31,M,Bengaluru City,vehicle_theft,vehicle_theft|dacoity,SYN-GANG-03,true
+SYN-OFF-0074,Prakash Bhat,39,M,Ballari,counterfeit,counterfeit,SYN-GANG-06,true
+SYN-OFF-0075,Suresh Singh,47,M,Kalaburagi City,extortion,extortion|house_burglary,,true
+SYN-OFF-0076,Suresh Kulkarni,37,M,Bengaluru City,house_burglary,house_burglary,,true
+SYN-OFF-0077,Naga Pujari,51,M,Bagalkot,vehicle_theft,vehicle_theft,SYN-GANG-05,true
+SYN-OFF-0078,Vijay Singh,21,M,Bengaluru City,vehicle_theft,vehicle_theft,,true
+SYN-OFF-0079,Vijay Murthy,26,M,Bengaluru Dist,counterfeit,counterfeit,,true
+SYN-OFF-0080,Rahul Kulkarni,47,F,Dharwad,cattle_theft,cattle_theft,SYN-GANG-01,true
+SYN-OFF-0081,Ravi Khan,35,M,Vijayanagara,dacoity,dacoity,,true
+SYN-OFF-0082,Shankar Murthy,48,M,Hassan,cattle_theft,cattle_theft,,true
+SYN-OFF-0083,Farhan Acharya,32,M,Chitradurga,counterfeit,counterfeit|vehicle_theft,SYN-GANG-02,true
+SYN-OFF-0084,Mahesh Kulkarni,37,M,Bengaluru Dist,investment_scam,investment_scam,,true
+SYN-OFF-0085,Deepak Gowda,47,M,Uttara Kannada,atm_fraud,atm_fraud,,true
+SYN-OFF-0086,Mahesh Iyer,46,M,Bengaluru City,otp_fraud,otp_fraud,SYN-GANG-05,true
+SYN-OFF-0087,Manoj Joshi,53,M,Haveri,robbery_highway,robbery_highway|dacoity,,true
+SYN-OFF-0088,Rahul Bhat,51,M,Raichur,dacoity,dacoity,,true
+SYN-OFF-0089,Naga Joshi,52,M,Bengaluru City,cattle_theft,cattle_theft|investment_scam,SYN-GANG-08,true
+SYN-OFF-0090,Prakash Naik,27,M,Mysuru Dist,counterfeit,counterfeit|dacoity,SYN-GANG-02,true
+SYN-OFF-0091,Suresh Reddy,41,M,Raichur,chain_snatching,chain_snatching,,true
+SYN-OFF-0092,Kiran Rao,36,M,Bengaluru City,otp_fraud,otp_fraud,,true
+SYN-OFF-0093,Naga Hegde,39,M,Yadgir,mobile_theft,mobile_theft,SYN-GANG-07,true
+SYN-OFF-0094,Basava Kumar,19,M,Tumakuru,atm_fraud,atm_fraud,,true
+SYN-OFF-0095,Ganesh Reddy,20,M,Yadgir,house_burglary,house_burglary,,true
+SYN-OFF-0096,Naga Desai,55,F,Gadag,otp_fraud,otp_fraud,SYN-GANG-02,true
+SYN-OFF-0097,Anand Rao,36,M,Chitradurga,house_burglary,house_burglary|dacoity,,true
+SYN-OFF-0098,Naga Hegde,58,M,Bidar,house_burglary,house_burglary,,true
+SYN-OFF-0099,Deepak Shetty,26,M,Kalaburagi,extortion,extortion,,true
+SYN-OFF-0100,Santosh Iyer,43,M,Bengaluru Dist,investment_scam,investment_scam|otp_fraud,,true
+SYN-OFF-0101,Basava Kulkarni,24,F,Mangaluru City,dacoity,dacoity,,true
+SYN-OFF-0102,Manoj Desai,39,M,Bengaluru Dist,counterfeit,counterfeit|atm_fraud,,true
+SYN-OFF-0103,Manoj Singh,39,M,Bengaluru City,atm_fraud,atm_fraud,,true
+SYN-OFF-0104,Manoj Gowda,33,M,Bengaluru City,mobile_theft,mobile_theft,SYN-GANG-04,true
+SYN-OFF-0105,Shankar Acharya,39,M,Bengaluru City,dacoity,dacoity,,true
+SYN-OFF-0106,Rahul Rao,40,M,Bengaluru City,chain_snatching,chain_snatching,,true
+SYN-OFF-0107,Suresh Joshi,53,M,Bengaluru City,atm_fraud,atm_fraud,,true
+SYN-OFF-0108,Mahesh Pujari,28,M,Bengaluru City,counterfeit,counterfeit,,true
+SYN-OFF-0109,Naveen Iyer,45,M,Hubballi Dharwad City,vehicle_theft,vehicle_theft,,true
+SYN-OFF-0110,Rahul Rao,52,M,Bengaluru City,atm_fraud,atm_fraud,SYN-GANG-05,true
+SYN-OFF-0111,Rahul Shetty,50,M,Bengaluru City,dacoity,dacoity|extortion,,true
+SYN-OFF-0112,Vijay Kumar,31,M,Kolar,chain_snatching,chain_snatching,,true
+SYN-OFF-0113,Manoj Naik,48,M,Bengaluru South,robbery_highway,robbery_highway,SYN-GANG-01,true
+SYN-OFF-0114,Manoj Hegde,33,M,Yadgir,otp_fraud,otp_fraud,,true
+SYN-OFF-0115,Santosh Reddy,46,M,Mysuru City,investment_scam,investment_scam,,true
+SYN-OFF-0116,Deepak Shetty,47,F,Vijayapur,chain_snatching,chain_snatching|cattle_theft,,true
+SYN-OFF-0117,Deepak Patil,30,M,Bengaluru South,house_burglary,house_burglary|vehicle_theft,SYN-GANG-03,true
+SYN-OFF-0118,Ganesh Singh,42,M,Belagavi City,house_burglary,house_burglary,,true
+SYN-OFF-0119,Kiran Gowda,31,F,Bengaluru Dist,counterfeit,counterfeit,SYN-GANG-02,true
+SYN-OFF-0120,Arjun Shetty,32,M,Bengaluru City,investment_scam,investment_scam,,true
+SYN-OFF-0121,Naga Kulkarni,50,M,Mandya,investment_scam,investment_scam|dacoity,,true
+SYN-OFF-0122,Naveen Desai,29,M,Bengaluru City,counterfeit,counterfeit|investment_scam,,true
+SYN-OFF-0123,Basava Desai,46,M,Bengaluru City,cattle_theft,cattle_theft,SYN-GANG-02,true
+SYN-OFF-0124,Vijay Acharya,30,M,Tumakuru,cattle_theft,cattle_theft,,true
+SYN-OFF-0125,Naga Murthy,53,M,Bengaluru City,otp_fraud,otp_fraud,SYN-GANG-08,true
+SYN-OFF-0126,Deepak Iyer,46,M,Bengaluru City,dacoity,dacoity|atm_fraud,,true
+SYN-OFF-0127,Naveen Joshi,57,M,Bidar,chain_snatching,chain_snatching|cattle_theft,,true
+SYN-OFF-0128,Rahul Singh,46,F,Bengaluru Dist,chain_snatching,chain_snatching,SYN-GANG-06,true
+SYN-OFF-0129,Shankar Acharya,36,M,Bengaluru City,investment_scam,investment_scam|atm_fraud,,true
+SYN-OFF-0130,Ravi Khan,45,M,Chikkamagaluru,investment_scam,investment_scam,,true
+SYN-OFF-0131,Anand Bhat,49,M,Yadgir,house_burglary,house_burglary,,true
+SYN-OFF-0132,Mahesh Naik,27,M,Bagalkot,house_burglary,house_burglary|chain_snatching,,true
+SYN-OFF-0133,Ganesh Khan,28,M,Mysuru Dist,robbery_highway,robbery_highway,,true
+SYN-OFF-0134,Anand Desai,22,F,Bagalkot,chain_snatching,chain_snatching,SYN-GANG-05,true
+SYN-OFF-0135,Deepak Khan,23,M,Bengaluru City,mobile_theft,mobile_theft,,true
+SYN-OFF-0136,Ravi Patil,44,M,Bagalkot,dacoity,dacoity,,true
+SYN-OFF-0137,Shankar Iyer,36,M,Bengaluru City,dacoity,dacoity,,true
+SYN-OFF-0138,Farhan Hegde,36,M,Vijayapur,otp_fraud,otp_fraud|house_burglary,,true
+SYN-OFF-0139,Deepak Reddy,36,M,Uttara Kannada,house_burglary,house_burglary,SYN-GANG-05,true
+SYN-OFF-0140,Vijay Acharya,26,M,Bengaluru City,counterfeit,counterfeit,,true
+SYN-OFF-0141,Anand Naik,51,F,Mysuru City,counterfeit,counterfeit,SYN-GANG-01,true
+SYN-OFF-0142,Vijay Kulkarni,27,M,Bengaluru Dist,robbery_highway,robbery_highway,,true
+SYN-OFF-0143,Ganesh Desai,57,M,Mangaluru City,robbery_highway,robbery_highway|investment_scam,,true
+SYN-OFF-0144,Yusuf Murthy,53,M,Dakshina Kannada,counterfeit,counterfeit,SYN-GANG-06,true
+SYN-OFF-0145,Suresh Reddy,46,M,Chitradurga,investment_scam,investment_scam|chain_snatching,SYN-GANG-06,true
+SYN-OFF-0146,Anand Acharya,41,M,Bengaluru City,vehicle_theft,vehicle_theft,,true
+SYN-OFF-0147,Yusuf Acharya,40,M,Bengaluru Dist,chain_snatching,chain_snatching,,true
+SYN-OFF-0148,Anand Acharya,32,F,Tumakuru,cattle_theft,cattle_theft|counterfeit,SYN-GANG-04,true
+SYN-OFF-0149,Ganesh Gowda,46,M,Bengaluru City,mobile_theft,mobile_theft|extortion,SYN-GANG-07,true
+SYN-OFF-0150,Shankar Khan,57,M,Tumakuru,counterfeit,counterfeit,,true
+SYN-OFF-0151,Farhan Kulkarni,31,F,Dakshina Kannada,investment_scam,investment_scam,,true
+SYN-OFF-0152,Rahul Joshi,21,M,Mandya,chain_snatching,chain_snatching,,true
+SYN-OFF-0153,Imran Hegde,42,M,Bengaluru City,atm_fraud,atm_fraud|house_burglary,,true
+SYN-OFF-0154,Ganesh Patil,57,M,Chitradurga,counterfeit,counterfeit,,true
+SYN-OFF-0155,Arjun Murthy,24,F,Belagavi Dist,mobile_theft,mobile_theft,,true
+SYN-OFF-0156,Vijay Desai,56,M,Bengaluru City,investment_scam,investment_scam|mobile_theft,SYN-GANG-04,true
+SYN-OFF-0157,Naveen Naik,50,M,Chamarajanagar,counterfeit,counterfeit,SYN-GANG-01,true
+SYN-OFF-0158,Manoj Patil,29,F,Uttara Kannada,extortion,extortion,,true
+SYN-OFF-0159,Ganesh Iyer,41,M,Bengaluru City,atm_fraud,atm_fraud|investment_scam,,true
+SYN-OFF-0160,Rahul Joshi,46,M,Hassan,chain_snatching,chain_snatching,,true
+SYN-OFF-0161,Manoj Rao,56,M,Chikkamagaluru,investment_scam,investment_scam|cattle_theft,,true
+SYN-OFF-0162,Kiran Rao,55,M,Bengaluru City,mobile_theft,mobile_theft|dacoity,,true
+SYN-OFF-0163,Naveen Patil,34,M,Bengaluru South,robbery_highway,robbery_highway,,true
+SYN-OFF-0164,Vijay Bhat,30,F,Uttara Kannada,counterfeit,counterfeit,,true
+SYN-OFF-0165,Kiran Khan,56,M,Haveri,dacoity,dacoity|otp_fraud,SYN-GANG-07,true
+SYN-OFF-0166,Mahesh Rao,52,M,Tumakuru,cattle_theft,cattle_theft,,true
+SYN-OFF-0167,Anand Acharya,45,M,Mysuru City,chain_snatching,chain_snatching,,true
+SYN-OFF-0168,Ravi Bhat,47,F,Bengaluru City,robbery_highway,robbery_highway,SYN-GANG-02,true
+SYN-OFF-0169,Naga Pujari,41,M,Davanagere,otp_fraud,otp_fraud|mobile_theft,,true
+SYN-OFF-0170,Farhan Joshi,56,F,Bengaluru City,dacoity,dacoity|investment_scam,,true
+SYN-OFF-0171,Farhan Murthy,30,M,Kolar,extortion,extortion,,true
+SYN-OFF-0172,Deepak Joshi,21,M,Chamarajanagar,robbery_highway,robbery_highway,SYN-GANG-04,true
+SYN-OFF-0173,Naveen Hegde,44,M,Kolar,investment_scam,investment_scam,,true
+SYN-OFF-0174,Imran Gowda,47,M,Kalaburagi City,robbery_highway,robbery_highway,,true
+SYN-OFF-0175,Ravi Reddy,23,M,Chamarajanagar,mobile_theft,mobile_theft|cattle_theft,,true
+SYN-OFF-0176,Ganesh Nayak,22,F,Bengaluru South,cattle_theft,cattle_theft,,true
+SYN-OFF-0177,Ganesh Gowda,43,M,Koppal,extortion,extortion,,true
+SYN-OFF-0178,Naga Pujari,40,M,Vijayapur,robbery_highway,robbery_highway|extortion,,true
+SYN-OFF-0179,Suresh Pujari,20,F,Chamarajanagar,extortion,extortion|dacoity,SYN-GANG-08,true
+SYN-OFF-0180,Yusuf Iyer,34,M,Kalaburagi,otp_fraud,otp_fraud|dacoity,,true
+SYN-OFF-0181,Suresh Pujari,48,M,Hassan,mobile_theft,mobile_theft,,true
+SYN-OFF-0182,Rahul Acharya,24,M,Kolar,chain_snatching,chain_snatching|investment_scam,,true
+SYN-OFF-0183,Ravi Nayak,19,M,Bengaluru City,mobile_theft,mobile_theft,,true
+SYN-OFF-0184,Yusuf Reddy,40,M,Bengaluru South,dacoity,dacoity,,true
+SYN-OFF-0185,Mahesh Desai,44,M,Tumakuru,cattle_theft,cattle_theft,,true
+SYN-OFF-0186,Arjun Shetty,22,M,Bengaluru Dist,vehicle_theft,vehicle_theft,,true
+SYN-OFF-0187,Imran Bhat,45,M,Bengaluru City,mobile_theft,mobile_theft,,true
+SYN-OFF-0188,Kiran Gowda,53,M,Tumakuru,house_burglary,house_burglary,,true
+SYN-OFF-0189,Ravi Kumar,47,F,Yadgir,vehicle_theft,vehicle_theft,,true
+SYN-OFF-0190,Shankar Shetty,18,M,Bagalkot,mobile_theft,mobile_theft,SYN-GANG-08,true
+SYN-OFF-0191,Naveen Iyer,43,M,Bengaluru City,house_burglary,house_burglary|robbery_highway,,true
+SYN-OFF-0192,Ganesh Rao,31,M,Chickballapura,atm_fraud,atm_fraud|mobile_theft,,true
+SYN-OFF-0193,Naveen Patil,44,M,Raichur,mobile_theft,mobile_theft|extortion,SYN-GANG-08,true
+SYN-OFF-0194,Anand Patil,54,F,Bengaluru City,investment_scam,investment_scam,SYN-GANG-06,true
+SYN-OFF-0195,Manoj Hegde,49,M,Bengaluru City,robbery_highway,robbery_highway,,true
+SYN-OFF-0196,Santosh Patil,30,M,Dakshina Kannada,cattle_theft,cattle_theft|dacoity,,true
+SYN-OFF-0197,Imran Pujari,46,M,Bengaluru City,atm_fraud,atm_fraud,,true
+SYN-OFF-0198,Suresh Naik,50,M,Belagavi Dist,dacoity,dacoity|robbery_highway,,true
+SYN-OFF-0199,Farhan Gowda,28,M,Mysuru Dist,otp_fraud,otp_fraud,,true
+SYN-OFF-0200,Kiran Patil,24,M,Chikkamagaluru,vehicle_theft,vehicle_theft,SYN-GANG-03,true
+SYN-OFF-0201,Basava Naik,37,M,K.G.F,dacoity,dacoity,,true
+SYN-OFF-0202,Basava Shetty,58,F,Bengaluru South,dacoity,dacoity,SYN-GANG-07,true
+SYN-OFF-0203,Deepak Reddy,19,M,Bengaluru Dist,atm_fraud,atm_fraud,,true
+SYN-OFF-0204,Anand Gowda,45,M,Bengaluru South,cattle_theft,cattle_theft,SYN-GANG-06,true
+SYN-OFF-0205,Deepak Iyer,26,M,Bengaluru City,cattle_theft,cattle_theft|robbery_highway,SYN-GANG-05,true
+SYN-OFF-0206,Rahul Joshi,40,M,Koppal,counterfeit,counterfeit|robbery_highway,SYN-GANG-01,true
+SYN-OFF-0207,Arjun Sharma,20,M,Bengaluru City,vehicle_theft,vehicle_theft|house_burglary,SYN-GANG-03,true
+SYN-OFF-0208,Ganesh Kumar,53,M,Haveri,house_burglary,house_burglary,,true
+SYN-OFF-0209,Prakash Acharya,38,M,Bidar,cattle_theft,cattle_theft|vehicle_theft,SYN-GANG-01,true
+SYN-OFF-0210,Yusuf Khan,42,F,Bengaluru City,extortion,extortion,,true
+SYN-OFF-0211,Farhan Patil,58,M,Belagavi City,house_burglary,house_burglary|atm_fraud,,true
+SYN-OFF-0212,Imran Sharma,30,M,Mangaluru City,house_burglary,house_burglary,,true
+SYN-OFF-0213,Basava Pujari,24,M,Gadag,vehicle_theft,vehicle_theft|chain_snatching,SYN-GANG-05,true
+SYN-OFF-0214,Anand Desai,47,M,Mysuru Dist,dacoity,dacoity|extortion,,true
+SYN-OFF-0215,Vijay Sharma,52,M,Hassan,investment_scam,investment_scam,SYN-GANG-02,true
+SYN-OFF-0216,Kiran Sharma,24,M,Shivamogga,house_burglary,house_burglary,,true
+SYN-OFF-0217,Santosh Iyer,21,M,Mangaluru City,robbery_highway,robbery_highway|house_burglary,,true
+SYN-OFF-0218,Kiran Gowda,42,M,Mandya,counterfeit,counterfeit,,true
+SYN-OFF-0219,Imran Kulkarni,46,M,Bengaluru City,mobile_theft,mobile_theft|dacoity,SYN-GANG-04,true
+SYN-OFF-0220,Ganesh Nayak,48,M,Tumakuru,robbery_highway,robbery_highway,,true

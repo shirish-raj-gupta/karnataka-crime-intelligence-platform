@@ -1,0 +1,100 @@
+/* ============================================================
+   Design system — theme tokens + base.
+   Imported first; defines CSS variables used app-wide.
+   ============================================================ */
+:root {
+  /* Surfaces */
+  --bg: #0a0e15;
+  --bg-2: #0e141d;
+  --panel: #141d29;
+  --panel-2: #1c2738;
+  --panel-3: #243245;
+  --line: #2a3850;
+  --line-soft: #1f2c40;
+
+  /* Text */
+  --text: #eef3fb;
+  --muted: #94a8c4;
+  --muted-2: #6b7d97;
+
+  /* Brand / accents */
+  --accent: #4f9cff;
+  --accent-2: #7b61ff;
+  --accent-3: #22d3ee;
+  --danger: #ff5c6c;
+  --warn: #ffb347;
+  --ok: #3ddc97;
+
+  /* Gradients */
+  --grad-brand: linear-gradient(135deg, #4f9cff, #7b61ff);
+  --grad-brand-2: linear-gradient(135deg, #22d3ee, #4f9cff);
+  --grad-danger: linear-gradient(135deg, #ff5c6c, #ff8a5c);
+
+  /* Effects */
+  --shadow: 0 10px 30px rgba(0, 0, 0, 0.40);
+  --shadow-sm: 0 4px 14px rgba(0, 0, 0, 0.30);
+  --shadow-glow: 0 6px 22px rgba(79, 156, 255, 0.30);
+  --radius: 16px;
+  --radius-sm: 10px;
+  --radius-lg: 22px;
+
+  --speed: 0.2s;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+/* Never let any child push the page wider than the viewport */
+html, body { max-width: 100%; overflow-x: hidden; }
+
+#root { display: flex; flex-direction: column; min-height: 100vh; max-width: 100%; }
+
+/* Media never overflows its container */
+img, svg, canvas, video { max-width: 100%; }
+
+body {
+  margin: 0;
+  font-family: "Inter", "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  background:
+    radial-gradient(1200px 600px at 88% -12%, rgba(123, 97, 255, 0.14), transparent 60%),
+    radial-gradient(1000px 560px at -5% 0%, rgba(79, 156, 255, 0.10), transparent 58%),
+    radial-gradient(900px 700px at 50% 120%, rgba(34, 211, 238, 0.06), transparent 60%),
+    var(--bg);
+  background-attachment: fixed;
+  color: var(--text);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+::selection { background: rgba(79, 156, 255, 0.32); }
+
+/* Typography rhythm — tighter, more confident headings */
+h1, h2, h3, h4 { font-weight: 700; letter-spacing: -0.018em; }
+h1 { letter-spacing: -0.025em; }
+input, select, button, textarea { font-family: inherit; }
+
+/* Scrollbars */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--line); border-radius: 8px; border: 2px solid transparent; background-clip: padding-box; }
+::-webkit-scrollbar-thumb:hover { background: #3a4a63; background-clip: padding-box; }
+
+.skip-link { position: absolute; left: -999px; top: 0; background: var(--accent); color: #fff; padding: 8px 14px; z-index: 1000; border-radius: 0 0 8px 0; }
+.skip-link:focus { left: 0; }
+
+/* Utility animations reused across components */
+@keyframes fade-up { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+@keyframes pop-in { 0% { opacity: 0; transform: scale(0.96); } 100% { opacity: 1; transform: scale(1); } }
+@keyframes spin { to { transform: rotate(360deg); } }
+@keyframes shimmer { 0% { background-position: -400px 0; } 100% { background-position: 400px 0; } }
+@keyframes float-soft { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; transition-duration: 0.001ms !important; scroll-behavior: auto !important; }
+}

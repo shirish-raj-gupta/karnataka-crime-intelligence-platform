@@ -1,0 +1,26 @@
+{
+  "source": "Karnataka State Police Monthly Crime Review 2025 (Govt. Open Data Platform, data.gov.in)",
+  "license": "Government Open Data License – India (GODL)",
+  "year": 2025,
+  "generated_at": "2026-05-30T16:38:09.564922+00:00",
+  "tables": {
+    "districts": 38,
+    "district_crime_summary": 39,
+    "crime_heads": 805,
+    "special_crimes": 52,
+    "crime_temporal": 764,
+    "network_offenders": 220,
+    "network_incidents": 480,
+    "network_accounts": 90,
+    "network_links": 367,
+    "socioeconomic": 38,
+    "stations": 189,
+    "station_hourly": 4536
+  },
+  "temporal_review_month": "2025-12",
+  "monthly_series": "REAL per-month counts from 12 KSP Monthly Crime Review files (Jan-Dec 2025), data.gov.in",
+  "temporal_generated_at": "2026-05-30T17:29:05.042129+00:00",
+  "network_data": "SYNTHETIC (demo only) \u2014 grounded in real district/crime distributions",
+  "socioeconomic_source": "Census of India 2011 (public domain, approximate) joined to KSP 2025 crime totals",
+  "station_data": "SYNTHETIC stations & hourly distribution; station totals reconcile to real district totals"
+}

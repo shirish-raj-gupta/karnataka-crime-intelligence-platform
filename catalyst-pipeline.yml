@@ -1,0 +1,21 @@
+# Catalyst Pipelines (#26 CI/CD)
+# Builds the React/Vite frontend into client/ and deploys to Catalyst on push.
+#
+# Setup: Console -> Pipelines -> Create Pipeline -> connect this GitHub repo
+# (branch: main). Add a CATALYST_TOKEN pipeline environment variable so the
+# non-interactive `catalyst deploy` can authenticate in the runner.
+#
+# Note: stage/key syntax can vary by Pipelines version — adjust to match the
+# console template if needed. The flow stays: install -> build -> deploy.
+
+stages:
+  - name: install-and-build
+    image: node:18
+    commands:
+      - cd web && npm ci && npm run build
+
+  - name: deploy
+    image: node:18
+    commands:
+      - npm i -g zcatalyst-cli
+      - catalyst deploy --token "$CATALYST_TOKEN"

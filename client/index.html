@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Karnataka Crime Intelligence Platform | SCRB</title>
+    <meta name="description" content="Crime Intelligence & Analytical Platform for Karnataka State Crime Records Bureau" />
+    <meta name="theme-color" content="#0c1117" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <!-- Force HTTPS on the custom domain (Catalyst custom domains don't auto-redirect). -->
+    <script>
+      (function () {
+        var h = window.location.hostname;
+        var isLocal = h === "localhost" || h === "127.0.0.1" || h === "";
+        if (!isLocal && window.location.protocol === "http:") {
+          window.location.replace("https://" + window.location.host + window.location.pathname + window.location.search + window.location.hash);
+        }
+      })();
+    </script>
+    <script type="module" crossorigin src="./assets/index-yIKtJ6nC.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index--0IwrWkb.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <!--
+      Catalyst Web SDK (v4) — used for Catalyst Authentication + native push
+      when hosted with real login. In DEMO_MODE (login bypassed, see
+      web/src/auth.js) we skip BOTH the SDK script and its init.js: the app uses
+      plain fetch for the API and a browser-native live alerter for #25, so the
+      uninitialized SDK would only throw ("CatalystApp not initialized!") and
+      fire a 401 push-channel probe. Flip DEMO=false to restore the SDK + auth.
+    -->
+    <script>
+      (function () {
+        var DEMO = true; // keep in sync with DEMO_MODE in web/src/auth.js
+        var host = window.location.hostname;
+        var isLocal = host === "localhost" || host === "127.0.0.1" || host === "";
+        if (DEMO) return; // demo mode: no Catalyst SDK needed
+        var sdkScript = document.createElement("script");
+        sdkScript.src = "https://static.zohocdn.com/catalyst/sdk/js/4.5.0/catalystWebSDK.js";
+        document.body.appendChild(sdkScript);
+        if (!isLocal) {
+          sdkScript.onload = function () {
+            var s = document.createElement("script");
+            s.src = "/__catalyst/sdk/init.js";
+            document.body.appendChild(s);
+          };
+        }
+      })();
+    </script>
+  </body>
+</html>

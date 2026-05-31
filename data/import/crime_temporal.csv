@@ -1,0 +1,765 @@
+review_month,section,category,subtype,row_type,ytd,same_month_prev_year,prev_month,current_month,yoy_change,yoy_pct,mom_change,mom_pct,spike_score,trend
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",For gain,subtype,43,8,9,2,-6,-75.0,-7,-77.8,-1.53,falling
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Over Property Dispute,subtype,24,1,2,2,1,100.0,0,0.0,1.0,rising
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Due to Personal Vendetta or enemity,subtype,34,2,1,2,0,0.0,1,100.0,1.0,rising
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Due to Sexual jealousy,subtype,23,2,1,1,-1,-50.0,0,0.0,-0.5,falling
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",For dowry by burning,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",For dowry by other means,subtype,7,0,0,3,3,,3,,0.0,rising
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Due to Communalism,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Due to Casteism,subtype,1,2,0,0,-2,-100.0,0,,-1.0,falling
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Witch Craft (Sorcery),subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",For Human Sacrifice,subtype,1,0,1,0,0,,-1,-100.0,-1.0,falling
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Due to Terrorism/Naxalism / Extremism,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",For Political Reasons,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Due to Adultery,subtype,20,1,3,2,1,100.0,-1,-33.3,0.67,stable
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Civil Disputes,subtype,49,4,2,2,-2,-50.0,0,0.0,-0.5,falling
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Electoral Gain,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Gang Rivalry,subtype,3,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Love Intrigue,subtype,23,1,1,0,-1,-100.0,-1,-100.0,-2.0,falling
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Professional,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Psychopathic/Serial Killer/Lunacy,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Rape with Murder,subtype,10,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Revenge/Enemity,subtype,45,6,4,5,-1,-16.7,1,25.0,0.08,stable
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Sudden Quarrel,subtype,96,6,8,4,-2,-33.3,-4,-50.0,-0.83,falling
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Village Dispute,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Custodial,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"Murder (Sec.302/303 IPC/103,104 BNS)",Due to Other Causes,subtype,829,62,67,57,-5,-8.1,-10,-14.9,-0.23,falling
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),For Gain,subtype,19,1,3,1,0,0.0,-2,-66.7,-0.67,falling
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Over Property Dispute,subtype,80,9,5,9,0,0.0,4,80.0,0.8,rising
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Due to Personal Vendetta or enemity,subtype,83,3,5,5,2,66.7,0,0.0,0.67,rising
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Due to Sexual jealousy,subtype,14,1,3,1,0,0.0,-2,-66.7,-0.67,falling
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),For Dowry other Means,subtype,20,1,3,2,1,100.0,-1,-33.3,0.67,stable
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Dowry By Burning,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Due to Communalism,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Due to Casteism,subtype,1,2,0,0,-2,-100.0,0,,-1.0,falling
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Witch Craft (Sorcery),subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),For Human Sacrifice,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Terrorism /Naxalism / Extremism,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),For Political Reasons,subtype,6,2,0,0,-2,-100.0,0,,-1.0,falling
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Adultery,subtype,16,1,2,3,2,200.0,1,50.0,2.5,rising
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Electoral Gain,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Gang Rivalry,subtype,3,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Love Intrigue,subtype,23,0,1,0,0,,-1,-100.0,-1.0,falling
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Professional,subtype,8,0,0,2,2,,2,,0.0,rising
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Rape,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Revenge/Enemity,subtype,237,17,17,21,4,23.5,4,23.5,0.47,rising
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Sudden Quarrel,subtype,308,26,19,23,-3,-11.5,4,21.1,0.1,rising
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Village Dispute,subtype,6,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Due to Other Causes,subtype,2095,129,172,170,41,31.8,-2,-1.2,0.31,rising
+2025-12,IPC,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Civil Disputes,subtype,334,27,22,28,1,3.7,6,27.3,0.31,rising
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),For Gain,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Over Civil Dispute,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Due to Personal Vendetta or enemity,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Due to Sexual jealousy,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),For Dowry,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Due to Communalism,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Due to Casteism,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Witch Craft (Sorcery),subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),For Human Sacrifice,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Terrorism /Naxalism / Extremism,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),For Political Reasons,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Adultery,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Property Disputes,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Electoral Gain,subtype,4,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Gang Rivalry,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Love Intrigue,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Professional,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Sudden Quarrel,subtype,10,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Due to Other Causes,subtype,82,8,6,7,-1,-12.5,1,16.7,0.04,stable
+2025-12,IPC,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Fatal (Drink & Drive),subtype,26,0,2,1,1,,-1,-50.0,-0.5,stable
+2025-12,IPC,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),For Gain,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Over Civil Dispute,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Due to Personal Vendetta or enemity,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Due to Sexual jealousy,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),For Dowry,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Due to Communalism,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Due to Casteism,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Witch Craft (Sorcery),subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),For Human Sacrifice,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Terrorism /Naxalism / Extremism,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),For Political Reasons,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Due to Other Causes,subtype,50,1,1,4,3,300.0,3,300.0,6.0,rising
+2025-12,IPC,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Adultery,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Property Disputes,subtype,3,0,1,2,2,,1,100.0,1.0,rising
+2025-12,IPC,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Electoral Gain,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Gang Rivalry,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Love Intrigue,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Professional,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Sudden Quarrel,subtype,10,0,2,1,1,,-1,-50.0,-0.5,stable
+2025-12,IPC,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",Custodial Rape,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",Attempt to Commit,subtype,14,1,1,1,0,0.0,0,0.0,0.0,stable
+2025-12,IPC,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",By a Gang,subtype,16,0,2,1,1,,-1,-50.0,-0.5,stable
+2025-12,IPC,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",By Parents,subtype,3,0,1,0,0,,-1,-100.0,-1.0,falling
+2025-12,IPC,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",By Hospital Staff,subtype,5,0,1,0,0,,-1,-100.0,-1.0,falling
+2025-12,IPC,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",By Husband During Sepearation,subtype,6,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",By Neighbours,subtype,38,0,1,4,4,,3,300.0,3.0,rising
+2025-12,IPC,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",By Relatives,subtype,31,1,1,2,1,100.0,1,100.0,2.0,rising
+2025-12,IPC,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",In Jail Custody,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",In Remand Home,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",InCest,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",Known Person,subtype,317,34,20,19,-15,-44.1,-1,-5.0,-0.49,falling
+2025-12,IPC,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",Unknown Person,subtype,21,0,1,4,4,,3,300.0,3.0,rising
+2025-12,IPC,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",Due to Other Causes,subtype,205,19,17,9,-10,-52.6,-8,-47.1,-1.0,falling
+2025-12,IPC,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",On Minor,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Sexual Intercourse by employing deceitful means (Se 69 BNS),False promises of marriage,subtype,236,4,33,35,31,775.0,2,6.1,3.06,rising
+2025-12,IPC,Sexual Intercourse by employing deceitful means (Se 69 BNS),Falsely claiming a job promotion or employment,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Sexual Intercourse by employing deceitful means (Se 69 BNS),Suppressing identity to induce marriage,subtype,1,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,Sexual Intercourse by employing deceitful means (Se 69 BNS),Other,subtype,10,0,2,0,0,,-2,-100.0,-1.0,falling
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Missing - Boy,subtype,2673,184,242,272,88,47.8,30,12.4,0.6,rising
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Missing - Girl,subtype,997,79,107,79,0,0.0,-28,-26.2,-0.26,falling
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",For Ransom - of Children,subtype,8,1,1,1,0,0.0,0,0.0,0.0,stable
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",For Ransom - of Cildren for Begging,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",For Ransom - of Women,subtype,12,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",For Ransom - of Girls for Immoral Purpose,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",For Ransom - of  Others,subtype,65,3,11,4,1,33.3,-7,-63.6,-0.3,falling
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Procuration of Minor Girls - For Prostitution,subtype,1,0,1,0,0,,-1,-100.0,-1.0,falling
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Procuration of Minor Girls - Importring of Girl,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Procuration of Minor Girls - For other Purpose,subtype,15,1,2,1,0,0.0,-1,-50.0,-0.5,falling
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Espionage,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Intent to Steal From Child,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Murder (Homicide),subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Obtain Signature Forcibly,subtype,1,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Recovering Loan,subtype,3,1,0,1,0,0.0,1,,0.0,rising
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Settling any Disputes,subtype,9,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Unnatural Lust / Illicit Intercourse,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Wrongful Confinement,subtype,13,3,2,2,-1,-33.3,0,0.0,-0.33,falling
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",For Exporting,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",From Lawful Guardianship,subtype,7,0,2,0,0,,-2,-100.0,-1.0,falling
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",For Camel Racing Etc.,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",To Compel For Marriage,subtype,11,1,2,3,2,200.0,1,50.0,2.5,rising
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",For Slavery,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",For Stealing From its Person,subtype,2,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Others,subtype,391,34,35,37,3,8.8,2,5.7,0.15,rising
+2025-12,IPC,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",At ATM,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",At Residential Premises,subtype,31,2,3,3,1,50.0,0,0.0,0.5,rising
+2025-12,IPC,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",On Highways,subtype,19,3,3,0,-3,-100.0,-3,-100.0,-2.0,falling
+2025-12,IPC,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",In Trains,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",At Banks,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",At Commercial Places / Establishments,subtype,13,0,0,4,4,,4,,0.0,rising
+2025-12,IPC,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",On Other Roads,subtype,45,4,5,7,3,75.0,2,40.0,1.15,rising
+2025-12,IPC,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",In Other Places,subtype,33,1,5,0,-1,-100.0,-5,-100.0,-2.0,falling
+2025-12,IPC,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",River & Sea,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",Preparation And Assembly for Dacoity,subtype,63,6,5,5,-1,-16.7,0,0.0,-0.17,falling
+2025-12,IPC,"Robbery (Sec.392 to 394 IPC/309(4),309(5),309(6) BNS)",At ATM,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"Robbery (Sec.392 to 394 IPC/309(4),309(5),309(6) BNS)",At Residential Premises,subtype,107,4,13,11,7,175.0,-2,-15.4,1.6,rising
+2025-12,IPC,"Robbery (Sec.392 to 394 IPC/309(4),309(5),309(6) BNS)",On Highways,subtype,61,6,4,3,-3,-50.0,-1,-25.0,-0.75,falling
+2025-12,IPC,"Robbery (Sec.392 to 394 IPC/309(4),309(5),309(6) BNS)",In Trains,subtype,1,2,1,0,-2,-100.0,-1,-100.0,-2.0,falling
+2025-12,IPC,"Robbery (Sec.392 to 394 IPC/309(4),309(5),309(6) BNS)",At Banks,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"Robbery (Sec.392 to 394 IPC/309(4),309(5),309(6) BNS)",At Commercial Places / Establishments,subtype,43,6,6,2,-4,-66.7,-4,-66.7,-1.33,falling
+2025-12,IPC,"Robbery (Sec.392 to 394 IPC/309(4),309(5),309(6) BNS)",In Other Places,subtype,359,28,47,40,12,42.9,-7,-14.9,0.28,rising
+2025-12,IPC,"Robbery (Sec.392 to 394 IPC/309(4),309(5),309(6) BNS)",Chain Snatching,subtype,459,40,31,42,2,5.0,11,35.5,0.4,rising
+2025-12,IPC,"Robbery (Sec.392 to 394 IPC/309(4),309(5),309(6) BNS)",Attempt to Commit,subtype,53,5,6,4,-1,-20.0,-2,-33.3,-0.53,falling
+2025-12,IPC,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8),334(2) BNS)",At Residential Premises,subtype,2379,207,161,213,6,2.9,52,32.3,0.35,rising
+2025-12,IPC,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8),334(2) BNS)",On Highways,subtype,3,0,0,2,2,,2,,0.0,rising
+2025-12,IPC,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8),334(2) BNS)",In Trains,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8),334(2) BNS)",At Banks,subtype,29,2,2,1,-1,-50.0,-1,-50.0,-1.0,falling
+2025-12,IPC,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8),334(2) BNS)",At Commercial Places / Establishments,subtype,642,58,46,55,-3,-5.2,9,19.6,0.14,rising
+2025-12,IPC,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8),334(2) BNS)",In Other Places,subtype,461,45,36,32,-13,-28.9,-4,-11.1,-0.4,falling
+2025-12,IPC,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8),334(2) BNS)",Temple Theft,subtype,391,26,43,42,16,61.5,-1,-2.3,0.59,rising
+2025-12,IPC,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8), 334(2) BNS)",At Residential Premises,subtype,996,85,98,98,13,15.3,0,0.0,0.15,rising
+2025-12,IPC,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8), 334(2) BNS)",On Highways,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8), 334(2) BNS)",In Trains,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8), 334(2) BNS)",At Banks,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8), 334(2) BNS)",At Commercial Places / Establishments,subtype,37,2,3,1,-1,-50.0,-2,-66.7,-1.17,falling
+2025-12,IPC,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8), 334(2) BNS)",In Other Places,subtype,50,7,9,4,-3,-42.9,-5,-55.6,-0.99,falling
+2025-12,IPC,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8), 334(2) BNS)",Temple Theft,subtype,17,0,2,2,2,,0,0.0,0.0,rising
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Attempt to commit,subtype,52,4,4,7,3,75.0,3,75.0,1.5,rising
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Automobiles - Of Tractors,subtype,84,11,9,3,-8,-72.7,-6,-66.7,-1.39,falling
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),In Running Bus,subtype,107,7,12,10,3,42.9,-2,-16.7,0.26,rising
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Snatching,subtype,543,57,29,47,-10,-17.5,18,62.1,0.45,rising
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),At ATM,subtype,25,3,0,1,-2,-66.7,1,,-0.67,falling
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Sand,subtype,1293,119,105,122,3,2.5,17,16.2,0.19,rising
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Government Office,subtype,32,4,1,2,-2,-50.0,1,100.0,0.5,falling
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Mines,subtype,101,2,10,8,6,300.0,-2,-20.0,2.8,rising
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Communication And Elec. Wire,subtype,295,23,29,34,11,47.8,5,17.2,0.65,rising
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Cattle,subtype,544,34,43,41,7,20.6,-2,-4.7,0.16,rising
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Cycle,subtype,28,2,2,0,-2,-100.0,-2,-100.0,-2.0,falling
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Automobiles - Of Lorries/Trucks,subtype,116,7,14,9,2,28.6,-5,-35.7,-0.07,falling
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Automobiles - Of Buses,subtype,3,2,1,1,-1,-50.0,0,0.0,-0.5,falling
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Automobiles - Of Cars / Jeeps,subtype,250,31,16,18,-13,-41.9,2,12.5,-0.29,falling
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Automobiles - Of Two Wheelers,subtype,8860,841,715,747,-94,-11.2,32,4.5,-0.07,falling
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Automobies - of Three Wheelers,subtype,227,30,18,17,-13,-43.3,-1,-5.6,-0.49,falling
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Accessories of Motor Vehicle,subtype,226,26,13,16,-10,-38.5,3,23.1,-0.15,falling
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Govt. Vehicle,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),"Electronic Goods (Radio, TV, VCR, Acs, Office Automation Equipments)",subtype,985,98,67,78,-20,-20.4,11,16.4,-0.04,falling
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Fire Arms,subtype,9,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Explosives,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Cultural - Idols,subtype,11,2,1,0,-2,-100.0,-1,-100.0,-2.0,falling
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Cultural - Painting,subtype,0,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Cultrual - Others,subtype,253,22,26,20,-2,-9.1,-6,-23.1,-0.32,falling
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Cash,subtype,510,51,43,43,-8,-15.7,0,0.0,-0.16,falling
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Jewellery,subtype,1478,147,122,122,-25,-17.0,0,0.0,-0.17,falling
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Other Items Not Included Above,subtype,1706,156,161,179,23,14.7,18,11.2,0.26,rising
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),In Running Train,subtype,44,6,1,3,-3,-50.0,2,200.0,1.5,falling
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Extortion,subtype,283,22,28,21,-1,-4.5,-7,-25.0,-0.29,falling
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),House Theft,subtype,1936,141,167,182,41,29.1,15,9.0,0.38,rising
+2025-12,IPC,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Servant Theft,subtype,527,39,51,42,3,7.7,-9,-17.6,-0.1,falling
+2025-12,IPC,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Land Dispute,subtype,1045,69,89,94,25,36.2,5,5.6,0.42,rising
+2025-12,IPC,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Employee - Govt.,subtype,3,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Labour - Private Sector,subtype,2,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Labour - Public Sector,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Linguistic,subtype,3,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Political,subtype,5,7,0,1,-6,-85.7,1,,-0.86,falling
+2025-12,IPC,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Regional,subtype,4,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Sectarian,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Students,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Tribal,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Due to Village Disputes,subtype,12,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Communal,subtype,4,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Industrial,subtype,5,0,2,0,0,,-2,-100.0,-1.0,falling
+2025-12,IPC,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Caste,subtype,5,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Agrarian,subtype,2,0,1,1,1,,0,0.0,0.0,rising
+2025-12,IPC,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Others,subtype,2298,177,159,183,6,3.4,24,15.1,0.18,rising
+2025-12,IPC,"OFFENCES AGAINST STATE (Sec. 121 to 130, except 124(A) IPC/147 TO 158 BNS)",NA,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES PROMOTING ENEMITY (Sec. 153(A), 154(B) & 505 IPC/196, 197 & 353 BNS",NA,subtype,192,10,13,10,0,0.0,-3,-23.1,-0.23,falling
+2025-12,IPC,CRIMINAL BREACH OF TRUST (Sec. 406 to 409 IPC/316(2) to 316(5) BNS),NA,subtype,762,56,74,75,19,33.9,1,1.4,0.35,rising
+2025-12,IPC,"CHEATING (Sec.417 to 420 IPC/318(2)to 318(4), 319(2) BNS)",NA,subtype,5839,554,479,632,78,14.1,153,31.9,0.46,rising
+2025-12,IPC,"COUNTERFEITING (Sec. 231 to 263 (A), 489(A) to 489 (E) IPC/178 TO 185 BNS)","Stock Share, Debentrue Certificate",subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"COUNTERFEITING (Sec. 231 to 263 (A), 489(A) to 489 (E) IPC/178 TO 185 BNS)",Usage of Counterfeit Stamp,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"COUNTERFEITING (Sec. 231 to 263 (A), 489(A) to 489 (E) IPC/178 TO 185 BNS)",Of Coins (Sec 231 to 254 IPC),subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"COUNTERFEITING (Sec. 231 to 263 (A), 489(A) to 489 (E) IPC/178 TO 185 BNS)",Of Stamps (Sec.255 to 263(A) IPC),subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"COUNTERFEITING (Sec. 231 to 263 (A), 489(A) to 489 (E) IPC/178 TO 185 BNS)",Of Currency Notes And Bank Notes (Sec. 489 (A) to 489 (E) IPC),subtype,30,1,1,2,1,100.0,1,100.0,2.0,rising
+2025-12,IPC,"COUNTERFEITING (Sec. 231 to 263 (A), 489(A) to 489 (E) IPC/178 TO 185 BNS)",Of Others,subtype,1,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,"FORGERY (Sec. 465, 468, 471, 473, 476, 477 & 477(A) IPC/336(2),336(3),340(2),341(2),342(2),343, 344 BNS)",Forgery,subtype,466,41,41,52,11,26.8,11,26.8,0.54,rising
+2025-12,IPC,"FORGERY (Sec. 465, 468, 471, 473, 476, 477 & 477(A) IPC/336(2),336(3),340(2),341(2),342(2),343, 344 BNS)",Organised (Racket),subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"FORGERY (Sec. 465, 468, 471, 473, 476, 477 & 477(A) IPC/336(2),336(3),340(2),341(2),342(2),343, 344 BNS)",Forgery of Passport,subtype,1,1,0,1,0,0.0,1,,0.0,rising
+2025-12,IPC,"FORGERY (Sec. 465, 468, 471, 473, 476, 477 & 477(A) IPC/336(2),336(3),340(2),341(2),342(2),343, 344 BNS)",Other Forgery,subtype,149,11,8,11,0,0.0,3,37.5,0.38,rising
+2025-12,IPC,"CASES OF HURT (Sec. 323 to 335 IPC except 328, 332, 333/115(2) TO 122(2) EXCEPT 121(1),121(2) BNS)",Acid Attack (326(a)),subtype,2,0,1,0,0,,-1,-100.0,-1.0,falling
+2025-12,IPC,"CASES OF HURT (Sec. 323 to 335 IPC except 328, 332, 333/115(2) TO 122(2) EXCEPT 121(1),121(2) BNS)",Attempt to Acid Attack (326(b)),subtype,6,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CASES OF HURT (Sec. 323 to 335 IPC except 328, 332, 333/115(2) TO 122(2) EXCEPT 121(1),121(2) BNS)",Grievous Hurt,subtype,1190,107,84,91,-16,-15.0,7,8.3,-0.07,falling
+2025-12,IPC,"CASES OF HURT (Sec. 323 to 335 IPC except 328, 332, 333/115(2) TO 122(2) EXCEPT 121(1),121(2) BNS)",Simple Hurt,subtype,15513,1219,1233,1383,164,13.5,150,12.2,0.26,rising
+2025-12,IPC,"CASES OF HURT (Sec. 323 to 335 IPC except 328, 332, 333/115(2) TO 122(2) EXCEPT 121(1),121(2) BNS)",Custodial,subtype,2,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,IPC,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Attempt to Commit,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Alcoholic Drink (Liquor),subtype,5,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Cement & Chemical/Fertiliser,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Cosmetics,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Diesel,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Drug/Medicine,subtype,6,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Edible Oil,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Food Grain,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Kerosene,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Life Saving Drug,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Mobile Oil,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Petrol,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Petroleum Product,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Soft Drinks,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Spices,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Others,subtype,7,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,AFFRAY (Sec. 160 IPC/194(2) BNS),NA,subtype,686,35,44,39,4,11.4,-5,-11.4,0.0,falling
+2025-12,IPC,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Agricultural Produce,subtype,43,4,2,9,5,125.0,7,350.0,4.25,rising
+2025-12,IPC,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Attemp to Commit,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Boat / Ship,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Dwelling House,subtype,18,0,1,0,0,,-1,-100.0,-1.0,falling
+2025-12,IPC,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Educational Institution,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Govt. Property,subtype,4,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Industrial Establishment,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Place of worship,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Public Place,subtype,11,0,1,1,1,,0,0.0,0.0,rising
+2025-12,IPC,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Railway Property,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Vital Installation,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Warehouse (Godown),subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Others,subtype,114,11,9,11,0,0.0,2,22.2,0.22,rising
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",Attempt To Commit,subtype,6,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Contractor,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Domestic Servant,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Labourer,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Man (General),subtype,14,0,2,0,0,,-2,-100.0,-1.0,falling
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Man (SC),subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Man (ST),subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Manager/Executive (Other Than Public Servant),subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)","On Member of Clergy (Christian, Budhist, Jain, Sikh)",subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",Member of Legislative Assembly / Council (MLA/MLC),subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Member of Parliament (MP),subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On other Dignitaries /Public Figures,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Press,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Professional,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Public Servant,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Student,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Teacher,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Women (General),subtype,3,0,2,0,0,,-2,-100.0,-1.0,falling
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Woman (SC),subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Woman (ST),subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Attempt to Commit,subtype,4,1,1,0,-1,-100.0,-1,-100.0,-2.0,falling
+2025-12,IPC,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Caste Issue,subtype,5,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Communal Issue,subtype,65,4,4,4,0,0.0,0,0.0,0.0,stable
+2025-12,IPC,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Linguistic Issue,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Political Issue,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Racial/Ethnic Issue,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Regional Issue,subtype,17,2,0,0,-2,-100.0,0,,-1.0,falling
+2025-12,IPC,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Religious Issue,subtype,91,12,2,5,-7,-58.3,3,150.0,0.92,falling
+2025-12,IPC,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Sectarian Issue,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Others,subtype,77,7,4,2,-5,-71.4,-2,-50.0,-1.21,falling
+2025-12,IPC,"CRIMINAL CONSPIRACY (Sec. 120(B), 121(A) IPC/61(2),148 BNS)",Conspiracy To Wage War,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL CONSPIRACY (Sec. 120(B), 121(A) IPC/61(2),148 BNS)",Related to Substantive Offence,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL CONSPIRACY (Sec. 120(B), 121(A) IPC/61(2),148 BNS)",Others,subtype,11,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,CRIMINAL INTIMIDATION (Sec. 504 to 508 IPC/352 TO 354 BNS),NA,subtype,3299,227,261,301,74,32.6,40,15.3,0.48,rising
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Attempt to Commit,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Bank,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Business Establishment,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Charitable Organisation,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Chitfund Organisation,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Co-operative Organisation,subtype,3,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Commercial Establishment/Shop,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Customs Department,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Excise Department,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Financial Institution,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Income Tax Department,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Other Government Organisation,subtype,1,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Postal Department,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Public Sector Undertakings,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Railway Department,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Revenue Department,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Sales Tax Department,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Social Organisation (Aided) (N),subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Transport Authority,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Trust - Other than religious,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Trust - Religious,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Others,subtype,13,2,4,1,-1,-50.0,-3,-75.0,-1.25,falling
+2025-12,IPC,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS),Attempt to Commit,subtype,10,0,1,0,0,,-1,-100.0,-1.0,falling
+2025-12,IPC,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS),Club,subtype,4,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS),Hostel,subtype,5,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,IPC,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS),Hotel,subtype,13,0,2,1,1,,-1,-50.0,-0.5,stable
+2025-12,IPC,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS),House,subtype,715,55,50,61,6,10.9,11,22.0,0.33,rising
+2025-12,IPC,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS),Land,subtype,1736,127,153,166,39,30.7,13,8.5,0.39,rising
+2025-12,IPC,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS),Office,subtype,61,7,1,8,1,14.3,7,700.0,3.14,rising
+2025-12,IPC,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS),Prohibited Places,subtype,13,2,1,0,-2,-100.0,-1,-100.0,-2.0,falling
+2025-12,IPC,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS),Religious Place,subtype,10,2,0,2,0,0.0,2,,0.0,rising
+2025-12,IPC,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS),Restricted Area,subtype,11,1,1,2,1,100.0,1,100.0,2.0,rising
+2025-12,IPC,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS),Others,subtype,216,18,14,30,12,66.7,16,114.3,1.81,rising
+2025-12,IPC,CRUELTY BY HUSBAND (Sec. 498(A) IPC/85 BNS),Husband,subtype,1059,81,88,88,7,8.6,0,0.0,0.09,rising
+2025-12,IPC,CRUELTY BY HUSBAND (Sec. 498(A) IPC/85 BNS),Husband And Relative(S) in Law,subtype,1328,102,121,112,10,9.8,-9,-7.4,0.02,rising
+2025-12,IPC,CRUELTY BY HUSBAND (Sec. 498(A) IPC/85 BNS),Relative(S) in Law,subtype,36,1,4,2,1,100.0,-2,-50.0,0.5,falling
+2025-12,IPC,CRUELTY BY HUSBAND (Sec. 498(A) IPC/85 BNS),Dowry Harassment,subtype,407,23,37,35,12,52.2,-2,-5.4,0.47,rising
+2025-12,IPC,DOWRY DEATHS (Sec.304(B) IPC/80 BNS),By Husband,subtype,2,1,1,0,-1,-100.0,-1,-100.0,-2.0,falling
+2025-12,IPC,DOWRY DEATHS (Sec.304(B) IPC/80 BNS),By Husband And Relatives In Law,subtype,40,3,5,2,-1,-33.3,-3,-60.0,-0.93,falling
+2025-12,IPC,DOWRY DEATHS (Sec.304(B) IPC/80 BNS),By Relatives in Law,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DOWRY DEATHS (Sec.304(B) IPC/80 BNS),By Burning,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DOWRY DEATHS (Sec.304(B) IPC/80 BNS),By Hanging,subtype,62,1,4,6,5,500.0,2,50.0,3.5,rising
+2025-12,IPC,DOWRY DEATHS (Sec.304(B) IPC/80 BNS),By Other Means,subtype,10,1,1,0,-1,-100.0,-1,-100.0,-2.0,falling
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Electrocution,subtype,26,1,4,3,2,200.0,-1,-25.0,1.75,rising
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Adulterated Food/Drug,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Accident by Air,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Boad Accident,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Bridge/Dam Collapse,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Building Collapse,subtype,5,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Caused By Animal,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Death Due to Other Cause,subtype,68,8,6,5,-3,-37.5,-1,-16.7,-0.54,falling
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Electrocution Accident,subtype,42,4,5,2,-2,-50.0,-3,-60.0,-1.1,falling
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Explosion Accident,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Fire accident,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Gas Leakage Accident,subtype,4,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Improper Infrastucture In Construction,subtype,90,14,7,7,-7,-50.0,0,0.0,-0.5,falling
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Improper Medical Treatment,subtype,5,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),In Custody of Public Servant,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),In Jail/Judicial Custody,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),In Police Custody,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Industrial Accident (Factory),subtype,8,0,1,0,0,,-1,-100.0,-1.0,falling
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Inflammable Substance,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Mine Accident,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Poisonous Substance,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Quarry Accident,subtype,2,0,0,2,2,,2,,0.0,rising
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Spurious Liquor (Hooch) Accident,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Railway Accident,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Others,subtype,72,8,6,7,-1,-12.5,1,16.7,0.04,stable
+2025-12,IPC,MOTOR VEHICLE ACCIDENTS FATAL (Sec.304(A) IPC/106 BNS),National Highways,subtype,4015,354,320,318,-36,-10.2,-2,-0.6,-0.11,falling
+2025-12,IPC,MOTOR VEHICLE ACCIDENTS FATAL (Sec.304(A) IPC/106 BNS),State Highways,subtype,3135,337,264,301,-36,-10.7,37,14.0,0.03,rising
+2025-12,IPC,MOTOR VEHICLE ACCIDENTS FATAL (Sec.304(A) IPC/106 BNS),Other Roads,subtype,4097,385,325,373,-12,-3.1,48,14.8,0.12,rising
+2025-12,IPC,MOTOR VEHICLE ACCIDENTS FATAL (Sec.304(A) IPC/106 BNS),Other Places,subtype,161,17,17,12,-5,-29.4,-5,-29.4,-0.59,falling
+2025-12,IPC,"MOTOR VEHICLE ACCIDENTS NON-FATAL (Sec.279, 337, 338 IPC/281,125(a),125(b) BNS)",National Highways,subtype,10233,882,861,942,60,6.8,81,9.4,0.16,rising
+2025-12,IPC,"MOTOR VEHICLE ACCIDENTS NON-FATAL (Sec.279, 337, 338 IPC/281,125(a),125(b) BNS)",State Highways,subtype,7158,632,630,691,59,9.3,61,9.7,0.19,rising
+2025-12,IPC,"MOTOR VEHICLE ACCIDENTS NON-FATAL (Sec.279, 337, 338 IPC/281,125(a),125(b) BNS)",Other Roads,subtype,13939,1211,1208,1350,139,11.5,142,11.8,0.23,rising
+2025-12,IPC,"MOTOR VEHICLE ACCIDENTS NON-FATAL (Sec.279, 337, 338 IPC/281,125(a),125(b) BNS)",Other Places,subtype,421,32,40,39,7,21.9,-1,-2.5,0.19,rising
+2025-12,IPC,"DEATHS-MISCARRIAGE (Sec.312, 313, 314 IPC/88,89,90 BNS)",Child,subtype,14,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"DEATHS-MISCARRIAGE (Sec.312, 313, 314 IPC/88,89,90 BNS)",Woman,subtype,1,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,IPC,"DEATHS-MISCARRIAGE (Sec.312, 313, 314 IPC/88,89,90 BNS)",Women and Child,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"DEFENCE FORCES OFFENCES RELATING (also relating to desertion) (Sec.131 to 140, except 136 IPC/159 TO 168 EXCEPT 164 BNS)",Air Force,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"DEFENCE FORCES OFFENCES RELATING (also relating to desertion) (Sec.131 to 140, except 136 IPC/159 TO 168 EXCEPT 164 BNS)",Army,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"DEFENCE FORCES OFFENCES RELATING (also relating to desertion) (Sec.131 to 140, except 136 IPC/159 TO 168 EXCEPT 164 BNS)",Navy,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"ESCAPE FROM LAWFUL CUSTODY AND RESISTANCE (Sec.224, 225, 225(B) IPC/262,263,265 BNS)",From Jail Custody,subtype,10,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,"ESCAPE FROM LAWFUL CUSTODY AND RESISTANCE (Sec.224, 225, 225(B) IPC/262,263,265 BNS)",From Police Custody,subtype,18,1,3,1,0,0.0,-2,-66.7,-0.67,falling
+2025-12,IPC,"ESCAPE FROM LAWFUL CUSTODY AND RESISTANCE (Sec.224, 225, 225(B) IPC/262,263,265 BNS)",Others,subtype,12,0,2,0,0,,-2,-100.0,-1.0,falling
+2025-12,IPC,"IMPERSONATION (Sec.170, 171 IPC/204,205 BNS)",Attempt to Commit,subtype,12,0,1,1,1,,0,0.0,0.0,rising
+2025-12,IPC,"IMPERSONATION (Sec.170, 171 IPC/204,205 BNS)",Non-Uniformed Authority,subtype,4,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,"IMPERSONATION (Sec.170, 171 IPC/204,205 BNS)",Uniformed Authority,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"MISCHIEF (Sec.427 to 440 except 434, 435, 436, 438 IPC/324(4) TO 324(6) BNS)",NA,subtype,454,33,33,38,5,15.2,5,15.2,0.3,rising
+2025-12,IPC,MOLESTATION (Sec.354 IPC/74 BNS),Attempt to Commit,subtype,65,9,3,7,-2,-22.2,4,133.3,1.11,rising
+2025-12,IPC,MOLESTATION (Sec.354 IPC/74 BNS),Private Place,subtype,972,72,87,91,19,26.4,4,4.6,0.31,rising
+2025-12,IPC,MOLESTATION (Sec.354 IPC/74 BNS),Public Conveyance,subtype,12,1,1,0,-1,-100.0,-1,-100.0,-2.0,falling
+2025-12,IPC,MOLESTATION (Sec.354 IPC/74 BNS),Public Place,subtype,2189,142,166,205,63,44.4,39,23.5,0.68,rising
+2025-12,IPC,MOLESTATION (Sec.354 IPC/74 BNS),Other Places,subtype,2602,201,207,218,17,8.5,11,5.3,0.14,rising
+2025-12,IPC,POISONING-PROFESSIONAL (Sec. 328 IPC/123 BNS),Attempt to Commit,subtype,12,1,3,0,-1,-100.0,-3,-100.0,-2.0,falling
+2025-12,IPC,POISONING-PROFESSIONAL (Sec. 328 IPC/123 BNS),Fatal,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,POISONING-PROFESSIONAL (Sec. 328 IPC/123 BNS),Non Fatal,subtype,2,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,IPC,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Advertisement,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Audio Tape,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Book,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Computer Software,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Figures,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Film (Blue),subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Painting,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Pamphlet,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Paper,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Photography,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Poster,subtype,8,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Video Film(Blue),subtype,2,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Others,subtype,24,0,1,2,2,,1,100.0,1.0,rising
+2025-12,IPC,PUBLIC JUSTICE (Sec.213 to 215 IPC/250 TO 252 BNS),NA,subtype,7,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,"PUBLIC NUISANCE (Sec.291 and 510 IPC/293,355 BNS)",NA,subtype,408,12,25,31,19,158.3,6,24.0,1.82,rising
+2025-12,IPC,"PUBLIC SAFETY (Sec.269 to 271, 277, 283, 289 IPC/271 to 273, 279,285,291 BNS)",NA,subtype,5240,242,376,307,65,26.9,-69,-18.4,0.08,falling
+2025-12,IPC,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS)",Attempt to Commit,subtype,19,0,1,1,1,,0,0.0,0.0,rising
+2025-12,IPC,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS)",Defence Personnel,subtype,2,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,IPC,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS)",Jail Personnel,subtype,14,0,0,4,4,,4,,0.0,rising
+2025-12,IPC,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS)",Judicial Official,subtype,22,4,0,2,-2,-50.0,2,,-0.5,stable
+2025-12,IPC,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS)",Minister,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS)",MLA,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS)",MP,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS)",Nationalised Bank Personnel,subtype,3,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS)",Other Elected Member,subtype,4,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS)",Other Enforcement Official,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS)",Other Govt. Official,subtype,462,38,34,34,-4,-10.5,0,0.0,-0.1,falling
+2025-12,IPC,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS)",Para Military Personnel,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS)",Police Personnel,subtype,498,30,40,28,-2,-6.7,-12,-30.0,-0.37,falling
+2025-12,IPC,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS)",Public Sector Undertaking Official,subtype,136,16,10,17,1,6.2,7,70.0,0.76,rising
+2025-12,IPC,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 129, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Defence Personnel,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 129, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Jail Personnel,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 129, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Judicial Official,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 129, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Minister,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 129, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",MLA,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 129, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",MP,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 129, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Nationalised Bank Personnel,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 129, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Other Elected Member,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 129, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Other Enforcement Official,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 129, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Other Govt. Official,subtype,3,0,2,1,1,,-1,-50.0,-0.5,stable
+2025-12,IPC,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 129, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Para Military Personnel,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 129, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Police Personnel,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 129, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Public Sector Undertaking Official,subtype,3,0,1,0,0,,-1,-100.0,-1.0,falling
+2025-12,IPC,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 129, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Others,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Animal -Related,subtype,64,6,7,7,1,16.7,0,0.0,0.17,rising
+2025-12,IPC,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Boat/Vessel - Related,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Explosive/Explosive Substances - Related,subtype,33,5,2,0,-5,-100.0,-2,-100.0,-2.0,falling
+2025-12,IPC,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Inflammable Substance- Related,subtype,20,2,1,2,0,0.0,1,100.0,1.0,rising
+2025-12,IPC,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Machinery - Related,subtype,121,13,14,12,-1,-7.7,-2,-14.3,-0.22,falling
+2025-12,IPC,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Poisonous Substance - Related,subtype,13,1,2,0,-1,-100.0,-2,-100.0,-2.0,falling
+2025-12,IPC,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Other - Related,subtype,1581,160,141,87,-73,-45.6,-54,-38.3,-0.84,falling
+2025-12,IPC,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Human - Related,subtype,1005,113,46,36,-77,-68.1,-10,-21.7,-0.9,falling
+2025-12,IPC,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Wheeling,subtype,172,0,8,24,24,,16,200.0,2.0,rising
+2025-12,IPC,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Drink & Drive Without DL,subtype,56,0,3,0,0,,-3,-100.0,-1.0,falling
+2025-12,IPC,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Death Causeed By Electric Shock,subtype,82,9,3,5,-4,-44.4,2,66.7,0.22,falling
+2025-12,IPC,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Defective Silencer,subtype,21,0,5,6,6,,1,20.0,0.2,rising
+2025-12,IPC,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Footpath Riding,subtype,8,0,1,1,1,,0,0.0,0.0,rising
+2025-12,IPC,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Racing & Trials of Speed,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Rash & Negligence/Dangerous Driving,subtype,743,1,134,67,66,6600.0,-67,-50.0,2.5,falling
+2025-12,IPC,RECEIVING OF STOLEN PROPERTY (Sec.411 to 414 IPC/317(2) TO 317(5) BNS),NA,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,SEDITION (Sec. 124A IPC/IN BNS Deleted),Attempt to Commit,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,SEDITION (Sec. 124A IPC/IN BNS Deleted),By Foreigner,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,SEDITION (Sec. 124A IPC/IN BNS Deleted),By National,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,SEDITION (Sec. 124A IPC/IN BNS Deleted),By National And Foreigner,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,INSULTING MODESTY OF WOMEN (EVE TEASING) (Sec.509 IPC/79 BNS),Attempt to Commit,subtype,16,0,1,5,5,,4,400.0,3.0,rising
+2025-12,IPC,INSULTING MODESTY OF WOMEN (EVE TEASING) (Sec.509 IPC/79 BNS),Office,subtype,16,2,1,2,0,0.0,1,100.0,1.0,rising
+2025-12,IPC,INSULTING MODESTY OF WOMEN (EVE TEASING) (Sec.509 IPC/79 BNS),Public Conveyance,subtype,11,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,INSULTING MODESTY OF WOMEN (EVE TEASING) (Sec.509 IPC/79 BNS),Public Place,subtype,139,10,7,16,6,60.0,9,128.6,1.89,rising
+2025-12,IPC,INSULTING MODESTY OF WOMEN (EVE TEASING) (Sec.509 IPC/79 BNS),Other Places,subtype,221,9,21,19,10,111.1,-2,-9.5,1.02,rising
+2025-12,IPC,"SUICIDE (Sec.305, 306, 309 IPC/107,108 BNS)",Dowry,subtype,8,0,2,0,0,,-2,-100.0,-1.0,falling
+2025-12,IPC,"SUICIDE (Sec.305, 306, 309 IPC/107,108 BNS)",Abetment of Suicide,subtype,401,35,39,32,-3,-8.6,-7,-17.9,-0.27,falling
+2025-12,IPC,"SUICIDE (Sec.305, 306, 309 IPC/107,108 BNS)",Other Reasons,subtype,264,23,12,21,-2,-8.7,9,75.0,0.66,rising
+2025-12,IPC,"SUICIDE (Sec.305, 306, 309 IPC/107,108 BNS)",Attempt to Commit suicide,subtype,76,6,5,5,-1,-16.7,0,0.0,-0.17,falling
+2025-12,IPC,UNNATURAL SEX (Sec.377 IPC/IN BNS Deleted),Abetment,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,UNNATURAL SEX (Sec.377 IPC/IN BNS Deleted),Animal,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,UNNATURAL SEX (Sec.377 IPC/IN BNS Deleted),Attempt,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,UNNATURAL SEX (Sec.377 IPC/IN BNS Deleted),Major - Man,subtype,0,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,IPC,UNNATURAL SEX (Sec.377 IPC/IN BNS Deleted),Major - Woman,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,UNNATURAL SEX (Sec.377 IPC/IN BNS Deleted),Minor - Boy,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,UNNATURAL SEX (Sec.377 IPC/IN BNS Deleted),Minor - Girl,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"WRONGFUL RESTRAINT/CONFINEMENT (Sec.341 to 348 IPC/126(2),127(2)-127(8) BNS)",Attempt to Commit,subtype,33,1,2,4,3,300.0,2,100.0,4.0,rising
+2025-12,IPC,"WRONGFUL RESTRAINT/CONFINEMENT (Sec.341 to 348 IPC/126(2),127(2)-127(8) BNS)",To Extort Confession,subtype,11,0,2,2,2,,0,0.0,0.0,rising
+2025-12,IPC,"WRONGFUL RESTRAINT/CONFINEMENT (Sec.341 to 348 IPC/126(2),127(2)-127(8) BNS)",To Extort Property,subtype,27,2,4,2,0,0.0,-2,-50.0,-0.5,falling
+2025-12,IPC,"WRONGFUL RESTRAINT/CONFINEMENT (Sec.341 to 348 IPC/126(2),127(2)-127(8) BNS)",To settle Dispute,subtype,19,0,1,2,2,,1,100.0,1.0,rising
+2025-12,IPC,"WRONGFUL RESTRAINT/CONFINEMENT (Sec.341 to 348 IPC/126(2),127(2)-127(8) BNS)",Others,subtype,415,38,22,42,4,10.5,20,90.9,1.01,rising
+2025-12,IPC,"INFANTICIDE (Sec.315, 316 IPC/91,92 BNS)",Male,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"INFANTICIDE (Sec.315, 316 IPC/91,92 BNS)",Female,subtype,3,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"OFFENCES RELATED TO MARRIAGE (Sec.493 to 498 IPC/81,84 BNS)",NA,subtype,37,5,3,1,-4,-80.0,-2,-66.7,-1.47,falling
+2025-12,IPC,"BUYING & SELLING MINOR FOR PROSTITUTION (Sec.372, 373 IPC/98,99 BNS)",NA,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DOCUMENTS & PROPERTY MARKS (Sec.483 to 489 IPC/346-350(2) BNS),Documents,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DOCUMENTS & PROPERTY MARKS (Sec.483 to 489 IPC/346-350(2) BNS),Property,subtype,2,0,1,0,0,,-1,-100.0,-1.0,falling
+2025-12,IPC,DEFAMATION (Sec.500 to 502 IPC/350(2)-356(4) BNS),Persons,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,DEFAMATION (Sec.500 to 502 IPC/350(2)-356(4) BNS),Printed Matter,subtype,1,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,IPC,DEFAMATION (Sec.500 to 502 IPC/350(2)-356(4) BNS),Others,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ELECTION(Sec.171(E) to 171(1) IPC/173-177 BNS),Assembly,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ELECTION(Sec.171(E) to 171(1) IPC/173-177 BNS),Parliament,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,ELECTION(Sec.171(E) to 171(1) IPC/173-177 BNS),Other Elected Bodies,subtype,4,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,IPC,"SLAVERY (Sec.370, 371, 374 IPC/143,145,146 BNS)",Man,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"SLAVERY (Sec.370, 371, 374 IPC/143,145,146 BNS)",Woman,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"SLAVERY (Sec.370, 371, 374 IPC/143,145,146 BNS)",Boy,subtype,6,0,1,1,1,,0,0.0,0.0,rising
+2025-12,IPC,"SLAVERY (Sec.370, 371, 374 IPC/143,145,146 BNS)",Girl,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Attempting to commit offences (Sec.511 IPC/62 BNS),Attempting to commit offences,subtype,223,19,21,18,-1,-5.3,-3,-14.3,-0.2,falling
+2025-12,IPC,ILLEGAL DETENTION (Sec.342 IPC/127(2) BNS),NA,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,FALSE EVIDENCE (Sec.191 to 205 IPC/227-242 BNS),NA,subtype,13,1,0,3,2,200.0,3,,2.0,rising
+2025-12,IPC,EXPOSURE AND ABANDONMENT OF CHILD (Sec.317 IPC/93 BNS),Boy,subtype,26,1,1,4,3,300.0,3,300.0,6.0,rising
+2025-12,IPC,EXPOSURE AND ABANDONMENT OF CHILD (Sec.317 IPC/93 BNS),Girl,subtype,39,7,2,2,-5,-71.4,0,0.0,-0.71,falling
+2025-12,IPC,OF ABETMENT (Sec.107 to 120 IPC/45-60 BNS),NA,subtype,19,0,1,0,0,,-1,-100.0,-1.0,falling
+2025-12,IPC,"FAILURE TO APPEAR TO COURT (Sec.174A, 229A IPC/209,269 BNS)",IPC 174 A/BNS 209,subtype,354,19,10,7,-12,-63.2,-3,-30.0,-0.93,falling
+2025-12,IPC,"FAILURE TO APPEAR TO COURT (Sec.174A, 229A IPC/209,269 BNS)",IPC 229 A/BNS 269,subtype,1016,175,23,32,-143,-81.7,9,39.1,-0.43,falling
+2025-12,IPC,Concealment of birth by secret disposal of Child,Girl,subtype,24,4,4,1,-3,-75.0,-3,-75.0,-1.5,falling
+2025-12,IPC,Concealment of birth by secret disposal of Child,Boy,subtype,23,4,2,1,-3,-75.0,-1,-50.0,-1.25,falling
+2025-12,IPC,ASSAULT OR USE OF CRIMINAL FORCE TO DISROBE WOMEN,NA,subtype,7,3,0,1,-2,-66.7,1,,-0.67,falling
+2025-12,IPC,Disobedience to Order Promulgated by Public/Servant,By Govt. Institution,subtype,21,0,3,2,2,,-1,-33.3,-0.33,rising
+2025-12,IPC,Disobedience to Order Promulgated by Public/Servant,By Others,subtype,17,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,IPC,Disobedience to Order Promulgated by Public/Servant,By Private Institution,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Human Trafficking,Women,subtype,5,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Human Trafficking,Girl,subtype,4,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,IPC,Human Trafficking,Eunuch,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Human Trafficking,Men,subtype,6,0,0,1,1,,1,,0.0,rising
+2025-12,IPC,Human Trafficking,Boy,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Giving false information respecting an offence committed,Giving false information respecting an offence committed,subtype,30,0,2,1,1,,-1,-50.0,-0.5,stable
+2025-12,IPC,Harbouring offender,NA,subtype,3,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Pettry Organised Crimes,Cargo Theft,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Pettry Organised Crimes,Pick Pocketing,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Pettry Organised Crimes,Shop Lifting,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Pettry Organised Crimes,Theft Of ATM Machines,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Pettry Organised Crimes,Theft From Vehicles,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Pettry Organised Crimes,Unauthorised Betting/Gambling,subtype,145,12,6,9,-3,-25.0,3,50.0,0.25,stable
+2025-12,IPC,Pettry Organised Crimes,Others,subtype,12,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Public Servant in Judicial proceeding,Defence Personnel,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Public Servant in Judicial proceeding,Others,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Public Servant in Judicial proceeding,Jail Personnel,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Public Servant in Judicial proceeding,Para Military Personnel,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Public Servant in Judicial proceeding,Police Personnel,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Public Servant in Judicial proceeding,Public Sector Undertaking Official,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Public Servant in Judicial proceeding,Judicial Official,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Public Servant in Judicial proceeding,Minister,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Public Servant in Judicial proceeding,MLA,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Public Servant in Judicial proceeding,MP,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Public Servant in Judicial proceeding,Nationalised Bank Personnel,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Public Servant in Judicial proceeding,Other Elected Member,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Public Servant in Judicial proceeding,Other Enforcement Official,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,Public Servant in Judicial proceeding,Other Govt Official,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,IPC,"The Indian Stamp Act, 1899",NA,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,ANTIQUES (CULTURAL PROPERTY),Antiques & Art Treasures Act 1972,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,ANTIQUES (CULTURAL PROPERTY),Ancient Monument & Archaelogical Sites And Remains Act 1958,subtype,5,5,0,0,-5,-100.0,0,,-1.0,falling
+2025-12,SLL,ARMS ACT 1959,Country Made - Non Prohibited Bore - In Disturbed Area,subtype,21,1,3,1,0,0.0,-2,-66.7,-0.67,falling
+2025-12,SLL,ARMS ACT 1960,Country Made - Non Prohibited Bore - In Other Area,subtype,151,7,11,5,-2,-28.6,-6,-54.5,-0.83,falling
+2025-12,SLL,ARMS ACT 1961,Country Made - Prohibited Bore - In Disturbed Area,subtype,19,0,0,1,1,,1,,0.0,rising
+2025-12,SLL,ARMS ACT 1962,Country Made - Prohibited Bore - In Other Area,subtype,119,3,13,6,3,100.0,-7,-53.8,0.46,falling
+2025-12,SLL,ARMS ACT 1963,Factory Made - Non Prohibited Bore - In Disturbed Area,subtype,7,0,1,1,1,,0,0.0,0.0,rising
+2025-12,SLL,ARMS ACT 1964,Factory Made - Non Prohibited Bore - In Other Area,subtype,34,1,3,6,5,500.0,3,100.0,4.0,rising
+2025-12,SLL,ARMS ACT 1965,Factory Made - Prohibited Bore - In Disturbed Area,subtype,12,1,1,2,1,100.0,1,100.0,2.0,rising
+2025-12,SLL,ARMS ACT 1966,Factory Made - Prohibited Bore - In Other Area,subtype,46,3,3,8,5,166.7,5,166.7,3.33,rising
+2025-12,SLL,ANIMAL,The Karnataka Prevention of Slaughter and Preservation of Cattle Ordinance 2020,subtype,154,9,13,10,1,11.1,-3,-23.1,-0.12,falling
+2025-12,SLL,ANIMAL,Wild Life Preservation Act 1972,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,ANIMAL,Wild Life Protection Act 1972,subtype,3,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,ANIMAL,Prevention of Cruelty to Animals Act 1960,subtype,260,22,22,18,-4,-18.2,-4,-18.2,-0.36,falling
+2025-12,SLL,ANIMAL,Elephant (Preservation) Act 1879,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,ANIMAL,Cattle Tresspass Act 1871,subtype,3,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,SLL,CINEMATOGRAPHY ACT 1952,Films,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,CINEMATOGRAPHY ACT 1953,Video,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,CONSUMER,Liquified Petroleum Gas Supply & Control Order 2000,subtype,86,4,5,7,3,75.0,2,40.0,1.15,rising
+2025-12,SLL,CONSUMER,Consumer (Protection) Act 1986,subtype,7,0,1,0,0,,-1,-100.0,-1.0,falling
+2025-12,SLL,CONSUMER,Essential Commodities Act 1955,subtype,774,17,69,77,60,352.9,8,11.6,3.12,rising
+2025-12,SLL,CONSUMER,Prevention of Food Adulternation Act 1954,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,CONSUMER,Packaged Commodities (Regulation) order 1975,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,COPY RIGHT ACT 1957,By Company,subtype,141,9,11,12,3,33.3,1,9.1,0.42,rising
+2025-12,SLL,COPY RIGHT ACT 1958,By Individual,subtype,74,5,9,6,1,20.0,-3,-33.3,-0.13,falling
+2025-12,SLL,CIVIL RIGHTS,Protection of Civil Rights Act 1955,subtype,6,1,1,0,-1,-100.0,-1,-100.0,-2.0,falling
+2025-12,SLL,SCHEDULED CASTE AND THE SCHEDULED TRIBES,Scheduled Caste,subtype,1355,105,116,140,35,33.3,24,20.7,0.54,rising
+2025-12,SLL,SCHEDULED CASTE AND THE SCHEDULED TRIBES,Scheduled Tribes,subtype,318,13,32,23,10,76.9,-9,-28.1,0.49,rising
+2025-12,SLL,SCHEDULED CASTE AND THE SCHEDULED TRIBES,Scheduled Caste Women,subtype,590,36,56,69,33,91.7,13,23.2,1.15,rising
+2025-12,SLL,SCHEDULED CASTE AND THE SCHEDULED TRIBES,Scheduled Tribes Women,subtype,148,11,21,13,2,18.2,-8,-38.1,-0.2,falling
+2025-12,SLL,CHILDREN ACT,Child Labour (Prohibition & Regulation) Act1986,subtype,78,3,8,1,-2,-66.7,-7,-87.5,-1.54,falling
+2025-12,SLL,CHILDREN ACT,Child Marriage (Restraint) Act - 1929,subtype,197,10,10,17,7,70.0,7,70.0,1.4,rising
+2025-12,SLL,CHILDREN ACT,Juvenile Justice Act 1986,subtype,151,15,12,19,4,26.7,7,58.3,0.85,rising
+2025-12,SLL,CHILDREN ACT,Probation of offenders Act 1958,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,CHILDREN ACT,Protection of Children from Sexual Offences Act 2012 (POCSO),subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,PREVENTION OF CORRUPTION ACT 1988,Public Servant - Elected,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,PREVENTION OF CORRUPTION ACT 1989,Public Servant - Gazetted - Central,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,PREVENTION OF CORRUPTION ACT 1990,Public Servant - Gazetted - Defence,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,PREVENTION OF CORRUPTION ACT 1991,Public Servant - Gazetted - Public Sector Undertaking,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,PREVENTION OF CORRUPTION ACT 1992,Public Servant - Gazetted - State,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,PREVENTION OF CORRUPTION ACT 1993,Public Servant - Non-Gazetted - Central,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,PREVENTION OF CORRUPTION ACT 1994,Public Servant - Non-Gazetted - Defence,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,PREVENTION OF CORRUPTION ACT 1995,Public Servant - Non-Gazetted - State,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,CUSTOMS,Customs Act 1962,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,CUSTOMS,Import/Export (Control) Act 1947,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,Explosives,Explosives Substances Act 1908,subtype,42,4,3,2,-2,-50.0,-1,-33.3,-0.83,falling
+2025-12,SLL,Explosives,Explosives Act 1884,subtype,99,1,3,10,9,900.0,7,233.3,5.33,rising
+2025-12,SLL,Explosives,Inflammable Substance Act 1952,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,FOREIGN EXCHANGE,Smugglers and Foreign Exchange Manipulator Act 1976,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,FOREIGN EXCHANGE,Foreign Exchange Regulation Act 1973,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,FOREIGN EXCHANGE,Foreign Exchange Regulation Act 1952,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,FOREIGNER,Foreigners Act 1946,subtype,116,3,15,12,9,300.0,-3,-20.0,2.8,rising
+2025-12,SLL,FOREIGNER,Registration of Foreigners Act 1939,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,FOREST,Indian Forest Act 1927,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,FOREST,Forest (Conservation) Act 1980,subtype,11,0,0,2,2,,2,,0.0,rising
+2025-12,SLL,HIJACKING,Foreign Aircraft - In India,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,HIJACKING,Foreign Aircraft - Outside India,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,HIJACKING,Indian Aircraft - In India,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,HIJACKING,Indian Aircraft - Outside India,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,IMMORAL TRAFFIC,Organised,subtype,206,10,18,12,2,20.0,-6,-33.3,-0.13,falling
+2025-12,SLL,IMMORAL TRAFFIC,Un-Organised,subtype,110,9,8,6,-3,-33.3,-2,-25.0,-0.58,falling
+2025-12,SLL,BONDED LABOUR SYSTEM,NA,subtype,14,0,3,1,1,,-2,-66.7,-0.67,falling
+2025-12,SLL,INDIAN MOTOR VEHICLE,NA,subtype,65,1,2,3,2,200.0,1,50.0,2.5,rising
+2025-12,SLL,NARCOTIC DRUGS & PSYCHOTROPIC SUBSTANCES ACT,Cultivated/Processed,subtype,3151,213,390,472,259,121.6,82,21.0,1.43,rising
+2025-12,SLL,NARCOTIC DRUGS & PSYCHOTROPIC SUBSTANCES ACT,Synthetic,subtype,3674,438,383,434,-4,-0.9,51,13.3,0.12,rising
+2025-12,SLL,PASSPORT ACT,Foreigner,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,PASSPORT ACT,Indian,subtype,4,1,1,0,-1,-100.0,-1,-100.0,-2.0,falling
+2025-12,SLL,REPRESENTATIVE OF PEOPLE ACT 1951 & 1988,Assembly,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,REPRESENTATIVE OF PEOPLE ACT 1951 & 1989,Parliament,subtype,1,0,1,0,0,,-1,-100.0,-1.0,falling
+2025-12,SLL,REPRESENTATIVE OF PEOPLE ACT 1951 & 1990,Other Elected Bodies,subtype,1,0,0,1,1,,1,,0.0,rising
+2025-12,SLL,KARNATAKA POLICE ACT 1963,Gambling - Matka (78 Class C),subtype,6506,1039,595,676,-363,-34.9,81,13.6,-0.21,falling
+2025-12,SLL,KARNATAKA POLICE ACT 1964,Street Gambling (87),subtype,7365,487,499,463,-24,-4.9,-36,-7.2,-0.12,falling
+2025-12,SLL,KARNATAKA POLICE ACT 1965,House Gambling (79 & 80),subtype,262,20,17,23,3,15.0,6,35.3,0.5,rising
+2025-12,SLL,KARNATAKA POLICE ACT 1966,Betting,subtype,601,16,5,12,-4,-25.0,7,140.0,1.15,rising
+2025-12,SLL,KARNATAKA POLICE ACT 1967,Others,subtype,523,22,51,47,25,113.6,-4,-7.8,1.06,rising
+2025-12,SLL,PREVENTION OF DAMAGE TO PUBLIC PROPERTY ACT 1984,NA,subtype,130,9,3,14,5,55.6,11,366.7,3.56,rising
+2025-12,SLL,"POST & TELEGRAPH, TELEGRAPH WIRES (UNLAWFUL POSSESSION) ACT 1980",NA,subtype,1,0,1,0,0,,-1,-100.0,-1.0,falling
+2025-12,SLL,OFFICIAL SECURITY RELATED ACTS,Official Secrets Act 1923,subtype,2,0,1,0,0,,-1,-100.0,-1.0,falling
+2025-12,SLL,OFFICIAL SECURITY RELATED ACTS,Essential Services Maintenance Act 1981,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,PREVENTION OF TERRORISM ACT (POTA),NA,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,RAILWAYS ACT,Indian Railways Act 1989,subtype,6,0,2,2,2,,0,0.0,0.0,rising
+2025-12,SLL,RAILWAYS ACT,Railway Property (Unlawful Possession) Act 1966,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,UNLAWFUL ACTIVITIES (Prevention) Act 1967,NA,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,CRIMES RELATED TO WOMEN,Dowry Prohibition,subtype,2028,159,173,162,3,1.9,-11,-6.4,-0.04,falling
+2025-12,SLL,CRIMES RELATED TO WOMEN,Commission of SATI (Prevention) Act 1987,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,CRIMES RELATED TO WOMEN,Indecent Representation of Women (Prohibition) Act 1986,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,INDIAN LUNACY ACT,NA,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,INDIAN ELECTRICITY ACT,NA,subtype,12,1,1,0,-1,-100.0,-1,-100.0,-2.0,falling
+2025-12,SLL,"COTPA, CIGARETTES AND OTHER TOBACCO PRODUCTS",NA,subtype,3178,208,112,212,4,1.9,100,89.3,0.91,rising
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Prevention of Insult to National Hounours Act 1971,subtype,11,0,1,1,1,,0,0.0,0.0,rising
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,"Prevention of violence against Doctors, Medical professionals and Medical institutions",subtype,13,2,1,1,-1,-50.0,0,0.0,-0.5,falling
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,"The Karnataka Prevention of Dangerous Activities of Bootleggers, Drug-offenders, Gamblers, Goonda Act",subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Cow Slaughters Act,subtype,213,14,12,16,2,14.3,4,33.3,0.48,rising
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Banning of Unregulated Deposit Schemes Act,subtype,23,2,4,2,0,0.0,-2,-50.0,-0.5,falling
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,"Motor Spirit and High Speed Diesel (Regulation of upply, Distribution and Prevention of Malpractice",subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Epidemic Deseases Act 2020,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Prevention of Slaughter and Preservation of Cattle Act 2020,subtype,253,26,25,22,-4,-15.4,-3,-12.0,-0.27,falling
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Disaster Management Act 2005,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Excise Act 1965,subtype,10089,1499,770,845,-654,-43.6,75,9.7,-0.34,falling
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Forest Act 1963,subtype,74,8,12,9,1,12.5,-3,-25.0,-0.12,falling
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Education Act 1983 As Amended Upto Date,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Kerosene Restriction Unuse Act 1956,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka University Act,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Corruption Act,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Medical Registration Act 1965,subtype,4,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Land & Revenue Act 1964 & 2007,subtype,38,3,0,4,1,33.3,4,,0.33,rising
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Kerosene Dealers License Order 1969,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Society Registration Act,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Minor Mineral Consistent Rule 1994,subtype,22,2,1,3,1,50.0,2,200.0,2.5,rising
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Bangalore Development Authority Act,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Prohibition of Beggery Act 1975,subtype,63,0,5,1,1,,-4,-80.0,-0.8,falling
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Municipalities Act 1964,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Irrigation Act 1963,subtype,4,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Fire Force act 1964,subtype,5,0,0,1,1,,1,,0.0,rising
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Consumer Protection Act 1986,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Lottery Act,subtype,71,1,7,7,6,600.0,0,0.0,3.0,rising
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Weight & Measurement Act,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Agriculture Marketing Regulation Act,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Revenue Act,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Mining Act,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Betting Tax Act,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Panchayat Raj Act,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Open Place Disfigurement Act 1951,subtype,719,8,94,26,18,225.0,-68,-72.3,1.53,falling
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Right To Information Act 2000 & 2008,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Urban Development Act 1987,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Town & City Planning Act 1961,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Race Betting Act,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Devadasi's (Prohibition Of Dedication) Act 1982,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Cooperative Society Act,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Entertainment Tax Act 1958,subtype,7,0,0,2,2,,2,,0.0,rising
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Land Acquisition (Prohibition) Act 2007,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Money Lender Act 1961,subtype,18,2,0,2,0,0.0,2,,0.0,rising
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Stamp Act 1957,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Prisoners Act 1963 & 1974,subtype,93,11,12,37,26,236.4,25,208.3,4.45,rising
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Private Medical Institution Act 2007,subtype,9,2,1,0,-2,-100.0,-1,-100.0,-2.0,falling
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,MMRD (Mines & Minerals Regulation Development ) Act 1957,subtype,86,5,6,5,0,0.0,-1,-16.7,-0.17,falling
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Treasure Trove Act 1962,subtype,6,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Prohibition of Charging Exorbitant Interest Act 2004,subtype,20,1,2,0,-1,-100.0,-2,-100.0,-2.0,falling
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Karnataka Ayurvedic And Unani Pract. Regis. & Medical Prac. Misc. Prov. Act,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,Other Local Acts,subtype,172,13,7,19,6,46.2,12,171.4,2.18,rising
+2025-12,SLL,KARNATAKA STATE LOCAL ACTS,The Karnataka Micro Loan And Small Loan (Prevention of Coercive Actions) Ordinance 2025,subtype,21,0,1,2,2,,1,100.0,1.0,rising
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),"Information Technology Act 2000, 2009",subtype,130,24,6,11,-13,-54.2,5,83.3,0.29,falling
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),CSAM (Child Pornography). Cyber Tip Line,subtype,37,0,2,10,10,,8,400.0,3.0,rising
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Online Money Transfer,subtype,1564,90,163,139,49,54.4,-24,-14.7,0.4,rising
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Credit Card Fraud,subtype,780,89,75,78,-11,-12.4,3,4.0,-0.08,falling
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Loan App,subtype,210,19,15,20,1,5.3,5,33.3,0.39,rising
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),"Ransomeware Attack, Installing Spyware & Troman, Using Other Malware & Viruses to infect degital serv",subtype,10,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),"Gifts, iPhone & Lottery Fraud",subtype,130,23,7,12,-11,-47.8,5,71.4,0.24,falling
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Deep Fake/Deep Nudes,subtype,41,1,7,8,7,700.0,1,14.3,3.14,rising
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),"Investment Fraud (Part Time Job, Task, Review)",subtype,2666,304,183,185,-119,-39.1,2,1.1,-0.38,falling
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Card Skimming,subtype,6,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Job Fraud,subtype,643,67,41,53,-14,-20.9,12,29.3,0.08,falling
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Business Fraud,subtype,165,17,14,19,2,11.8,5,35.7,0.48,rising
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Hacking of Accounts & Ids,subtype,228,15,27,12,-3,-20.0,-15,-55.6,-0.76,falling
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Phishing (Taking Password & Information),subtype,50,6,7,5,-1,-16.7,-2,-28.6,-0.45,falling
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Email Spoofing / Fraud,subtype,49,2,5,4,2,100.0,-1,-20.0,0.8,rising
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),SIM card Swapping / SIM Jacking / SIM Cloning,subtype,22,2,3,2,0,0.0,-1,-33.3,-0.33,falling
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Social Media Cases (Instagram/Facebook/Whatsapp/X /Telegram etc),subtype,566,28,42,54,26,92.9,12,28.6,1.22,rising
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),"Crypto Currency, Bitcoin, etc.",subtype,73,11,8,4,-7,-63.6,-4,-50.0,-1.14,falling
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Remote Access Fraud  (Any Desk/ Team Viewer),subtype,10,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),OLX Fraud,subtype,187,19,11,19,0,0.0,8,72.7,0.73,rising
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Data Theft,subtype,67,7,5,11,4,57.1,6,120.0,1.77,rising
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Fedex,subtype,30,34,0,1,-33,-97.1,1,,-0.97,falling
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),"OTP Frauds (KYC Update, Apk Link)",subtype,944,99,97,123,24,24.2,26,26.8,0.51,rising
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Matrimony Fraud,subtype,115,6,7,9,3,50.0,2,28.6,0.79,rising
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Sextortion and Revenge Porn,subtype,104,8,5,11,3,37.5,6,120.0,1.57,rising
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Advertising Frauds,subtype,68,9,7,9,0,0.0,2,28.6,0.29,rising
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Investment Fraud (Trading & Share Trading),subtype,3489,274,266,312,38,13.9,46,17.3,0.31,rising
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Fake Customer Care,subtype,325,37,32,25,-12,-32.4,-7,-21.9,-0.54,falling
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),ATM Fraud,subtype,19,0,3,1,1,,-2,-66.7,-0.67,falling
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Digital Arrest,subtype,346,134,29,40,-94,-70.1,11,37.9,-0.32,falling
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),AEPS (Aadhaar),subtype,3,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,SLL,CYBER CRIME (INFORMATION TECHNOLOGY ACT),Others,subtype,1808,198,119,109,-89,-44.9,-10,-8.4,-0.53,falling
+2025-12,SLL,NATIONAL SECURITY ACT,NA,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,POCSO,Gang Rape,subtype,16,0,2,2,2,,0,0.0,0.0,rising
+2025-12,SLL,POCSO,Custodial Rape,subtype,1,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,SLL,POCSO,Rape with Murder,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,POCSO,Rape,subtype,3288,254,265,268,14,5.5,3,1.1,0.07,rising
+2025-12,SLL,POCSO,Others,subtype,1248,91,104,118,27,29.7,14,13.5,0.43,rising
+2025-12,SLL,Aadhar Act,Impersonation,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,Aadhar Act,Offence by Individual,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,SLL,Aadhar Act,Offence by Company,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,Women,Rape (Sec. 376 IPC),1.1  Custodial Rape,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,Women,Rape (Sec. 376 IPC),1.2  Gang Rape,subtype,16,0,2,1,1,,-1,-50.0,-0.5,stable
+2025-12,Women,Rape (Sec. 376 IPC),1.3  other Cases of Rape,subtype,640,55,43,40,-15,-27.3,-3,-7.0,-0.34,falling
+2025-12,Women,Outraging modesty (Molestation) (sec.354 IPC),NA,subtype,5840,425,464,521,96,22.6,57,12.3,0.35,rising
+2025-12,Women,Kidnapping & Abduction of Women: (Sec.366 IPC),NA,subtype,124,7,10,11,4,57.1,1,10.0,0.67,rising
+2025-12,Women,Insulting modesty (Eve-Teasing) (Sec.294 & 509 IPC if victim is a woman),NA,subtype,403,21,30,43,22,104.8,13,43.3,1.48,rising
+2025-12,Women,Murder for Dowry - by burning (Sec.302 IPC),NA,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,Women,Murder for Dowry - by other means (Sec.302 IPC),NA,subtype,7,0,0,3,3,,3,,0.0,rising
+2025-12,Women,Murder for other reasons,NA,subtype,372,32,28,25,-7,-21.9,-3,-10.7,-0.33,falling
+2025-12,Women,Attempt to Commit Murder for dowry by burning (Sec.307 IPC),NA,subtype,2,0,0,0,0,,0,,0.0,stable
+2025-12,Women,Attempt to Commit Murder for dowry by other means (Sec.307 IPC),NA,subtype,20,1,3,2,1,100.0,-1,-33.3,0.67,stable
+2025-12,Women,Attempt to Commit murder for other reasons,NA,subtype,978,50,80,80,30,60.0,0,0.0,0.6,rising
+2025-12,Women,Dowry Death-by burning (Sec.304-B IPC),NA,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,Women,Dowry Death-by other Means (Sec.304(B) IPC),NA,subtype,115,6,11,8,2,33.3,-3,-27.3,0.06,falling
+2025-12,Women,Cruelty by Husband or Relatives of Husband (Sec.498-A IPC),NA,subtype,2830,207,250,237,30,14.5,-13,-5.2,0.09,rising
+2025-12,Women,Abetment of Suicide (Sec.306 IPC),NA,subtype,181,10,16,15,5,50.0,-1,-6.2,0.44,rising
+2025-12,Women,Immoral Traffic (prevention) Act.,NA,subtype,316,19,26,18,-1,-5.3,-8,-30.8,-0.36,falling
+2025-12,Women,Indecent Representation of Women(Prohibition) Act-1986,NA,subtype,1,0,0,0,0,,0,,0.0,stable
+2025-12,Women,Pornography,NA,subtype,4,0,0,2,2,,2,,0.0,rising
+2025-12,Women,Offences against Public Servants (Sec.182-188-333-353 IPC),NA,subtype,146,8,9,12,4,50.0,3,33.3,0.83,rising
+2025-12,Women,Offences related to Marriage,NA,subtype,28,4,2,1,-3,-75.0,-1,-50.0,-1.25,falling
+2025-12,Women,Cyber Crimes,NA,subtype,4345,531,310,322,-209,-39.4,12,3.9,-0.35,falling
+2025-12,Children,Infanticide/ Foeticide  (Sec. 315 & 316 IPC),NA,subtype,5,0,0,0,0,,0,,0.0,stable
+2025-12,Children,Rape on Minor,NA,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,Children,Exposure & abandonment (Sec. 317 IPC),NA,subtype,65,8,3,6,-2,-25.0,3,100.0,0.75,rising
+2025-12,Children,Kidnapping & Abduction of Children,NA,subtype,3886,283,372,380,97,34.3,8,2.2,0.36,rising
+2025-12,Children,For Ransom - of Children,NA,subtype,8,1,1,1,0,0.0,0,0.0,0.0,stable
+2025-12,Children,of Children - for begging,NA,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,Children,of Girls - Immoral Purpose,NA,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,Children,With intent to Steal from Child,NA,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,Children,Lawful Guardianship,NA,subtype,4,0,2,0,0,,-2,-100.0,-1.0,falling
+2025-12,Children,Procuration of Minor Girls - For Prostitution,NA,subtype,1,0,1,0,0,,-1,-100.0,-1.0,falling
+2025-12,Children,Procuration of Minor Girls - Importing of Girl,NA,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,Children,Procuration of Minor Girls - For Other Purposes,NA,subtype,15,1,2,1,0,0.0,-1,-50.0,-0.5,falling
+2025-12,Children,Sub Total,NA,subtype,3914,285,378,382,97,34.0,4,1.1,0.35,rising
+2025-12,Children,Selling of girls for Prostitution (Sec.372 IPC),NA,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,Children,The Prohibition of Child Marriage Act - 2006,NA,subtype,197,10,10,17,7,70.0,7,70.0,1.4,rising
+2025-12,Children,POCSO Act,NA,subtype,4555,346,371,388,42,12.1,17,4.6,0.17,rising
+2025-12,Children,Death of Children due to miscarriage,NA,subtype,15,1,0,0,-1,-100.0,0,,-1.0,falling
+2025-12,Children,Juvenile Justice Act,NA,subtype,151,15,12,19,4,26.7,7,58.3,0.85,rising
+2025-12,Children,Child Labour (Pro.& Reg.) Act,NA,subtype,78,3,8,1,-2,-66.7,-7,-87.5,-1.54,falling
+2025-12,Children,Probation of Offenders Act,NA,subtype,0,0,0,0,0,,0,,0.0,stable
+2025-12,SC/ST,Murder,NA,subtype,94,11,7,8,-3,-27.3,1,14.3,-0.13,falling
+2025-12,SC/ST,Rape,NA,subtype,113,11,4,5,-6,-54.5,1,25.0,-0.3,falling
+2025-12,SC/ST,Kidnapping,NA,subtype,182,14,15,9,-5,-35.7,-6,-40.0,-0.76,falling
+2025-12,SC/ST,Offences under the Protection of Civil Rights Act.,NA,subtype,9,0,1,1,1,,0,0.0,0.0,rising
+2025-12,SC/ST,Offences under the SC & ST  (prevention of Atrocities)Act 1989 (if the victim is SC),NA,subtype,2013,129,198,222,93,72.1,24,12.1,0.84,rising

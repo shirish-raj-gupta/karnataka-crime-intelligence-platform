@@ -1,0 +1,12 @@
+{
+  "deployment": {
+    "name": "ingest_cron",
+    "stack": "node18",
+    "type": "cron",
+    "memory": 256,
+    "env_variables": {}
+  },
+  "execution": {
+    "main": "index.js"
+  }
+}

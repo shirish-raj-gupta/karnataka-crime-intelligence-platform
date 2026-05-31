@@ -1,0 +1,4537 @@
+station_id,district_id,district,hour,crime_count
+SYN-PS-0001,D01,Bengaluru City,0,103
+SYN-PS-0001,D01,Bengaluru City,1,92
+SYN-PS-0001,D01,Bengaluru City,2,81
+SYN-PS-0001,D01,Bengaluru City,3,58
+SYN-PS-0001,D01,Bengaluru City,4,46
+SYN-PS-0001,D01,Bengaluru City,5,35
+SYN-PS-0001,D01,Bengaluru City,6,34
+SYN-PS-0001,D01,Bengaluru City,7,45
+SYN-PS-0001,D01,Bengaluru City,8,57
+SYN-PS-0001,D01,Bengaluru City,9,68
+SYN-PS-0001,D01,Bengaluru City,10,68
+SYN-PS-0001,D01,Bengaluru City,11,68
+SYN-PS-0001,D01,Bengaluru City,12,68
+SYN-PS-0001,D01,Bengaluru City,13,68
+SYN-PS-0001,D01,Bengaluru City,14,68
+SYN-PS-0001,D01,Bengaluru City,15,80
+SYN-PS-0001,D01,Bengaluru City,16,91
+SYN-PS-0001,D01,Bengaluru City,17,102
+SYN-PS-0001,D01,Bengaluru City,18,126
+SYN-PS-0001,D01,Bengaluru City,19,138
+SYN-PS-0001,D01,Bengaluru City,20,138
+SYN-PS-0001,D01,Bengaluru City,21,126
+SYN-PS-0001,D01,Bengaluru City,22,115
+SYN-PS-0001,D01,Bengaluru City,23,103
+SYN-PS-0002,D01,Bengaluru City,0,234
+SYN-PS-0002,D01,Bengaluru City,1,208
+SYN-PS-0002,D01,Bengaluru City,2,182
+SYN-PS-0002,D01,Bengaluru City,3,130
+SYN-PS-0002,D01,Bengaluru City,4,104
+SYN-PS-0002,D01,Bengaluru City,5,77
+SYN-PS-0002,D01,Bengaluru City,6,77
+SYN-PS-0002,D01,Bengaluru City,7,103
+SYN-PS-0002,D01,Bengaluru City,8,129
+SYN-PS-0002,D01,Bengaluru City,9,155
+SYN-PS-0002,D01,Bengaluru City,10,155
+SYN-PS-0002,D01,Bengaluru City,11,155
+SYN-PS-0002,D01,Bengaluru City,12,155
+SYN-PS-0002,D01,Bengaluru City,13,155
+SYN-PS-0002,D01,Bengaluru City,14,155
+SYN-PS-0002,D01,Bengaluru City,15,181
+SYN-PS-0002,D01,Bengaluru City,16,207
+SYN-PS-0002,D01,Bengaluru City,17,233
+SYN-PS-0002,D01,Bengaluru City,18,286
+SYN-PS-0002,D01,Bengaluru City,19,312
+SYN-PS-0002,D01,Bengaluru City,20,312
+SYN-PS-0002,D01,Bengaluru City,21,286
+SYN-PS-0002,D01,Bengaluru City,22,260
+SYN-PS-0002,D01,Bengaluru City,23,234
+SYN-PS-0003,D01,Bengaluru City,0,50
+SYN-PS-0003,D01,Bengaluru City,1,45
+SYN-PS-0003,D01,Bengaluru City,2,39
+SYN-PS-0003,D01,Bengaluru City,3,28
+SYN-PS-0003,D01,Bengaluru City,4,23
+SYN-PS-0003,D01,Bengaluru City,5,17
+SYN-PS-0003,D01,Bengaluru City,6,16
+SYN-PS-0003,D01,Bengaluru City,7,22
+SYN-PS-0003,D01,Bengaluru City,8,27
+SYN-PS-0003,D01,Bengaluru City,9,33
+SYN-PS-0003,D01,Bengaluru City,10,33
+SYN-PS-0003,D01,Bengaluru City,11,33
+SYN-PS-0003,D01,Bengaluru City,12,33
+SYN-PS-0003,D01,Bengaluru City,13,33
+SYN-PS-0003,D01,Bengaluru City,14,33
+SYN-PS-0003,D01,Bengaluru City,15,38
+SYN-PS-0003,D01,Bengaluru City,16,44
+SYN-PS-0003,D01,Bengaluru City,17,49
+SYN-PS-0003,D01,Bengaluru City,18,62
+SYN-PS-0003,D01,Bengaluru City,19,67
+SYN-PS-0003,D01,Bengaluru City,20,67
+SYN-PS-0003,D01,Bengaluru City,21,62
+SYN-PS-0003,D01,Bengaluru City,22,56
+SYN-PS-0003,D01,Bengaluru City,23,50
+SYN-PS-0004,D01,Bengaluru City,0,104
+SYN-PS-0004,D01,Bengaluru City,1,92
+SYN-PS-0004,D01,Bengaluru City,2,81
+SYN-PS-0004,D01,Bengaluru City,3,58
+SYN-PS-0004,D01,Bengaluru City,4,46
+SYN-PS-0004,D01,Bengaluru City,5,34
+SYN-PS-0004,D01,Bengaluru City,6,34
+SYN-PS-0004,D01,Bengaluru City,7,45
+SYN-PS-0004,D01,Bengaluru City,8,57
+SYN-PS-0004,D01,Bengaluru City,9,68
+SYN-PS-0004,D01,Bengaluru City,10,68
+SYN-PS-0004,D01,Bengaluru City,11,68
+SYN-PS-0004,D01,Bengaluru City,12,68
+SYN-PS-0004,D01,Bengaluru City,13,68
+SYN-PS-0004,D01,Bengaluru City,14,68
+SYN-PS-0004,D01,Bengaluru City,15,80
+SYN-PS-0004,D01,Bengaluru City,16,91
+SYN-PS-0004,D01,Bengaluru City,17,103
+SYN-PS-0004,D01,Bengaluru City,18,127
+SYN-PS-0004,D01,Bengaluru City,19,138
+SYN-PS-0004,D01,Bengaluru City,20,138
+SYN-PS-0004,D01,Bengaluru City,21,127
+SYN-PS-0004,D01,Bengaluru City,22,115
+SYN-PS-0004,D01,Bengaluru City,23,104
+SYN-PS-0005,D01,Bengaluru City,0,436
+SYN-PS-0005,D01,Bengaluru City,1,388
+SYN-PS-0005,D01,Bengaluru City,2,339
+SYN-PS-0005,D01,Bengaluru City,3,243
+SYN-PS-0005,D01,Bengaluru City,4,194
+SYN-PS-0005,D01,Bengaluru City,5,146
+SYN-PS-0005,D01,Bengaluru City,6,146
+SYN-PS-0005,D01,Bengaluru City,7,193
+SYN-PS-0005,D01,Bengaluru City,8,242
+SYN-PS-0005,D01,Bengaluru City,9,290
+SYN-PS-0005,D01,Bengaluru City,10,290
+SYN-PS-0005,D01,Bengaluru City,11,290
+SYN-PS-0005,D01,Bengaluru City,12,290
+SYN-PS-0005,D01,Bengaluru City,13,290
+SYN-PS-0005,D01,Bengaluru City,14,290
+SYN-PS-0005,D01,Bengaluru City,15,338
+SYN-PS-0005,D01,Bengaluru City,16,387
+SYN-PS-0005,D01,Bengaluru City,17,435
+SYN-PS-0005,D01,Bengaluru City,18,533
+SYN-PS-0005,D01,Bengaluru City,19,581
+SYN-PS-0005,D01,Bengaluru City,20,581
+SYN-PS-0005,D01,Bengaluru City,21,533
+SYN-PS-0005,D01,Bengaluru City,22,485
+SYN-PS-0005,D01,Bengaluru City,23,436
+SYN-PS-0006,D01,Bengaluru City,0,298
+SYN-PS-0006,D01,Bengaluru City,1,265
+SYN-PS-0006,D01,Bengaluru City,2,232
+SYN-PS-0006,D01,Bengaluru City,3,166
+SYN-PS-0006,D01,Bengaluru City,4,133
+SYN-PS-0006,D01,Bengaluru City,5,100
+SYN-PS-0006,D01,Bengaluru City,6,100
+SYN-PS-0006,D01,Bengaluru City,7,133
+SYN-PS-0006,D01,Bengaluru City,8,165
+SYN-PS-0006,D01,Bengaluru City,9,198
+SYN-PS-0006,D01,Bengaluru City,10,198
+SYN-PS-0006,D01,Bengaluru City,11,198
+SYN-PS-0006,D01,Bengaluru City,12,198
+SYN-PS-0006,D01,Bengaluru City,13,198
+SYN-PS-0006,D01,Bengaluru City,14,198
+SYN-PS-0006,D01,Bengaluru City,15,231
+SYN-PS-0006,D01,Bengaluru City,16,264
+SYN-PS-0006,D01,Bengaluru City,17,297
+SYN-PS-0006,D01,Bengaluru City,18,365
+SYN-PS-0006,D01,Bengaluru City,19,398
+SYN-PS-0006,D01,Bengaluru City,20,398
+SYN-PS-0006,D01,Bengaluru City,21,365
+SYN-PS-0006,D01,Bengaluru City,22,332
+SYN-PS-0006,D01,Bengaluru City,23,298
+SYN-PS-0007,D01,Bengaluru City,0,509
+SYN-PS-0007,D01,Bengaluru City,1,453
+SYN-PS-0007,D01,Bengaluru City,2,396
+SYN-PS-0007,D01,Bengaluru City,3,283
+SYN-PS-0007,D01,Bengaluru City,4,227
+SYN-PS-0007,D01,Bengaluru City,5,169
+SYN-PS-0007,D01,Bengaluru City,6,169
+SYN-PS-0007,D01,Bengaluru City,7,226
+SYN-PS-0007,D01,Bengaluru City,8,282
+SYN-PS-0007,D01,Bengaluru City,9,339
+SYN-PS-0007,D01,Bengaluru City,10,339
+SYN-PS-0007,D01,Bengaluru City,11,339
+SYN-PS-0007,D01,Bengaluru City,12,339
+SYN-PS-0007,D01,Bengaluru City,13,339
+SYN-PS-0007,D01,Bengaluru City,14,339
+SYN-PS-0007,D01,Bengaluru City,15,395
+SYN-PS-0007,D01,Bengaluru City,16,452
+SYN-PS-0007,D01,Bengaluru City,17,508
+SYN-PS-0007,D01,Bengaluru City,18,622
+SYN-PS-0007,D01,Bengaluru City,19,679
+SYN-PS-0007,D01,Bengaluru City,20,679
+SYN-PS-0007,D01,Bengaluru City,21,622
+SYN-PS-0007,D01,Bengaluru City,22,566
+SYN-PS-0007,D01,Bengaluru City,23,509
+SYN-PS-0008,D01,Bengaluru City,0,198
+SYN-PS-0008,D01,Bengaluru City,1,176
+SYN-PS-0008,D01,Bengaluru City,2,154
+SYN-PS-0008,D01,Bengaluru City,3,110
+SYN-PS-0008,D01,Bengaluru City,4,88
+SYN-PS-0008,D01,Bengaluru City,5,66
+SYN-PS-0008,D01,Bengaluru City,6,66
+SYN-PS-0008,D01,Bengaluru City,7,88
+SYN-PS-0008,D01,Bengaluru City,8,110
+SYN-PS-0008,D01,Bengaluru City,9,132
+SYN-PS-0008,D01,Bengaluru City,10,132
+SYN-PS-0008,D01,Bengaluru City,11,132
+SYN-PS-0008,D01,Bengaluru City,12,132
+SYN-PS-0008,D01,Bengaluru City,13,132
+SYN-PS-0008,D01,Bengaluru City,14,131
+SYN-PS-0008,D01,Bengaluru City,15,153
+SYN-PS-0008,D01,Bengaluru City,16,175
+SYN-PS-0008,D01,Bengaluru City,17,197
+SYN-PS-0008,D01,Bengaluru City,18,242
+SYN-PS-0008,D01,Bengaluru City,19,264
+SYN-PS-0008,D01,Bengaluru City,20,264
+SYN-PS-0008,D01,Bengaluru City,21,242
+SYN-PS-0008,D01,Bengaluru City,22,220
+SYN-PS-0008,D01,Bengaluru City,23,198
+SYN-PS-0009,D01,Bengaluru City,0,61
+SYN-PS-0009,D01,Bengaluru City,1,54
+SYN-PS-0009,D01,Bengaluru City,2,47
+SYN-PS-0009,D01,Bengaluru City,3,34
+SYN-PS-0009,D01,Bengaluru City,4,27
+SYN-PS-0009,D01,Bengaluru City,5,20
+SYN-PS-0009,D01,Bengaluru City,6,20
+SYN-PS-0009,D01,Bengaluru City,7,26
+SYN-PS-0009,D01,Bengaluru City,8,33
+SYN-PS-0009,D01,Bengaluru City,9,40
+SYN-PS-0009,D01,Bengaluru City,10,40
+SYN-PS-0009,D01,Bengaluru City,11,40
+SYN-PS-0009,D01,Bengaluru City,12,40
+SYN-PS-0009,D01,Bengaluru City,13,40
+SYN-PS-0009,D01,Bengaluru City,14,40
+SYN-PS-0009,D01,Bengaluru City,15,46
+SYN-PS-0009,D01,Bengaluru City,16,53
+SYN-PS-0009,D01,Bengaluru City,17,60
+SYN-PS-0009,D01,Bengaluru City,18,74
+SYN-PS-0009,D01,Bengaluru City,19,81
+SYN-PS-0009,D01,Bengaluru City,20,81
+SYN-PS-0009,D01,Bengaluru City,21,74
+SYN-PS-0009,D01,Bengaluru City,22,68
+SYN-PS-0009,D01,Bengaluru City,23,61
+SYN-PS-0010,D01,Bengaluru City,0,141
+SYN-PS-0010,D01,Bengaluru City,1,125
+SYN-PS-0010,D01,Bengaluru City,2,109
+SYN-PS-0010,D01,Bengaluru City,3,78
+SYN-PS-0010,D01,Bengaluru City,4,62
+SYN-PS-0010,D01,Bengaluru City,5,47
+SYN-PS-0010,D01,Bengaluru City,6,47
+SYN-PS-0010,D01,Bengaluru City,7,62
+SYN-PS-0010,D01,Bengaluru City,8,78
+SYN-PS-0010,D01,Bengaluru City,9,94
+SYN-PS-0010,D01,Bengaluru City,10,94
+SYN-PS-0010,D01,Bengaluru City,11,94
+SYN-PS-0010,D01,Bengaluru City,12,94
+SYN-PS-0010,D01,Bengaluru City,13,94
+SYN-PS-0010,D01,Bengaluru City,14,94
+SYN-PS-0010,D01,Bengaluru City,15,109
+SYN-PS-0010,D01,Bengaluru City,16,125
+SYN-PS-0010,D01,Bengaluru City,17,141
+SYN-PS-0010,D01,Bengaluru City,18,173
+SYN-PS-0010,D01,Bengaluru City,19,189
+SYN-PS-0010,D01,Bengaluru City,20,189
+SYN-PS-0010,D01,Bengaluru City,21,173
+SYN-PS-0010,D01,Bengaluru City,22,157
+SYN-PS-0010,D01,Bengaluru City,23,142
+SYN-PS-0011,D01,Bengaluru City,0,466
+SYN-PS-0011,D01,Bengaluru City,1,414
+SYN-PS-0011,D01,Bengaluru City,2,363
+SYN-PS-0011,D01,Bengaluru City,3,259
+SYN-PS-0011,D01,Bengaluru City,4,207
+SYN-PS-0011,D01,Bengaluru City,5,155
+SYN-PS-0011,D01,Bengaluru City,6,155
+SYN-PS-0011,D01,Bengaluru City,7,206
+SYN-PS-0011,D01,Bengaluru City,8,258
+SYN-PS-0011,D01,Bengaluru City,9,310
+SYN-PS-0011,D01,Bengaluru City,10,310
+SYN-PS-0011,D01,Bengaluru City,11,310
+SYN-PS-0011,D01,Bengaluru City,12,310
+SYN-PS-0011,D01,Bengaluru City,13,310
+SYN-PS-0011,D01,Bengaluru City,14,310
+SYN-PS-0011,D01,Bengaluru City,15,362
+SYN-PS-0011,D01,Bengaluru City,16,413
+SYN-PS-0011,D01,Bengaluru City,17,465
+SYN-PS-0011,D01,Bengaluru City,18,569
+SYN-PS-0011,D01,Bengaluru City,19,621
+SYN-PS-0011,D01,Bengaluru City,20,621
+SYN-PS-0011,D01,Bengaluru City,21,569
+SYN-PS-0011,D01,Bengaluru City,22,518
+SYN-PS-0011,D01,Bengaluru City,23,466
+SYN-PS-0012,D01,Bengaluru City,0,342
+SYN-PS-0012,D01,Bengaluru City,1,304
+SYN-PS-0012,D01,Bengaluru City,2,266
+SYN-PS-0012,D01,Bengaluru City,3,190
+SYN-PS-0012,D01,Bengaluru City,4,152
+SYN-PS-0012,D01,Bengaluru City,5,114
+SYN-PS-0012,D01,Bengaluru City,6,114
+SYN-PS-0012,D01,Bengaluru City,7,151
+SYN-PS-0012,D01,Bengaluru City,8,189
+SYN-PS-0012,D01,Bengaluru City,9,227
+SYN-PS-0012,D01,Bengaluru City,10,227
+SYN-PS-0012,D01,Bengaluru City,11,227
+SYN-PS-0012,D01,Bengaluru City,12,227
+SYN-PS-0012,D01,Bengaluru City,13,227
+SYN-PS-0012,D01,Bengaluru City,14,227
+SYN-PS-0012,D01,Bengaluru City,15,265
+SYN-PS-0012,D01,Bengaluru City,16,303
+SYN-PS-0012,D01,Bengaluru City,17,341
+SYN-PS-0012,D01,Bengaluru City,18,418
+SYN-PS-0012,D01,Bengaluru City,19,456
+SYN-PS-0012,D01,Bengaluru City,20,456
+SYN-PS-0012,D01,Bengaluru City,21,418
+SYN-PS-0012,D01,Bengaluru City,22,380
+SYN-PS-0012,D01,Bengaluru City,23,342
+SYN-PS-0013,D02,Mysuru City,0,70
+SYN-PS-0013,D02,Mysuru City,1,62
+SYN-PS-0013,D02,Mysuru City,2,55
+SYN-PS-0013,D02,Mysuru City,3,39
+SYN-PS-0013,D02,Mysuru City,4,31
+SYN-PS-0013,D02,Mysuru City,5,24
+SYN-PS-0013,D02,Mysuru City,6,24
+SYN-PS-0013,D02,Mysuru City,7,31
+SYN-PS-0013,D02,Mysuru City,8,38
+SYN-PS-0013,D02,Mysuru City,9,46
+SYN-PS-0013,D02,Mysuru City,10,46
+SYN-PS-0013,D02,Mysuru City,11,46
+SYN-PS-0013,D02,Mysuru City,12,46
+SYN-PS-0013,D02,Mysuru City,13,46
+SYN-PS-0013,D02,Mysuru City,14,46
+SYN-PS-0013,D02,Mysuru City,15,54
+SYN-PS-0013,D02,Mysuru City,16,61
+SYN-PS-0013,D02,Mysuru City,17,69
+SYN-PS-0013,D02,Mysuru City,18,86
+SYN-PS-0013,D02,Mysuru City,19,93
+SYN-PS-0013,D02,Mysuru City,20,93
+SYN-PS-0013,D02,Mysuru City,21,86
+SYN-PS-0013,D02,Mysuru City,22,78
+SYN-PS-0013,D02,Mysuru City,23,70
+SYN-PS-0014,D02,Mysuru City,0,18
+SYN-PS-0014,D02,Mysuru City,1,16
+SYN-PS-0014,D02,Mysuru City,2,14
+SYN-PS-0014,D02,Mysuru City,3,10
+SYN-PS-0014,D02,Mysuru City,4,8
+SYN-PS-0014,D02,Mysuru City,5,6
+SYN-PS-0014,D02,Mysuru City,6,6
+SYN-PS-0014,D02,Mysuru City,7,8
+SYN-PS-0014,D02,Mysuru City,8,10
+SYN-PS-0014,D02,Mysuru City,9,12
+SYN-PS-0014,D02,Mysuru City,10,12
+SYN-PS-0014,D02,Mysuru City,11,12
+SYN-PS-0014,D02,Mysuru City,12,12
+SYN-PS-0014,D02,Mysuru City,13,12
+SYN-PS-0014,D02,Mysuru City,14,11
+SYN-PS-0014,D02,Mysuru City,15,13
+SYN-PS-0014,D02,Mysuru City,16,15
+SYN-PS-0014,D02,Mysuru City,17,17
+SYN-PS-0014,D02,Mysuru City,18,22
+SYN-PS-0014,D02,Mysuru City,19,24
+SYN-PS-0014,D02,Mysuru City,20,24
+SYN-PS-0014,D02,Mysuru City,21,22
+SYN-PS-0014,D02,Mysuru City,22,20
+SYN-PS-0014,D02,Mysuru City,23,18
+SYN-PS-0015,D02,Mysuru City,0,21
+SYN-PS-0015,D02,Mysuru City,1,19
+SYN-PS-0015,D02,Mysuru City,2,17
+SYN-PS-0015,D02,Mysuru City,3,12
+SYN-PS-0015,D02,Mysuru City,4,10
+SYN-PS-0015,D02,Mysuru City,5,7
+SYN-PS-0015,D02,Mysuru City,6,7
+SYN-PS-0015,D02,Mysuru City,7,9
+SYN-PS-0015,D02,Mysuru City,8,11
+SYN-PS-0015,D02,Mysuru City,9,13
+SYN-PS-0015,D02,Mysuru City,10,13
+SYN-PS-0015,D02,Mysuru City,11,13
+SYN-PS-0015,D02,Mysuru City,12,13
+SYN-PS-0015,D02,Mysuru City,13,13
+SYN-PS-0015,D02,Mysuru City,14,13
+SYN-PS-0015,D02,Mysuru City,15,16
+SYN-PS-0015,D02,Mysuru City,16,18
+SYN-PS-0015,D02,Mysuru City,17,20
+SYN-PS-0015,D02,Mysuru City,18,26
+SYN-PS-0015,D02,Mysuru City,19,28
+SYN-PS-0015,D02,Mysuru City,20,28
+SYN-PS-0015,D02,Mysuru City,21,26
+SYN-PS-0015,D02,Mysuru City,22,24
+SYN-PS-0015,D02,Mysuru City,23,21
+SYN-PS-0016,D02,Mysuru City,0,62
+SYN-PS-0016,D02,Mysuru City,1,55
+SYN-PS-0016,D02,Mysuru City,2,48
+SYN-PS-0016,D02,Mysuru City,3,34
+SYN-PS-0016,D02,Mysuru City,4,27
+SYN-PS-0016,D02,Mysuru City,5,20
+SYN-PS-0016,D02,Mysuru City,6,20
+SYN-PS-0016,D02,Mysuru City,7,27
+SYN-PS-0016,D02,Mysuru City,8,34
+SYN-PS-0016,D02,Mysuru City,9,41
+SYN-PS-0016,D02,Mysuru City,10,41
+SYN-PS-0016,D02,Mysuru City,11,41
+SYN-PS-0016,D02,Mysuru City,12,41
+SYN-PS-0016,D02,Mysuru City,13,41
+SYN-PS-0016,D02,Mysuru City,14,41
+SYN-PS-0016,D02,Mysuru City,15,47
+SYN-PS-0016,D02,Mysuru City,16,54
+SYN-PS-0016,D02,Mysuru City,17,61
+SYN-PS-0016,D02,Mysuru City,18,76
+SYN-PS-0016,D02,Mysuru City,19,83
+SYN-PS-0016,D02,Mysuru City,20,83
+SYN-PS-0016,D02,Mysuru City,21,76
+SYN-PS-0016,D02,Mysuru City,22,69
+SYN-PS-0016,D02,Mysuru City,23,62
+SYN-PS-0017,D03,Hubballi Dharwad City,0,85
+SYN-PS-0017,D03,Hubballi Dharwad City,1,75
+SYN-PS-0017,D03,Hubballi Dharwad City,2,66
+SYN-PS-0017,D03,Hubballi Dharwad City,3,47
+SYN-PS-0017,D03,Hubballi Dharwad City,4,37
+SYN-PS-0017,D03,Hubballi Dharwad City,5,28
+SYN-PS-0017,D03,Hubballi Dharwad City,6,28
+SYN-PS-0017,D03,Hubballi Dharwad City,7,37
+SYN-PS-0017,D03,Hubballi Dharwad City,8,46
+SYN-PS-0017,D03,Hubballi Dharwad City,9,56
+SYN-PS-0017,D03,Hubballi Dharwad City,10,56
+SYN-PS-0017,D03,Hubballi Dharwad City,11,56
+SYN-PS-0017,D03,Hubballi Dharwad City,12,56
+SYN-PS-0017,D03,Hubballi Dharwad City,13,56
+SYN-PS-0017,D03,Hubballi Dharwad City,14,56
+SYN-PS-0017,D03,Hubballi Dharwad City,15,65
+SYN-PS-0017,D03,Hubballi Dharwad City,16,74
+SYN-PS-0017,D03,Hubballi Dharwad City,17,84
+SYN-PS-0017,D03,Hubballi Dharwad City,18,104
+SYN-PS-0017,D03,Hubballi Dharwad City,19,113
+SYN-PS-0017,D03,Hubballi Dharwad City,20,113
+SYN-PS-0017,D03,Hubballi Dharwad City,21,104
+SYN-PS-0017,D03,Hubballi Dharwad City,22,94
+SYN-PS-0017,D03,Hubballi Dharwad City,23,85
+SYN-PS-0018,D03,Hubballi Dharwad City,0,18
+SYN-PS-0018,D03,Hubballi Dharwad City,1,16
+SYN-PS-0018,D03,Hubballi Dharwad City,2,14
+SYN-PS-0018,D03,Hubballi Dharwad City,3,10
+SYN-PS-0018,D03,Hubballi Dharwad City,4,8
+SYN-PS-0018,D03,Hubballi Dharwad City,5,6
+SYN-PS-0018,D03,Hubballi Dharwad City,6,6
+SYN-PS-0018,D03,Hubballi Dharwad City,7,8
+SYN-PS-0018,D03,Hubballi Dharwad City,8,10
+SYN-PS-0018,D03,Hubballi Dharwad City,9,12
+SYN-PS-0018,D03,Hubballi Dharwad City,10,12
+SYN-PS-0018,D03,Hubballi Dharwad City,11,12
+SYN-PS-0018,D03,Hubballi Dharwad City,12,12
+SYN-PS-0018,D03,Hubballi Dharwad City,13,12
+SYN-PS-0018,D03,Hubballi Dharwad City,14,12
+SYN-PS-0018,D03,Hubballi Dharwad City,15,14
+SYN-PS-0018,D03,Hubballi Dharwad City,16,16
+SYN-PS-0018,D03,Hubballi Dharwad City,17,18
+SYN-PS-0018,D03,Hubballi Dharwad City,18,23
+SYN-PS-0018,D03,Hubballi Dharwad City,19,25
+SYN-PS-0018,D03,Hubballi Dharwad City,20,25
+SYN-PS-0018,D03,Hubballi Dharwad City,21,23
+SYN-PS-0018,D03,Hubballi Dharwad City,22,21
+SYN-PS-0018,D03,Hubballi Dharwad City,23,18
+SYN-PS-0019,D03,Hubballi Dharwad City,0,15
+SYN-PS-0019,D03,Hubballi Dharwad City,1,13
+SYN-PS-0019,D03,Hubballi Dharwad City,2,12
+SYN-PS-0019,D03,Hubballi Dharwad City,3,9
+SYN-PS-0019,D03,Hubballi Dharwad City,4,7
+SYN-PS-0019,D03,Hubballi Dharwad City,5,5
+SYN-PS-0019,D03,Hubballi Dharwad City,6,5
+SYN-PS-0019,D03,Hubballi Dharwad City,7,7
+SYN-PS-0019,D03,Hubballi Dharwad City,8,8
+SYN-PS-0019,D03,Hubballi Dharwad City,9,9
+SYN-PS-0019,D03,Hubballi Dharwad City,10,9
+SYN-PS-0019,D03,Hubballi Dharwad City,11,9
+SYN-PS-0019,D03,Hubballi Dharwad City,12,9
+SYN-PS-0019,D03,Hubballi Dharwad City,13,9
+SYN-PS-0019,D03,Hubballi Dharwad City,14,9
+SYN-PS-0019,D03,Hubballi Dharwad City,15,11
+SYN-PS-0019,D03,Hubballi Dharwad City,16,12
+SYN-PS-0019,D03,Hubballi Dharwad City,17,14
+SYN-PS-0019,D03,Hubballi Dharwad City,18,18
+SYN-PS-0019,D03,Hubballi Dharwad City,19,20
+SYN-PS-0019,D03,Hubballi Dharwad City,20,20
+SYN-PS-0019,D03,Hubballi Dharwad City,21,18
+SYN-PS-0019,D03,Hubballi Dharwad City,22,17
+SYN-PS-0019,D03,Hubballi Dharwad City,23,15
+SYN-PS-0020,D03,Hubballi Dharwad City,0,21
+SYN-PS-0020,D03,Hubballi Dharwad City,1,19
+SYN-PS-0020,D03,Hubballi Dharwad City,2,17
+SYN-PS-0020,D03,Hubballi Dharwad City,3,12
+SYN-PS-0020,D03,Hubballi Dharwad City,4,10
+SYN-PS-0020,D03,Hubballi Dharwad City,5,7
+SYN-PS-0020,D03,Hubballi Dharwad City,6,6
+SYN-PS-0020,D03,Hubballi Dharwad City,7,9
+SYN-PS-0020,D03,Hubballi Dharwad City,8,11
+SYN-PS-0020,D03,Hubballi Dharwad City,9,13
+SYN-PS-0020,D03,Hubballi Dharwad City,10,13
+SYN-PS-0020,D03,Hubballi Dharwad City,11,13
+SYN-PS-0020,D03,Hubballi Dharwad City,12,13
+SYN-PS-0020,D03,Hubballi Dharwad City,13,13
+SYN-PS-0020,D03,Hubballi Dharwad City,14,13
+SYN-PS-0020,D03,Hubballi Dharwad City,15,16
+SYN-PS-0020,D03,Hubballi Dharwad City,16,18
+SYN-PS-0020,D03,Hubballi Dharwad City,17,20
+SYN-PS-0020,D03,Hubballi Dharwad City,18,26
+SYN-PS-0020,D03,Hubballi Dharwad City,19,28
+SYN-PS-0020,D03,Hubballi Dharwad City,20,28
+SYN-PS-0020,D03,Hubballi Dharwad City,21,26
+SYN-PS-0020,D03,Hubballi Dharwad City,22,23
+SYN-PS-0020,D03,Hubballi Dharwad City,23,21
+SYN-PS-0021,D04,Mangaluru City,0,35
+SYN-PS-0021,D04,Mangaluru City,1,31
+SYN-PS-0021,D04,Mangaluru City,2,27
+SYN-PS-0021,D04,Mangaluru City,3,20
+SYN-PS-0021,D04,Mangaluru City,4,15
+SYN-PS-0021,D04,Mangaluru City,5,11
+SYN-PS-0021,D04,Mangaluru City,6,11
+SYN-PS-0021,D04,Mangaluru City,7,15
+SYN-PS-0021,D04,Mangaluru City,8,19
+SYN-PS-0021,D04,Mangaluru City,9,23
+SYN-PS-0021,D04,Mangaluru City,10,23
+SYN-PS-0021,D04,Mangaluru City,11,23
+SYN-PS-0021,D04,Mangaluru City,12,23
+SYN-PS-0021,D04,Mangaluru City,13,23
+SYN-PS-0021,D04,Mangaluru City,14,23
+SYN-PS-0021,D04,Mangaluru City,15,26
+SYN-PS-0021,D04,Mangaluru City,16,30
+SYN-PS-0021,D04,Mangaluru City,17,34
+SYN-PS-0021,D04,Mangaluru City,18,43
+SYN-PS-0021,D04,Mangaluru City,19,47
+SYN-PS-0021,D04,Mangaluru City,20,47
+SYN-PS-0021,D04,Mangaluru City,21,43
+SYN-PS-0021,D04,Mangaluru City,22,39
+SYN-PS-0021,D04,Mangaluru City,23,35
+SYN-PS-0022,D04,Mangaluru City,0,58
+SYN-PS-0022,D04,Mangaluru City,1,52
+SYN-PS-0022,D04,Mangaluru City,2,45
+SYN-PS-0022,D04,Mangaluru City,3,33
+SYN-PS-0022,D04,Mangaluru City,4,26
+SYN-PS-0022,D04,Mangaluru City,5,20
+SYN-PS-0022,D04,Mangaluru City,6,19
+SYN-PS-0022,D04,Mangaluru City,7,25
+SYN-PS-0022,D04,Mangaluru City,8,32
+SYN-PS-0022,D04,Mangaluru City,9,38
+SYN-PS-0022,D04,Mangaluru City,10,38
+SYN-PS-0022,D04,Mangaluru City,11,38
+SYN-PS-0022,D04,Mangaluru City,12,38
+SYN-PS-0022,D04,Mangaluru City,13,38
+SYN-PS-0022,D04,Mangaluru City,14,38
+SYN-PS-0022,D04,Mangaluru City,15,44
+SYN-PS-0022,D04,Mangaluru City,16,51
+SYN-PS-0022,D04,Mangaluru City,17,57
+SYN-PS-0022,D04,Mangaluru City,18,71
+SYN-PS-0022,D04,Mangaluru City,19,78
+SYN-PS-0022,D04,Mangaluru City,20,78
+SYN-PS-0022,D04,Mangaluru City,21,71
+SYN-PS-0022,D04,Mangaluru City,22,65
+SYN-PS-0022,D04,Mangaluru City,23,58
+SYN-PS-0023,D04,Mangaluru City,0,69
+SYN-PS-0023,D04,Mangaluru City,1,61
+SYN-PS-0023,D04,Mangaluru City,2,53
+SYN-PS-0023,D04,Mangaluru City,3,38
+SYN-PS-0023,D04,Mangaluru City,4,30
+SYN-PS-0023,D04,Mangaluru City,5,23
+SYN-PS-0023,D04,Mangaluru City,6,23
+SYN-PS-0023,D04,Mangaluru City,7,30
+SYN-PS-0023,D04,Mangaluru City,8,38
+SYN-PS-0023,D04,Mangaluru City,9,46
+SYN-PS-0023,D04,Mangaluru City,10,46
+SYN-PS-0023,D04,Mangaluru City,11,46
+SYN-PS-0023,D04,Mangaluru City,12,46
+SYN-PS-0023,D04,Mangaluru City,13,46
+SYN-PS-0023,D04,Mangaluru City,14,46
+SYN-PS-0023,D04,Mangaluru City,15,53
+SYN-PS-0023,D04,Mangaluru City,16,61
+SYN-PS-0023,D04,Mangaluru City,17,69
+SYN-PS-0023,D04,Mangaluru City,18,85
+SYN-PS-0023,D04,Mangaluru City,19,93
+SYN-PS-0023,D04,Mangaluru City,20,93
+SYN-PS-0023,D04,Mangaluru City,21,85
+SYN-PS-0023,D04,Mangaluru City,22,77
+SYN-PS-0023,D04,Mangaluru City,23,70
+SYN-PS-0024,D04,Mangaluru City,0,20
+SYN-PS-0024,D04,Mangaluru City,1,18
+SYN-PS-0024,D04,Mangaluru City,2,16
+SYN-PS-0024,D04,Mangaluru City,3,11
+SYN-PS-0024,D04,Mangaluru City,4,9
+SYN-PS-0024,D04,Mangaluru City,5,6
+SYN-PS-0024,D04,Mangaluru City,6,6
+SYN-PS-0024,D04,Mangaluru City,7,8
+SYN-PS-0024,D04,Mangaluru City,8,10
+SYN-PS-0024,D04,Mangaluru City,9,13
+SYN-PS-0024,D04,Mangaluru City,10,13
+SYN-PS-0024,D04,Mangaluru City,11,13
+SYN-PS-0024,D04,Mangaluru City,12,13
+SYN-PS-0024,D04,Mangaluru City,13,13
+SYN-PS-0024,D04,Mangaluru City,14,13
+SYN-PS-0024,D04,Mangaluru City,15,15
+SYN-PS-0024,D04,Mangaluru City,16,17
+SYN-PS-0024,D04,Mangaluru City,17,19
+SYN-PS-0024,D04,Mangaluru City,18,25
+SYN-PS-0024,D04,Mangaluru City,19,27
+SYN-PS-0024,D04,Mangaluru City,20,27
+SYN-PS-0024,D04,Mangaluru City,21,25
+SYN-PS-0024,D04,Mangaluru City,22,22
+SYN-PS-0024,D04,Mangaluru City,23,20
+SYN-PS-0025,D05,Belagavi City,0,70
+SYN-PS-0025,D05,Belagavi City,1,62
+SYN-PS-0025,D05,Belagavi City,2,55
+SYN-PS-0025,D05,Belagavi City,3,39
+SYN-PS-0025,D05,Belagavi City,4,31
+SYN-PS-0025,D05,Belagavi City,5,24
+SYN-PS-0025,D05,Belagavi City,6,23
+SYN-PS-0025,D05,Belagavi City,7,30
+SYN-PS-0025,D05,Belagavi City,8,38
+SYN-PS-0025,D05,Belagavi City,9,46
+SYN-PS-0025,D05,Belagavi City,10,46
+SYN-PS-0025,D05,Belagavi City,11,46
+SYN-PS-0025,D05,Belagavi City,12,46
+SYN-PS-0025,D05,Belagavi City,13,46
+SYN-PS-0025,D05,Belagavi City,14,46
+SYN-PS-0025,D05,Belagavi City,15,54
+SYN-PS-0025,D05,Belagavi City,16,61
+SYN-PS-0025,D05,Belagavi City,17,69
+SYN-PS-0025,D05,Belagavi City,18,86
+SYN-PS-0025,D05,Belagavi City,19,93
+SYN-PS-0025,D05,Belagavi City,20,93
+SYN-PS-0025,D05,Belagavi City,21,86
+SYN-PS-0025,D05,Belagavi City,22,78
+SYN-PS-0025,D05,Belagavi City,23,70
+SYN-PS-0026,D05,Belagavi City,0,12
+SYN-PS-0026,D05,Belagavi City,1,10
+SYN-PS-0026,D05,Belagavi City,2,9
+SYN-PS-0026,D05,Belagavi City,3,7
+SYN-PS-0026,D05,Belagavi City,4,5
+SYN-PS-0026,D05,Belagavi City,5,4
+SYN-PS-0026,D05,Belagavi City,6,4
+SYN-PS-0026,D05,Belagavi City,7,5
+SYN-PS-0026,D05,Belagavi City,8,6
+SYN-PS-0026,D05,Belagavi City,9,7
+SYN-PS-0026,D05,Belagavi City,10,7
+SYN-PS-0026,D05,Belagavi City,11,7
+SYN-PS-0026,D05,Belagavi City,12,7
+SYN-PS-0026,D05,Belagavi City,13,7
+SYN-PS-0026,D05,Belagavi City,14,7
+SYN-PS-0026,D05,Belagavi City,15,8
+SYN-PS-0026,D05,Belagavi City,16,9
+SYN-PS-0026,D05,Belagavi City,17,11
+SYN-PS-0026,D05,Belagavi City,18,14
+SYN-PS-0026,D05,Belagavi City,19,15
+SYN-PS-0026,D05,Belagavi City,20,15
+SYN-PS-0026,D05,Belagavi City,21,14
+SYN-PS-0026,D05,Belagavi City,22,13
+SYN-PS-0026,D05,Belagavi City,23,12
+SYN-PS-0027,D05,Belagavi City,0,25
+SYN-PS-0027,D05,Belagavi City,1,23
+SYN-PS-0027,D05,Belagavi City,2,20
+SYN-PS-0027,D05,Belagavi City,3,13
+SYN-PS-0027,D05,Belagavi City,4,11
+SYN-PS-0027,D05,Belagavi City,5,8
+SYN-PS-0027,D05,Belagavi City,6,8
+SYN-PS-0027,D05,Belagavi City,7,11
+SYN-PS-0027,D05,Belagavi City,8,13
+SYN-PS-0027,D05,Belagavi City,9,16
+SYN-PS-0027,D05,Belagavi City,10,16
+SYN-PS-0027,D05,Belagavi City,11,16
+SYN-PS-0027,D05,Belagavi City,12,16
+SYN-PS-0027,D05,Belagavi City,13,16
+SYN-PS-0027,D05,Belagavi City,14,16
+SYN-PS-0027,D05,Belagavi City,15,19
+SYN-PS-0027,D05,Belagavi City,16,22
+SYN-PS-0027,D05,Belagavi City,17,24
+SYN-PS-0027,D05,Belagavi City,18,31
+SYN-PS-0027,D05,Belagavi City,19,34
+SYN-PS-0027,D05,Belagavi City,20,34
+SYN-PS-0027,D05,Belagavi City,21,31
+SYN-PS-0027,D05,Belagavi City,22,28
+SYN-PS-0027,D05,Belagavi City,23,25
+SYN-PS-0028,D05,Belagavi City,0,15
+SYN-PS-0028,D05,Belagavi City,1,13
+SYN-PS-0028,D05,Belagavi City,2,12
+SYN-PS-0028,D05,Belagavi City,3,9
+SYN-PS-0028,D05,Belagavi City,4,7
+SYN-PS-0028,D05,Belagavi City,5,5
+SYN-PS-0028,D05,Belagavi City,6,4
+SYN-PS-0028,D05,Belagavi City,7,6
+SYN-PS-0028,D05,Belagavi City,8,8
+SYN-PS-0028,D05,Belagavi City,9,9
+SYN-PS-0028,D05,Belagavi City,10,9
+SYN-PS-0028,D05,Belagavi City,11,9
+SYN-PS-0028,D05,Belagavi City,12,9
+SYN-PS-0028,D05,Belagavi City,13,9
+SYN-PS-0028,D05,Belagavi City,14,9
+SYN-PS-0028,D05,Belagavi City,15,11
+SYN-PS-0028,D05,Belagavi City,16,12
+SYN-PS-0028,D05,Belagavi City,17,14
+SYN-PS-0028,D05,Belagavi City,18,18
+SYN-PS-0028,D05,Belagavi City,19,20
+SYN-PS-0028,D05,Belagavi City,20,20
+SYN-PS-0028,D05,Belagavi City,21,18
+SYN-PS-0028,D05,Belagavi City,22,17
+SYN-PS-0028,D05,Belagavi City,23,15
+SYN-PS-0029,D06,Kalaburagi City,0,17
+SYN-PS-0029,D06,Kalaburagi City,1,15
+SYN-PS-0029,D06,Kalaburagi City,2,12
+SYN-PS-0029,D06,Kalaburagi City,3,9
+SYN-PS-0029,D06,Kalaburagi City,4,7
+SYN-PS-0029,D06,Kalaburagi City,5,5
+SYN-PS-0029,D06,Kalaburagi City,6,5
+SYN-PS-0029,D06,Kalaburagi City,7,7
+SYN-PS-0029,D06,Kalaburagi City,8,9
+SYN-PS-0029,D06,Kalaburagi City,9,11
+SYN-PS-0029,D06,Kalaburagi City,10,11
+SYN-PS-0029,D06,Kalaburagi City,11,11
+SYN-PS-0029,D06,Kalaburagi City,12,11
+SYN-PS-0029,D06,Kalaburagi City,13,11
+SYN-PS-0029,D06,Kalaburagi City,14,11
+SYN-PS-0029,D06,Kalaburagi City,15,12
+SYN-PS-0029,D06,Kalaburagi City,16,14
+SYN-PS-0029,D06,Kalaburagi City,17,16
+SYN-PS-0029,D06,Kalaburagi City,18,21
+SYN-PS-0029,D06,Kalaburagi City,19,23
+SYN-PS-0029,D06,Kalaburagi City,20,23
+SYN-PS-0029,D06,Kalaburagi City,21,21
+SYN-PS-0029,D06,Kalaburagi City,22,19
+SYN-PS-0029,D06,Kalaburagi City,23,17
+SYN-PS-0030,D06,Kalaburagi City,0,80
+SYN-PS-0030,D06,Kalaburagi City,1,71
+SYN-PS-0030,D06,Kalaburagi City,2,62
+SYN-PS-0030,D06,Kalaburagi City,3,45
+SYN-PS-0030,D06,Kalaburagi City,4,36
+SYN-PS-0030,D06,Kalaburagi City,5,27
+SYN-PS-0030,D06,Kalaburagi City,6,27
+SYN-PS-0030,D06,Kalaburagi City,7,36
+SYN-PS-0030,D06,Kalaburagi City,8,44
+SYN-PS-0030,D06,Kalaburagi City,9,52
+SYN-PS-0030,D06,Kalaburagi City,10,52
+SYN-PS-0030,D06,Kalaburagi City,11,52
+SYN-PS-0030,D06,Kalaburagi City,12,52
+SYN-PS-0030,D06,Kalaburagi City,13,52
+SYN-PS-0030,D06,Kalaburagi City,14,52
+SYN-PS-0030,D06,Kalaburagi City,15,61
+SYN-PS-0030,D06,Kalaburagi City,16,70
+SYN-PS-0030,D06,Kalaburagi City,17,79
+SYN-PS-0030,D06,Kalaburagi City,18,97
+SYN-PS-0030,D06,Kalaburagi City,19,106
+SYN-PS-0030,D06,Kalaburagi City,20,106
+SYN-PS-0030,D06,Kalaburagi City,21,97
+SYN-PS-0030,D06,Kalaburagi City,22,89
+SYN-PS-0030,D06,Kalaburagi City,23,80
+SYN-PS-0031,D06,Kalaburagi City,0,13
+SYN-PS-0031,D06,Kalaburagi City,1,12
+SYN-PS-0031,D06,Kalaburagi City,2,10
+SYN-PS-0031,D06,Kalaburagi City,3,7
+SYN-PS-0031,D06,Kalaburagi City,4,6
+SYN-PS-0031,D06,Kalaburagi City,5,4
+SYN-PS-0031,D06,Kalaburagi City,6,4
+SYN-PS-0031,D06,Kalaburagi City,7,5
+SYN-PS-0031,D06,Kalaburagi City,8,6
+SYN-PS-0031,D06,Kalaburagi City,9,8
+SYN-PS-0031,D06,Kalaburagi City,10,8
+SYN-PS-0031,D06,Kalaburagi City,11,8
+SYN-PS-0031,D06,Kalaburagi City,12,8
+SYN-PS-0031,D06,Kalaburagi City,13,8
+SYN-PS-0031,D06,Kalaburagi City,14,8
+SYN-PS-0031,D06,Kalaburagi City,15,9
+SYN-PS-0031,D06,Kalaburagi City,16,11
+SYN-PS-0031,D06,Kalaburagi City,17,12
+SYN-PS-0031,D06,Kalaburagi City,18,16
+SYN-PS-0031,D06,Kalaburagi City,19,17
+SYN-PS-0031,D06,Kalaburagi City,20,17
+SYN-PS-0031,D06,Kalaburagi City,21,16
+SYN-PS-0031,D06,Kalaburagi City,22,14
+SYN-PS-0031,D06,Kalaburagi City,23,13
+SYN-PS-0032,D06,Kalaburagi City,0,35
+SYN-PS-0032,D06,Kalaburagi City,1,31
+SYN-PS-0032,D06,Kalaburagi City,2,27
+SYN-PS-0032,D06,Kalaburagi City,3,19
+SYN-PS-0032,D06,Kalaburagi City,4,16
+SYN-PS-0032,D06,Kalaburagi City,5,12
+SYN-PS-0032,D06,Kalaburagi City,6,12
+SYN-PS-0032,D06,Kalaburagi City,7,16
+SYN-PS-0032,D06,Kalaburagi City,8,18
+SYN-PS-0032,D06,Kalaburagi City,9,22
+SYN-PS-0032,D06,Kalaburagi City,10,22
+SYN-PS-0032,D06,Kalaburagi City,11,22
+SYN-PS-0032,D06,Kalaburagi City,12,22
+SYN-PS-0032,D06,Kalaburagi City,13,22
+SYN-PS-0032,D06,Kalaburagi City,14,22
+SYN-PS-0032,D06,Kalaburagi City,15,26
+SYN-PS-0032,D06,Kalaburagi City,16,30
+SYN-PS-0032,D06,Kalaburagi City,17,34
+SYN-PS-0032,D06,Kalaburagi City,18,42
+SYN-PS-0032,D06,Kalaburagi City,19,46
+SYN-PS-0032,D06,Kalaburagi City,20,46
+SYN-PS-0032,D06,Kalaburagi City,21,42
+SYN-PS-0032,D06,Kalaburagi City,22,38
+SYN-PS-0032,D06,Kalaburagi City,23,35
+SYN-PS-0033,D07,Bengaluru Dist,0,18
+SYN-PS-0033,D07,Bengaluru Dist,1,16
+SYN-PS-0033,D07,Bengaluru Dist,2,14
+SYN-PS-0033,D07,Bengaluru Dist,3,10
+SYN-PS-0033,D07,Bengaluru Dist,4,8
+SYN-PS-0033,D07,Bengaluru Dist,5,6
+SYN-PS-0033,D07,Bengaluru Dist,6,6
+SYN-PS-0033,D07,Bengaluru Dist,7,8
+SYN-PS-0033,D07,Bengaluru Dist,8,10
+SYN-PS-0033,D07,Bengaluru Dist,9,12
+SYN-PS-0033,D07,Bengaluru Dist,10,11
+SYN-PS-0033,D07,Bengaluru Dist,11,11
+SYN-PS-0033,D07,Bengaluru Dist,12,11
+SYN-PS-0033,D07,Bengaluru Dist,13,11
+SYN-PS-0033,D07,Bengaluru Dist,14,11
+SYN-PS-0033,D07,Bengaluru Dist,15,13
+SYN-PS-0033,D07,Bengaluru Dist,16,15
+SYN-PS-0033,D07,Bengaluru Dist,17,17
+SYN-PS-0033,D07,Bengaluru Dist,18,22
+SYN-PS-0033,D07,Bengaluru Dist,19,24
+SYN-PS-0033,D07,Bengaluru Dist,20,24
+SYN-PS-0033,D07,Bengaluru Dist,21,22
+SYN-PS-0033,D07,Bengaluru Dist,22,20
+SYN-PS-0033,D07,Bengaluru Dist,23,18
+SYN-PS-0034,D07,Bengaluru Dist,0,99
+SYN-PS-0034,D07,Bengaluru Dist,1,88
+SYN-PS-0034,D07,Bengaluru Dist,2,77
+SYN-PS-0034,D07,Bengaluru Dist,3,55
+SYN-PS-0034,D07,Bengaluru Dist,4,44
+SYN-PS-0034,D07,Bengaluru Dist,5,33
+SYN-PS-0034,D07,Bengaluru Dist,6,33
+SYN-PS-0034,D07,Bengaluru Dist,7,44
+SYN-PS-0034,D07,Bengaluru Dist,8,55
+SYN-PS-0034,D07,Bengaluru Dist,9,66
+SYN-PS-0034,D07,Bengaluru Dist,10,66
+SYN-PS-0034,D07,Bengaluru Dist,11,66
+SYN-PS-0034,D07,Bengaluru Dist,12,66
+SYN-PS-0034,D07,Bengaluru Dist,13,66
+SYN-PS-0034,D07,Bengaluru Dist,14,66
+SYN-PS-0034,D07,Bengaluru Dist,15,77
+SYN-PS-0034,D07,Bengaluru Dist,16,88
+SYN-PS-0034,D07,Bengaluru Dist,17,99
+SYN-PS-0034,D07,Bengaluru Dist,18,121
+SYN-PS-0034,D07,Bengaluru Dist,19,132
+SYN-PS-0034,D07,Bengaluru Dist,20,132
+SYN-PS-0034,D07,Bengaluru Dist,21,121
+SYN-PS-0034,D07,Bengaluru Dist,22,110
+SYN-PS-0034,D07,Bengaluru Dist,23,99
+SYN-PS-0035,D07,Bengaluru Dist,0,155
+SYN-PS-0035,D07,Bengaluru Dist,1,138
+SYN-PS-0035,D07,Bengaluru Dist,2,121
+SYN-PS-0035,D07,Bengaluru Dist,3,86
+SYN-PS-0035,D07,Bengaluru Dist,4,69
+SYN-PS-0035,D07,Bengaluru Dist,5,52
+SYN-PS-0035,D07,Bengaluru Dist,6,51
+SYN-PS-0035,D07,Bengaluru Dist,7,68
+SYN-PS-0035,D07,Bengaluru Dist,8,85
+SYN-PS-0035,D07,Bengaluru Dist,9,103
+SYN-PS-0035,D07,Bengaluru Dist,10,103
+SYN-PS-0035,D07,Bengaluru Dist,11,103
+SYN-PS-0035,D07,Bengaluru Dist,12,103
+SYN-PS-0035,D07,Bengaluru Dist,13,103
+SYN-PS-0035,D07,Bengaluru Dist,14,103
+SYN-PS-0035,D07,Bengaluru Dist,15,120
+SYN-PS-0035,D07,Bengaluru Dist,16,137
+SYN-PS-0035,D07,Bengaluru Dist,17,154
+SYN-PS-0035,D07,Bengaluru Dist,18,190
+SYN-PS-0035,D07,Bengaluru Dist,19,207
+SYN-PS-0035,D07,Bengaluru Dist,20,207
+SYN-PS-0035,D07,Bengaluru Dist,21,190
+SYN-PS-0035,D07,Bengaluru Dist,22,172
+SYN-PS-0035,D07,Bengaluru Dist,23,155
+SYN-PS-0036,D07,Bengaluru Dist,0,58
+SYN-PS-0036,D07,Bengaluru Dist,1,51
+SYN-PS-0036,D07,Bengaluru Dist,2,45
+SYN-PS-0036,D07,Bengaluru Dist,3,32
+SYN-PS-0036,D07,Bengaluru Dist,4,25
+SYN-PS-0036,D07,Bengaluru Dist,5,19
+SYN-PS-0036,D07,Bengaluru Dist,6,19
+SYN-PS-0036,D07,Bengaluru Dist,7,25
+SYN-PS-0036,D07,Bengaluru Dist,8,31
+SYN-PS-0036,D07,Bengaluru Dist,9,38
+SYN-PS-0036,D07,Bengaluru Dist,10,38
+SYN-PS-0036,D07,Bengaluru Dist,11,38
+SYN-PS-0036,D07,Bengaluru Dist,12,38
+SYN-PS-0036,D07,Bengaluru Dist,13,38
+SYN-PS-0036,D07,Bengaluru Dist,14,38
+SYN-PS-0036,D07,Bengaluru Dist,15,44
+SYN-PS-0036,D07,Bengaluru Dist,16,50
+SYN-PS-0036,D07,Bengaluru Dist,17,57
+SYN-PS-0036,D07,Bengaluru Dist,18,71
+SYN-PS-0036,D07,Bengaluru Dist,19,77
+SYN-PS-0036,D07,Bengaluru Dist,20,77
+SYN-PS-0036,D07,Bengaluru Dist,21,71
+SYN-PS-0036,D07,Bengaluru Dist,22,64
+SYN-PS-0036,D07,Bengaluru Dist,23,58
+SYN-PS-0037,D07,Bengaluru Dist,0,45
+SYN-PS-0037,D07,Bengaluru Dist,1,40
+SYN-PS-0037,D07,Bengaluru Dist,2,35
+SYN-PS-0037,D07,Bengaluru Dist,3,25
+SYN-PS-0037,D07,Bengaluru Dist,4,20
+SYN-PS-0037,D07,Bengaluru Dist,5,15
+SYN-PS-0037,D07,Bengaluru Dist,6,15
+SYN-PS-0037,D07,Bengaluru Dist,7,20
+SYN-PS-0037,D07,Bengaluru Dist,8,25
+SYN-PS-0037,D07,Bengaluru Dist,9,30
+SYN-PS-0037,D07,Bengaluru Dist,10,30
+SYN-PS-0037,D07,Bengaluru Dist,11,30
+SYN-PS-0037,D07,Bengaluru Dist,12,30
+SYN-PS-0037,D07,Bengaluru Dist,13,30
+SYN-PS-0037,D07,Bengaluru Dist,14,30
+SYN-PS-0037,D07,Bengaluru Dist,15,35
+SYN-PS-0037,D07,Bengaluru Dist,16,40
+SYN-PS-0037,D07,Bengaluru Dist,17,45
+SYN-PS-0037,D07,Bengaluru Dist,18,56
+SYN-PS-0037,D07,Bengaluru Dist,19,61
+SYN-PS-0037,D07,Bengaluru Dist,20,61
+SYN-PS-0037,D07,Bengaluru Dist,21,56
+SYN-PS-0037,D07,Bengaluru Dist,22,50
+SYN-PS-0037,D07,Bengaluru Dist,23,45
+SYN-PS-0038,D07,Bengaluru Dist,0,22
+SYN-PS-0038,D07,Bengaluru Dist,1,20
+SYN-PS-0038,D07,Bengaluru Dist,2,17
+SYN-PS-0038,D07,Bengaluru Dist,3,12
+SYN-PS-0038,D07,Bengaluru Dist,4,10
+SYN-PS-0038,D07,Bengaluru Dist,5,7
+SYN-PS-0038,D07,Bengaluru Dist,6,7
+SYN-PS-0038,D07,Bengaluru Dist,7,10
+SYN-PS-0038,D07,Bengaluru Dist,8,12
+SYN-PS-0038,D07,Bengaluru Dist,9,15
+SYN-PS-0038,D07,Bengaluru Dist,10,15
+SYN-PS-0038,D07,Bengaluru Dist,11,15
+SYN-PS-0038,D07,Bengaluru Dist,12,15
+SYN-PS-0038,D07,Bengaluru Dist,13,15
+SYN-PS-0038,D07,Bengaluru Dist,14,15
+SYN-PS-0038,D07,Bengaluru Dist,15,17
+SYN-PS-0038,D07,Bengaluru Dist,16,20
+SYN-PS-0038,D07,Bengaluru Dist,17,22
+SYN-PS-0038,D07,Bengaluru Dist,18,28
+SYN-PS-0038,D07,Bengaluru Dist,19,31
+SYN-PS-0038,D07,Bengaluru Dist,20,31
+SYN-PS-0038,D07,Bengaluru Dist,21,28
+SYN-PS-0038,D07,Bengaluru Dist,22,26
+SYN-PS-0038,D07,Bengaluru Dist,23,23
+SYN-PS-0039,D08,Bengaluru South,0,21
+SYN-PS-0039,D08,Bengaluru South,1,19
+SYN-PS-0039,D08,Bengaluru South,2,17
+SYN-PS-0039,D08,Bengaluru South,3,12
+SYN-PS-0039,D08,Bengaluru South,4,10
+SYN-PS-0039,D08,Bengaluru South,5,7
+SYN-PS-0039,D08,Bengaluru South,6,6
+SYN-PS-0039,D08,Bengaluru South,7,9
+SYN-PS-0039,D08,Bengaluru South,8,11
+SYN-PS-0039,D08,Bengaluru South,9,13
+SYN-PS-0039,D08,Bengaluru South,10,13
+SYN-PS-0039,D08,Bengaluru South,11,13
+SYN-PS-0039,D08,Bengaluru South,12,13
+SYN-PS-0039,D08,Bengaluru South,13,13
+SYN-PS-0039,D08,Bengaluru South,14,13
+SYN-PS-0039,D08,Bengaluru South,15,16
+SYN-PS-0039,D08,Bengaluru South,16,18
+SYN-PS-0039,D08,Bengaluru South,17,20
+SYN-PS-0039,D08,Bengaluru South,18,26
+SYN-PS-0039,D08,Bengaluru South,19,28
+SYN-PS-0039,D08,Bengaluru South,20,28
+SYN-PS-0039,D08,Bengaluru South,21,26
+SYN-PS-0039,D08,Bengaluru South,22,23
+SYN-PS-0039,D08,Bengaluru South,23,21
+SYN-PS-0040,D08,Bengaluru South,0,81
+SYN-PS-0040,D08,Bengaluru South,1,72
+SYN-PS-0040,D08,Bengaluru South,2,63
+SYN-PS-0040,D08,Bengaluru South,3,45
+SYN-PS-0040,D08,Bengaluru South,4,36
+SYN-PS-0040,D08,Bengaluru South,5,27
+SYN-PS-0040,D08,Bengaluru South,6,26
+SYN-PS-0040,D08,Bengaluru South,7,35
+SYN-PS-0040,D08,Bengaluru South,8,44
+SYN-PS-0040,D08,Bengaluru South,9,53
+SYN-PS-0040,D08,Bengaluru South,10,53
+SYN-PS-0040,D08,Bengaluru South,11,53
+SYN-PS-0040,D08,Bengaluru South,12,53
+SYN-PS-0040,D08,Bengaluru South,13,53
+SYN-PS-0040,D08,Bengaluru South,14,53
+SYN-PS-0040,D08,Bengaluru South,15,62
+SYN-PS-0040,D08,Bengaluru South,16,71
+SYN-PS-0040,D08,Bengaluru South,17,80
+SYN-PS-0040,D08,Bengaluru South,18,99
+SYN-PS-0040,D08,Bengaluru South,19,108
+SYN-PS-0040,D08,Bengaluru South,20,108
+SYN-PS-0040,D08,Bengaluru South,21,99
+SYN-PS-0040,D08,Bengaluru South,22,90
+SYN-PS-0040,D08,Bengaluru South,23,81
+SYN-PS-0041,D08,Bengaluru South,0,11
+SYN-PS-0041,D08,Bengaluru South,1,9
+SYN-PS-0041,D08,Bengaluru South,2,8
+SYN-PS-0041,D08,Bengaluru South,3,6
+SYN-PS-0041,D08,Bengaluru South,4,5
+SYN-PS-0041,D08,Bengaluru South,5,4
+SYN-PS-0041,D08,Bengaluru South,6,4
+SYN-PS-0041,D08,Bengaluru South,7,4
+SYN-PS-0041,D08,Bengaluru South,8,5
+SYN-PS-0041,D08,Bengaluru South,9,6
+SYN-PS-0041,D08,Bengaluru South,10,6
+SYN-PS-0041,D08,Bengaluru South,11,6
+SYN-PS-0041,D08,Bengaluru South,12,6
+SYN-PS-0041,D08,Bengaluru South,13,6
+SYN-PS-0041,D08,Bengaluru South,14,6
+SYN-PS-0041,D08,Bengaluru South,15,7
+SYN-PS-0041,D08,Bengaluru South,16,8
+SYN-PS-0041,D08,Bengaluru South,17,10
+SYN-PS-0041,D08,Bengaluru South,18,13
+SYN-PS-0041,D08,Bengaluru South,19,14
+SYN-PS-0041,D08,Bengaluru South,20,14
+SYN-PS-0041,D08,Bengaluru South,21,13
+SYN-PS-0041,D08,Bengaluru South,22,12
+SYN-PS-0041,D08,Bengaluru South,23,11
+SYN-PS-0042,D08,Bengaluru South,0,90
+SYN-PS-0042,D08,Bengaluru South,1,80
+SYN-PS-0042,D08,Bengaluru South,2,70
+SYN-PS-0042,D08,Bengaluru South,3,50
+SYN-PS-0042,D08,Bengaluru South,4,40
+SYN-PS-0042,D08,Bengaluru South,5,30
+SYN-PS-0042,D08,Bengaluru South,6,30
+SYN-PS-0042,D08,Bengaluru South,7,40
+SYN-PS-0042,D08,Bengaluru South,8,50
+SYN-PS-0042,D08,Bengaluru South,9,60
+SYN-PS-0042,D08,Bengaluru South,10,60
+SYN-PS-0042,D08,Bengaluru South,11,60
+SYN-PS-0042,D08,Bengaluru South,12,60
+SYN-PS-0042,D08,Bengaluru South,13,60
+SYN-PS-0042,D08,Bengaluru South,14,60
+SYN-PS-0042,D08,Bengaluru South,15,70
+SYN-PS-0042,D08,Bengaluru South,16,80
+SYN-PS-0042,D08,Bengaluru South,17,89
+SYN-PS-0042,D08,Bengaluru South,18,110
+SYN-PS-0042,D08,Bengaluru South,19,120
+SYN-PS-0042,D08,Bengaluru South,20,120
+SYN-PS-0042,D08,Bengaluru South,21,110
+SYN-PS-0042,D08,Bengaluru South,22,100
+SYN-PS-0042,D08,Bengaluru South,23,90
+SYN-PS-0043,D08,Bengaluru South,0,15
+SYN-PS-0043,D08,Bengaluru South,1,13
+SYN-PS-0043,D08,Bengaluru South,2,12
+SYN-PS-0043,D08,Bengaluru South,3,8
+SYN-PS-0043,D08,Bengaluru South,4,7
+SYN-PS-0043,D08,Bengaluru South,5,5
+SYN-PS-0043,D08,Bengaluru South,6,4
+SYN-PS-0043,D08,Bengaluru South,7,6
+SYN-PS-0043,D08,Bengaluru South,8,7
+SYN-PS-0043,D08,Bengaluru South,9,9
+SYN-PS-0043,D08,Bengaluru South,10,9
+SYN-PS-0043,D08,Bengaluru South,11,9
+SYN-PS-0043,D08,Bengaluru South,12,9
+SYN-PS-0043,D08,Bengaluru South,13,9
+SYN-PS-0043,D08,Bengaluru South,14,9
+SYN-PS-0043,D08,Bengaluru South,15,11
+SYN-PS-0043,D08,Bengaluru South,16,12
+SYN-PS-0043,D08,Bengaluru South,17,14
+SYN-PS-0043,D08,Bengaluru South,18,18
+SYN-PS-0043,D08,Bengaluru South,19,20
+SYN-PS-0043,D08,Bengaluru South,20,20
+SYN-PS-0043,D08,Bengaluru South,21,18
+SYN-PS-0043,D08,Bengaluru South,22,16
+SYN-PS-0043,D08,Bengaluru South,23,15
+SYN-PS-0044,D08,Bengaluru South,0,23
+SYN-PS-0044,D08,Bengaluru South,1,21
+SYN-PS-0044,D08,Bengaluru South,2,18
+SYN-PS-0044,D08,Bengaluru South,3,13
+SYN-PS-0044,D08,Bengaluru South,4,11
+SYN-PS-0044,D08,Bengaluru South,5,8
+SYN-PS-0044,D08,Bengaluru South,6,7
+SYN-PS-0044,D08,Bengaluru South,7,10
+SYN-PS-0044,D08,Bengaluru South,8,12
+SYN-PS-0044,D08,Bengaluru South,9,15
+SYN-PS-0044,D08,Bengaluru South,10,15
+SYN-PS-0044,D08,Bengaluru South,11,15
+SYN-PS-0044,D08,Bengaluru South,12,15
+SYN-PS-0044,D08,Bengaluru South,13,15
+SYN-PS-0044,D08,Bengaluru South,14,15
+SYN-PS-0044,D08,Bengaluru South,15,17
+SYN-PS-0044,D08,Bengaluru South,16,20
+SYN-PS-0044,D08,Bengaluru South,17,22
+SYN-PS-0044,D08,Bengaluru South,18,29
+SYN-PS-0044,D08,Bengaluru South,19,31
+SYN-PS-0044,D08,Bengaluru South,20,31
+SYN-PS-0044,D08,Bengaluru South,21,29
+SYN-PS-0044,D08,Bengaluru South,22,26
+SYN-PS-0044,D08,Bengaluru South,23,23
+SYN-PS-0045,D09,Tumakuru,0,31
+SYN-PS-0045,D09,Tumakuru,1,28
+SYN-PS-0045,D09,Tumakuru,2,24
+SYN-PS-0045,D09,Tumakuru,3,17
+SYN-PS-0045,D09,Tumakuru,4,14
+SYN-PS-0045,D09,Tumakuru,5,11
+SYN-PS-0045,D09,Tumakuru,6,11
+SYN-PS-0045,D09,Tumakuru,7,13
+SYN-PS-0045,D09,Tumakuru,8,16
+SYN-PS-0045,D09,Tumakuru,9,20
+SYN-PS-0045,D09,Tumakuru,10,20
+SYN-PS-0045,D09,Tumakuru,11,20
+SYN-PS-0045,D09,Tumakuru,12,20
+SYN-PS-0045,D09,Tumakuru,13,20
+SYN-PS-0045,D09,Tumakuru,14,20
+SYN-PS-0045,D09,Tumakuru,15,23
+SYN-PS-0045,D09,Tumakuru,16,27
+SYN-PS-0045,D09,Tumakuru,17,30
+SYN-PS-0045,D09,Tumakuru,18,38
+SYN-PS-0045,D09,Tumakuru,19,41
+SYN-PS-0045,D09,Tumakuru,20,41
+SYN-PS-0045,D09,Tumakuru,21,38
+SYN-PS-0045,D09,Tumakuru,22,34
+SYN-PS-0045,D09,Tumakuru,23,31
+SYN-PS-0046,D09,Tumakuru,0,17
+SYN-PS-0046,D09,Tumakuru,1,15
+SYN-PS-0046,D09,Tumakuru,2,13
+SYN-PS-0046,D09,Tumakuru,3,10
+SYN-PS-0046,D09,Tumakuru,4,8
+SYN-PS-0046,D09,Tumakuru,5,6
+SYN-PS-0046,D09,Tumakuru,6,6
+SYN-PS-0046,D09,Tumakuru,7,8
+SYN-PS-0046,D09,Tumakuru,8,10
+SYN-PS-0046,D09,Tumakuru,9,10
+SYN-PS-0046,D09,Tumakuru,10,10
+SYN-PS-0046,D09,Tumakuru,11,10
+SYN-PS-0046,D09,Tumakuru,12,10
+SYN-PS-0046,D09,Tumakuru,13,10
+SYN-PS-0046,D09,Tumakuru,14,10
+SYN-PS-0046,D09,Tumakuru,15,12
+SYN-PS-0046,D09,Tumakuru,16,14
+SYN-PS-0046,D09,Tumakuru,17,16
+SYN-PS-0046,D09,Tumakuru,18,21
+SYN-PS-0046,D09,Tumakuru,19,22
+SYN-PS-0046,D09,Tumakuru,20,22
+SYN-PS-0046,D09,Tumakuru,21,21
+SYN-PS-0046,D09,Tumakuru,22,19
+SYN-PS-0046,D09,Tumakuru,23,17
+SYN-PS-0047,D09,Tumakuru,0,40
+SYN-PS-0047,D09,Tumakuru,1,36
+SYN-PS-0047,D09,Tumakuru,2,31
+SYN-PS-0047,D09,Tumakuru,3,22
+SYN-PS-0047,D09,Tumakuru,4,18
+SYN-PS-0047,D09,Tumakuru,5,13
+SYN-PS-0047,D09,Tumakuru,6,13
+SYN-PS-0047,D09,Tumakuru,7,17
+SYN-PS-0047,D09,Tumakuru,8,21
+SYN-PS-0047,D09,Tumakuru,9,26
+SYN-PS-0047,D09,Tumakuru,10,26
+SYN-PS-0047,D09,Tumakuru,11,26
+SYN-PS-0047,D09,Tumakuru,12,26
+SYN-PS-0047,D09,Tumakuru,13,26
+SYN-PS-0047,D09,Tumakuru,14,26
+SYN-PS-0047,D09,Tumakuru,15,30
+SYN-PS-0047,D09,Tumakuru,16,35
+SYN-PS-0047,D09,Tumakuru,17,39
+SYN-PS-0047,D09,Tumakuru,18,49
+SYN-PS-0047,D09,Tumakuru,19,53
+SYN-PS-0047,D09,Tumakuru,20,53
+SYN-PS-0047,D09,Tumakuru,21,49
+SYN-PS-0047,D09,Tumakuru,22,44
+SYN-PS-0047,D09,Tumakuru,23,40
+SYN-PS-0048,D09,Tumakuru,0,92
+SYN-PS-0048,D09,Tumakuru,1,82
+SYN-PS-0048,D09,Tumakuru,2,72
+SYN-PS-0048,D09,Tumakuru,3,51
+SYN-PS-0048,D09,Tumakuru,4,40
+SYN-PS-0048,D09,Tumakuru,5,30
+SYN-PS-0048,D09,Tumakuru,6,30
+SYN-PS-0048,D09,Tumakuru,7,40
+SYN-PS-0048,D09,Tumakuru,8,50
+SYN-PS-0048,D09,Tumakuru,9,61
+SYN-PS-0048,D09,Tumakuru,10,61
+SYN-PS-0048,D09,Tumakuru,11,61
+SYN-PS-0048,D09,Tumakuru,12,61
+SYN-PS-0048,D09,Tumakuru,13,61
+SYN-PS-0048,D09,Tumakuru,14,61
+SYN-PS-0048,D09,Tumakuru,15,71
+SYN-PS-0048,D09,Tumakuru,16,81
+SYN-PS-0048,D09,Tumakuru,17,91
+SYN-PS-0048,D09,Tumakuru,18,112
+SYN-PS-0048,D09,Tumakuru,19,123
+SYN-PS-0048,D09,Tumakuru,20,123
+SYN-PS-0048,D09,Tumakuru,21,112
+SYN-PS-0048,D09,Tumakuru,22,102
+SYN-PS-0048,D09,Tumakuru,23,92
+SYN-PS-0049,D09,Tumakuru,0,18
+SYN-PS-0049,D09,Tumakuru,1,16
+SYN-PS-0049,D09,Tumakuru,2,14
+SYN-PS-0049,D09,Tumakuru,3,10
+SYN-PS-0049,D09,Tumakuru,4,8
+SYN-PS-0049,D09,Tumakuru,5,6
+SYN-PS-0049,D09,Tumakuru,6,6
+SYN-PS-0049,D09,Tumakuru,7,7
+SYN-PS-0049,D09,Tumakuru,8,9
+SYN-PS-0049,D09,Tumakuru,9,11
+SYN-PS-0049,D09,Tumakuru,10,11
+SYN-PS-0049,D09,Tumakuru,11,11
+SYN-PS-0049,D09,Tumakuru,12,11
+SYN-PS-0049,D09,Tumakuru,13,11
+SYN-PS-0049,D09,Tumakuru,14,11
+SYN-PS-0049,D09,Tumakuru,15,13
+SYN-PS-0049,D09,Tumakuru,16,15
+SYN-PS-0049,D09,Tumakuru,17,17
+SYN-PS-0049,D09,Tumakuru,18,22
+SYN-PS-0049,D09,Tumakuru,19,24
+SYN-PS-0049,D09,Tumakuru,20,24
+SYN-PS-0049,D09,Tumakuru,21,22
+SYN-PS-0049,D09,Tumakuru,22,20
+SYN-PS-0049,D09,Tumakuru,23,18
+SYN-PS-0050,D09,Tumakuru,0,45
+SYN-PS-0050,D09,Tumakuru,1,40
+SYN-PS-0050,D09,Tumakuru,2,35
+SYN-PS-0050,D09,Tumakuru,3,25
+SYN-PS-0050,D09,Tumakuru,4,20
+SYN-PS-0050,D09,Tumakuru,5,15
+SYN-PS-0050,D09,Tumakuru,6,14
+SYN-PS-0050,D09,Tumakuru,7,19
+SYN-PS-0050,D09,Tumakuru,8,24
+SYN-PS-0050,D09,Tumakuru,9,29
+SYN-PS-0050,D09,Tumakuru,10,29
+SYN-PS-0050,D09,Tumakuru,11,29
+SYN-PS-0050,D09,Tumakuru,12,29
+SYN-PS-0050,D09,Tumakuru,13,29
+SYN-PS-0050,D09,Tumakuru,14,29
+SYN-PS-0050,D09,Tumakuru,15,34
+SYN-PS-0050,D09,Tumakuru,16,39
+SYN-PS-0050,D09,Tumakuru,17,44
+SYN-PS-0050,D09,Tumakuru,18,55
+SYN-PS-0050,D09,Tumakuru,19,60
+SYN-PS-0050,D09,Tumakuru,20,60
+SYN-PS-0050,D09,Tumakuru,21,55
+SYN-PS-0050,D09,Tumakuru,22,50
+SYN-PS-0050,D09,Tumakuru,23,45
+SYN-PS-0051,D09,Tumakuru,0,98
+SYN-PS-0051,D09,Tumakuru,1,87
+SYN-PS-0051,D09,Tumakuru,2,76
+SYN-PS-0051,D09,Tumakuru,3,54
+SYN-PS-0051,D09,Tumakuru,4,43
+SYN-PS-0051,D09,Tumakuru,5,32
+SYN-PS-0051,D09,Tumakuru,6,32
+SYN-PS-0051,D09,Tumakuru,7,43
+SYN-PS-0051,D09,Tumakuru,8,54
+SYN-PS-0051,D09,Tumakuru,9,65
+SYN-PS-0051,D09,Tumakuru,10,65
+SYN-PS-0051,D09,Tumakuru,11,65
+SYN-PS-0051,D09,Tumakuru,12,65
+SYN-PS-0051,D09,Tumakuru,13,65
+SYN-PS-0051,D09,Tumakuru,14,65
+SYN-PS-0051,D09,Tumakuru,15,75
+SYN-PS-0051,D09,Tumakuru,16,86
+SYN-PS-0051,D09,Tumakuru,17,97
+SYN-PS-0051,D09,Tumakuru,18,120
+SYN-PS-0051,D09,Tumakuru,19,131
+SYN-PS-0051,D09,Tumakuru,20,131
+SYN-PS-0051,D09,Tumakuru,21,120
+SYN-PS-0051,D09,Tumakuru,22,109
+SYN-PS-0051,D09,Tumakuru,23,98
+SYN-PS-0052,D09,Tumakuru,0,104
+SYN-PS-0052,D09,Tumakuru,1,92
+SYN-PS-0052,D09,Tumakuru,2,81
+SYN-PS-0052,D09,Tumakuru,3,58
+SYN-PS-0052,D09,Tumakuru,4,46
+SYN-PS-0052,D09,Tumakuru,5,34
+SYN-PS-0052,D09,Tumakuru,6,34
+SYN-PS-0052,D09,Tumakuru,7,45
+SYN-PS-0052,D09,Tumakuru,8,57
+SYN-PS-0052,D09,Tumakuru,9,68
+SYN-PS-0052,D09,Tumakuru,10,68
+SYN-PS-0052,D09,Tumakuru,11,68
+SYN-PS-0052,D09,Tumakuru,12,68
+SYN-PS-0052,D09,Tumakuru,13,68
+SYN-PS-0052,D09,Tumakuru,14,68
+SYN-PS-0052,D09,Tumakuru,15,80
+SYN-PS-0052,D09,Tumakuru,16,91
+SYN-PS-0052,D09,Tumakuru,17,103
+SYN-PS-0052,D09,Tumakuru,18,127
+SYN-PS-0052,D09,Tumakuru,19,138
+SYN-PS-0052,D09,Tumakuru,20,138
+SYN-PS-0052,D09,Tumakuru,21,127
+SYN-PS-0052,D09,Tumakuru,22,115
+SYN-PS-0052,D09,Tumakuru,23,104
+SYN-PS-0053,D10,Kolar,0,22
+SYN-PS-0053,D10,Kolar,1,19
+SYN-PS-0053,D10,Kolar,2,17
+SYN-PS-0053,D10,Kolar,3,11
+SYN-PS-0053,D10,Kolar,4,9
+SYN-PS-0053,D10,Kolar,5,7
+SYN-PS-0053,D10,Kolar,6,7
+SYN-PS-0053,D10,Kolar,7,9
+SYN-PS-0053,D10,Kolar,8,11
+SYN-PS-0053,D10,Kolar,9,14
+SYN-PS-0053,D10,Kolar,10,14
+SYN-PS-0053,D10,Kolar,11,14
+SYN-PS-0053,D10,Kolar,12,14
+SYN-PS-0053,D10,Kolar,13,14
+SYN-PS-0053,D10,Kolar,14,14
+SYN-PS-0053,D10,Kolar,15,16
+SYN-PS-0053,D10,Kolar,16,18
+SYN-PS-0053,D10,Kolar,17,21
+SYN-PS-0053,D10,Kolar,18,27
+SYN-PS-0053,D10,Kolar,19,29
+SYN-PS-0053,D10,Kolar,20,29
+SYN-PS-0053,D10,Kolar,21,27
+SYN-PS-0053,D10,Kolar,22,24
+SYN-PS-0053,D10,Kolar,23,22
+SYN-PS-0054,D10,Kolar,0,21
+SYN-PS-0054,D10,Kolar,1,19
+SYN-PS-0054,D10,Kolar,2,16
+SYN-PS-0054,D10,Kolar,3,12
+SYN-PS-0054,D10,Kolar,4,10
+SYN-PS-0054,D10,Kolar,5,7
+SYN-PS-0054,D10,Kolar,6,6
+SYN-PS-0054,D10,Kolar,7,9
+SYN-PS-0054,D10,Kolar,8,11
+SYN-PS-0054,D10,Kolar,9,13
+SYN-PS-0054,D10,Kolar,10,13
+SYN-PS-0054,D10,Kolar,11,13
+SYN-PS-0054,D10,Kolar,12,13
+SYN-PS-0054,D10,Kolar,13,13
+SYN-PS-0054,D10,Kolar,14,13
+SYN-PS-0054,D10,Kolar,15,15
+SYN-PS-0054,D10,Kolar,16,18
+SYN-PS-0054,D10,Kolar,17,20
+SYN-PS-0054,D10,Kolar,18,26
+SYN-PS-0054,D10,Kolar,19,28
+SYN-PS-0054,D10,Kolar,20,28
+SYN-PS-0054,D10,Kolar,21,26
+SYN-PS-0054,D10,Kolar,22,23
+SYN-PS-0054,D10,Kolar,23,21
+SYN-PS-0055,D10,Kolar,0,45
+SYN-PS-0055,D10,Kolar,1,40
+SYN-PS-0055,D10,Kolar,2,35
+SYN-PS-0055,D10,Kolar,3,25
+SYN-PS-0055,D10,Kolar,4,20
+SYN-PS-0055,D10,Kolar,5,15
+SYN-PS-0055,D10,Kolar,6,15
+SYN-PS-0055,D10,Kolar,7,20
+SYN-PS-0055,D10,Kolar,8,24
+SYN-PS-0055,D10,Kolar,9,29
+SYN-PS-0055,D10,Kolar,10,29
+SYN-PS-0055,D10,Kolar,11,29
+SYN-PS-0055,D10,Kolar,12,29
+SYN-PS-0055,D10,Kolar,13,29
+SYN-PS-0055,D10,Kolar,14,29
+SYN-PS-0055,D10,Kolar,15,34
+SYN-PS-0055,D10,Kolar,16,39
+SYN-PS-0055,D10,Kolar,17,44
+SYN-PS-0055,D10,Kolar,18,55
+SYN-PS-0055,D10,Kolar,19,60
+SYN-PS-0055,D10,Kolar,20,60
+SYN-PS-0055,D10,Kolar,21,55
+SYN-PS-0055,D10,Kolar,22,50
+SYN-PS-0055,D10,Kolar,23,45
+SYN-PS-0056,D10,Kolar,0,57
+SYN-PS-0056,D10,Kolar,1,51
+SYN-PS-0056,D10,Kolar,2,45
+SYN-PS-0056,D10,Kolar,3,32
+SYN-PS-0056,D10,Kolar,4,26
+SYN-PS-0056,D10,Kolar,5,19
+SYN-PS-0056,D10,Kolar,6,19
+SYN-PS-0056,D10,Kolar,7,26
+SYN-PS-0056,D10,Kolar,8,32
+SYN-PS-0056,D10,Kolar,9,37
+SYN-PS-0056,D10,Kolar,10,37
+SYN-PS-0056,D10,Kolar,11,37
+SYN-PS-0056,D10,Kolar,12,37
+SYN-PS-0056,D10,Kolar,13,37
+SYN-PS-0056,D10,Kolar,14,37
+SYN-PS-0056,D10,Kolar,15,44
+SYN-PS-0056,D10,Kolar,16,50
+SYN-PS-0056,D10,Kolar,17,56
+SYN-PS-0056,D10,Kolar,18,70
+SYN-PS-0056,D10,Kolar,19,76
+SYN-PS-0056,D10,Kolar,20,76
+SYN-PS-0056,D10,Kolar,21,70
+SYN-PS-0056,D10,Kolar,22,64
+SYN-PS-0056,D10,Kolar,23,57
+SYN-PS-0057,D11,Chickballapura,0,61
+SYN-PS-0057,D11,Chickballapura,1,55
+SYN-PS-0057,D11,Chickballapura,2,48
+SYN-PS-0057,D11,Chickballapura,3,34
+SYN-PS-0057,D11,Chickballapura,4,28
+SYN-PS-0057,D11,Chickballapura,5,21
+SYN-PS-0057,D11,Chickballapura,6,20
+SYN-PS-0057,D11,Chickballapura,7,27
+SYN-PS-0057,D11,Chickballapura,8,33
+SYN-PS-0057,D11,Chickballapura,9,40
+SYN-PS-0057,D11,Chickballapura,10,40
+SYN-PS-0057,D11,Chickballapura,11,40
+SYN-PS-0057,D11,Chickballapura,12,40
+SYN-PS-0057,D11,Chickballapura,13,40
+SYN-PS-0057,D11,Chickballapura,14,40
+SYN-PS-0057,D11,Chickballapura,15,47
+SYN-PS-0057,D11,Chickballapura,16,54
+SYN-PS-0057,D11,Chickballapura,17,60
+SYN-PS-0057,D11,Chickballapura,18,75
+SYN-PS-0057,D11,Chickballapura,19,82
+SYN-PS-0057,D11,Chickballapura,20,82
+SYN-PS-0057,D11,Chickballapura,21,75
+SYN-PS-0057,D11,Chickballapura,22,68
+SYN-PS-0057,D11,Chickballapura,23,61
+SYN-PS-0058,D11,Chickballapura,0,36
+SYN-PS-0058,D11,Chickballapura,1,32
+SYN-PS-0058,D11,Chickballapura,2,28
+SYN-PS-0058,D11,Chickballapura,3,20
+SYN-PS-0058,D11,Chickballapura,4,16
+SYN-PS-0058,D11,Chickballapura,5,12
+SYN-PS-0058,D11,Chickballapura,6,12
+SYN-PS-0058,D11,Chickballapura,7,16
+SYN-PS-0058,D11,Chickballapura,8,20
+SYN-PS-0058,D11,Chickballapura,9,24
+SYN-PS-0058,D11,Chickballapura,10,24
+SYN-PS-0058,D11,Chickballapura,11,23
+SYN-PS-0058,D11,Chickballapura,12,23
+SYN-PS-0058,D11,Chickballapura,13,23
+SYN-PS-0058,D11,Chickballapura,14,23
+SYN-PS-0058,D11,Chickballapura,15,27
+SYN-PS-0058,D11,Chickballapura,16,31
+SYN-PS-0058,D11,Chickballapura,17,35
+SYN-PS-0058,D11,Chickballapura,18,44
+SYN-PS-0058,D11,Chickballapura,19,48
+SYN-PS-0058,D11,Chickballapura,20,48
+SYN-PS-0058,D11,Chickballapura,21,44
+SYN-PS-0058,D11,Chickballapura,22,40
+SYN-PS-0058,D11,Chickballapura,23,36
+SYN-PS-0059,D11,Chickballapura,0,50
+SYN-PS-0059,D11,Chickballapura,1,45
+SYN-PS-0059,D11,Chickballapura,2,39
+SYN-PS-0059,D11,Chickballapura,3,28
+SYN-PS-0059,D11,Chickballapura,4,23
+SYN-PS-0059,D11,Chickballapura,5,16
+SYN-PS-0059,D11,Chickballapura,6,16
+SYN-PS-0059,D11,Chickballapura,7,22
+SYN-PS-0059,D11,Chickballapura,8,27
+SYN-PS-0059,D11,Chickballapura,9,33
+SYN-PS-0059,D11,Chickballapura,10,33
+SYN-PS-0059,D11,Chickballapura,11,33
+SYN-PS-0059,D11,Chickballapura,12,33
+SYN-PS-0059,D11,Chickballapura,13,33
+SYN-PS-0059,D11,Chickballapura,14,33
+SYN-PS-0059,D11,Chickballapura,15,38
+SYN-PS-0059,D11,Chickballapura,16,44
+SYN-PS-0059,D11,Chickballapura,17,49
+SYN-PS-0059,D11,Chickballapura,18,61
+SYN-PS-0059,D11,Chickballapura,19,67
+SYN-PS-0059,D11,Chickballapura,20,67
+SYN-PS-0059,D11,Chickballapura,21,61
+SYN-PS-0059,D11,Chickballapura,22,56
+SYN-PS-0059,D11,Chickballapura,23,50
+SYN-PS-0060,D11,Chickballapura,0,20
+SYN-PS-0060,D11,Chickballapura,1,18
+SYN-PS-0060,D11,Chickballapura,2,16
+SYN-PS-0060,D11,Chickballapura,3,11
+SYN-PS-0060,D11,Chickballapura,4,9
+SYN-PS-0060,D11,Chickballapura,5,7
+SYN-PS-0060,D11,Chickballapura,6,7
+SYN-PS-0060,D11,Chickballapura,7,9
+SYN-PS-0060,D11,Chickballapura,8,11
+SYN-PS-0060,D11,Chickballapura,9,13
+SYN-PS-0060,D11,Chickballapura,10,12
+SYN-PS-0060,D11,Chickballapura,11,12
+SYN-PS-0060,D11,Chickballapura,12,12
+SYN-PS-0060,D11,Chickballapura,13,12
+SYN-PS-0060,D11,Chickballapura,14,12
+SYN-PS-0060,D11,Chickballapura,15,15
+SYN-PS-0060,D11,Chickballapura,16,17
+SYN-PS-0060,D11,Chickballapura,17,19
+SYN-PS-0060,D11,Chickballapura,18,24
+SYN-PS-0060,D11,Chickballapura,19,26
+SYN-PS-0060,D11,Chickballapura,20,26
+SYN-PS-0060,D11,Chickballapura,21,24
+SYN-PS-0060,D11,Chickballapura,22,22
+SYN-PS-0060,D11,Chickballapura,23,20
+SYN-PS-0061,D11,Chickballapura,0,37
+SYN-PS-0061,D11,Chickballapura,1,33
+SYN-PS-0061,D11,Chickballapura,2,29
+SYN-PS-0061,D11,Chickballapura,3,21
+SYN-PS-0061,D11,Chickballapura,4,17
+SYN-PS-0061,D11,Chickballapura,5,13
+SYN-PS-0061,D11,Chickballapura,6,13
+SYN-PS-0061,D11,Chickballapura,7,16
+SYN-PS-0061,D11,Chickballapura,8,20
+SYN-PS-0061,D11,Chickballapura,9,24
+SYN-PS-0061,D11,Chickballapura,10,24
+SYN-PS-0061,D11,Chickballapura,11,24
+SYN-PS-0061,D11,Chickballapura,12,24
+SYN-PS-0061,D11,Chickballapura,13,24
+SYN-PS-0061,D11,Chickballapura,14,24
+SYN-PS-0061,D11,Chickballapura,15,28
+SYN-PS-0061,D11,Chickballapura,16,32
+SYN-PS-0061,D11,Chickballapura,17,36
+SYN-PS-0061,D11,Chickballapura,18,45
+SYN-PS-0061,D11,Chickballapura,19,50
+SYN-PS-0061,D11,Chickballapura,20,50
+SYN-PS-0061,D11,Chickballapura,21,45
+SYN-PS-0061,D11,Chickballapura,22,41
+SYN-PS-0061,D11,Chickballapura,23,37
+SYN-PS-0062,D11,Chickballapura,0,14
+SYN-PS-0062,D11,Chickballapura,1,13
+SYN-PS-0062,D11,Chickballapura,2,11
+SYN-PS-0062,D11,Chickballapura,3,8
+SYN-PS-0062,D11,Chickballapura,4,7
+SYN-PS-0062,D11,Chickballapura,5,5
+SYN-PS-0062,D11,Chickballapura,6,5
+SYN-PS-0062,D11,Chickballapura,7,6
+SYN-PS-0062,D11,Chickballapura,8,7
+SYN-PS-0062,D11,Chickballapura,9,9
+SYN-PS-0062,D11,Chickballapura,10,9
+SYN-PS-0062,D11,Chickballapura,11,9
+SYN-PS-0062,D11,Chickballapura,12,9
+SYN-PS-0062,D11,Chickballapura,13,9
+SYN-PS-0062,D11,Chickballapura,14,9
+SYN-PS-0062,D11,Chickballapura,15,10
+SYN-PS-0062,D11,Chickballapura,16,12
+SYN-PS-0062,D11,Chickballapura,17,13
+SYN-PS-0062,D11,Chickballapura,18,17
+SYN-PS-0062,D11,Chickballapura,19,19
+SYN-PS-0062,D11,Chickballapura,20,19
+SYN-PS-0062,D11,Chickballapura,21,17
+SYN-PS-0062,D11,Chickballapura,22,16
+SYN-PS-0062,D11,Chickballapura,23,14
+SYN-PS-0063,D12,K.G.F,0,39
+SYN-PS-0063,D12,K.G.F,1,34
+SYN-PS-0063,D12,K.G.F,2,30
+SYN-PS-0063,D12,K.G.F,3,21
+SYN-PS-0063,D12,K.G.F,4,17
+SYN-PS-0063,D12,K.G.F,5,13
+SYN-PS-0063,D12,K.G.F,6,13
+SYN-PS-0063,D12,K.G.F,7,17
+SYN-PS-0063,D12,K.G.F,8,21
+SYN-PS-0063,D12,K.G.F,9,26
+SYN-PS-0063,D12,K.G.F,10,26
+SYN-PS-0063,D12,K.G.F,11,26
+SYN-PS-0063,D12,K.G.F,12,26
+SYN-PS-0063,D12,K.G.F,13,26
+SYN-PS-0063,D12,K.G.F,14,26
+SYN-PS-0063,D12,K.G.F,15,30
+SYN-PS-0063,D12,K.G.F,16,34
+SYN-PS-0063,D12,K.G.F,17,39
+SYN-PS-0063,D12,K.G.F,18,48
+SYN-PS-0063,D12,K.G.F,19,53
+SYN-PS-0063,D12,K.G.F,20,53
+SYN-PS-0063,D12,K.G.F,21,48
+SYN-PS-0063,D12,K.G.F,22,44
+SYN-PS-0063,D12,K.G.F,23,40
+SYN-PS-0064,D12,K.G.F,0,8
+SYN-PS-0064,D12,K.G.F,1,8
+SYN-PS-0064,D12,K.G.F,2,7
+SYN-PS-0064,D12,K.G.F,3,5
+SYN-PS-0064,D12,K.G.F,4,4
+SYN-PS-0064,D12,K.G.F,5,2
+SYN-PS-0064,D12,K.G.F,6,2
+SYN-PS-0064,D12,K.G.F,7,3
+SYN-PS-0064,D12,K.G.F,8,4
+SYN-PS-0064,D12,K.G.F,9,5
+SYN-PS-0064,D12,K.G.F,10,5
+SYN-PS-0064,D12,K.G.F,11,5
+SYN-PS-0064,D12,K.G.F,12,5
+SYN-PS-0064,D12,K.G.F,13,5
+SYN-PS-0064,D12,K.G.F,14,5
+SYN-PS-0064,D12,K.G.F,15,6
+SYN-PS-0064,D12,K.G.F,16,7
+SYN-PS-0064,D12,K.G.F,17,7
+SYN-PS-0064,D12,K.G.F,18,10
+SYN-PS-0064,D12,K.G.F,19,11
+SYN-PS-0064,D12,K.G.F,20,11
+SYN-PS-0064,D12,K.G.F,21,10
+SYN-PS-0064,D12,K.G.F,22,9
+SYN-PS-0064,D12,K.G.F,23,8
+SYN-PS-0065,D12,K.G.F,0,13
+SYN-PS-0065,D12,K.G.F,1,12
+SYN-PS-0065,D12,K.G.F,2,10
+SYN-PS-0065,D12,K.G.F,3,7
+SYN-PS-0065,D12,K.G.F,4,6
+SYN-PS-0065,D12,K.G.F,5,4
+SYN-PS-0065,D12,K.G.F,6,4
+SYN-PS-0065,D12,K.G.F,7,5
+SYN-PS-0065,D12,K.G.F,8,6
+SYN-PS-0065,D12,K.G.F,9,8
+SYN-PS-0065,D12,K.G.F,10,8
+SYN-PS-0065,D12,K.G.F,11,8
+SYN-PS-0065,D12,K.G.F,12,8
+SYN-PS-0065,D12,K.G.F,13,8
+SYN-PS-0065,D12,K.G.F,14,8
+SYN-PS-0065,D12,K.G.F,15,9
+SYN-PS-0065,D12,K.G.F,16,11
+SYN-PS-0065,D12,K.G.F,17,12
+SYN-PS-0065,D12,K.G.F,18,16
+SYN-PS-0065,D12,K.G.F,19,17
+SYN-PS-0065,D12,K.G.F,20,17
+SYN-PS-0065,D12,K.G.F,21,16
+SYN-PS-0065,D12,K.G.F,22,14
+SYN-PS-0065,D12,K.G.F,23,13
+SYN-PS-0066,D13,Chitradurga,0,102
+SYN-PS-0066,D13,Chitradurga,1,90
+SYN-PS-0066,D13,Chitradurga,2,79
+SYN-PS-0066,D13,Chitradurga,3,57
+SYN-PS-0066,D13,Chitradurga,4,45
+SYN-PS-0066,D13,Chitradurga,5,34
+SYN-PS-0066,D13,Chitradurga,6,34
+SYN-PS-0066,D13,Chitradurga,7,44
+SYN-PS-0066,D13,Chitradurga,8,56
+SYN-PS-0066,D13,Chitradurga,9,67
+SYN-PS-0066,D13,Chitradurga,10,67
+SYN-PS-0066,D13,Chitradurga,11,67
+SYN-PS-0066,D13,Chitradurga,12,67
+SYN-PS-0066,D13,Chitradurga,13,67
+SYN-PS-0066,D13,Chitradurga,14,67
+SYN-PS-0066,D13,Chitradurga,15,78
+SYN-PS-0066,D13,Chitradurga,16,89
+SYN-PS-0066,D13,Chitradurga,17,101
+SYN-PS-0066,D13,Chitradurga,18,124
+SYN-PS-0066,D13,Chitradurga,19,135
+SYN-PS-0066,D13,Chitradurga,20,135
+SYN-PS-0066,D13,Chitradurga,21,124
+SYN-PS-0066,D13,Chitradurga,22,113
+SYN-PS-0066,D13,Chitradurga,23,102
+SYN-PS-0067,D13,Chitradurga,0,17
+SYN-PS-0067,D13,Chitradurga,1,15
+SYN-PS-0067,D13,Chitradurga,2,12
+SYN-PS-0067,D13,Chitradurga,3,9
+SYN-PS-0067,D13,Chitradurga,4,7
+SYN-PS-0067,D13,Chitradurga,5,5
+SYN-PS-0067,D13,Chitradurga,6,5
+SYN-PS-0067,D13,Chitradurga,7,7
+SYN-PS-0067,D13,Chitradurga,8,9
+SYN-PS-0067,D13,Chitradurga,9,11
+SYN-PS-0067,D13,Chitradurga,10,11
+SYN-PS-0067,D13,Chitradurga,11,11
+SYN-PS-0067,D13,Chitradurga,12,11
+SYN-PS-0067,D13,Chitradurga,13,11
+SYN-PS-0067,D13,Chitradurga,14,11
+SYN-PS-0067,D13,Chitradurga,15,12
+SYN-PS-0067,D13,Chitradurga,16,14
+SYN-PS-0067,D13,Chitradurga,17,16
+SYN-PS-0067,D13,Chitradurga,18,21
+SYN-PS-0067,D13,Chitradurga,19,23
+SYN-PS-0067,D13,Chitradurga,20,23
+SYN-PS-0067,D13,Chitradurga,21,21
+SYN-PS-0067,D13,Chitradurga,22,19
+SYN-PS-0067,D13,Chitradurga,23,17
+SYN-PS-0068,D13,Chitradurga,0,55
+SYN-PS-0068,D13,Chitradurga,1,49
+SYN-PS-0068,D13,Chitradurga,2,43
+SYN-PS-0068,D13,Chitradurga,3,31
+SYN-PS-0068,D13,Chitradurga,4,25
+SYN-PS-0068,D13,Chitradurga,5,19
+SYN-PS-0068,D13,Chitradurga,6,18
+SYN-PS-0068,D13,Chitradurga,7,24
+SYN-PS-0068,D13,Chitradurga,8,30
+SYN-PS-0068,D13,Chitradurga,9,36
+SYN-PS-0068,D13,Chitradurga,10,36
+SYN-PS-0068,D13,Chitradurga,11,36
+SYN-PS-0068,D13,Chitradurga,12,36
+SYN-PS-0068,D13,Chitradurga,13,36
+SYN-PS-0068,D13,Chitradurga,14,36
+SYN-PS-0068,D13,Chitradurga,15,42
+SYN-PS-0068,D13,Chitradurga,16,48
+SYN-PS-0068,D13,Chitradurga,17,54
+SYN-PS-0068,D13,Chitradurga,18,67
+SYN-PS-0068,D13,Chitradurga,19,73
+SYN-PS-0068,D13,Chitradurga,20,73
+SYN-PS-0068,D13,Chitradurga,21,67
+SYN-PS-0068,D13,Chitradurga,22,61
+SYN-PS-0068,D13,Chitradurga,23,55
+SYN-PS-0069,D13,Chitradurga,0,35
+SYN-PS-0069,D13,Chitradurga,1,31
+SYN-PS-0069,D13,Chitradurga,2,27
+SYN-PS-0069,D13,Chitradurga,3,19
+SYN-PS-0069,D13,Chitradurga,4,16
+SYN-PS-0069,D13,Chitradurga,5,12
+SYN-PS-0069,D13,Chitradurga,6,12
+SYN-PS-0069,D13,Chitradurga,7,16
+SYN-PS-0069,D13,Chitradurga,8,18
+SYN-PS-0069,D13,Chitradurga,9,22
+SYN-PS-0069,D13,Chitradurga,10,22
+SYN-PS-0069,D13,Chitradurga,11,22
+SYN-PS-0069,D13,Chitradurga,12,22
+SYN-PS-0069,D13,Chitradurga,13,22
+SYN-PS-0069,D13,Chitradurga,14,22
+SYN-PS-0069,D13,Chitradurga,15,26
+SYN-PS-0069,D13,Chitradurga,16,30
+SYN-PS-0069,D13,Chitradurga,17,34
+SYN-PS-0069,D13,Chitradurga,18,42
+SYN-PS-0069,D13,Chitradurga,19,46
+SYN-PS-0069,D13,Chitradurga,20,46
+SYN-PS-0069,D13,Chitradurga,21,42
+SYN-PS-0069,D13,Chitradurga,22,38
+SYN-PS-0069,D13,Chitradurga,23,35
+SYN-PS-0070,D13,Chitradurga,0,11
+SYN-PS-0070,D13,Chitradurga,1,10
+SYN-PS-0070,D13,Chitradurga,2,9
+SYN-PS-0070,D13,Chitradurga,3,7
+SYN-PS-0070,D13,Chitradurga,4,5
+SYN-PS-0070,D13,Chitradurga,5,4
+SYN-PS-0070,D13,Chitradurga,6,4
+SYN-PS-0070,D13,Chitradurga,7,4
+SYN-PS-0070,D13,Chitradurga,8,6
+SYN-PS-0070,D13,Chitradurga,9,7
+SYN-PS-0070,D13,Chitradurga,10,7
+SYN-PS-0070,D13,Chitradurga,11,7
+SYN-PS-0070,D13,Chitradurga,12,7
+SYN-PS-0070,D13,Chitradurga,13,7
+SYN-PS-0070,D13,Chitradurga,14,7
+SYN-PS-0070,D13,Chitradurga,15,8
+SYN-PS-0070,D13,Chitradurga,16,9
+SYN-PS-0070,D13,Chitradurga,17,10
+SYN-PS-0070,D13,Chitradurga,18,14
+SYN-PS-0070,D13,Chitradurga,19,15
+SYN-PS-0070,D13,Chitradurga,20,15
+SYN-PS-0070,D13,Chitradurga,21,14
+SYN-PS-0070,D13,Chitradurga,22,13
+SYN-PS-0070,D13,Chitradurga,23,11
+SYN-PS-0071,D13,Chitradurga,0,87
+SYN-PS-0071,D13,Chitradurga,1,77
+SYN-PS-0071,D13,Chitradurga,2,68
+SYN-PS-0071,D13,Chitradurga,3,48
+SYN-PS-0071,D13,Chitradurga,4,39
+SYN-PS-0071,D13,Chitradurga,5,28
+SYN-PS-0071,D13,Chitradurga,6,28
+SYN-PS-0071,D13,Chitradurga,7,38
+SYN-PS-0071,D13,Chitradurga,8,47
+SYN-PS-0071,D13,Chitradurga,9,57
+SYN-PS-0071,D13,Chitradurga,10,57
+SYN-PS-0071,D13,Chitradurga,11,57
+SYN-PS-0071,D13,Chitradurga,12,57
+SYN-PS-0071,D13,Chitradurga,13,57
+SYN-PS-0071,D13,Chitradurga,14,57
+SYN-PS-0071,D13,Chitradurga,15,67
+SYN-PS-0071,D13,Chitradurga,16,76
+SYN-PS-0071,D13,Chitradurga,17,86
+SYN-PS-0071,D13,Chitradurga,18,106
+SYN-PS-0071,D13,Chitradurga,19,116
+SYN-PS-0071,D13,Chitradurga,20,116
+SYN-PS-0071,D13,Chitradurga,21,106
+SYN-PS-0071,D13,Chitradurga,22,96
+SYN-PS-0071,D13,Chitradurga,23,87
+SYN-PS-0072,D14,Davanagere,0,18
+SYN-PS-0072,D14,Davanagere,1,16
+SYN-PS-0072,D14,Davanagere,2,14
+SYN-PS-0072,D14,Davanagere,3,10
+SYN-PS-0072,D14,Davanagere,4,8
+SYN-PS-0072,D14,Davanagere,5,6
+SYN-PS-0072,D14,Davanagere,6,6
+SYN-PS-0072,D14,Davanagere,7,8
+SYN-PS-0072,D14,Davanagere,8,10
+SYN-PS-0072,D14,Davanagere,9,12
+SYN-PS-0072,D14,Davanagere,10,12
+SYN-PS-0072,D14,Davanagere,11,11
+SYN-PS-0072,D14,Davanagere,12,11
+SYN-PS-0072,D14,Davanagere,13,11
+SYN-PS-0072,D14,Davanagere,14,11
+SYN-PS-0072,D14,Davanagere,15,13
+SYN-PS-0072,D14,Davanagere,16,15
+SYN-PS-0072,D14,Davanagere,17,17
+SYN-PS-0072,D14,Davanagere,18,22
+SYN-PS-0072,D14,Davanagere,19,24
+SYN-PS-0072,D14,Davanagere,20,24
+SYN-PS-0072,D14,Davanagere,21,22
+SYN-PS-0072,D14,Davanagere,22,20
+SYN-PS-0072,D14,Davanagere,23,18
+SYN-PS-0073,D14,Davanagere,0,21
+SYN-PS-0073,D14,Davanagere,1,19
+SYN-PS-0073,D14,Davanagere,2,17
+SYN-PS-0073,D14,Davanagere,3,12
+SYN-PS-0073,D14,Davanagere,4,10
+SYN-PS-0073,D14,Davanagere,5,7
+SYN-PS-0073,D14,Davanagere,6,7
+SYN-PS-0073,D14,Davanagere,7,10
+SYN-PS-0073,D14,Davanagere,8,11
+SYN-PS-0073,D14,Davanagere,9,13
+SYN-PS-0073,D14,Davanagere,10,13
+SYN-PS-0073,D14,Davanagere,11,13
+SYN-PS-0073,D14,Davanagere,12,13
+SYN-PS-0073,D14,Davanagere,13,13
+SYN-PS-0073,D14,Davanagere,14,13
+SYN-PS-0073,D14,Davanagere,15,16
+SYN-PS-0073,D14,Davanagere,16,18
+SYN-PS-0073,D14,Davanagere,17,20
+SYN-PS-0073,D14,Davanagere,18,26
+SYN-PS-0073,D14,Davanagere,19,28
+SYN-PS-0073,D14,Davanagere,20,28
+SYN-PS-0073,D14,Davanagere,21,26
+SYN-PS-0073,D14,Davanagere,22,24
+SYN-PS-0073,D14,Davanagere,23,21
+SYN-PS-0074,D14,Davanagere,0,17
+SYN-PS-0074,D14,Davanagere,1,15
+SYN-PS-0074,D14,Davanagere,2,13
+SYN-PS-0074,D14,Davanagere,3,10
+SYN-PS-0074,D14,Davanagere,4,8
+SYN-PS-0074,D14,Davanagere,5,6
+SYN-PS-0074,D14,Davanagere,6,6
+SYN-PS-0074,D14,Davanagere,7,8
+SYN-PS-0074,D14,Davanagere,8,10
+SYN-PS-0074,D14,Davanagere,9,10
+SYN-PS-0074,D14,Davanagere,10,10
+SYN-PS-0074,D14,Davanagere,11,10
+SYN-PS-0074,D14,Davanagere,12,10
+SYN-PS-0074,D14,Davanagere,13,10
+SYN-PS-0074,D14,Davanagere,14,10
+SYN-PS-0074,D14,Davanagere,15,12
+SYN-PS-0074,D14,Davanagere,16,14
+SYN-PS-0074,D14,Davanagere,17,16
+SYN-PS-0074,D14,Davanagere,18,21
+SYN-PS-0074,D14,Davanagere,19,22
+SYN-PS-0074,D14,Davanagere,20,22
+SYN-PS-0074,D14,Davanagere,21,21
+SYN-PS-0074,D14,Davanagere,22,19
+SYN-PS-0074,D14,Davanagere,23,17
+SYN-PS-0075,D14,Davanagere,0,81
+SYN-PS-0075,D14,Davanagere,1,72
+SYN-PS-0075,D14,Davanagere,2,63
+SYN-PS-0075,D14,Davanagere,3,45
+SYN-PS-0075,D14,Davanagere,4,36
+SYN-PS-0075,D14,Davanagere,5,27
+SYN-PS-0075,D14,Davanagere,6,27
+SYN-PS-0075,D14,Davanagere,7,36
+SYN-PS-0075,D14,Davanagere,8,45
+SYN-PS-0075,D14,Davanagere,9,54
+SYN-PS-0075,D14,Davanagere,10,54
+SYN-PS-0075,D14,Davanagere,11,54
+SYN-PS-0075,D14,Davanagere,12,54
+SYN-PS-0075,D14,Davanagere,13,53
+SYN-PS-0075,D14,Davanagere,14,53
+SYN-PS-0075,D14,Davanagere,15,62
+SYN-PS-0075,D14,Davanagere,16,71
+SYN-PS-0075,D14,Davanagere,17,80
+SYN-PS-0075,D14,Davanagere,18,99
+SYN-PS-0075,D14,Davanagere,19,108
+SYN-PS-0075,D14,Davanagere,20,108
+SYN-PS-0075,D14,Davanagere,21,99
+SYN-PS-0075,D14,Davanagere,22,90
+SYN-PS-0075,D14,Davanagere,23,81
+SYN-PS-0076,D14,Davanagere,0,73
+SYN-PS-0076,D14,Davanagere,1,65
+SYN-PS-0076,D14,Davanagere,2,57
+SYN-PS-0076,D14,Davanagere,3,41
+SYN-PS-0076,D14,Davanagere,4,33
+SYN-PS-0076,D14,Davanagere,5,25
+SYN-PS-0076,D14,Davanagere,6,25
+SYN-PS-0076,D14,Davanagere,7,32
+SYN-PS-0076,D14,Davanagere,8,40
+SYN-PS-0076,D14,Davanagere,9,48
+SYN-PS-0076,D14,Davanagere,10,48
+SYN-PS-0076,D14,Davanagere,11,48
+SYN-PS-0076,D14,Davanagere,12,48
+SYN-PS-0076,D14,Davanagere,13,48
+SYN-PS-0076,D14,Davanagere,14,48
+SYN-PS-0076,D14,Davanagere,15,56
+SYN-PS-0076,D14,Davanagere,16,64
+SYN-PS-0076,D14,Davanagere,17,72
+SYN-PS-0076,D14,Davanagere,18,90
+SYN-PS-0076,D14,Davanagere,19,98
+SYN-PS-0076,D14,Davanagere,20,98
+SYN-PS-0076,D14,Davanagere,21,90
+SYN-PS-0076,D14,Davanagere,22,82
+SYN-PS-0076,D14,Davanagere,23,73
+SYN-PS-0077,D14,Davanagere,0,40
+SYN-PS-0077,D14,Davanagere,1,36
+SYN-PS-0077,D14,Davanagere,2,31
+SYN-PS-0077,D14,Davanagere,3,23
+SYN-PS-0077,D14,Davanagere,4,18
+SYN-PS-0077,D14,Davanagere,5,13
+SYN-PS-0077,D14,Davanagere,6,13
+SYN-PS-0077,D14,Davanagere,7,17
+SYN-PS-0077,D14,Davanagere,8,22
+SYN-PS-0077,D14,Davanagere,9,26
+SYN-PS-0077,D14,Davanagere,10,26
+SYN-PS-0077,D14,Davanagere,11,26
+SYN-PS-0077,D14,Davanagere,12,26
+SYN-PS-0077,D14,Davanagere,13,26
+SYN-PS-0077,D14,Davanagere,14,26
+SYN-PS-0077,D14,Davanagere,15,30
+SYN-PS-0077,D14,Davanagere,16,35
+SYN-PS-0077,D14,Davanagere,17,39
+SYN-PS-0077,D14,Davanagere,18,49
+SYN-PS-0077,D14,Davanagere,19,53
+SYN-PS-0077,D14,Davanagere,20,53
+SYN-PS-0077,D14,Davanagere,21,49
+SYN-PS-0077,D14,Davanagere,22,45
+SYN-PS-0077,D14,Davanagere,23,40
+SYN-PS-0078,D15,Shivamogga,0,71
+SYN-PS-0078,D15,Shivamogga,1,63
+SYN-PS-0078,D15,Shivamogga,2,54
+SYN-PS-0078,D15,Shivamogga,3,39
+SYN-PS-0078,D15,Shivamogga,4,31
+SYN-PS-0078,D15,Shivamogga,5,23
+SYN-PS-0078,D15,Shivamogga,6,23
+SYN-PS-0078,D15,Shivamogga,7,31
+SYN-PS-0078,D15,Shivamogga,8,39
+SYN-PS-0078,D15,Shivamogga,9,47
+SYN-PS-0078,D15,Shivamogga,10,47
+SYN-PS-0078,D15,Shivamogga,11,47
+SYN-PS-0078,D15,Shivamogga,12,47
+SYN-PS-0078,D15,Shivamogga,13,47
+SYN-PS-0078,D15,Shivamogga,14,47
+SYN-PS-0078,D15,Shivamogga,15,54
+SYN-PS-0078,D15,Shivamogga,16,62
+SYN-PS-0078,D15,Shivamogga,17,70
+SYN-PS-0078,D15,Shivamogga,18,87
+SYN-PS-0078,D15,Shivamogga,19,95
+SYN-PS-0078,D15,Shivamogga,20,95
+SYN-PS-0078,D15,Shivamogga,21,87
+SYN-PS-0078,D15,Shivamogga,22,79
+SYN-PS-0078,D15,Shivamogga,23,71
+SYN-PS-0079,D15,Shivamogga,0,111
+SYN-PS-0079,D15,Shivamogga,1,99
+SYN-PS-0079,D15,Shivamogga,2,87
+SYN-PS-0079,D15,Shivamogga,3,62
+SYN-PS-0079,D15,Shivamogga,4,50
+SYN-PS-0079,D15,Shivamogga,5,37
+SYN-PS-0079,D15,Shivamogga,6,37
+SYN-PS-0079,D15,Shivamogga,7,49
+SYN-PS-0079,D15,Shivamogga,8,61
+SYN-PS-0079,D15,Shivamogga,9,73
+SYN-PS-0079,D15,Shivamogga,10,73
+SYN-PS-0079,D15,Shivamogga,11,73
+SYN-PS-0079,D15,Shivamogga,12,73
+SYN-PS-0079,D15,Shivamogga,13,73
+SYN-PS-0079,D15,Shivamogga,14,73
+SYN-PS-0079,D15,Shivamogga,15,86
+SYN-PS-0079,D15,Shivamogga,16,98
+SYN-PS-0079,D15,Shivamogga,17,110
+SYN-PS-0079,D15,Shivamogga,18,136
+SYN-PS-0079,D15,Shivamogga,19,148
+SYN-PS-0079,D15,Shivamogga,20,148
+SYN-PS-0079,D15,Shivamogga,21,136
+SYN-PS-0079,D15,Shivamogga,22,124
+SYN-PS-0079,D15,Shivamogga,23,111
+SYN-PS-0080,D15,Shivamogga,0,87
+SYN-PS-0080,D15,Shivamogga,1,77
+SYN-PS-0080,D15,Shivamogga,2,68
+SYN-PS-0080,D15,Shivamogga,3,49
+SYN-PS-0080,D15,Shivamogga,4,39
+SYN-PS-0080,D15,Shivamogga,5,29
+SYN-PS-0080,D15,Shivamogga,6,28
+SYN-PS-0080,D15,Shivamogga,7,38
+SYN-PS-0080,D15,Shivamogga,8,48
+SYN-PS-0080,D15,Shivamogga,9,57
+SYN-PS-0080,D15,Shivamogga,10,57
+SYN-PS-0080,D15,Shivamogga,11,57
+SYN-PS-0080,D15,Shivamogga,12,57
+SYN-PS-0080,D15,Shivamogga,13,57
+SYN-PS-0080,D15,Shivamogga,14,57
+SYN-PS-0080,D15,Shivamogga,15,67
+SYN-PS-0080,D15,Shivamogga,16,76
+SYN-PS-0080,D15,Shivamogga,17,86
+SYN-PS-0080,D15,Shivamogga,18,106
+SYN-PS-0080,D15,Shivamogga,19,116
+SYN-PS-0080,D15,Shivamogga,20,116
+SYN-PS-0080,D15,Shivamogga,21,106
+SYN-PS-0080,D15,Shivamogga,22,97
+SYN-PS-0080,D15,Shivamogga,23,87
+SYN-PS-0081,D15,Shivamogga,0,12
+SYN-PS-0081,D15,Shivamogga,1,11
+SYN-PS-0081,D15,Shivamogga,2,10
+SYN-PS-0081,D15,Shivamogga,3,7
+SYN-PS-0081,D15,Shivamogga,4,6
+SYN-PS-0081,D15,Shivamogga,5,4
+SYN-PS-0081,D15,Shivamogga,6,4
+SYN-PS-0081,D15,Shivamogga,7,6
+SYN-PS-0081,D15,Shivamogga,8,7
+SYN-PS-0081,D15,Shivamogga,9,7
+SYN-PS-0081,D15,Shivamogga,10,7
+SYN-PS-0081,D15,Shivamogga,11,7
+SYN-PS-0081,D15,Shivamogga,12,7
+SYN-PS-0081,D15,Shivamogga,13,7
+SYN-PS-0081,D15,Shivamogga,14,7
+SYN-PS-0081,D15,Shivamogga,15,9
+SYN-PS-0081,D15,Shivamogga,16,10
+SYN-PS-0081,D15,Shivamogga,17,11
+SYN-PS-0081,D15,Shivamogga,18,15
+SYN-PS-0081,D15,Shivamogga,19,16
+SYN-PS-0081,D15,Shivamogga,20,16
+SYN-PS-0081,D15,Shivamogga,21,15
+SYN-PS-0081,D15,Shivamogga,22,14
+SYN-PS-0081,D15,Shivamogga,23,12
+SYN-PS-0082,D15,Shivamogga,0,50
+SYN-PS-0082,D15,Shivamogga,1,45
+SYN-PS-0082,D15,Shivamogga,2,39
+SYN-PS-0082,D15,Shivamogga,3,28
+SYN-PS-0082,D15,Shivamogga,4,22
+SYN-PS-0082,D15,Shivamogga,5,16
+SYN-PS-0082,D15,Shivamogga,6,16
+SYN-PS-0082,D15,Shivamogga,7,22
+SYN-PS-0082,D15,Shivamogga,8,27
+SYN-PS-0082,D15,Shivamogga,9,33
+SYN-PS-0082,D15,Shivamogga,10,33
+SYN-PS-0082,D15,Shivamogga,11,33
+SYN-PS-0082,D15,Shivamogga,12,33
+SYN-PS-0082,D15,Shivamogga,13,33
+SYN-PS-0082,D15,Shivamogga,14,33
+SYN-PS-0082,D15,Shivamogga,15,38
+SYN-PS-0082,D15,Shivamogga,16,44
+SYN-PS-0082,D15,Shivamogga,17,49
+SYN-PS-0082,D15,Shivamogga,18,61
+SYN-PS-0082,D15,Shivamogga,19,67
+SYN-PS-0082,D15,Shivamogga,20,67
+SYN-PS-0082,D15,Shivamogga,21,61
+SYN-PS-0082,D15,Shivamogga,22,56
+SYN-PS-0082,D15,Shivamogga,23,50
+SYN-PS-0083,D15,Shivamogga,0,35
+SYN-PS-0083,D15,Shivamogga,1,31
+SYN-PS-0083,D15,Shivamogga,2,27
+SYN-PS-0083,D15,Shivamogga,3,20
+SYN-PS-0083,D15,Shivamogga,4,15
+SYN-PS-0083,D15,Shivamogga,5,11
+SYN-PS-0083,D15,Shivamogga,6,11
+SYN-PS-0083,D15,Shivamogga,7,15
+SYN-PS-0083,D15,Shivamogga,8,19
+SYN-PS-0083,D15,Shivamogga,9,23
+SYN-PS-0083,D15,Shivamogga,10,23
+SYN-PS-0083,D15,Shivamogga,11,23
+SYN-PS-0083,D15,Shivamogga,12,23
+SYN-PS-0083,D15,Shivamogga,13,23
+SYN-PS-0083,D15,Shivamogga,14,23
+SYN-PS-0083,D15,Shivamogga,15,26
+SYN-PS-0083,D15,Shivamogga,16,30
+SYN-PS-0083,D15,Shivamogga,17,34
+SYN-PS-0083,D15,Shivamogga,18,43
+SYN-PS-0083,D15,Shivamogga,19,47
+SYN-PS-0083,D15,Shivamogga,20,47
+SYN-PS-0083,D15,Shivamogga,21,43
+SYN-PS-0083,D15,Shivamogga,22,39
+SYN-PS-0083,D15,Shivamogga,23,35
+SYN-PS-0084,D16,Haveri,0,49
+SYN-PS-0084,D16,Haveri,1,44
+SYN-PS-0084,D16,Haveri,2,38
+SYN-PS-0084,D16,Haveri,3,26
+SYN-PS-0084,D16,Haveri,4,21
+SYN-PS-0084,D16,Haveri,5,16
+SYN-PS-0084,D16,Haveri,6,16
+SYN-PS-0084,D16,Haveri,7,21
+SYN-PS-0084,D16,Haveri,8,26
+SYN-PS-0084,D16,Haveri,9,32
+SYN-PS-0084,D16,Haveri,10,32
+SYN-PS-0084,D16,Haveri,11,32
+SYN-PS-0084,D16,Haveri,12,32
+SYN-PS-0084,D16,Haveri,13,32
+SYN-PS-0084,D16,Haveri,14,32
+SYN-PS-0084,D16,Haveri,15,37
+SYN-PS-0084,D16,Haveri,16,43
+SYN-PS-0084,D16,Haveri,17,48
+SYN-PS-0084,D16,Haveri,18,60
+SYN-PS-0084,D16,Haveri,19,65
+SYN-PS-0084,D16,Haveri,20,65
+SYN-PS-0084,D16,Haveri,21,60
+SYN-PS-0084,D16,Haveri,22,54
+SYN-PS-0084,D16,Haveri,23,49
+SYN-PS-0085,D16,Haveri,0,87
+SYN-PS-0085,D16,Haveri,1,78
+SYN-PS-0085,D16,Haveri,2,68
+SYN-PS-0085,D16,Haveri,3,49
+SYN-PS-0085,D16,Haveri,4,39
+SYN-PS-0085,D16,Haveri,5,29
+SYN-PS-0085,D16,Haveri,6,29
+SYN-PS-0085,D16,Haveri,7,39
+SYN-PS-0085,D16,Haveri,8,49
+SYN-PS-0085,D16,Haveri,9,58
+SYN-PS-0085,D16,Haveri,10,58
+SYN-PS-0085,D16,Haveri,11,57
+SYN-PS-0085,D16,Haveri,12,57
+SYN-PS-0085,D16,Haveri,13,57
+SYN-PS-0085,D16,Haveri,14,57
+SYN-PS-0085,D16,Haveri,15,67
+SYN-PS-0085,D16,Haveri,16,77
+SYN-PS-0085,D16,Haveri,17,86
+SYN-PS-0085,D16,Haveri,18,107
+SYN-PS-0085,D16,Haveri,19,116
+SYN-PS-0085,D16,Haveri,20,116
+SYN-PS-0085,D16,Haveri,21,107
+SYN-PS-0085,D16,Haveri,22,97
+SYN-PS-0085,D16,Haveri,23,87
+SYN-PS-0086,D16,Haveri,0,11
+SYN-PS-0086,D16,Haveri,1,10
+SYN-PS-0086,D16,Haveri,2,9
+SYN-PS-0086,D16,Haveri,3,7
+SYN-PS-0086,D16,Haveri,4,5
+SYN-PS-0086,D16,Haveri,5,4
+SYN-PS-0086,D16,Haveri,6,3
+SYN-PS-0086,D16,Haveri,7,4
+SYN-PS-0086,D16,Haveri,8,6
+SYN-PS-0086,D16,Haveri,9,7
+SYN-PS-0086,D16,Haveri,10,7
+SYN-PS-0086,D16,Haveri,11,7
+SYN-PS-0086,D16,Haveri,12,7
+SYN-PS-0086,D16,Haveri,13,7
+SYN-PS-0086,D16,Haveri,14,7
+SYN-PS-0086,D16,Haveri,15,8
+SYN-PS-0086,D16,Haveri,16,9
+SYN-PS-0086,D16,Haveri,17,10
+SYN-PS-0086,D16,Haveri,18,14
+SYN-PS-0086,D16,Haveri,19,15
+SYN-PS-0086,D16,Haveri,20,15
+SYN-PS-0086,D16,Haveri,21,14
+SYN-PS-0086,D16,Haveri,22,13
+SYN-PS-0086,D16,Haveri,23,11
+SYN-PS-0087,D16,Haveri,0,39
+SYN-PS-0087,D16,Haveri,1,34
+SYN-PS-0087,D16,Haveri,2,30
+SYN-PS-0087,D16,Haveri,3,21
+SYN-PS-0087,D16,Haveri,4,17
+SYN-PS-0087,D16,Haveri,5,13
+SYN-PS-0087,D16,Haveri,6,13
+SYN-PS-0087,D16,Haveri,7,17
+SYN-PS-0087,D16,Haveri,8,21
+SYN-PS-0087,D16,Haveri,9,26
+SYN-PS-0087,D16,Haveri,10,26
+SYN-PS-0087,D16,Haveri,11,26
+SYN-PS-0087,D16,Haveri,12,26
+SYN-PS-0087,D16,Haveri,13,26
+SYN-PS-0087,D16,Haveri,14,26
+SYN-PS-0087,D16,Haveri,15,30
+SYN-PS-0087,D16,Haveri,16,34
+SYN-PS-0087,D16,Haveri,17,39
+SYN-PS-0087,D16,Haveri,18,48
+SYN-PS-0087,D16,Haveri,19,53
+SYN-PS-0087,D16,Haveri,20,53
+SYN-PS-0087,D16,Haveri,21,48
+SYN-PS-0087,D16,Haveri,22,44
+SYN-PS-0087,D16,Haveri,23,40
+SYN-PS-0088,D17,Dakshina Kannada,0,30
+SYN-PS-0088,D17,Dakshina Kannada,1,27
+SYN-PS-0088,D17,Dakshina Kannada,2,24
+SYN-PS-0088,D17,Dakshina Kannada,3,17
+SYN-PS-0088,D17,Dakshina Kannada,4,14
+SYN-PS-0088,D17,Dakshina Kannada,5,10
+SYN-PS-0088,D17,Dakshina Kannada,6,10
+SYN-PS-0088,D17,Dakshina Kannada,7,14
+SYN-PS-0088,D17,Dakshina Kannada,8,16
+SYN-PS-0088,D17,Dakshina Kannada,9,19
+SYN-PS-0088,D17,Dakshina Kannada,10,19
+SYN-PS-0088,D17,Dakshina Kannada,11,19
+SYN-PS-0088,D17,Dakshina Kannada,12,19
+SYN-PS-0088,D17,Dakshina Kannada,13,19
+SYN-PS-0088,D17,Dakshina Kannada,14,19
+SYN-PS-0088,D17,Dakshina Kannada,15,23
+SYN-PS-0088,D17,Dakshina Kannada,16,26
+SYN-PS-0088,D17,Dakshina Kannada,17,29
+SYN-PS-0088,D17,Dakshina Kannada,18,37
+SYN-PS-0088,D17,Dakshina Kannada,19,40
+SYN-PS-0088,D17,Dakshina Kannada,20,40
+SYN-PS-0088,D17,Dakshina Kannada,21,37
+SYN-PS-0088,D17,Dakshina Kannada,22,34
+SYN-PS-0088,D17,Dakshina Kannada,23,30
+SYN-PS-0089,D17,Dakshina Kannada,0,16
+SYN-PS-0089,D17,Dakshina Kannada,1,15
+SYN-PS-0089,D17,Dakshina Kannada,2,13
+SYN-PS-0089,D17,Dakshina Kannada,3,9
+SYN-PS-0089,D17,Dakshina Kannada,4,8
+SYN-PS-0089,D17,Dakshina Kannada,5,6
+SYN-PS-0089,D17,Dakshina Kannada,6,6
+SYN-PS-0089,D17,Dakshina Kannada,7,7
+SYN-PS-0089,D17,Dakshina Kannada,8,8
+SYN-PS-0089,D17,Dakshina Kannada,9,10
+SYN-PS-0089,D17,Dakshina Kannada,10,10
+SYN-PS-0089,D17,Dakshina Kannada,11,10
+SYN-PS-0089,D17,Dakshina Kannada,12,10
+SYN-PS-0089,D17,Dakshina Kannada,13,10
+SYN-PS-0089,D17,Dakshina Kannada,14,10
+SYN-PS-0089,D17,Dakshina Kannada,15,12
+SYN-PS-0089,D17,Dakshina Kannada,16,14
+SYN-PS-0089,D17,Dakshina Kannada,17,15
+SYN-PS-0089,D17,Dakshina Kannada,18,20
+SYN-PS-0089,D17,Dakshina Kannada,19,22
+SYN-PS-0089,D17,Dakshina Kannada,20,22
+SYN-PS-0089,D17,Dakshina Kannada,21,20
+SYN-PS-0089,D17,Dakshina Kannada,22,18
+SYN-PS-0089,D17,Dakshina Kannada,23,16
+SYN-PS-0090,D17,Dakshina Kannada,0,35
+SYN-PS-0090,D17,Dakshina Kannada,1,31
+SYN-PS-0090,D17,Dakshina Kannada,2,26
+SYN-PS-0090,D17,Dakshina Kannada,3,19
+SYN-PS-0090,D17,Dakshina Kannada,4,15
+SYN-PS-0090,D17,Dakshina Kannada,5,11
+SYN-PS-0090,D17,Dakshina Kannada,6,11
+SYN-PS-0090,D17,Dakshina Kannada,7,15
+SYN-PS-0090,D17,Dakshina Kannada,8,19
+SYN-PS-0090,D17,Dakshina Kannada,9,23
+SYN-PS-0090,D17,Dakshina Kannada,10,23
+SYN-PS-0090,D17,Dakshina Kannada,11,23
+SYN-PS-0090,D17,Dakshina Kannada,12,23
+SYN-PS-0090,D17,Dakshina Kannada,13,23
+SYN-PS-0090,D17,Dakshina Kannada,14,23
+SYN-PS-0090,D17,Dakshina Kannada,15,26
+SYN-PS-0090,D17,Dakshina Kannada,16,30
+SYN-PS-0090,D17,Dakshina Kannada,17,34
+SYN-PS-0090,D17,Dakshina Kannada,18,43
+SYN-PS-0090,D17,Dakshina Kannada,19,47
+SYN-PS-0090,D17,Dakshina Kannada,20,47
+SYN-PS-0090,D17,Dakshina Kannada,21,43
+SYN-PS-0090,D17,Dakshina Kannada,22,39
+SYN-PS-0090,D17,Dakshina Kannada,23,35
+SYN-PS-0091,D17,Dakshina Kannada,0,36
+SYN-PS-0091,D17,Dakshina Kannada,1,32
+SYN-PS-0091,D17,Dakshina Kannada,2,28
+SYN-PS-0091,D17,Dakshina Kannada,3,20
+SYN-PS-0091,D17,Dakshina Kannada,4,16
+SYN-PS-0091,D17,Dakshina Kannada,5,12
+SYN-PS-0091,D17,Dakshina Kannada,6,12
+SYN-PS-0091,D17,Dakshina Kannada,7,16
+SYN-PS-0091,D17,Dakshina Kannada,8,20
+SYN-PS-0091,D17,Dakshina Kannada,9,24
+SYN-PS-0091,D17,Dakshina Kannada,10,24
+SYN-PS-0091,D17,Dakshina Kannada,11,24
+SYN-PS-0091,D17,Dakshina Kannada,12,24
+SYN-PS-0091,D17,Dakshina Kannada,13,24
+SYN-PS-0091,D17,Dakshina Kannada,14,24
+SYN-PS-0091,D17,Dakshina Kannada,15,28
+SYN-PS-0091,D17,Dakshina Kannada,16,31
+SYN-PS-0091,D17,Dakshina Kannada,17,35
+SYN-PS-0091,D17,Dakshina Kannada,18,44
+SYN-PS-0091,D17,Dakshina Kannada,19,48
+SYN-PS-0091,D17,Dakshina Kannada,20,48
+SYN-PS-0091,D17,Dakshina Kannada,21,44
+SYN-PS-0091,D17,Dakshina Kannada,22,40
+SYN-PS-0091,D17,Dakshina Kannada,23,36
+SYN-PS-0092,D18,Udupi,0,59
+SYN-PS-0092,D18,Udupi,1,52
+SYN-PS-0092,D18,Udupi,2,46
+SYN-PS-0092,D18,Udupi,3,33
+SYN-PS-0092,D18,Udupi,4,26
+SYN-PS-0092,D18,Udupi,5,20
+SYN-PS-0092,D18,Udupi,6,19
+SYN-PS-0092,D18,Udupi,7,25
+SYN-PS-0092,D18,Udupi,8,32
+SYN-PS-0092,D18,Udupi,9,38
+SYN-PS-0092,D18,Udupi,10,38
+SYN-PS-0092,D18,Udupi,11,38
+SYN-PS-0092,D18,Udupi,12,38
+SYN-PS-0092,D18,Udupi,13,38
+SYN-PS-0092,D18,Udupi,14,38
+SYN-PS-0092,D18,Udupi,15,45
+SYN-PS-0092,D18,Udupi,16,51
+SYN-PS-0092,D18,Udupi,17,58
+SYN-PS-0092,D18,Udupi,18,72
+SYN-PS-0092,D18,Udupi,19,78
+SYN-PS-0092,D18,Udupi,20,78
+SYN-PS-0092,D18,Udupi,21,72
+SYN-PS-0092,D18,Udupi,22,65
+SYN-PS-0092,D18,Udupi,23,59
+SYN-PS-0093,D18,Udupi,0,45
+SYN-PS-0093,D18,Udupi,1,40
+SYN-PS-0093,D18,Udupi,2,35
+SYN-PS-0093,D18,Udupi,3,25
+SYN-PS-0093,D18,Udupi,4,20
+SYN-PS-0093,D18,Udupi,5,15
+SYN-PS-0093,D18,Udupi,6,14
+SYN-PS-0093,D18,Udupi,7,19
+SYN-PS-0093,D18,Udupi,8,24
+SYN-PS-0093,D18,Udupi,9,29
+SYN-PS-0093,D18,Udupi,10,29
+SYN-PS-0093,D18,Udupi,11,29
+SYN-PS-0093,D18,Udupi,12,29
+SYN-PS-0093,D18,Udupi,13,29
+SYN-PS-0093,D18,Udupi,14,29
+SYN-PS-0093,D18,Udupi,15,34
+SYN-PS-0093,D18,Udupi,16,39
+SYN-PS-0093,D18,Udupi,17,44
+SYN-PS-0093,D18,Udupi,18,55
+SYN-PS-0093,D18,Udupi,19,60
+SYN-PS-0093,D18,Udupi,20,60
+SYN-PS-0093,D18,Udupi,21,55
+SYN-PS-0093,D18,Udupi,22,50
+SYN-PS-0093,D18,Udupi,23,45
+SYN-PS-0094,D18,Udupi,0,9
+SYN-PS-0094,D18,Udupi,1,8
+SYN-PS-0094,D18,Udupi,2,7
+SYN-PS-0094,D18,Udupi,3,5
+SYN-PS-0094,D18,Udupi,4,4
+SYN-PS-0094,D18,Udupi,5,3
+SYN-PS-0094,D18,Udupi,6,3
+SYN-PS-0094,D18,Udupi,7,4
+SYN-PS-0094,D18,Udupi,8,5
+SYN-PS-0094,D18,Udupi,9,6
+SYN-PS-0094,D18,Udupi,10,6
+SYN-PS-0094,D18,Udupi,11,6
+SYN-PS-0094,D18,Udupi,12,6
+SYN-PS-0094,D18,Udupi,13,6
+SYN-PS-0094,D18,Udupi,14,6
+SYN-PS-0094,D18,Udupi,15,6
+SYN-PS-0094,D18,Udupi,16,7
+SYN-PS-0094,D18,Udupi,17,8
+SYN-PS-0094,D18,Udupi,18,11
+SYN-PS-0094,D18,Udupi,19,12
+SYN-PS-0094,D18,Udupi,20,12
+SYN-PS-0094,D18,Udupi,21,11
+SYN-PS-0094,D18,Udupi,22,10
+SYN-PS-0094,D18,Udupi,23,9
+SYN-PS-0095,D18,Udupi,0,45
+SYN-PS-0095,D18,Udupi,1,40
+SYN-PS-0095,D18,Udupi,2,35
+SYN-PS-0095,D18,Udupi,3,25
+SYN-PS-0095,D18,Udupi,4,20
+SYN-PS-0095,D18,Udupi,5,15
+SYN-PS-0095,D18,Udupi,6,15
+SYN-PS-0095,D18,Udupi,7,20
+SYN-PS-0095,D18,Udupi,8,25
+SYN-PS-0095,D18,Udupi,9,30
+SYN-PS-0095,D18,Udupi,10,30
+SYN-PS-0095,D18,Udupi,11,30
+SYN-PS-0095,D18,Udupi,12,30
+SYN-PS-0095,D18,Udupi,13,29
+SYN-PS-0095,D18,Udupi,14,29
+SYN-PS-0095,D18,Udupi,15,34
+SYN-PS-0095,D18,Udupi,16,39
+SYN-PS-0095,D18,Udupi,17,44
+SYN-PS-0095,D18,Udupi,18,55
+SYN-PS-0095,D18,Udupi,19,60
+SYN-PS-0095,D18,Udupi,20,60
+SYN-PS-0095,D18,Udupi,21,55
+SYN-PS-0095,D18,Udupi,22,50
+SYN-PS-0095,D18,Udupi,23,45
+SYN-PS-0096,D19,Chikkamagaluru,0,51
+SYN-PS-0096,D19,Chikkamagaluru,1,45
+SYN-PS-0096,D19,Chikkamagaluru,2,40
+SYN-PS-0096,D19,Chikkamagaluru,3,29
+SYN-PS-0096,D19,Chikkamagaluru,4,23
+SYN-PS-0096,D19,Chikkamagaluru,5,17
+SYN-PS-0096,D19,Chikkamagaluru,6,17
+SYN-PS-0096,D19,Chikkamagaluru,7,22
+SYN-PS-0096,D19,Chikkamagaluru,8,28
+SYN-PS-0096,D19,Chikkamagaluru,9,33
+SYN-PS-0096,D19,Chikkamagaluru,10,33
+SYN-PS-0096,D19,Chikkamagaluru,11,33
+SYN-PS-0096,D19,Chikkamagaluru,12,33
+SYN-PS-0096,D19,Chikkamagaluru,13,33
+SYN-PS-0096,D19,Chikkamagaluru,14,33
+SYN-PS-0096,D19,Chikkamagaluru,15,39
+SYN-PS-0096,D19,Chikkamagaluru,16,44
+SYN-PS-0096,D19,Chikkamagaluru,17,50
+SYN-PS-0096,D19,Chikkamagaluru,18,62
+SYN-PS-0096,D19,Chikkamagaluru,19,68
+SYN-PS-0096,D19,Chikkamagaluru,20,68
+SYN-PS-0096,D19,Chikkamagaluru,21,62
+SYN-PS-0096,D19,Chikkamagaluru,22,57
+SYN-PS-0096,D19,Chikkamagaluru,23,51
+SYN-PS-0097,D19,Chikkamagaluru,0,21
+SYN-PS-0097,D19,Chikkamagaluru,1,19
+SYN-PS-0097,D19,Chikkamagaluru,2,17
+SYN-PS-0097,D19,Chikkamagaluru,3,12
+SYN-PS-0097,D19,Chikkamagaluru,4,10
+SYN-PS-0097,D19,Chikkamagaluru,5,7
+SYN-PS-0097,D19,Chikkamagaluru,6,7
+SYN-PS-0097,D19,Chikkamagaluru,7,9
+SYN-PS-0097,D19,Chikkamagaluru,8,11
+SYN-PS-0097,D19,Chikkamagaluru,9,13
+SYN-PS-0097,D19,Chikkamagaluru,10,13
+SYN-PS-0097,D19,Chikkamagaluru,11,13
+SYN-PS-0097,D19,Chikkamagaluru,12,13
+SYN-PS-0097,D19,Chikkamagaluru,13,13
+SYN-PS-0097,D19,Chikkamagaluru,14,13
+SYN-PS-0097,D19,Chikkamagaluru,15,16
+SYN-PS-0097,D19,Chikkamagaluru,16,18
+SYN-PS-0097,D19,Chikkamagaluru,17,20
+SYN-PS-0097,D19,Chikkamagaluru,18,26
+SYN-PS-0097,D19,Chikkamagaluru,19,28
+SYN-PS-0097,D19,Chikkamagaluru,20,28
+SYN-PS-0097,D19,Chikkamagaluru,21,26
+SYN-PS-0097,D19,Chikkamagaluru,22,23
+SYN-PS-0097,D19,Chikkamagaluru,23,21
+SYN-PS-0098,D19,Chikkamagaluru,0,30
+SYN-PS-0098,D19,Chikkamagaluru,1,27
+SYN-PS-0098,D19,Chikkamagaluru,2,24
+SYN-PS-0098,D19,Chikkamagaluru,3,17
+SYN-PS-0098,D19,Chikkamagaluru,4,14
+SYN-PS-0098,D19,Chikkamagaluru,5,10
+SYN-PS-0098,D19,Chikkamagaluru,6,10
+SYN-PS-0098,D19,Chikkamagaluru,7,14
+SYN-PS-0098,D19,Chikkamagaluru,8,17
+SYN-PS-0098,D19,Chikkamagaluru,9,19
+SYN-PS-0098,D19,Chikkamagaluru,10,19
+SYN-PS-0098,D19,Chikkamagaluru,11,19
+SYN-PS-0098,D19,Chikkamagaluru,12,19
+SYN-PS-0098,D19,Chikkamagaluru,13,19
+SYN-PS-0098,D19,Chikkamagaluru,14,19
+SYN-PS-0098,D19,Chikkamagaluru,15,23
+SYN-PS-0098,D19,Chikkamagaluru,16,26
+SYN-PS-0098,D19,Chikkamagaluru,17,29
+SYN-PS-0098,D19,Chikkamagaluru,18,37
+SYN-PS-0098,D19,Chikkamagaluru,19,40
+SYN-PS-0098,D19,Chikkamagaluru,20,40
+SYN-PS-0098,D19,Chikkamagaluru,21,37
+SYN-PS-0098,D19,Chikkamagaluru,22,34
+SYN-PS-0098,D19,Chikkamagaluru,23,30
+SYN-PS-0099,D19,Chikkamagaluru,0,26
+SYN-PS-0099,D19,Chikkamagaluru,1,23
+SYN-PS-0099,D19,Chikkamagaluru,2,20
+SYN-PS-0099,D19,Chikkamagaluru,3,15
+SYN-PS-0099,D19,Chikkamagaluru,4,11
+SYN-PS-0099,D19,Chikkamagaluru,5,8
+SYN-PS-0099,D19,Chikkamagaluru,6,8
+SYN-PS-0099,D19,Chikkamagaluru,7,11
+SYN-PS-0099,D19,Chikkamagaluru,8,14
+SYN-PS-0099,D19,Chikkamagaluru,9,17
+SYN-PS-0099,D19,Chikkamagaluru,10,17
+SYN-PS-0099,D19,Chikkamagaluru,11,17
+SYN-PS-0099,D19,Chikkamagaluru,12,17
+SYN-PS-0099,D19,Chikkamagaluru,13,17
+SYN-PS-0099,D19,Chikkamagaluru,14,17
+SYN-PS-0099,D19,Chikkamagaluru,15,19
+SYN-PS-0099,D19,Chikkamagaluru,16,22
+SYN-PS-0099,D19,Chikkamagaluru,17,25
+SYN-PS-0099,D19,Chikkamagaluru,18,32
+SYN-PS-0099,D19,Chikkamagaluru,19,35
+SYN-PS-0099,D19,Chikkamagaluru,20,35
+SYN-PS-0099,D19,Chikkamagaluru,21,32
+SYN-PS-0099,D19,Chikkamagaluru,22,29
+SYN-PS-0099,D19,Chikkamagaluru,23,26
+SYN-PS-0100,D19,Chikkamagaluru,0,29
+SYN-PS-0100,D19,Chikkamagaluru,1,26
+SYN-PS-0100,D19,Chikkamagaluru,2,23
+SYN-PS-0100,D19,Chikkamagaluru,3,16
+SYN-PS-0100,D19,Chikkamagaluru,4,12
+SYN-PS-0100,D19,Chikkamagaluru,5,9
+SYN-PS-0100,D19,Chikkamagaluru,6,9
+SYN-PS-0100,D19,Chikkamagaluru,7,12
+SYN-PS-0100,D19,Chikkamagaluru,8,15
+SYN-PS-0100,D19,Chikkamagaluru,9,19
+SYN-PS-0100,D19,Chikkamagaluru,10,19
+SYN-PS-0100,D19,Chikkamagaluru,11,19
+SYN-PS-0100,D19,Chikkamagaluru,12,19
+SYN-PS-0100,D19,Chikkamagaluru,13,19
+SYN-PS-0100,D19,Chikkamagaluru,14,19
+SYN-PS-0100,D19,Chikkamagaluru,15,22
+SYN-PS-0100,D19,Chikkamagaluru,16,25
+SYN-PS-0100,D19,Chikkamagaluru,17,28
+SYN-PS-0100,D19,Chikkamagaluru,18,36
+SYN-PS-0100,D19,Chikkamagaluru,19,39
+SYN-PS-0100,D19,Chikkamagaluru,20,39
+SYN-PS-0100,D19,Chikkamagaluru,21,36
+SYN-PS-0100,D19,Chikkamagaluru,22,32
+SYN-PS-0100,D19,Chikkamagaluru,23,29
+SYN-PS-0101,D19,Chikkamagaluru,0,64
+SYN-PS-0101,D19,Chikkamagaluru,1,57
+SYN-PS-0101,D19,Chikkamagaluru,2,50
+SYN-PS-0101,D19,Chikkamagaluru,3,36
+SYN-PS-0101,D19,Chikkamagaluru,4,29
+SYN-PS-0101,D19,Chikkamagaluru,5,22
+SYN-PS-0101,D19,Chikkamagaluru,6,22
+SYN-PS-0101,D19,Chikkamagaluru,7,29
+SYN-PS-0101,D19,Chikkamagaluru,8,35
+SYN-PS-0101,D19,Chikkamagaluru,9,42
+SYN-PS-0101,D19,Chikkamagaluru,10,42
+SYN-PS-0101,D19,Chikkamagaluru,11,42
+SYN-PS-0101,D19,Chikkamagaluru,12,42
+SYN-PS-0101,D19,Chikkamagaluru,13,42
+SYN-PS-0101,D19,Chikkamagaluru,14,42
+SYN-PS-0101,D19,Chikkamagaluru,15,49
+SYN-PS-0101,D19,Chikkamagaluru,16,56
+SYN-PS-0101,D19,Chikkamagaluru,17,63
+SYN-PS-0101,D19,Chikkamagaluru,18,78
+SYN-PS-0101,D19,Chikkamagaluru,19,85
+SYN-PS-0101,D19,Chikkamagaluru,20,85
+SYN-PS-0101,D19,Chikkamagaluru,21,78
+SYN-PS-0101,D19,Chikkamagaluru,22,71
+SYN-PS-0101,D19,Chikkamagaluru,23,64
+SYN-PS-0102,D20,Uttara Kannada,0,27
+SYN-PS-0102,D20,Uttara Kannada,1,24
+SYN-PS-0102,D20,Uttara Kannada,2,21
+SYN-PS-0102,D20,Uttara Kannada,3,15
+SYN-PS-0102,D20,Uttara Kannada,4,12
+SYN-PS-0102,D20,Uttara Kannada,5,9
+SYN-PS-0102,D20,Uttara Kannada,6,9
+SYN-PS-0102,D20,Uttara Kannada,7,12
+SYN-PS-0102,D20,Uttara Kannada,8,15
+SYN-PS-0102,D20,Uttara Kannada,9,18
+SYN-PS-0102,D20,Uttara Kannada,10,18
+SYN-PS-0102,D20,Uttara Kannada,11,18
+SYN-PS-0102,D20,Uttara Kannada,12,18
+SYN-PS-0102,D20,Uttara Kannada,13,18
+SYN-PS-0102,D20,Uttara Kannada,14,18
+SYN-PS-0102,D20,Uttara Kannada,15,21
+SYN-PS-0102,D20,Uttara Kannada,16,24
+SYN-PS-0102,D20,Uttara Kannada,17,27
+SYN-PS-0102,D20,Uttara Kannada,18,34
+SYN-PS-0102,D20,Uttara Kannada,19,36
+SYN-PS-0102,D20,Uttara Kannada,20,36
+SYN-PS-0102,D20,Uttara Kannada,21,33
+SYN-PS-0102,D20,Uttara Kannada,22,30
+SYN-PS-0102,D20,Uttara Kannada,23,27
+SYN-PS-0103,D20,Uttara Kannada,0,60
+SYN-PS-0103,D20,Uttara Kannada,1,54
+SYN-PS-0103,D20,Uttara Kannada,2,47
+SYN-PS-0103,D20,Uttara Kannada,3,34
+SYN-PS-0103,D20,Uttara Kannada,4,27
+SYN-PS-0103,D20,Uttara Kannada,5,20
+SYN-PS-0103,D20,Uttara Kannada,6,20
+SYN-PS-0103,D20,Uttara Kannada,7,27
+SYN-PS-0103,D20,Uttara Kannada,8,34
+SYN-PS-0103,D20,Uttara Kannada,9,40
+SYN-PS-0103,D20,Uttara Kannada,10,40
+SYN-PS-0103,D20,Uttara Kannada,11,40
+SYN-PS-0103,D20,Uttara Kannada,12,39
+SYN-PS-0103,D20,Uttara Kannada,13,39
+SYN-PS-0103,D20,Uttara Kannada,14,39
+SYN-PS-0103,D20,Uttara Kannada,15,46
+SYN-PS-0103,D20,Uttara Kannada,16,53
+SYN-PS-0103,D20,Uttara Kannada,17,59
+SYN-PS-0103,D20,Uttara Kannada,18,74
+SYN-PS-0103,D20,Uttara Kannada,19,80
+SYN-PS-0103,D20,Uttara Kannada,20,80
+SYN-PS-0103,D20,Uttara Kannada,21,74
+SYN-PS-0103,D20,Uttara Kannada,22,67
+SYN-PS-0103,D20,Uttara Kannada,23,60
+SYN-PS-0104,D20,Uttara Kannada,0,62
+SYN-PS-0104,D20,Uttara Kannada,1,55
+SYN-PS-0104,D20,Uttara Kannada,2,49
+SYN-PS-0104,D20,Uttara Kannada,3,35
+SYN-PS-0104,D20,Uttara Kannada,4,27
+SYN-PS-0104,D20,Uttara Kannada,5,20
+SYN-PS-0104,D20,Uttara Kannada,6,20
+SYN-PS-0104,D20,Uttara Kannada,7,27
+SYN-PS-0104,D20,Uttara Kannada,8,34
+SYN-PS-0104,D20,Uttara Kannada,9,41
+SYN-PS-0104,D20,Uttara Kannada,10,41
+SYN-PS-0104,D20,Uttara Kannada,11,41
+SYN-PS-0104,D20,Uttara Kannada,12,41
+SYN-PS-0104,D20,Uttara Kannada,13,41
+SYN-PS-0104,D20,Uttara Kannada,14,41
+SYN-PS-0104,D20,Uttara Kannada,15,48
+SYN-PS-0104,D20,Uttara Kannada,16,54
+SYN-PS-0104,D20,Uttara Kannada,17,61
+SYN-PS-0104,D20,Uttara Kannada,18,76
+SYN-PS-0104,D20,Uttara Kannada,19,83
+SYN-PS-0104,D20,Uttara Kannada,20,83
+SYN-PS-0104,D20,Uttara Kannada,21,76
+SYN-PS-0104,D20,Uttara Kannada,22,69
+SYN-PS-0104,D20,Uttara Kannada,23,62
+SYN-PS-0105,D20,Uttara Kannada,0,56
+SYN-PS-0105,D20,Uttara Kannada,1,50
+SYN-PS-0105,D20,Uttara Kannada,2,44
+SYN-PS-0105,D20,Uttara Kannada,3,31
+SYN-PS-0105,D20,Uttara Kannada,4,24
+SYN-PS-0105,D20,Uttara Kannada,5,18
+SYN-PS-0105,D20,Uttara Kannada,6,18
+SYN-PS-0105,D20,Uttara Kannada,7,24
+SYN-PS-0105,D20,Uttara Kannada,8,30
+SYN-PS-0105,D20,Uttara Kannada,9,37
+SYN-PS-0105,D20,Uttara Kannada,10,37
+SYN-PS-0105,D20,Uttara Kannada,11,37
+SYN-PS-0105,D20,Uttara Kannada,12,37
+SYN-PS-0105,D20,Uttara Kannada,13,37
+SYN-PS-0105,D20,Uttara Kannada,14,37
+SYN-PS-0105,D20,Uttara Kannada,15,43
+SYN-PS-0105,D20,Uttara Kannada,16,49
+SYN-PS-0105,D20,Uttara Kannada,17,55
+SYN-PS-0105,D20,Uttara Kannada,18,69
+SYN-PS-0105,D20,Uttara Kannada,19,75
+SYN-PS-0105,D20,Uttara Kannada,20,75
+SYN-PS-0105,D20,Uttara Kannada,21,69
+SYN-PS-0105,D20,Uttara Kannada,22,62
+SYN-PS-0105,D20,Uttara Kannada,23,56
+SYN-PS-0106,D21,Belagavi Dist,0,56
+SYN-PS-0106,D21,Belagavi Dist,1,50
+SYN-PS-0106,D21,Belagavi Dist,2,43
+SYN-PS-0106,D21,Belagavi Dist,3,31
+SYN-PS-0106,D21,Belagavi Dist,4,25
+SYN-PS-0106,D21,Belagavi Dist,5,19
+SYN-PS-0106,D21,Belagavi Dist,6,19
+SYN-PS-0106,D21,Belagavi Dist,7,24
+SYN-PS-0106,D21,Belagavi Dist,8,30
+SYN-PS-0106,D21,Belagavi Dist,9,36
+SYN-PS-0106,D21,Belagavi Dist,10,36
+SYN-PS-0106,D21,Belagavi Dist,11,36
+SYN-PS-0106,D21,Belagavi Dist,12,36
+SYN-PS-0106,D21,Belagavi Dist,13,36
+SYN-PS-0106,D21,Belagavi Dist,14,36
+SYN-PS-0106,D21,Belagavi Dist,15,42
+SYN-PS-0106,D21,Belagavi Dist,16,49
+SYN-PS-0106,D21,Belagavi Dist,17,55
+SYN-PS-0106,D21,Belagavi Dist,18,68
+SYN-PS-0106,D21,Belagavi Dist,19,74
+SYN-PS-0106,D21,Belagavi Dist,20,74
+SYN-PS-0106,D21,Belagavi Dist,21,68
+SYN-PS-0106,D21,Belagavi Dist,22,62
+SYN-PS-0106,D21,Belagavi Dist,23,56
+SYN-PS-0107,D21,Belagavi Dist,0,124
+SYN-PS-0107,D21,Belagavi Dist,1,109
+SYN-PS-0107,D21,Belagavi Dist,2,95
+SYN-PS-0107,D21,Belagavi Dist,3,68
+SYN-PS-0107,D21,Belagavi Dist,4,54
+SYN-PS-0107,D21,Belagavi Dist,5,41
+SYN-PS-0107,D21,Belagavi Dist,6,41
+SYN-PS-0107,D21,Belagavi Dist,7,54
+SYN-PS-0107,D21,Belagavi Dist,8,68
+SYN-PS-0107,D21,Belagavi Dist,9,82
+SYN-PS-0107,D21,Belagavi Dist,10,82
+SYN-PS-0107,D21,Belagavi Dist,11,82
+SYN-PS-0107,D21,Belagavi Dist,12,82
+SYN-PS-0107,D21,Belagavi Dist,13,82
+SYN-PS-0107,D21,Belagavi Dist,14,82
+SYN-PS-0107,D21,Belagavi Dist,15,95
+SYN-PS-0107,D21,Belagavi Dist,16,109
+SYN-PS-0107,D21,Belagavi Dist,17,123
+SYN-PS-0107,D21,Belagavi Dist,18,151
+SYN-PS-0107,D21,Belagavi Dist,19,165
+SYN-PS-0107,D21,Belagavi Dist,20,165
+SYN-PS-0107,D21,Belagavi Dist,21,151
+SYN-PS-0107,D21,Belagavi Dist,22,137
+SYN-PS-0107,D21,Belagavi Dist,23,124
+SYN-PS-0108,D21,Belagavi Dist,0,22
+SYN-PS-0108,D21,Belagavi Dist,1,20
+SYN-PS-0108,D21,Belagavi Dist,2,17
+SYN-PS-0108,D21,Belagavi Dist,3,11
+SYN-PS-0108,D21,Belagavi Dist,4,9
+SYN-PS-0108,D21,Belagavi Dist,5,7
+SYN-PS-0108,D21,Belagavi Dist,6,7
+SYN-PS-0108,D21,Belagavi Dist,7,9
+SYN-PS-0108,D21,Belagavi Dist,8,11
+SYN-PS-0108,D21,Belagavi Dist,9,14
+SYN-PS-0108,D21,Belagavi Dist,10,14
+SYN-PS-0108,D21,Belagavi Dist,11,14
+SYN-PS-0108,D21,Belagavi Dist,12,14
+SYN-PS-0108,D21,Belagavi Dist,13,14
+SYN-PS-0108,D21,Belagavi Dist,14,14
+SYN-PS-0108,D21,Belagavi Dist,15,16
+SYN-PS-0108,D21,Belagavi Dist,16,19
+SYN-PS-0108,D21,Belagavi Dist,17,21
+SYN-PS-0108,D21,Belagavi Dist,18,27
+SYN-PS-0108,D21,Belagavi Dist,19,29
+SYN-PS-0108,D21,Belagavi Dist,20,29
+SYN-PS-0108,D21,Belagavi Dist,21,27
+SYN-PS-0108,D21,Belagavi Dist,22,24
+SYN-PS-0108,D21,Belagavi Dist,23,22
+SYN-PS-0109,D21,Belagavi Dist,0,85
+SYN-PS-0109,D21,Belagavi Dist,1,75
+SYN-PS-0109,D21,Belagavi Dist,2,66
+SYN-PS-0109,D21,Belagavi Dist,3,47
+SYN-PS-0109,D21,Belagavi Dist,4,37
+SYN-PS-0109,D21,Belagavi Dist,5,28
+SYN-PS-0109,D21,Belagavi Dist,6,28
+SYN-PS-0109,D21,Belagavi Dist,7,37
+SYN-PS-0109,D21,Belagavi Dist,8,46
+SYN-PS-0109,D21,Belagavi Dist,9,56
+SYN-PS-0109,D21,Belagavi Dist,10,56
+SYN-PS-0109,D21,Belagavi Dist,11,56
+SYN-PS-0109,D21,Belagavi Dist,12,56
+SYN-PS-0109,D21,Belagavi Dist,13,56
+SYN-PS-0109,D21,Belagavi Dist,14,56
+SYN-PS-0109,D21,Belagavi Dist,15,65
+SYN-PS-0109,D21,Belagavi Dist,16,74
+SYN-PS-0109,D21,Belagavi Dist,17,84
+SYN-PS-0109,D21,Belagavi Dist,18,103
+SYN-PS-0109,D21,Belagavi Dist,19,113
+SYN-PS-0109,D21,Belagavi Dist,20,113
+SYN-PS-0109,D21,Belagavi Dist,21,103
+SYN-PS-0109,D21,Belagavi Dist,22,94
+SYN-PS-0109,D21,Belagavi Dist,23,85
+SYN-PS-0110,D21,Belagavi Dist,0,33
+SYN-PS-0110,D21,Belagavi Dist,1,30
+SYN-PS-0110,D21,Belagavi Dist,2,26
+SYN-PS-0110,D21,Belagavi Dist,3,19
+SYN-PS-0110,D21,Belagavi Dist,4,15
+SYN-PS-0110,D21,Belagavi Dist,5,11
+SYN-PS-0110,D21,Belagavi Dist,6,11
+SYN-PS-0110,D21,Belagavi Dist,7,15
+SYN-PS-0110,D21,Belagavi Dist,8,19
+SYN-PS-0110,D21,Belagavi Dist,9,21
+SYN-PS-0110,D21,Belagavi Dist,10,21
+SYN-PS-0110,D21,Belagavi Dist,11,21
+SYN-PS-0110,D21,Belagavi Dist,12,21
+SYN-PS-0110,D21,Belagavi Dist,13,21
+SYN-PS-0110,D21,Belagavi Dist,14,21
+SYN-PS-0110,D21,Belagavi Dist,15,25
+SYN-PS-0110,D21,Belagavi Dist,16,29
+SYN-PS-0110,D21,Belagavi Dist,17,32
+SYN-PS-0110,D21,Belagavi Dist,18,41
+SYN-PS-0110,D21,Belagavi Dist,19,44
+SYN-PS-0110,D21,Belagavi Dist,20,44
+SYN-PS-0110,D21,Belagavi Dist,21,41
+SYN-PS-0110,D21,Belagavi Dist,22,37
+SYN-PS-0110,D21,Belagavi Dist,23,33
+SYN-PS-0111,D21,Belagavi Dist,0,27
+SYN-PS-0111,D21,Belagavi Dist,1,24
+SYN-PS-0111,D21,Belagavi Dist,2,21
+SYN-PS-0111,D21,Belagavi Dist,3,15
+SYN-PS-0111,D21,Belagavi Dist,4,12
+SYN-PS-0111,D21,Belagavi Dist,5,8
+SYN-PS-0111,D21,Belagavi Dist,6,8
+SYN-PS-0111,D21,Belagavi Dist,7,11
+SYN-PS-0111,D21,Belagavi Dist,8,14
+SYN-PS-0111,D21,Belagavi Dist,9,17
+SYN-PS-0111,D21,Belagavi Dist,10,17
+SYN-PS-0111,D21,Belagavi Dist,11,17
+SYN-PS-0111,D21,Belagavi Dist,12,17
+SYN-PS-0111,D21,Belagavi Dist,13,17
+SYN-PS-0111,D21,Belagavi Dist,14,17
+SYN-PS-0111,D21,Belagavi Dist,15,20
+SYN-PS-0111,D21,Belagavi Dist,16,23
+SYN-PS-0111,D21,Belagavi Dist,17,26
+SYN-PS-0111,D21,Belagavi Dist,18,33
+SYN-PS-0111,D21,Belagavi Dist,19,36
+SYN-PS-0111,D21,Belagavi Dist,20,36
+SYN-PS-0111,D21,Belagavi Dist,21,33
+SYN-PS-0111,D21,Belagavi Dist,22,30
+SYN-PS-0111,D21,Belagavi Dist,23,27
+SYN-PS-0112,D22,Bagalkot,0,73
+SYN-PS-0112,D22,Bagalkot,1,65
+SYN-PS-0112,D22,Bagalkot,2,57
+SYN-PS-0112,D22,Bagalkot,3,41
+SYN-PS-0112,D22,Bagalkot,4,32
+SYN-PS-0112,D22,Bagalkot,5,24
+SYN-PS-0112,D22,Bagalkot,6,24
+SYN-PS-0112,D22,Bagalkot,7,32
+SYN-PS-0112,D22,Bagalkot,8,40
+SYN-PS-0112,D22,Bagalkot,9,48
+SYN-PS-0112,D22,Bagalkot,10,48
+SYN-PS-0112,D22,Bagalkot,11,48
+SYN-PS-0112,D22,Bagalkot,12,48
+SYN-PS-0112,D22,Bagalkot,13,48
+SYN-PS-0112,D22,Bagalkot,14,48
+SYN-PS-0112,D22,Bagalkot,15,56
+SYN-PS-0112,D22,Bagalkot,16,64
+SYN-PS-0112,D22,Bagalkot,17,72
+SYN-PS-0112,D22,Bagalkot,18,89
+SYN-PS-0112,D22,Bagalkot,19,97
+SYN-PS-0112,D22,Bagalkot,20,97
+SYN-PS-0112,D22,Bagalkot,21,89
+SYN-PS-0112,D22,Bagalkot,22,81
+SYN-PS-0112,D22,Bagalkot,23,73
+SYN-PS-0113,D22,Bagalkot,0,36
+SYN-PS-0113,D22,Bagalkot,1,32
+SYN-PS-0113,D22,Bagalkot,2,28
+SYN-PS-0113,D22,Bagalkot,3,20
+SYN-PS-0113,D22,Bagalkot,4,16
+SYN-PS-0113,D22,Bagalkot,5,12
+SYN-PS-0113,D22,Bagalkot,6,12
+SYN-PS-0113,D22,Bagalkot,7,16
+SYN-PS-0113,D22,Bagalkot,8,20
+SYN-PS-0113,D22,Bagalkot,9,24
+SYN-PS-0113,D22,Bagalkot,10,24
+SYN-PS-0113,D22,Bagalkot,11,23
+SYN-PS-0113,D22,Bagalkot,12,23
+SYN-PS-0113,D22,Bagalkot,13,23
+SYN-PS-0113,D22,Bagalkot,14,23
+SYN-PS-0113,D22,Bagalkot,15,27
+SYN-PS-0113,D22,Bagalkot,16,31
+SYN-PS-0113,D22,Bagalkot,17,35
+SYN-PS-0113,D22,Bagalkot,18,44
+SYN-PS-0113,D22,Bagalkot,19,48
+SYN-PS-0113,D22,Bagalkot,20,48
+SYN-PS-0113,D22,Bagalkot,21,44
+SYN-PS-0113,D22,Bagalkot,22,40
+SYN-PS-0113,D22,Bagalkot,23,36
+SYN-PS-0114,D22,Bagalkot,0,45
+SYN-PS-0114,D22,Bagalkot,1,40
+SYN-PS-0114,D22,Bagalkot,2,35
+SYN-PS-0114,D22,Bagalkot,3,25
+SYN-PS-0114,D22,Bagalkot,4,20
+SYN-PS-0114,D22,Bagalkot,5,15
+SYN-PS-0114,D22,Bagalkot,6,15
+SYN-PS-0114,D22,Bagalkot,7,20
+SYN-PS-0114,D22,Bagalkot,8,25
+SYN-PS-0114,D22,Bagalkot,9,30
+SYN-PS-0114,D22,Bagalkot,10,29
+SYN-PS-0114,D22,Bagalkot,11,29
+SYN-PS-0114,D22,Bagalkot,12,29
+SYN-PS-0114,D22,Bagalkot,13,29
+SYN-PS-0114,D22,Bagalkot,14,29
+SYN-PS-0114,D22,Bagalkot,15,34
+SYN-PS-0114,D22,Bagalkot,16,39
+SYN-PS-0114,D22,Bagalkot,17,44
+SYN-PS-0114,D22,Bagalkot,18,55
+SYN-PS-0114,D22,Bagalkot,19,60
+SYN-PS-0114,D22,Bagalkot,20,60
+SYN-PS-0114,D22,Bagalkot,21,55
+SYN-PS-0114,D22,Bagalkot,22,50
+SYN-PS-0114,D22,Bagalkot,23,45
+SYN-PS-0115,D22,Bagalkot,0,33
+SYN-PS-0115,D22,Bagalkot,1,30
+SYN-PS-0115,D22,Bagalkot,2,26
+SYN-PS-0115,D22,Bagalkot,3,19
+SYN-PS-0115,D22,Bagalkot,4,15
+SYN-PS-0115,D22,Bagalkot,5,11
+SYN-PS-0115,D22,Bagalkot,6,11
+SYN-PS-0115,D22,Bagalkot,7,15
+SYN-PS-0115,D22,Bagalkot,8,19
+SYN-PS-0115,D22,Bagalkot,9,22
+SYN-PS-0115,D22,Bagalkot,10,22
+SYN-PS-0115,D22,Bagalkot,11,22
+SYN-PS-0115,D22,Bagalkot,12,21
+SYN-PS-0115,D22,Bagalkot,13,21
+SYN-PS-0115,D22,Bagalkot,14,21
+SYN-PS-0115,D22,Bagalkot,15,25
+SYN-PS-0115,D22,Bagalkot,16,29
+SYN-PS-0115,D22,Bagalkot,17,32
+SYN-PS-0115,D22,Bagalkot,18,41
+SYN-PS-0115,D22,Bagalkot,19,44
+SYN-PS-0115,D22,Bagalkot,20,44
+SYN-PS-0115,D22,Bagalkot,21,41
+SYN-PS-0115,D22,Bagalkot,22,37
+SYN-PS-0115,D22,Bagalkot,23,33
+SYN-PS-0116,D23,Vijayapur,0,42
+SYN-PS-0116,D23,Vijayapur,1,37
+SYN-PS-0116,D23,Vijayapur,2,33
+SYN-PS-0116,D23,Vijayapur,3,24
+SYN-PS-0116,D23,Vijayapur,4,19
+SYN-PS-0116,D23,Vijayapur,5,13
+SYN-PS-0116,D23,Vijayapur,6,13
+SYN-PS-0116,D23,Vijayapur,7,18
+SYN-PS-0116,D23,Vijayapur,8,23
+SYN-PS-0116,D23,Vijayapur,9,27
+SYN-PS-0116,D23,Vijayapur,10,27
+SYN-PS-0116,D23,Vijayapur,11,27
+SYN-PS-0116,D23,Vijayapur,12,27
+SYN-PS-0116,D23,Vijayapur,13,27
+SYN-PS-0116,D23,Vijayapur,14,27
+SYN-PS-0116,D23,Vijayapur,15,32
+SYN-PS-0116,D23,Vijayapur,16,36
+SYN-PS-0116,D23,Vijayapur,17,41
+SYN-PS-0116,D23,Vijayapur,18,51
+SYN-PS-0116,D23,Vijayapur,19,56
+SYN-PS-0116,D23,Vijayapur,20,56
+SYN-PS-0116,D23,Vijayapur,21,51
+SYN-PS-0116,D23,Vijayapur,22,47
+SYN-PS-0116,D23,Vijayapur,23,42
+SYN-PS-0117,D23,Vijayapur,0,22
+SYN-PS-0117,D23,Vijayapur,1,20
+SYN-PS-0117,D23,Vijayapur,2,17
+SYN-PS-0117,D23,Vijayapur,3,13
+SYN-PS-0117,D23,Vijayapur,4,10
+SYN-PS-0117,D23,Vijayapur,5,8
+SYN-PS-0117,D23,Vijayapur,6,7
+SYN-PS-0117,D23,Vijayapur,7,9
+SYN-PS-0117,D23,Vijayapur,8,12
+SYN-PS-0117,D23,Vijayapur,9,14
+SYN-PS-0117,D23,Vijayapur,10,14
+SYN-PS-0117,D23,Vijayapur,11,14
+SYN-PS-0117,D23,Vijayapur,12,14
+SYN-PS-0117,D23,Vijayapur,13,14
+SYN-PS-0117,D23,Vijayapur,14,14
+SYN-PS-0117,D23,Vijayapur,15,16
+SYN-PS-0117,D23,Vijayapur,16,19
+SYN-PS-0117,D23,Vijayapur,17,21
+SYN-PS-0117,D23,Vijayapur,18,27
+SYN-PS-0117,D23,Vijayapur,19,29
+SYN-PS-0117,D23,Vijayapur,20,29
+SYN-PS-0117,D23,Vijayapur,21,27
+SYN-PS-0117,D23,Vijayapur,22,25
+SYN-PS-0117,D23,Vijayapur,23,22
+SYN-PS-0118,D23,Vijayapur,0,87
+SYN-PS-0118,D23,Vijayapur,1,77
+SYN-PS-0118,D23,Vijayapur,2,68
+SYN-PS-0118,D23,Vijayapur,3,48
+SYN-PS-0118,D23,Vijayapur,4,39
+SYN-PS-0118,D23,Vijayapur,5,28
+SYN-PS-0118,D23,Vijayapur,6,28
+SYN-PS-0118,D23,Vijayapur,7,38
+SYN-PS-0118,D23,Vijayapur,8,47
+SYN-PS-0118,D23,Vijayapur,9,57
+SYN-PS-0118,D23,Vijayapur,10,57
+SYN-PS-0118,D23,Vijayapur,11,57
+SYN-PS-0118,D23,Vijayapur,12,57
+SYN-PS-0118,D23,Vijayapur,13,57
+SYN-PS-0118,D23,Vijayapur,14,57
+SYN-PS-0118,D23,Vijayapur,15,67
+SYN-PS-0118,D23,Vijayapur,16,76
+SYN-PS-0118,D23,Vijayapur,17,86
+SYN-PS-0118,D23,Vijayapur,18,106
+SYN-PS-0118,D23,Vijayapur,19,115
+SYN-PS-0118,D23,Vijayapur,20,115
+SYN-PS-0118,D23,Vijayapur,21,106
+SYN-PS-0118,D23,Vijayapur,22,96
+SYN-PS-0118,D23,Vijayapur,23,87
+SYN-PS-0119,D23,Vijayapur,0,70
+SYN-PS-0119,D23,Vijayapur,1,63
+SYN-PS-0119,D23,Vijayapur,2,55
+SYN-PS-0119,D23,Vijayapur,3,38
+SYN-PS-0119,D23,Vijayapur,4,31
+SYN-PS-0119,D23,Vijayapur,5,23
+SYN-PS-0119,D23,Vijayapur,6,23
+SYN-PS-0119,D23,Vijayapur,7,31
+SYN-PS-0119,D23,Vijayapur,8,38
+SYN-PS-0119,D23,Vijayapur,9,46
+SYN-PS-0119,D23,Vijayapur,10,46
+SYN-PS-0119,D23,Vijayapur,11,46
+SYN-PS-0119,D23,Vijayapur,12,46
+SYN-PS-0119,D23,Vijayapur,13,46
+SYN-PS-0119,D23,Vijayapur,14,46
+SYN-PS-0119,D23,Vijayapur,15,54
+SYN-PS-0119,D23,Vijayapur,16,62
+SYN-PS-0119,D23,Vijayapur,17,69
+SYN-PS-0119,D23,Vijayapur,18,86
+SYN-PS-0119,D23,Vijayapur,19,94
+SYN-PS-0119,D23,Vijayapur,20,94
+SYN-PS-0119,D23,Vijayapur,21,86
+SYN-PS-0119,D23,Vijayapur,22,78
+SYN-PS-0119,D23,Vijayapur,23,70
+SYN-PS-0120,D23,Vijayapur,0,30
+SYN-PS-0120,D23,Vijayapur,1,27
+SYN-PS-0120,D23,Vijayapur,2,24
+SYN-PS-0120,D23,Vijayapur,3,17
+SYN-PS-0120,D23,Vijayapur,4,14
+SYN-PS-0120,D23,Vijayapur,5,10
+SYN-PS-0120,D23,Vijayapur,6,10
+SYN-PS-0120,D23,Vijayapur,7,14
+SYN-PS-0120,D23,Vijayapur,8,16
+SYN-PS-0120,D23,Vijayapur,9,19
+SYN-PS-0120,D23,Vijayapur,10,19
+SYN-PS-0120,D23,Vijayapur,11,19
+SYN-PS-0120,D23,Vijayapur,12,19
+SYN-PS-0120,D23,Vijayapur,13,19
+SYN-PS-0120,D23,Vijayapur,14,19
+SYN-PS-0120,D23,Vijayapur,15,23
+SYN-PS-0120,D23,Vijayapur,16,26
+SYN-PS-0120,D23,Vijayapur,17,29
+SYN-PS-0120,D23,Vijayapur,18,37
+SYN-PS-0120,D23,Vijayapur,19,40
+SYN-PS-0120,D23,Vijayapur,20,40
+SYN-PS-0120,D23,Vijayapur,21,37
+SYN-PS-0120,D23,Vijayapur,22,34
+SYN-PS-0120,D23,Vijayapur,23,30
+SYN-PS-0121,D23,Vijayapur,0,15
+SYN-PS-0121,D23,Vijayapur,1,13
+SYN-PS-0121,D23,Vijayapur,2,12
+SYN-PS-0121,D23,Vijayapur,3,8
+SYN-PS-0121,D23,Vijayapur,4,7
+SYN-PS-0121,D23,Vijayapur,5,4
+SYN-PS-0121,D23,Vijayapur,6,4
+SYN-PS-0121,D23,Vijayapur,7,6
+SYN-PS-0121,D23,Vijayapur,8,7
+SYN-PS-0121,D23,Vijayapur,9,9
+SYN-PS-0121,D23,Vijayapur,10,9
+SYN-PS-0121,D23,Vijayapur,11,9
+SYN-PS-0121,D23,Vijayapur,12,9
+SYN-PS-0121,D23,Vijayapur,13,9
+SYN-PS-0121,D23,Vijayapur,14,9
+SYN-PS-0121,D23,Vijayapur,15,11
+SYN-PS-0121,D23,Vijayapur,16,12
+SYN-PS-0121,D23,Vijayapur,17,14
+SYN-PS-0121,D23,Vijayapur,18,18
+SYN-PS-0121,D23,Vijayapur,19,19
+SYN-PS-0121,D23,Vijayapur,20,19
+SYN-PS-0121,D23,Vijayapur,21,18
+SYN-PS-0121,D23,Vijayapur,22,16
+SYN-PS-0121,D23,Vijayapur,23,15
+SYN-PS-0122,D24,Dharwad,0,35
+SYN-PS-0122,D24,Dharwad,1,31
+SYN-PS-0122,D24,Dharwad,2,28
+SYN-PS-0122,D24,Dharwad,3,20
+SYN-PS-0122,D24,Dharwad,4,15
+SYN-PS-0122,D24,Dharwad,5,11
+SYN-PS-0122,D24,Dharwad,6,11
+SYN-PS-0122,D24,Dharwad,7,15
+SYN-PS-0122,D24,Dharwad,8,19
+SYN-PS-0122,D24,Dharwad,9,23
+SYN-PS-0122,D24,Dharwad,10,23
+SYN-PS-0122,D24,Dharwad,11,23
+SYN-PS-0122,D24,Dharwad,12,23
+SYN-PS-0122,D24,Dharwad,13,23
+SYN-PS-0122,D24,Dharwad,14,23
+SYN-PS-0122,D24,Dharwad,15,27
+SYN-PS-0122,D24,Dharwad,16,30
+SYN-PS-0122,D24,Dharwad,17,34
+SYN-PS-0122,D24,Dharwad,18,43
+SYN-PS-0122,D24,Dharwad,19,47
+SYN-PS-0122,D24,Dharwad,20,47
+SYN-PS-0122,D24,Dharwad,21,43
+SYN-PS-0122,D24,Dharwad,22,39
+SYN-PS-0122,D24,Dharwad,23,35
+SYN-PS-0123,D24,Dharwad,0,33
+SYN-PS-0123,D24,Dharwad,1,29
+SYN-PS-0123,D24,Dharwad,2,26
+SYN-PS-0123,D24,Dharwad,3,18
+SYN-PS-0123,D24,Dharwad,4,15
+SYN-PS-0123,D24,Dharwad,5,11
+SYN-PS-0123,D24,Dharwad,6,11
+SYN-PS-0123,D24,Dharwad,7,14
+SYN-PS-0123,D24,Dharwad,8,17
+SYN-PS-0123,D24,Dharwad,9,21
+SYN-PS-0123,D24,Dharwad,10,21
+SYN-PS-0123,D24,Dharwad,11,21
+SYN-PS-0123,D24,Dharwad,12,21
+SYN-PS-0123,D24,Dharwad,13,21
+SYN-PS-0123,D24,Dharwad,14,21
+SYN-PS-0123,D24,Dharwad,15,25
+SYN-PS-0123,D24,Dharwad,16,28
+SYN-PS-0123,D24,Dharwad,17,32
+SYN-PS-0123,D24,Dharwad,18,40
+SYN-PS-0123,D24,Dharwad,19,44
+SYN-PS-0123,D24,Dharwad,20,44
+SYN-PS-0123,D24,Dharwad,21,40
+SYN-PS-0123,D24,Dharwad,22,36
+SYN-PS-0123,D24,Dharwad,23,33
+SYN-PS-0124,D24,Dharwad,0,18
+SYN-PS-0124,D24,Dharwad,1,16
+SYN-PS-0124,D24,Dharwad,2,14
+SYN-PS-0124,D24,Dharwad,3,10
+SYN-PS-0124,D24,Dharwad,4,8
+SYN-PS-0124,D24,Dharwad,5,6
+SYN-PS-0124,D24,Dharwad,6,6
+SYN-PS-0124,D24,Dharwad,7,8
+SYN-PS-0124,D24,Dharwad,8,10
+SYN-PS-0124,D24,Dharwad,9,12
+SYN-PS-0124,D24,Dharwad,10,12
+SYN-PS-0124,D24,Dharwad,11,12
+SYN-PS-0124,D24,Dharwad,12,12
+SYN-PS-0124,D24,Dharwad,13,12
+SYN-PS-0124,D24,Dharwad,14,12
+SYN-PS-0124,D24,Dharwad,15,14
+SYN-PS-0124,D24,Dharwad,16,16
+SYN-PS-0124,D24,Dharwad,17,18
+SYN-PS-0124,D24,Dharwad,18,23
+SYN-PS-0124,D24,Dharwad,19,25
+SYN-PS-0124,D24,Dharwad,20,25
+SYN-PS-0124,D24,Dharwad,21,23
+SYN-PS-0124,D24,Dharwad,22,21
+SYN-PS-0124,D24,Dharwad,23,18
+SYN-PS-0125,D25,Gadag,0,30
+SYN-PS-0125,D25,Gadag,1,27
+SYN-PS-0125,D25,Gadag,2,23
+SYN-PS-0125,D25,Gadag,3,17
+SYN-PS-0125,D25,Gadag,4,14
+SYN-PS-0125,D25,Gadag,5,10
+SYN-PS-0125,D25,Gadag,6,9
+SYN-PS-0125,D25,Gadag,7,13
+SYN-PS-0125,D25,Gadag,8,16
+SYN-PS-0125,D25,Gadag,9,19
+SYN-PS-0125,D25,Gadag,10,19
+SYN-PS-0125,D25,Gadag,11,19
+SYN-PS-0125,D25,Gadag,12,19
+SYN-PS-0125,D25,Gadag,13,19
+SYN-PS-0125,D25,Gadag,14,19
+SYN-PS-0125,D25,Gadag,15,22
+SYN-PS-0125,D25,Gadag,16,26
+SYN-PS-0125,D25,Gadag,17,29
+SYN-PS-0125,D25,Gadag,18,36
+SYN-PS-0125,D25,Gadag,19,40
+SYN-PS-0125,D25,Gadag,20,40
+SYN-PS-0125,D25,Gadag,21,36
+SYN-PS-0125,D25,Gadag,22,33
+SYN-PS-0125,D25,Gadag,23,30
+SYN-PS-0126,D25,Gadag,0,31
+SYN-PS-0126,D25,Gadag,1,28
+SYN-PS-0126,D25,Gadag,2,24
+SYN-PS-0126,D25,Gadag,3,17
+SYN-PS-0126,D25,Gadag,4,14
+SYN-PS-0126,D25,Gadag,5,10
+SYN-PS-0126,D25,Gadag,6,10
+SYN-PS-0126,D25,Gadag,7,14
+SYN-PS-0126,D25,Gadag,8,17
+SYN-PS-0126,D25,Gadag,9,21
+SYN-PS-0126,D25,Gadag,10,21
+SYN-PS-0126,D25,Gadag,11,21
+SYN-PS-0126,D25,Gadag,12,21
+SYN-PS-0126,D25,Gadag,13,21
+SYN-PS-0126,D25,Gadag,14,21
+SYN-PS-0126,D25,Gadag,15,24
+SYN-PS-0126,D25,Gadag,16,28
+SYN-PS-0126,D25,Gadag,17,31
+SYN-PS-0126,D25,Gadag,18,39
+SYN-PS-0126,D25,Gadag,19,43
+SYN-PS-0126,D25,Gadag,20,43
+SYN-PS-0126,D25,Gadag,21,39
+SYN-PS-0126,D25,Gadag,22,36
+SYN-PS-0126,D25,Gadag,23,32
+SYN-PS-0127,D25,Gadag,0,47
+SYN-PS-0127,D25,Gadag,1,42
+SYN-PS-0127,D25,Gadag,2,37
+SYN-PS-0127,D25,Gadag,3,26
+SYN-PS-0127,D25,Gadag,4,20
+SYN-PS-0127,D25,Gadag,5,15
+SYN-PS-0127,D25,Gadag,6,15
+SYN-PS-0127,D25,Gadag,7,20
+SYN-PS-0127,D25,Gadag,8,25
+SYN-PS-0127,D25,Gadag,9,31
+SYN-PS-0127,D25,Gadag,10,31
+SYN-PS-0127,D25,Gadag,11,31
+SYN-PS-0127,D25,Gadag,12,31
+SYN-PS-0127,D25,Gadag,13,31
+SYN-PS-0127,D25,Gadag,14,31
+SYN-PS-0127,D25,Gadag,15,36
+SYN-PS-0127,D25,Gadag,16,41
+SYN-PS-0127,D25,Gadag,17,46
+SYN-PS-0127,D25,Gadag,18,57
+SYN-PS-0127,D25,Gadag,19,63
+SYN-PS-0127,D25,Gadag,20,63
+SYN-PS-0127,D25,Gadag,21,57
+SYN-PS-0127,D25,Gadag,22,52
+SYN-PS-0127,D25,Gadag,23,47
+SYN-PS-0128,D25,Gadag,0,11
+SYN-PS-0128,D25,Gadag,1,10
+SYN-PS-0128,D25,Gadag,2,9
+SYN-PS-0128,D25,Gadag,3,5
+SYN-PS-0128,D25,Gadag,4,4
+SYN-PS-0128,D25,Gadag,5,3
+SYN-PS-0128,D25,Gadag,6,3
+SYN-PS-0128,D25,Gadag,7,4
+SYN-PS-0128,D25,Gadag,8,5
+SYN-PS-0128,D25,Gadag,9,7
+SYN-PS-0128,D25,Gadag,10,7
+SYN-PS-0128,D25,Gadag,11,7
+SYN-PS-0128,D25,Gadag,12,7
+SYN-PS-0128,D25,Gadag,13,7
+SYN-PS-0128,D25,Gadag,14,7
+SYN-PS-0128,D25,Gadag,15,8
+SYN-PS-0128,D25,Gadag,16,9
+SYN-PS-0128,D25,Gadag,17,10
+SYN-PS-0128,D25,Gadag,18,13
+SYN-PS-0128,D25,Gadag,19,15
+SYN-PS-0128,D25,Gadag,20,15
+SYN-PS-0128,D25,Gadag,21,13
+SYN-PS-0128,D25,Gadag,22,12
+SYN-PS-0128,D25,Gadag,23,11
+SYN-PS-0129,D26,Kalaburagi,0,13
+SYN-PS-0129,D26,Kalaburagi,1,11
+SYN-PS-0129,D26,Kalaburagi,2,9
+SYN-PS-0129,D26,Kalaburagi,3,6
+SYN-PS-0129,D26,Kalaburagi,4,5
+SYN-PS-0129,D26,Kalaburagi,5,4
+SYN-PS-0129,D26,Kalaburagi,6,4
+SYN-PS-0129,D26,Kalaburagi,7,5
+SYN-PS-0129,D26,Kalaburagi,8,6
+SYN-PS-0129,D26,Kalaburagi,9,8
+SYN-PS-0129,D26,Kalaburagi,10,8
+SYN-PS-0129,D26,Kalaburagi,11,8
+SYN-PS-0129,D26,Kalaburagi,12,8
+SYN-PS-0129,D26,Kalaburagi,13,8
+SYN-PS-0129,D26,Kalaburagi,14,8
+SYN-PS-0129,D26,Kalaburagi,15,9
+SYN-PS-0129,D26,Kalaburagi,16,10
+SYN-PS-0129,D26,Kalaburagi,17,12
+SYN-PS-0129,D26,Kalaburagi,18,15
+SYN-PS-0129,D26,Kalaburagi,19,17
+SYN-PS-0129,D26,Kalaburagi,20,17
+SYN-PS-0129,D26,Kalaburagi,21,15
+SYN-PS-0129,D26,Kalaburagi,22,14
+SYN-PS-0129,D26,Kalaburagi,23,13
+SYN-PS-0130,D26,Kalaburagi,0,61
+SYN-PS-0130,D26,Kalaburagi,1,54
+SYN-PS-0130,D26,Kalaburagi,2,47
+SYN-PS-0130,D26,Kalaburagi,3,34
+SYN-PS-0130,D26,Kalaburagi,4,27
+SYN-PS-0130,D26,Kalaburagi,5,20
+SYN-PS-0130,D26,Kalaburagi,6,20
+SYN-PS-0130,D26,Kalaburagi,7,26
+SYN-PS-0130,D26,Kalaburagi,8,33
+SYN-PS-0130,D26,Kalaburagi,9,40
+SYN-PS-0130,D26,Kalaburagi,10,40
+SYN-PS-0130,D26,Kalaburagi,11,40
+SYN-PS-0130,D26,Kalaburagi,12,40
+SYN-PS-0130,D26,Kalaburagi,13,40
+SYN-PS-0130,D26,Kalaburagi,14,40
+SYN-PS-0130,D26,Kalaburagi,15,46
+SYN-PS-0130,D26,Kalaburagi,16,53
+SYN-PS-0130,D26,Kalaburagi,17,60
+SYN-PS-0130,D26,Kalaburagi,18,74
+SYN-PS-0130,D26,Kalaburagi,19,81
+SYN-PS-0130,D26,Kalaburagi,20,81
+SYN-PS-0130,D26,Kalaburagi,21,74
+SYN-PS-0130,D26,Kalaburagi,22,67
+SYN-PS-0130,D26,Kalaburagi,23,61
+SYN-PS-0131,D26,Kalaburagi,0,31
+SYN-PS-0131,D26,Kalaburagi,1,28
+SYN-PS-0131,D26,Kalaburagi,2,24
+SYN-PS-0131,D26,Kalaburagi,3,18
+SYN-PS-0131,D26,Kalaburagi,4,14
+SYN-PS-0131,D26,Kalaburagi,5,11
+SYN-PS-0131,D26,Kalaburagi,6,11
+SYN-PS-0131,D26,Kalaburagi,7,13
+SYN-PS-0131,D26,Kalaburagi,8,17
+SYN-PS-0131,D26,Kalaburagi,9,20
+SYN-PS-0131,D26,Kalaburagi,10,20
+SYN-PS-0131,D26,Kalaburagi,11,20
+SYN-PS-0131,D26,Kalaburagi,12,20
+SYN-PS-0131,D26,Kalaburagi,13,20
+SYN-PS-0131,D26,Kalaburagi,14,20
+SYN-PS-0131,D26,Kalaburagi,15,23
+SYN-PS-0131,D26,Kalaburagi,16,27
+SYN-PS-0131,D26,Kalaburagi,17,30
+SYN-PS-0131,D26,Kalaburagi,18,38
+SYN-PS-0131,D26,Kalaburagi,19,41
+SYN-PS-0131,D26,Kalaburagi,20,41
+SYN-PS-0131,D26,Kalaburagi,21,38
+SYN-PS-0131,D26,Kalaburagi,22,35
+SYN-PS-0131,D26,Kalaburagi,23,31
+SYN-PS-0132,D26,Kalaburagi,0,90
+SYN-PS-0132,D26,Kalaburagi,1,80
+SYN-PS-0132,D26,Kalaburagi,2,70
+SYN-PS-0132,D26,Kalaburagi,3,50
+SYN-PS-0132,D26,Kalaburagi,4,40
+SYN-PS-0132,D26,Kalaburagi,5,30
+SYN-PS-0132,D26,Kalaburagi,6,30
+SYN-PS-0132,D26,Kalaburagi,7,40
+SYN-PS-0132,D26,Kalaburagi,8,50
+SYN-PS-0132,D26,Kalaburagi,9,60
+SYN-PS-0132,D26,Kalaburagi,10,60
+SYN-PS-0132,D26,Kalaburagi,11,60
+SYN-PS-0132,D26,Kalaburagi,12,60
+SYN-PS-0132,D26,Kalaburagi,13,59
+SYN-PS-0132,D26,Kalaburagi,14,59
+SYN-PS-0132,D26,Kalaburagi,15,69
+SYN-PS-0132,D26,Kalaburagi,16,79
+SYN-PS-0132,D26,Kalaburagi,17,89
+SYN-PS-0132,D26,Kalaburagi,18,110
+SYN-PS-0132,D26,Kalaburagi,19,120
+SYN-PS-0132,D26,Kalaburagi,20,120
+SYN-PS-0132,D26,Kalaburagi,21,110
+SYN-PS-0132,D26,Kalaburagi,22,100
+SYN-PS-0132,D26,Kalaburagi,23,90
+SYN-PS-0133,D27,Bidar,0,17
+SYN-PS-0133,D27,Bidar,1,15
+SYN-PS-0133,D27,Bidar,2,14
+SYN-PS-0133,D27,Bidar,3,10
+SYN-PS-0133,D27,Bidar,4,8
+SYN-PS-0133,D27,Bidar,5,5
+SYN-PS-0133,D27,Bidar,6,5
+SYN-PS-0133,D27,Bidar,7,7
+SYN-PS-0133,D27,Bidar,8,9
+SYN-PS-0133,D27,Bidar,9,11
+SYN-PS-0133,D27,Bidar,10,11
+SYN-PS-0133,D27,Bidar,11,11
+SYN-PS-0133,D27,Bidar,12,11
+SYN-PS-0133,D27,Bidar,13,11
+SYN-PS-0133,D27,Bidar,14,11
+SYN-PS-0133,D27,Bidar,15,13
+SYN-PS-0133,D27,Bidar,16,14
+SYN-PS-0133,D27,Bidar,17,16
+SYN-PS-0133,D27,Bidar,18,21
+SYN-PS-0133,D27,Bidar,19,23
+SYN-PS-0133,D27,Bidar,20,23
+SYN-PS-0133,D27,Bidar,21,21
+SYN-PS-0133,D27,Bidar,22,19
+SYN-PS-0133,D27,Bidar,23,17
+SYN-PS-0134,D27,Bidar,0,55
+SYN-PS-0134,D27,Bidar,1,49
+SYN-PS-0134,D27,Bidar,2,43
+SYN-PS-0134,D27,Bidar,3,31
+SYN-PS-0134,D27,Bidar,4,25
+SYN-PS-0134,D27,Bidar,5,19
+SYN-PS-0134,D27,Bidar,6,19
+SYN-PS-0134,D27,Bidar,7,24
+SYN-PS-0134,D27,Bidar,8,30
+SYN-PS-0134,D27,Bidar,9,36
+SYN-PS-0134,D27,Bidar,10,36
+SYN-PS-0134,D27,Bidar,11,36
+SYN-PS-0134,D27,Bidar,12,36
+SYN-PS-0134,D27,Bidar,13,36
+SYN-PS-0134,D27,Bidar,14,36
+SYN-PS-0134,D27,Bidar,15,42
+SYN-PS-0134,D27,Bidar,16,48
+SYN-PS-0134,D27,Bidar,17,54
+SYN-PS-0134,D27,Bidar,18,67
+SYN-PS-0134,D27,Bidar,19,74
+SYN-PS-0134,D27,Bidar,20,74
+SYN-PS-0134,D27,Bidar,21,67
+SYN-PS-0134,D27,Bidar,22,61
+SYN-PS-0134,D27,Bidar,23,55
+SYN-PS-0135,D27,Bidar,0,27
+SYN-PS-0135,D27,Bidar,1,24
+SYN-PS-0135,D27,Bidar,2,21
+SYN-PS-0135,D27,Bidar,3,15
+SYN-PS-0135,D27,Bidar,4,11
+SYN-PS-0135,D27,Bidar,5,8
+SYN-PS-0135,D27,Bidar,6,8
+SYN-PS-0135,D27,Bidar,7,11
+SYN-PS-0135,D27,Bidar,8,14
+SYN-PS-0135,D27,Bidar,9,17
+SYN-PS-0135,D27,Bidar,10,17
+SYN-PS-0135,D27,Bidar,11,17
+SYN-PS-0135,D27,Bidar,12,17
+SYN-PS-0135,D27,Bidar,13,17
+SYN-PS-0135,D27,Bidar,14,17
+SYN-PS-0135,D27,Bidar,15,20
+SYN-PS-0135,D27,Bidar,16,23
+SYN-PS-0135,D27,Bidar,17,26
+SYN-PS-0135,D27,Bidar,18,32
+SYN-PS-0135,D27,Bidar,19,35
+SYN-PS-0135,D27,Bidar,20,35
+SYN-PS-0135,D27,Bidar,21,32
+SYN-PS-0135,D27,Bidar,22,29
+SYN-PS-0135,D27,Bidar,23,27
+SYN-PS-0136,D27,Bidar,0,13
+SYN-PS-0136,D27,Bidar,1,12
+SYN-PS-0136,D27,Bidar,2,10
+SYN-PS-0136,D27,Bidar,3,7
+SYN-PS-0136,D27,Bidar,4,6
+SYN-PS-0136,D27,Bidar,5,4
+SYN-PS-0136,D27,Bidar,6,4
+SYN-PS-0136,D27,Bidar,7,6
+SYN-PS-0136,D27,Bidar,8,7
+SYN-PS-0136,D27,Bidar,9,9
+SYN-PS-0136,D27,Bidar,10,9
+SYN-PS-0136,D27,Bidar,11,9
+SYN-PS-0136,D27,Bidar,12,9
+SYN-PS-0136,D27,Bidar,13,9
+SYN-PS-0136,D27,Bidar,14,9
+SYN-PS-0136,D27,Bidar,15,10
+SYN-PS-0136,D27,Bidar,16,12
+SYN-PS-0136,D27,Bidar,17,13
+SYN-PS-0136,D27,Bidar,18,17
+SYN-PS-0136,D27,Bidar,19,19
+SYN-PS-0136,D27,Bidar,20,19
+SYN-PS-0136,D27,Bidar,21,17
+SYN-PS-0136,D27,Bidar,22,16
+SYN-PS-0136,D27,Bidar,23,14
+SYN-PS-0137,D27,Bidar,0,87
+SYN-PS-0137,D27,Bidar,1,78
+SYN-PS-0137,D27,Bidar,2,68
+SYN-PS-0137,D27,Bidar,3,49
+SYN-PS-0137,D27,Bidar,4,39
+SYN-PS-0137,D27,Bidar,5,29
+SYN-PS-0137,D27,Bidar,6,29
+SYN-PS-0137,D27,Bidar,7,39
+SYN-PS-0137,D27,Bidar,8,49
+SYN-PS-0137,D27,Bidar,9,58
+SYN-PS-0137,D27,Bidar,10,58
+SYN-PS-0137,D27,Bidar,11,58
+SYN-PS-0137,D27,Bidar,12,57
+SYN-PS-0137,D27,Bidar,13,57
+SYN-PS-0137,D27,Bidar,14,57
+SYN-PS-0137,D27,Bidar,15,67
+SYN-PS-0137,D27,Bidar,16,77
+SYN-PS-0137,D27,Bidar,17,86
+SYN-PS-0137,D27,Bidar,18,107
+SYN-PS-0137,D27,Bidar,19,116
+SYN-PS-0137,D27,Bidar,20,116
+SYN-PS-0137,D27,Bidar,21,107
+SYN-PS-0137,D27,Bidar,22,97
+SYN-PS-0137,D27,Bidar,23,87
+SYN-PS-0138,D27,Bidar,0,22
+SYN-PS-0138,D27,Bidar,1,20
+SYN-PS-0138,D27,Bidar,2,17
+SYN-PS-0138,D27,Bidar,3,13
+SYN-PS-0138,D27,Bidar,4,10
+SYN-PS-0138,D27,Bidar,5,8
+SYN-PS-0138,D27,Bidar,6,8
+SYN-PS-0138,D27,Bidar,7,9
+SYN-PS-0138,D27,Bidar,8,12
+SYN-PS-0138,D27,Bidar,9,14
+SYN-PS-0138,D27,Bidar,10,14
+SYN-PS-0138,D27,Bidar,11,14
+SYN-PS-0138,D27,Bidar,12,14
+SYN-PS-0138,D27,Bidar,13,14
+SYN-PS-0138,D27,Bidar,14,14
+SYN-PS-0138,D27,Bidar,15,16
+SYN-PS-0138,D27,Bidar,16,19
+SYN-PS-0138,D27,Bidar,17,21
+SYN-PS-0138,D27,Bidar,18,27
+SYN-PS-0138,D27,Bidar,19,29
+SYN-PS-0138,D27,Bidar,20,29
+SYN-PS-0138,D27,Bidar,21,27
+SYN-PS-0138,D27,Bidar,22,25
+SYN-PS-0138,D27,Bidar,23,22
+SYN-PS-0139,D28,Yadgir,0,81
+SYN-PS-0139,D28,Yadgir,1,72
+SYN-PS-0139,D28,Yadgir,2,63
+SYN-PS-0139,D28,Yadgir,3,45
+SYN-PS-0139,D28,Yadgir,4,35
+SYN-PS-0139,D28,Yadgir,5,26
+SYN-PS-0139,D28,Yadgir,6,26
+SYN-PS-0139,D28,Yadgir,7,35
+SYN-PS-0139,D28,Yadgir,8,44
+SYN-PS-0139,D28,Yadgir,9,53
+SYN-PS-0139,D28,Yadgir,10,53
+SYN-PS-0139,D28,Yadgir,11,53
+SYN-PS-0139,D28,Yadgir,12,53
+SYN-PS-0139,D28,Yadgir,13,53
+SYN-PS-0139,D28,Yadgir,14,53
+SYN-PS-0139,D28,Yadgir,15,62
+SYN-PS-0139,D28,Yadgir,16,71
+SYN-PS-0139,D28,Yadgir,17,80
+SYN-PS-0139,D28,Yadgir,18,99
+SYN-PS-0139,D28,Yadgir,19,108
+SYN-PS-0139,D28,Yadgir,20,108
+SYN-PS-0139,D28,Yadgir,21,99
+SYN-PS-0139,D28,Yadgir,22,90
+SYN-PS-0139,D28,Yadgir,23,81
+SYN-PS-0140,D28,Yadgir,0,22
+SYN-PS-0140,D28,Yadgir,1,19
+SYN-PS-0140,D28,Yadgir,2,17
+SYN-PS-0140,D28,Yadgir,3,11
+SYN-PS-0140,D28,Yadgir,4,9
+SYN-PS-0140,D28,Yadgir,5,7
+SYN-PS-0140,D28,Yadgir,6,7
+SYN-PS-0140,D28,Yadgir,7,9
+SYN-PS-0140,D28,Yadgir,8,11
+SYN-PS-0140,D28,Yadgir,9,14
+SYN-PS-0140,D28,Yadgir,10,14
+SYN-PS-0140,D28,Yadgir,11,14
+SYN-PS-0140,D28,Yadgir,12,14
+SYN-PS-0140,D28,Yadgir,13,14
+SYN-PS-0140,D28,Yadgir,14,14
+SYN-PS-0140,D28,Yadgir,15,16
+SYN-PS-0140,D28,Yadgir,16,18
+SYN-PS-0140,D28,Yadgir,17,21
+SYN-PS-0140,D28,Yadgir,18,26
+SYN-PS-0140,D28,Yadgir,19,29
+SYN-PS-0140,D28,Yadgir,20,29
+SYN-PS-0140,D28,Yadgir,21,26
+SYN-PS-0140,D28,Yadgir,22,24
+SYN-PS-0140,D28,Yadgir,23,22
+SYN-PS-0141,D28,Yadgir,0,21
+SYN-PS-0141,D28,Yadgir,1,18
+SYN-PS-0141,D28,Yadgir,2,16
+SYN-PS-0141,D28,Yadgir,3,12
+SYN-PS-0141,D28,Yadgir,4,9
+SYN-PS-0141,D28,Yadgir,5,6
+SYN-PS-0141,D28,Yadgir,6,6
+SYN-PS-0141,D28,Yadgir,7,8
+SYN-PS-0141,D28,Yadgir,8,11
+SYN-PS-0141,D28,Yadgir,9,13
+SYN-PS-0141,D28,Yadgir,10,13
+SYN-PS-0141,D28,Yadgir,11,13
+SYN-PS-0141,D28,Yadgir,12,13
+SYN-PS-0141,D28,Yadgir,13,13
+SYN-PS-0141,D28,Yadgir,14,13
+SYN-PS-0141,D28,Yadgir,15,15
+SYN-PS-0141,D28,Yadgir,16,17
+SYN-PS-0141,D28,Yadgir,17,20
+SYN-PS-0141,D28,Yadgir,18,25
+SYN-PS-0141,D28,Yadgir,19,27
+SYN-PS-0141,D28,Yadgir,20,27
+SYN-PS-0141,D28,Yadgir,21,25
+SYN-PS-0141,D28,Yadgir,22,23
+SYN-PS-0141,D28,Yadgir,23,21
+SYN-PS-0142,D28,Yadgir,0,20
+SYN-PS-0142,D28,Yadgir,1,18
+SYN-PS-0142,D28,Yadgir,2,16
+SYN-PS-0142,D28,Yadgir,3,11
+SYN-PS-0142,D28,Yadgir,4,9
+SYN-PS-0142,D28,Yadgir,5,7
+SYN-PS-0142,D28,Yadgir,6,6
+SYN-PS-0142,D28,Yadgir,7,8
+SYN-PS-0142,D28,Yadgir,8,10
+SYN-PS-0142,D28,Yadgir,9,13
+SYN-PS-0142,D28,Yadgir,10,13
+SYN-PS-0142,D28,Yadgir,11,13
+SYN-PS-0142,D28,Yadgir,12,13
+SYN-PS-0142,D28,Yadgir,13,13
+SYN-PS-0142,D28,Yadgir,14,13
+SYN-PS-0142,D28,Yadgir,15,15
+SYN-PS-0142,D28,Yadgir,16,17
+SYN-PS-0142,D28,Yadgir,17,19
+SYN-PS-0142,D28,Yadgir,18,25
+SYN-PS-0142,D28,Yadgir,19,27
+SYN-PS-0142,D28,Yadgir,20,27
+SYN-PS-0142,D28,Yadgir,21,25
+SYN-PS-0142,D28,Yadgir,22,22
+SYN-PS-0142,D28,Yadgir,23,20
+SYN-PS-0143,D29,Mysuru Dist,0,70
+SYN-PS-0143,D29,Mysuru Dist,1,62
+SYN-PS-0143,D29,Mysuru Dist,2,55
+SYN-PS-0143,D29,Mysuru Dist,3,39
+SYN-PS-0143,D29,Mysuru Dist,4,31
+SYN-PS-0143,D29,Mysuru Dist,5,24
+SYN-PS-0143,D29,Mysuru Dist,6,24
+SYN-PS-0143,D29,Mysuru Dist,7,31
+SYN-PS-0143,D29,Mysuru Dist,8,38
+SYN-PS-0143,D29,Mysuru Dist,9,46
+SYN-PS-0143,D29,Mysuru Dist,10,46
+SYN-PS-0143,D29,Mysuru Dist,11,46
+SYN-PS-0143,D29,Mysuru Dist,12,46
+SYN-PS-0143,D29,Mysuru Dist,13,46
+SYN-PS-0143,D29,Mysuru Dist,14,46
+SYN-PS-0143,D29,Mysuru Dist,15,54
+SYN-PS-0143,D29,Mysuru Dist,16,61
+SYN-PS-0143,D29,Mysuru Dist,17,69
+SYN-PS-0143,D29,Mysuru Dist,18,86
+SYN-PS-0143,D29,Mysuru Dist,19,93
+SYN-PS-0143,D29,Mysuru Dist,20,93
+SYN-PS-0143,D29,Mysuru Dist,21,86
+SYN-PS-0143,D29,Mysuru Dist,22,78
+SYN-PS-0143,D29,Mysuru Dist,23,70
+SYN-PS-0144,D29,Mysuru Dist,0,37
+SYN-PS-0144,D29,Mysuru Dist,1,33
+SYN-PS-0144,D29,Mysuru Dist,2,29
+SYN-PS-0144,D29,Mysuru Dist,3,21
+SYN-PS-0144,D29,Mysuru Dist,4,17
+SYN-PS-0144,D29,Mysuru Dist,5,13
+SYN-PS-0144,D29,Mysuru Dist,6,13
+SYN-PS-0144,D29,Mysuru Dist,7,16
+SYN-PS-0144,D29,Mysuru Dist,8,20
+SYN-PS-0144,D29,Mysuru Dist,9,24
+SYN-PS-0144,D29,Mysuru Dist,10,24
+SYN-PS-0144,D29,Mysuru Dist,11,24
+SYN-PS-0144,D29,Mysuru Dist,12,24
+SYN-PS-0144,D29,Mysuru Dist,13,24
+SYN-PS-0144,D29,Mysuru Dist,14,24
+SYN-PS-0144,D29,Mysuru Dist,15,28
+SYN-PS-0144,D29,Mysuru Dist,16,32
+SYN-PS-0144,D29,Mysuru Dist,17,36
+SYN-PS-0144,D29,Mysuru Dist,18,46
+SYN-PS-0144,D29,Mysuru Dist,19,50
+SYN-PS-0144,D29,Mysuru Dist,20,50
+SYN-PS-0144,D29,Mysuru Dist,21,46
+SYN-PS-0144,D29,Mysuru Dist,22,41
+SYN-PS-0144,D29,Mysuru Dist,23,37
+SYN-PS-0145,D29,Mysuru Dist,0,8
+SYN-PS-0145,D29,Mysuru Dist,1,7
+SYN-PS-0145,D29,Mysuru Dist,2,6
+SYN-PS-0145,D29,Mysuru Dist,3,5
+SYN-PS-0145,D29,Mysuru Dist,4,4
+SYN-PS-0145,D29,Mysuru Dist,5,3
+SYN-PS-0145,D29,Mysuru Dist,6,3
+SYN-PS-0145,D29,Mysuru Dist,7,4
+SYN-PS-0145,D29,Mysuru Dist,8,4
+SYN-PS-0145,D29,Mysuru Dist,9,4
+SYN-PS-0145,D29,Mysuru Dist,10,4
+SYN-PS-0145,D29,Mysuru Dist,11,4
+SYN-PS-0145,D29,Mysuru Dist,12,4
+SYN-PS-0145,D29,Mysuru Dist,13,4
+SYN-PS-0145,D29,Mysuru Dist,14,4
+SYN-PS-0145,D29,Mysuru Dist,15,5
+SYN-PS-0145,D29,Mysuru Dist,16,6
+SYN-PS-0145,D29,Mysuru Dist,17,7
+SYN-PS-0145,D29,Mysuru Dist,18,9
+SYN-PS-0145,D29,Mysuru Dist,19,10
+SYN-PS-0145,D29,Mysuru Dist,20,10
+SYN-PS-0145,D29,Mysuru Dist,21,9
+SYN-PS-0145,D29,Mysuru Dist,22,9
+SYN-PS-0145,D29,Mysuru Dist,23,8
+SYN-PS-0146,D29,Mysuru Dist,0,69
+SYN-PS-0146,D29,Mysuru Dist,1,61
+SYN-PS-0146,D29,Mysuru Dist,2,54
+SYN-PS-0146,D29,Mysuru Dist,3,38
+SYN-PS-0146,D29,Mysuru Dist,4,31
+SYN-PS-0146,D29,Mysuru Dist,5,23
+SYN-PS-0146,D29,Mysuru Dist,6,23
+SYN-PS-0146,D29,Mysuru Dist,7,30
+SYN-PS-0146,D29,Mysuru Dist,8,37
+SYN-PS-0146,D29,Mysuru Dist,9,45
+SYN-PS-0146,D29,Mysuru Dist,10,45
+SYN-PS-0146,D29,Mysuru Dist,11,45
+SYN-PS-0146,D29,Mysuru Dist,12,45
+SYN-PS-0146,D29,Mysuru Dist,13,45
+SYN-PS-0146,D29,Mysuru Dist,14,45
+SYN-PS-0146,D29,Mysuru Dist,15,53
+SYN-PS-0146,D29,Mysuru Dist,16,60
+SYN-PS-0146,D29,Mysuru Dist,17,68
+SYN-PS-0146,D29,Mysuru Dist,18,84
+SYN-PS-0146,D29,Mysuru Dist,19,92
+SYN-PS-0146,D29,Mysuru Dist,20,92
+SYN-PS-0146,D29,Mysuru Dist,21,84
+SYN-PS-0146,D29,Mysuru Dist,22,76
+SYN-PS-0146,D29,Mysuru Dist,23,69
+SYN-PS-0147,D29,Mysuru Dist,0,56
+SYN-PS-0147,D29,Mysuru Dist,1,49
+SYN-PS-0147,D29,Mysuru Dist,2,43
+SYN-PS-0147,D29,Mysuru Dist,3,31
+SYN-PS-0147,D29,Mysuru Dist,4,25
+SYN-PS-0147,D29,Mysuru Dist,5,19
+SYN-PS-0147,D29,Mysuru Dist,6,18
+SYN-PS-0147,D29,Mysuru Dist,7,24
+SYN-PS-0147,D29,Mysuru Dist,8,30
+SYN-PS-0147,D29,Mysuru Dist,9,36
+SYN-PS-0147,D29,Mysuru Dist,10,36
+SYN-PS-0147,D29,Mysuru Dist,11,36
+SYN-PS-0147,D29,Mysuru Dist,12,36
+SYN-PS-0147,D29,Mysuru Dist,13,36
+SYN-PS-0147,D29,Mysuru Dist,14,36
+SYN-PS-0147,D29,Mysuru Dist,15,42
+SYN-PS-0147,D29,Mysuru Dist,16,48
+SYN-PS-0147,D29,Mysuru Dist,17,55
+SYN-PS-0147,D29,Mysuru Dist,18,68
+SYN-PS-0147,D29,Mysuru Dist,19,74
+SYN-PS-0147,D29,Mysuru Dist,20,74
+SYN-PS-0147,D29,Mysuru Dist,21,68
+SYN-PS-0147,D29,Mysuru Dist,22,62
+SYN-PS-0147,D29,Mysuru Dist,23,56
+SYN-PS-0148,D29,Mysuru Dist,0,68
+SYN-PS-0148,D29,Mysuru Dist,1,61
+SYN-PS-0148,D29,Mysuru Dist,2,53
+SYN-PS-0148,D29,Mysuru Dist,3,38
+SYN-PS-0148,D29,Mysuru Dist,4,30
+SYN-PS-0148,D29,Mysuru Dist,5,22
+SYN-PS-0148,D29,Mysuru Dist,6,22
+SYN-PS-0148,D29,Mysuru Dist,7,30
+SYN-PS-0148,D29,Mysuru Dist,8,37
+SYN-PS-0148,D29,Mysuru Dist,9,45
+SYN-PS-0148,D29,Mysuru Dist,10,45
+SYN-PS-0148,D29,Mysuru Dist,11,45
+SYN-PS-0148,D29,Mysuru Dist,12,45
+SYN-PS-0148,D29,Mysuru Dist,13,45
+SYN-PS-0148,D29,Mysuru Dist,14,45
+SYN-PS-0148,D29,Mysuru Dist,15,52
+SYN-PS-0148,D29,Mysuru Dist,16,60
+SYN-PS-0148,D29,Mysuru Dist,17,67
+SYN-PS-0148,D29,Mysuru Dist,18,83
+SYN-PS-0148,D29,Mysuru Dist,19,91
+SYN-PS-0148,D29,Mysuru Dist,20,91
+SYN-PS-0148,D29,Mysuru Dist,21,83
+SYN-PS-0148,D29,Mysuru Dist,22,76
+SYN-PS-0148,D29,Mysuru Dist,23,68
+SYN-PS-0149,D30,Mandya,0,104
+SYN-PS-0149,D30,Mandya,1,93
+SYN-PS-0149,D30,Mandya,2,81
+SYN-PS-0149,D30,Mandya,3,57
+SYN-PS-0149,D30,Mandya,4,46
+SYN-PS-0149,D30,Mandya,5,34
+SYN-PS-0149,D30,Mandya,6,34
+SYN-PS-0149,D30,Mandya,7,46
+SYN-PS-0149,D30,Mandya,8,57
+SYN-PS-0149,D30,Mandya,9,69
+SYN-PS-0149,D30,Mandya,10,69
+SYN-PS-0149,D30,Mandya,11,69
+SYN-PS-0149,D30,Mandya,12,69
+SYN-PS-0149,D30,Mandya,13,69
+SYN-PS-0149,D30,Mandya,14,69
+SYN-PS-0149,D30,Mandya,15,80
+SYN-PS-0149,D30,Mandya,16,92
+SYN-PS-0149,D30,Mandya,17,103
+SYN-PS-0149,D30,Mandya,18,127
+SYN-PS-0149,D30,Mandya,19,139
+SYN-PS-0149,D30,Mandya,20,139
+SYN-PS-0149,D30,Mandya,21,127
+SYN-PS-0149,D30,Mandya,22,116
+SYN-PS-0149,D30,Mandya,23,104
+SYN-PS-0150,D30,Mandya,0,81
+SYN-PS-0150,D30,Mandya,1,72
+SYN-PS-0150,D30,Mandya,2,63
+SYN-PS-0150,D30,Mandya,3,45
+SYN-PS-0150,D30,Mandya,4,36
+SYN-PS-0150,D30,Mandya,5,27
+SYN-PS-0150,D30,Mandya,6,27
+SYN-PS-0150,D30,Mandya,7,36
+SYN-PS-0150,D30,Mandya,8,45
+SYN-PS-0150,D30,Mandya,9,54
+SYN-PS-0150,D30,Mandya,10,54
+SYN-PS-0150,D30,Mandya,11,53
+SYN-PS-0150,D30,Mandya,12,53
+SYN-PS-0150,D30,Mandya,13,53
+SYN-PS-0150,D30,Mandya,14,53
+SYN-PS-0150,D30,Mandya,15,62
+SYN-PS-0150,D30,Mandya,16,71
+SYN-PS-0150,D30,Mandya,17,80
+SYN-PS-0150,D30,Mandya,18,99
+SYN-PS-0150,D30,Mandya,19,108
+SYN-PS-0150,D30,Mandya,20,108
+SYN-PS-0150,D30,Mandya,21,99
+SYN-PS-0150,D30,Mandya,22,90
+SYN-PS-0150,D30,Mandya,23,81
+SYN-PS-0151,D30,Mandya,0,28
+SYN-PS-0151,D30,Mandya,1,25
+SYN-PS-0151,D30,Mandya,2,22
+SYN-PS-0151,D30,Mandya,3,16
+SYN-PS-0151,D30,Mandya,4,13
+SYN-PS-0151,D30,Mandya,5,10
+SYN-PS-0151,D30,Mandya,6,10
+SYN-PS-0151,D30,Mandya,7,12
+SYN-PS-0151,D30,Mandya,8,15
+SYN-PS-0151,D30,Mandya,9,18
+SYN-PS-0151,D30,Mandya,10,18
+SYN-PS-0151,D30,Mandya,11,18
+SYN-PS-0151,D30,Mandya,12,18
+SYN-PS-0151,D30,Mandya,13,18
+SYN-PS-0151,D30,Mandya,14,18
+SYN-PS-0151,D30,Mandya,15,21
+SYN-PS-0151,D30,Mandya,16,24
+SYN-PS-0151,D30,Mandya,17,27
+SYN-PS-0151,D30,Mandya,18,35
+SYN-PS-0151,D30,Mandya,19,38
+SYN-PS-0151,D30,Mandya,20,38
+SYN-PS-0151,D30,Mandya,21,35
+SYN-PS-0151,D30,Mandya,22,32
+SYN-PS-0151,D30,Mandya,23,28
+SYN-PS-0152,D30,Mandya,0,11
+SYN-PS-0152,D30,Mandya,1,10
+SYN-PS-0152,D30,Mandya,2,9
+SYN-PS-0152,D30,Mandya,3,6
+SYN-PS-0152,D30,Mandya,4,5
+SYN-PS-0152,D30,Mandya,5,4
+SYN-PS-0152,D30,Mandya,6,4
+SYN-PS-0152,D30,Mandya,7,4
+SYN-PS-0152,D30,Mandya,8,5
+SYN-PS-0152,D30,Mandya,9,6
+SYN-PS-0152,D30,Mandya,10,6
+SYN-PS-0152,D30,Mandya,11,6
+SYN-PS-0152,D30,Mandya,12,6
+SYN-PS-0152,D30,Mandya,13,6
+SYN-PS-0152,D30,Mandya,14,6
+SYN-PS-0152,D30,Mandya,15,8
+SYN-PS-0152,D30,Mandya,16,9
+SYN-PS-0152,D30,Mandya,17,10
+SYN-PS-0152,D30,Mandya,18,13
+SYN-PS-0152,D30,Mandya,19,14
+SYN-PS-0152,D30,Mandya,20,14
+SYN-PS-0152,D30,Mandya,21,13
+SYN-PS-0152,D30,Mandya,22,12
+SYN-PS-0152,D30,Mandya,23,11
+SYN-PS-0153,D30,Mandya,0,65
+SYN-PS-0153,D30,Mandya,1,58
+SYN-PS-0153,D30,Mandya,2,50
+SYN-PS-0153,D30,Mandya,3,36
+SYN-PS-0153,D30,Mandya,4,29
+SYN-PS-0153,D30,Mandya,5,22
+SYN-PS-0153,D30,Mandya,6,21
+SYN-PS-0153,D30,Mandya,7,28
+SYN-PS-0153,D30,Mandya,8,35
+SYN-PS-0153,D30,Mandya,9,42
+SYN-PS-0153,D30,Mandya,10,42
+SYN-PS-0153,D30,Mandya,11,42
+SYN-PS-0153,D30,Mandya,12,42
+SYN-PS-0153,D30,Mandya,13,42
+SYN-PS-0153,D30,Mandya,14,42
+SYN-PS-0153,D30,Mandya,15,49
+SYN-PS-0153,D30,Mandya,16,57
+SYN-PS-0153,D30,Mandya,17,64
+SYN-PS-0153,D30,Mandya,18,79
+SYN-PS-0153,D30,Mandya,19,86
+SYN-PS-0153,D30,Mandya,20,86
+SYN-PS-0153,D30,Mandya,21,79
+SYN-PS-0153,D30,Mandya,22,72
+SYN-PS-0153,D30,Mandya,23,65
+SYN-PS-0154,D30,Mandya,0,22
+SYN-PS-0154,D30,Mandya,1,20
+SYN-PS-0154,D30,Mandya,2,17
+SYN-PS-0154,D30,Mandya,3,13
+SYN-PS-0154,D30,Mandya,4,10
+SYN-PS-0154,D30,Mandya,5,8
+SYN-PS-0154,D30,Mandya,6,7
+SYN-PS-0154,D30,Mandya,7,9
+SYN-PS-0154,D30,Mandya,8,12
+SYN-PS-0154,D30,Mandya,9,14
+SYN-PS-0154,D30,Mandya,10,14
+SYN-PS-0154,D30,Mandya,11,14
+SYN-PS-0154,D30,Mandya,12,14
+SYN-PS-0154,D30,Mandya,13,14
+SYN-PS-0154,D30,Mandya,14,14
+SYN-PS-0154,D30,Mandya,15,16
+SYN-PS-0154,D30,Mandya,16,19
+SYN-PS-0154,D30,Mandya,17,21
+SYN-PS-0154,D30,Mandya,18,27
+SYN-PS-0154,D30,Mandya,19,30
+SYN-PS-0154,D30,Mandya,20,30
+SYN-PS-0154,D30,Mandya,21,27
+SYN-PS-0154,D30,Mandya,22,25
+SYN-PS-0154,D30,Mandya,23,22
+SYN-PS-0155,D31,Chamarajanagar,0,95
+SYN-PS-0155,D31,Chamarajanagar,1,84
+SYN-PS-0155,D31,Chamarajanagar,2,74
+SYN-PS-0155,D31,Chamarajanagar,3,53
+SYN-PS-0155,D31,Chamarajanagar,4,42
+SYN-PS-0155,D31,Chamarajanagar,5,32
+SYN-PS-0155,D31,Chamarajanagar,6,32
+SYN-PS-0155,D31,Chamarajanagar,7,42
+SYN-PS-0155,D31,Chamarajanagar,8,53
+SYN-PS-0155,D31,Chamarajanagar,9,63
+SYN-PS-0155,D31,Chamarajanagar,10,62
+SYN-PS-0155,D31,Chamarajanagar,11,62
+SYN-PS-0155,D31,Chamarajanagar,12,62
+SYN-PS-0155,D31,Chamarajanagar,13,62
+SYN-PS-0155,D31,Chamarajanagar,14,62
+SYN-PS-0155,D31,Chamarajanagar,15,73
+SYN-PS-0155,D31,Chamarajanagar,16,83
+SYN-PS-0155,D31,Chamarajanagar,17,94
+SYN-PS-0155,D31,Chamarajanagar,18,116
+SYN-PS-0155,D31,Chamarajanagar,19,126
+SYN-PS-0155,D31,Chamarajanagar,20,126
+SYN-PS-0155,D31,Chamarajanagar,21,116
+SYN-PS-0155,D31,Chamarajanagar,22,105
+SYN-PS-0155,D31,Chamarajanagar,23,95
+SYN-PS-0156,D31,Chamarajanagar,0,26
+SYN-PS-0156,D31,Chamarajanagar,1,23
+SYN-PS-0156,D31,Chamarajanagar,2,20
+SYN-PS-0156,D31,Chamarajanagar,3,15
+SYN-PS-0156,D31,Chamarajanagar,4,12
+SYN-PS-0156,D31,Chamarajanagar,5,9
+SYN-PS-0156,D31,Chamarajanagar,6,8
+SYN-PS-0156,D31,Chamarajanagar,7,11
+SYN-PS-0156,D31,Chamarajanagar,8,14
+SYN-PS-0156,D31,Chamarajanagar,9,16
+SYN-PS-0156,D31,Chamarajanagar,10,16
+SYN-PS-0156,D31,Chamarajanagar,11,16
+SYN-PS-0156,D31,Chamarajanagar,12,16
+SYN-PS-0156,D31,Chamarajanagar,13,16
+SYN-PS-0156,D31,Chamarajanagar,14,16
+SYN-PS-0156,D31,Chamarajanagar,15,19
+SYN-PS-0156,D31,Chamarajanagar,16,22
+SYN-PS-0156,D31,Chamarajanagar,17,25
+SYN-PS-0156,D31,Chamarajanagar,18,31
+SYN-PS-0156,D31,Chamarajanagar,19,34
+SYN-PS-0156,D31,Chamarajanagar,20,34
+SYN-PS-0156,D31,Chamarajanagar,21,31
+SYN-PS-0156,D31,Chamarajanagar,22,29
+SYN-PS-0156,D31,Chamarajanagar,23,26
+SYN-PS-0157,D31,Chamarajanagar,0,20
+SYN-PS-0157,D31,Chamarajanagar,1,18
+SYN-PS-0157,D31,Chamarajanagar,2,16
+SYN-PS-0157,D31,Chamarajanagar,3,11
+SYN-PS-0157,D31,Chamarajanagar,4,8
+SYN-PS-0157,D31,Chamarajanagar,5,6
+SYN-PS-0157,D31,Chamarajanagar,6,6
+SYN-PS-0157,D31,Chamarajanagar,7,8
+SYN-PS-0157,D31,Chamarajanagar,8,10
+SYN-PS-0157,D31,Chamarajanagar,9,13
+SYN-PS-0157,D31,Chamarajanagar,10,13
+SYN-PS-0157,D31,Chamarajanagar,11,13
+SYN-PS-0157,D31,Chamarajanagar,12,13
+SYN-PS-0157,D31,Chamarajanagar,13,13
+SYN-PS-0157,D31,Chamarajanagar,14,13
+SYN-PS-0157,D31,Chamarajanagar,15,15
+SYN-PS-0157,D31,Chamarajanagar,16,17
+SYN-PS-0157,D31,Chamarajanagar,17,19
+SYN-PS-0157,D31,Chamarajanagar,18,24
+SYN-PS-0157,D31,Chamarajanagar,19,27
+SYN-PS-0157,D31,Chamarajanagar,20,27
+SYN-PS-0157,D31,Chamarajanagar,21,24
+SYN-PS-0157,D31,Chamarajanagar,22,22
+SYN-PS-0157,D31,Chamarajanagar,23,20
+SYN-PS-0158,D31,Chamarajanagar,0,13
+SYN-PS-0158,D31,Chamarajanagar,1,11
+SYN-PS-0158,D31,Chamarajanagar,2,10
+SYN-PS-0158,D31,Chamarajanagar,3,7
+SYN-PS-0158,D31,Chamarajanagar,4,5
+SYN-PS-0158,D31,Chamarajanagar,5,4
+SYN-PS-0158,D31,Chamarajanagar,6,4
+SYN-PS-0158,D31,Chamarajanagar,7,5
+SYN-PS-0158,D31,Chamarajanagar,8,6
+SYN-PS-0158,D31,Chamarajanagar,9,8
+SYN-PS-0158,D31,Chamarajanagar,10,8
+SYN-PS-0158,D31,Chamarajanagar,11,8
+SYN-PS-0158,D31,Chamarajanagar,12,8
+SYN-PS-0158,D31,Chamarajanagar,13,8
+SYN-PS-0158,D31,Chamarajanagar,14,8
+SYN-PS-0158,D31,Chamarajanagar,15,9
+SYN-PS-0158,D31,Chamarajanagar,16,10
+SYN-PS-0158,D31,Chamarajanagar,17,12
+SYN-PS-0158,D31,Chamarajanagar,18,16
+SYN-PS-0158,D31,Chamarajanagar,19,17
+SYN-PS-0158,D31,Chamarajanagar,20,17
+SYN-PS-0158,D31,Chamarajanagar,21,16
+SYN-PS-0158,D31,Chamarajanagar,22,14
+SYN-PS-0158,D31,Chamarajanagar,23,13
+SYN-PS-0159,D32,Hassan,0,41
+SYN-PS-0159,D32,Hassan,1,36
+SYN-PS-0159,D32,Hassan,2,32
+SYN-PS-0159,D32,Hassan,3,23
+SYN-PS-0159,D32,Hassan,4,18
+SYN-PS-0159,D32,Hassan,5,13
+SYN-PS-0159,D32,Hassan,6,13
+SYN-PS-0159,D32,Hassan,7,17
+SYN-PS-0159,D32,Hassan,8,22
+SYN-PS-0159,D32,Hassan,9,26
+SYN-PS-0159,D32,Hassan,10,26
+SYN-PS-0159,D32,Hassan,11,26
+SYN-PS-0159,D32,Hassan,12,26
+SYN-PS-0159,D32,Hassan,13,26
+SYN-PS-0159,D32,Hassan,14,26
+SYN-PS-0159,D32,Hassan,15,31
+SYN-PS-0159,D32,Hassan,16,35
+SYN-PS-0159,D32,Hassan,17,40
+SYN-PS-0159,D32,Hassan,18,49
+SYN-PS-0159,D32,Hassan,19,54
+SYN-PS-0159,D32,Hassan,20,54
+SYN-PS-0159,D32,Hassan,21,49
+SYN-PS-0159,D32,Hassan,22,45
+SYN-PS-0159,D32,Hassan,23,41
+SYN-PS-0160,D32,Hassan,0,16
+SYN-PS-0160,D32,Hassan,1,14
+SYN-PS-0160,D32,Hassan,2,13
+SYN-PS-0160,D32,Hassan,3,9
+SYN-PS-0160,D32,Hassan,4,7
+SYN-PS-0160,D32,Hassan,5,6
+SYN-PS-0160,D32,Hassan,6,6
+SYN-PS-0160,D32,Hassan,7,7
+SYN-PS-0160,D32,Hassan,8,8
+SYN-PS-0160,D32,Hassan,9,10
+SYN-PS-0160,D32,Hassan,10,10
+SYN-PS-0160,D32,Hassan,11,10
+SYN-PS-0160,D32,Hassan,12,10
+SYN-PS-0160,D32,Hassan,13,10
+SYN-PS-0160,D32,Hassan,14,10
+SYN-PS-0160,D32,Hassan,15,12
+SYN-PS-0160,D32,Hassan,16,13
+SYN-PS-0160,D32,Hassan,17,15
+SYN-PS-0160,D32,Hassan,18,20
+SYN-PS-0160,D32,Hassan,19,21
+SYN-PS-0160,D32,Hassan,20,21
+SYN-PS-0160,D32,Hassan,21,20
+SYN-PS-0160,D32,Hassan,22,18
+SYN-PS-0160,D32,Hassan,23,16
+SYN-PS-0161,D32,Hassan,0,20
+SYN-PS-0161,D32,Hassan,1,18
+SYN-PS-0161,D32,Hassan,2,16
+SYN-PS-0161,D32,Hassan,3,11
+SYN-PS-0161,D32,Hassan,4,9
+SYN-PS-0161,D32,Hassan,5,7
+SYN-PS-0161,D32,Hassan,6,6
+SYN-PS-0161,D32,Hassan,7,8
+SYN-PS-0161,D32,Hassan,8,10
+SYN-PS-0161,D32,Hassan,9,13
+SYN-PS-0161,D32,Hassan,10,13
+SYN-PS-0161,D32,Hassan,11,13
+SYN-PS-0161,D32,Hassan,12,13
+SYN-PS-0161,D32,Hassan,13,13
+SYN-PS-0161,D32,Hassan,14,13
+SYN-PS-0161,D32,Hassan,15,15
+SYN-PS-0161,D32,Hassan,16,17
+SYN-PS-0161,D32,Hassan,17,19
+SYN-PS-0161,D32,Hassan,18,25
+SYN-PS-0161,D32,Hassan,19,27
+SYN-PS-0161,D32,Hassan,20,27
+SYN-PS-0161,D32,Hassan,21,25
+SYN-PS-0161,D32,Hassan,22,22
+SYN-PS-0161,D32,Hassan,23,20
+SYN-PS-0162,D32,Hassan,0,73
+SYN-PS-0162,D32,Hassan,1,65
+SYN-PS-0162,D32,Hassan,2,57
+SYN-PS-0162,D32,Hassan,3,41
+SYN-PS-0162,D32,Hassan,4,33
+SYN-PS-0162,D32,Hassan,5,25
+SYN-PS-0162,D32,Hassan,6,25
+SYN-PS-0162,D32,Hassan,7,32
+SYN-PS-0162,D32,Hassan,8,40
+SYN-PS-0162,D32,Hassan,9,48
+SYN-PS-0162,D32,Hassan,10,48
+SYN-PS-0162,D32,Hassan,11,48
+SYN-PS-0162,D32,Hassan,12,48
+SYN-PS-0162,D32,Hassan,13,48
+SYN-PS-0162,D32,Hassan,14,48
+SYN-PS-0162,D32,Hassan,15,56
+SYN-PS-0162,D32,Hassan,16,64
+SYN-PS-0162,D32,Hassan,17,72
+SYN-PS-0162,D32,Hassan,18,89
+SYN-PS-0162,D32,Hassan,19,97
+SYN-PS-0162,D32,Hassan,20,97
+SYN-PS-0162,D32,Hassan,21,89
+SYN-PS-0162,D32,Hassan,22,81
+SYN-PS-0162,D32,Hassan,23,73
+SYN-PS-0163,D32,Hassan,0,18
+SYN-PS-0163,D32,Hassan,1,16
+SYN-PS-0163,D32,Hassan,2,14
+SYN-PS-0163,D32,Hassan,3,10
+SYN-PS-0163,D32,Hassan,4,8
+SYN-PS-0163,D32,Hassan,5,6
+SYN-PS-0163,D32,Hassan,6,6
+SYN-PS-0163,D32,Hassan,7,8
+SYN-PS-0163,D32,Hassan,8,10
+SYN-PS-0163,D32,Hassan,9,12
+SYN-PS-0163,D32,Hassan,10,12
+SYN-PS-0163,D32,Hassan,11,11
+SYN-PS-0163,D32,Hassan,12,11
+SYN-PS-0163,D32,Hassan,13,11
+SYN-PS-0163,D32,Hassan,14,11
+SYN-PS-0163,D32,Hassan,15,13
+SYN-PS-0163,D32,Hassan,16,15
+SYN-PS-0163,D32,Hassan,17,17
+SYN-PS-0163,D32,Hassan,18,22
+SYN-PS-0163,D32,Hassan,19,24
+SYN-PS-0163,D32,Hassan,20,24
+SYN-PS-0163,D32,Hassan,21,22
+SYN-PS-0163,D32,Hassan,22,20
+SYN-PS-0163,D32,Hassan,23,18
+SYN-PS-0164,D32,Hassan,0,154
+SYN-PS-0164,D32,Hassan,1,137
+SYN-PS-0164,D32,Hassan,2,120
+SYN-PS-0164,D32,Hassan,3,86
+SYN-PS-0164,D32,Hassan,4,69
+SYN-PS-0164,D32,Hassan,5,52
+SYN-PS-0164,D32,Hassan,6,52
+SYN-PS-0164,D32,Hassan,7,69
+SYN-PS-0164,D32,Hassan,8,85
+SYN-PS-0164,D32,Hassan,9,102
+SYN-PS-0164,D32,Hassan,10,102
+SYN-PS-0164,D32,Hassan,11,102
+SYN-PS-0164,D32,Hassan,12,102
+SYN-PS-0164,D32,Hassan,13,102
+SYN-PS-0164,D32,Hassan,14,102
+SYN-PS-0164,D32,Hassan,15,119
+SYN-PS-0164,D32,Hassan,16,136
+SYN-PS-0164,D32,Hassan,17,153
+SYN-PS-0164,D32,Hassan,18,189
+SYN-PS-0164,D32,Hassan,19,206
+SYN-PS-0164,D32,Hassan,20,206
+SYN-PS-0164,D32,Hassan,21,189
+SYN-PS-0164,D32,Hassan,22,172
+SYN-PS-0164,D32,Hassan,23,154
+SYN-PS-0165,D33,Kodagu,0,8
+SYN-PS-0165,D33,Kodagu,1,8
+SYN-PS-0165,D33,Kodagu,2,7
+SYN-PS-0165,D33,Kodagu,3,5
+SYN-PS-0165,D33,Kodagu,4,4
+SYN-PS-0165,D33,Kodagu,5,2
+SYN-PS-0165,D33,Kodagu,6,2
+SYN-PS-0165,D33,Kodagu,7,3
+SYN-PS-0165,D33,Kodagu,8,4
+SYN-PS-0165,D33,Kodagu,9,5
+SYN-PS-0165,D33,Kodagu,10,5
+SYN-PS-0165,D33,Kodagu,11,5
+SYN-PS-0165,D33,Kodagu,12,5
+SYN-PS-0165,D33,Kodagu,13,5
+SYN-PS-0165,D33,Kodagu,14,5
+SYN-PS-0165,D33,Kodagu,15,6
+SYN-PS-0165,D33,Kodagu,16,7
+SYN-PS-0165,D33,Kodagu,17,7
+SYN-PS-0165,D33,Kodagu,18,10
+SYN-PS-0165,D33,Kodagu,19,11
+SYN-PS-0165,D33,Kodagu,20,11
+SYN-PS-0165,D33,Kodagu,21,10
+SYN-PS-0165,D33,Kodagu,22,9
+SYN-PS-0165,D33,Kodagu,23,8
+SYN-PS-0166,D33,Kodagu,0,22
+SYN-PS-0166,D33,Kodagu,1,19
+SYN-PS-0166,D33,Kodagu,2,16
+SYN-PS-0166,D33,Kodagu,3,11
+SYN-PS-0166,D33,Kodagu,4,9
+SYN-PS-0166,D33,Kodagu,5,7
+SYN-PS-0166,D33,Kodagu,6,7
+SYN-PS-0166,D33,Kodagu,7,9
+SYN-PS-0166,D33,Kodagu,8,11
+SYN-PS-0166,D33,Kodagu,9,14
+SYN-PS-0166,D33,Kodagu,10,14
+SYN-PS-0166,D33,Kodagu,11,14
+SYN-PS-0166,D33,Kodagu,12,14
+SYN-PS-0166,D33,Kodagu,13,14
+SYN-PS-0166,D33,Kodagu,14,14
+SYN-PS-0166,D33,Kodagu,15,16
+SYN-PS-0166,D33,Kodagu,16,18
+SYN-PS-0166,D33,Kodagu,17,21
+SYN-PS-0166,D33,Kodagu,18,26
+SYN-PS-0166,D33,Kodagu,19,29
+SYN-PS-0166,D33,Kodagu,20,29
+SYN-PS-0166,D33,Kodagu,21,26
+SYN-PS-0166,D33,Kodagu,22,24
+SYN-PS-0166,D33,Kodagu,23,22
+SYN-PS-0167,D33,Kodagu,0,48
+SYN-PS-0167,D33,Kodagu,1,43
+SYN-PS-0167,D33,Kodagu,2,37
+SYN-PS-0167,D33,Kodagu,3,27
+SYN-PS-0167,D33,Kodagu,4,22
+SYN-PS-0167,D33,Kodagu,5,16
+SYN-PS-0167,D33,Kodagu,6,15
+SYN-PS-0167,D33,Kodagu,7,21
+SYN-PS-0167,D33,Kodagu,8,26
+SYN-PS-0167,D33,Kodagu,9,31
+SYN-PS-0167,D33,Kodagu,10,31
+SYN-PS-0167,D33,Kodagu,11,31
+SYN-PS-0167,D33,Kodagu,12,31
+SYN-PS-0167,D33,Kodagu,13,31
+SYN-PS-0167,D33,Kodagu,14,31
+SYN-PS-0167,D33,Kodagu,15,36
+SYN-PS-0167,D33,Kodagu,16,42
+SYN-PS-0167,D33,Kodagu,17,47
+SYN-PS-0167,D33,Kodagu,18,59
+SYN-PS-0167,D33,Kodagu,19,64
+SYN-PS-0167,D33,Kodagu,20,64
+SYN-PS-0167,D33,Kodagu,21,59
+SYN-PS-0167,D33,Kodagu,22,53
+SYN-PS-0167,D33,Kodagu,23,48
+SYN-PS-0168,D33,Kodagu,0,45
+SYN-PS-0168,D33,Kodagu,1,40
+SYN-PS-0168,D33,Kodagu,2,35
+SYN-PS-0168,D33,Kodagu,3,25
+SYN-PS-0168,D33,Kodagu,4,20
+SYN-PS-0168,D33,Kodagu,5,15
+SYN-PS-0168,D33,Kodagu,6,14
+SYN-PS-0168,D33,Kodagu,7,19
+SYN-PS-0168,D33,Kodagu,8,24
+SYN-PS-0168,D33,Kodagu,9,29
+SYN-PS-0168,D33,Kodagu,10,29
+SYN-PS-0168,D33,Kodagu,11,29
+SYN-PS-0168,D33,Kodagu,12,29
+SYN-PS-0168,D33,Kodagu,13,29
+SYN-PS-0168,D33,Kodagu,14,29
+SYN-PS-0168,D33,Kodagu,15,34
+SYN-PS-0168,D33,Kodagu,16,39
+SYN-PS-0168,D33,Kodagu,17,44
+SYN-PS-0168,D33,Kodagu,18,55
+SYN-PS-0168,D33,Kodagu,19,60
+SYN-PS-0168,D33,Kodagu,20,60
+SYN-PS-0168,D33,Kodagu,21,55
+SYN-PS-0168,D33,Kodagu,22,50
+SYN-PS-0168,D33,Kodagu,23,45
+SYN-PS-0169,D34,Ballari,0,54
+SYN-PS-0169,D34,Ballari,1,48
+SYN-PS-0169,D34,Ballari,2,42
+SYN-PS-0169,D34,Ballari,3,30
+SYN-PS-0169,D34,Ballari,4,24
+SYN-PS-0169,D34,Ballari,5,17
+SYN-PS-0169,D34,Ballari,6,17
+SYN-PS-0169,D34,Ballari,7,23
+SYN-PS-0169,D34,Ballari,8,29
+SYN-PS-0169,D34,Ballari,9,35
+SYN-PS-0169,D34,Ballari,10,35
+SYN-PS-0169,D34,Ballari,11,35
+SYN-PS-0169,D34,Ballari,12,35
+SYN-PS-0169,D34,Ballari,13,35
+SYN-PS-0169,D34,Ballari,14,35
+SYN-PS-0169,D34,Ballari,15,41
+SYN-PS-0169,D34,Ballari,16,47
+SYN-PS-0169,D34,Ballari,17,53
+SYN-PS-0169,D34,Ballari,18,66
+SYN-PS-0169,D34,Ballari,19,72
+SYN-PS-0169,D34,Ballari,20,72
+SYN-PS-0169,D34,Ballari,21,66
+SYN-PS-0169,D34,Ballari,22,60
+SYN-PS-0169,D34,Ballari,23,54
+SYN-PS-0170,D34,Ballari,0,50
+SYN-PS-0170,D34,Ballari,1,44
+SYN-PS-0170,D34,Ballari,2,39
+SYN-PS-0170,D34,Ballari,3,28
+SYN-PS-0170,D34,Ballari,4,22
+SYN-PS-0170,D34,Ballari,5,17
+SYN-PS-0170,D34,Ballari,6,16
+SYN-PS-0170,D34,Ballari,7,21
+SYN-PS-0170,D34,Ballari,8,27
+SYN-PS-0170,D34,Ballari,9,32
+SYN-PS-0170,D34,Ballari,10,32
+SYN-PS-0170,D34,Ballari,11,32
+SYN-PS-0170,D34,Ballari,12,32
+SYN-PS-0170,D34,Ballari,13,32
+SYN-PS-0170,D34,Ballari,14,32
+SYN-PS-0170,D34,Ballari,15,38
+SYN-PS-0170,D34,Ballari,16,43
+SYN-PS-0170,D34,Ballari,17,49
+SYN-PS-0170,D34,Ballari,18,61
+SYN-PS-0170,D34,Ballari,19,66
+SYN-PS-0170,D34,Ballari,20,66
+SYN-PS-0170,D34,Ballari,21,61
+SYN-PS-0170,D34,Ballari,22,55
+SYN-PS-0170,D34,Ballari,23,50
+SYN-PS-0171,D34,Ballari,0,45
+SYN-PS-0171,D34,Ballari,1,40
+SYN-PS-0171,D34,Ballari,2,35
+SYN-PS-0171,D34,Ballari,3,25
+SYN-PS-0171,D34,Ballari,4,20
+SYN-PS-0171,D34,Ballari,5,15
+SYN-PS-0171,D34,Ballari,6,15
+SYN-PS-0171,D34,Ballari,7,20
+SYN-PS-0171,D34,Ballari,8,25
+SYN-PS-0171,D34,Ballari,9,30
+SYN-PS-0171,D34,Ballari,10,30
+SYN-PS-0171,D34,Ballari,11,30
+SYN-PS-0171,D34,Ballari,12,30
+SYN-PS-0171,D34,Ballari,13,30
+SYN-PS-0171,D34,Ballari,14,30
+SYN-PS-0171,D34,Ballari,15,35
+SYN-PS-0171,D34,Ballari,16,40
+SYN-PS-0171,D34,Ballari,17,45
+SYN-PS-0171,D34,Ballari,18,56
+SYN-PS-0171,D34,Ballari,19,61
+SYN-PS-0171,D34,Ballari,20,61
+SYN-PS-0171,D34,Ballari,21,56
+SYN-PS-0171,D34,Ballari,22,50
+SYN-PS-0171,D34,Ballari,23,45
+SYN-PS-0172,D34,Ballari,0,55
+SYN-PS-0172,D34,Ballari,1,49
+SYN-PS-0172,D34,Ballari,2,42
+SYN-PS-0172,D34,Ballari,3,30
+SYN-PS-0172,D34,Ballari,4,24
+SYN-PS-0172,D34,Ballari,5,18
+SYN-PS-0172,D34,Ballari,6,18
+SYN-PS-0172,D34,Ballari,7,24
+SYN-PS-0172,D34,Ballari,8,30
+SYN-PS-0172,D34,Ballari,9,36
+SYN-PS-0172,D34,Ballari,10,36
+SYN-PS-0172,D34,Ballari,11,36
+SYN-PS-0172,D34,Ballari,12,36
+SYN-PS-0172,D34,Ballari,13,36
+SYN-PS-0172,D34,Ballari,14,36
+SYN-PS-0172,D34,Ballari,15,42
+SYN-PS-0172,D34,Ballari,16,48
+SYN-PS-0172,D34,Ballari,17,54
+SYN-PS-0172,D34,Ballari,18,67
+SYN-PS-0172,D34,Ballari,19,73
+SYN-PS-0172,D34,Ballari,20,73
+SYN-PS-0172,D34,Ballari,21,67
+SYN-PS-0172,D34,Ballari,22,61
+SYN-PS-0172,D34,Ballari,23,55
+SYN-PS-0173,D35,Koppal,0,46
+SYN-PS-0173,D35,Koppal,1,41
+SYN-PS-0173,D35,Koppal,2,36
+SYN-PS-0173,D35,Koppal,3,26
+SYN-PS-0173,D35,Koppal,4,21
+SYN-PS-0173,D35,Koppal,5,16
+SYN-PS-0173,D35,Koppal,6,15
+SYN-PS-0173,D35,Koppal,7,20
+SYN-PS-0173,D35,Koppal,8,25
+SYN-PS-0173,D35,Koppal,9,30
+SYN-PS-0173,D35,Koppal,10,30
+SYN-PS-0173,D35,Koppal,11,30
+SYN-PS-0173,D35,Koppal,12,30
+SYN-PS-0173,D35,Koppal,13,30
+SYN-PS-0173,D35,Koppal,14,30
+SYN-PS-0173,D35,Koppal,15,35
+SYN-PS-0173,D35,Koppal,16,40
+SYN-PS-0173,D35,Koppal,17,45
+SYN-PS-0173,D35,Koppal,18,56
+SYN-PS-0173,D35,Koppal,19,61
+SYN-PS-0173,D35,Koppal,20,61
+SYN-PS-0173,D35,Koppal,21,56
+SYN-PS-0173,D35,Koppal,22,51
+SYN-PS-0173,D35,Koppal,23,46
+SYN-PS-0174,D35,Koppal,0,50
+SYN-PS-0174,D35,Koppal,1,44
+SYN-PS-0174,D35,Koppal,2,39
+SYN-PS-0174,D35,Koppal,3,28
+SYN-PS-0174,D35,Koppal,4,22
+SYN-PS-0174,D35,Koppal,5,17
+SYN-PS-0174,D35,Koppal,6,17
+SYN-PS-0174,D35,Koppal,7,21
+SYN-PS-0174,D35,Koppal,8,27
+SYN-PS-0174,D35,Koppal,9,32
+SYN-PS-0174,D35,Koppal,10,32
+SYN-PS-0174,D35,Koppal,11,32
+SYN-PS-0174,D35,Koppal,12,32
+SYN-PS-0174,D35,Koppal,13,32
+SYN-PS-0174,D35,Koppal,14,32
+SYN-PS-0174,D35,Koppal,15,38
+SYN-PS-0174,D35,Koppal,16,43
+SYN-PS-0174,D35,Koppal,17,49
+SYN-PS-0174,D35,Koppal,18,61
+SYN-PS-0174,D35,Koppal,19,66
+SYN-PS-0174,D35,Koppal,20,66
+SYN-PS-0174,D35,Koppal,21,61
+SYN-PS-0174,D35,Koppal,22,55
+SYN-PS-0174,D35,Koppal,23,50
+SYN-PS-0175,D35,Koppal,0,15
+SYN-PS-0175,D35,Koppal,1,14
+SYN-PS-0175,D35,Koppal,2,12
+SYN-PS-0175,D35,Koppal,3,9
+SYN-PS-0175,D35,Koppal,4,7
+SYN-PS-0175,D35,Koppal,5,5
+SYN-PS-0175,D35,Koppal,6,5
+SYN-PS-0175,D35,Koppal,7,7
+SYN-PS-0175,D35,Koppal,8,8
+SYN-PS-0175,D35,Koppal,9,9
+SYN-PS-0175,D35,Koppal,10,9
+SYN-PS-0175,D35,Koppal,11,9
+SYN-PS-0175,D35,Koppal,12,9
+SYN-PS-0175,D35,Koppal,13,9
+SYN-PS-0175,D35,Koppal,14,9
+SYN-PS-0175,D35,Koppal,15,11
+SYN-PS-0175,D35,Koppal,16,13
+SYN-PS-0175,D35,Koppal,17,14
+SYN-PS-0175,D35,Koppal,18,19
+SYN-PS-0175,D35,Koppal,19,20
+SYN-PS-0175,D35,Koppal,20,20
+SYN-PS-0175,D35,Koppal,21,19
+SYN-PS-0175,D35,Koppal,22,17
+SYN-PS-0175,D35,Koppal,23,15
+SYN-PS-0176,D35,Koppal,0,57
+SYN-PS-0176,D35,Koppal,1,51
+SYN-PS-0176,D35,Koppal,2,45
+SYN-PS-0176,D35,Koppal,3,32
+SYN-PS-0176,D35,Koppal,4,26
+SYN-PS-0176,D35,Koppal,5,19
+SYN-PS-0176,D35,Koppal,6,19
+SYN-PS-0176,D35,Koppal,7,26
+SYN-PS-0176,D35,Koppal,8,32
+SYN-PS-0176,D35,Koppal,9,38
+SYN-PS-0176,D35,Koppal,10,37
+SYN-PS-0176,D35,Koppal,11,37
+SYN-PS-0176,D35,Koppal,12,37
+SYN-PS-0176,D35,Koppal,13,37
+SYN-PS-0176,D35,Koppal,14,37
+SYN-PS-0176,D35,Koppal,15,44
+SYN-PS-0176,D35,Koppal,16,50
+SYN-PS-0176,D35,Koppal,17,56
+SYN-PS-0176,D35,Koppal,18,70
+SYN-PS-0176,D35,Koppal,19,76
+SYN-PS-0176,D35,Koppal,20,76
+SYN-PS-0176,D35,Koppal,21,70
+SYN-PS-0176,D35,Koppal,22,64
+SYN-PS-0176,D35,Koppal,23,57
+SYN-PS-0177,D36,Raichur,0,40
+SYN-PS-0177,D36,Raichur,1,35
+SYN-PS-0177,D36,Raichur,2,30
+SYN-PS-0177,D36,Raichur,3,21
+SYN-PS-0177,D36,Raichur,4,17
+SYN-PS-0177,D36,Raichur,5,13
+SYN-PS-0177,D36,Raichur,6,13
+SYN-PS-0177,D36,Raichur,7,17
+SYN-PS-0177,D36,Raichur,8,21
+SYN-PS-0177,D36,Raichur,9,26
+SYN-PS-0177,D36,Raichur,10,26
+SYN-PS-0177,D36,Raichur,11,26
+SYN-PS-0177,D36,Raichur,12,26
+SYN-PS-0177,D36,Raichur,13,26
+SYN-PS-0177,D36,Raichur,14,26
+SYN-PS-0177,D36,Raichur,15,30
+SYN-PS-0177,D36,Raichur,16,34
+SYN-PS-0177,D36,Raichur,17,39
+SYN-PS-0177,D36,Raichur,18,48
+SYN-PS-0177,D36,Raichur,19,53
+SYN-PS-0177,D36,Raichur,20,53
+SYN-PS-0177,D36,Raichur,21,48
+SYN-PS-0177,D36,Raichur,22,44
+SYN-PS-0177,D36,Raichur,23,40
+SYN-PS-0178,D36,Raichur,0,26
+SYN-PS-0178,D36,Raichur,1,23
+SYN-PS-0178,D36,Raichur,2,20
+SYN-PS-0178,D36,Raichur,3,15
+SYN-PS-0178,D36,Raichur,4,12
+SYN-PS-0178,D36,Raichur,5,9
+SYN-PS-0178,D36,Raichur,6,9
+SYN-PS-0178,D36,Raichur,7,11
+SYN-PS-0178,D36,Raichur,8,14
+SYN-PS-0178,D36,Raichur,9,16
+SYN-PS-0178,D36,Raichur,10,16
+SYN-PS-0178,D36,Raichur,11,16
+SYN-PS-0178,D36,Raichur,12,16
+SYN-PS-0178,D36,Raichur,13,16
+SYN-PS-0178,D36,Raichur,14,16
+SYN-PS-0178,D36,Raichur,15,19
+SYN-PS-0178,D36,Raichur,16,22
+SYN-PS-0178,D36,Raichur,17,25
+SYN-PS-0178,D36,Raichur,18,32
+SYN-PS-0178,D36,Raichur,19,34
+SYN-PS-0178,D36,Raichur,20,34
+SYN-PS-0178,D36,Raichur,21,32
+SYN-PS-0178,D36,Raichur,22,29
+SYN-PS-0178,D36,Raichur,23,26
+SYN-PS-0179,D36,Raichur,0,12
+SYN-PS-0179,D36,Raichur,1,11
+SYN-PS-0179,D36,Raichur,2,10
+SYN-PS-0179,D36,Raichur,3,7
+SYN-PS-0179,D36,Raichur,4,6
+SYN-PS-0179,D36,Raichur,5,4
+SYN-PS-0179,D36,Raichur,6,4
+SYN-PS-0179,D36,Raichur,7,6
+SYN-PS-0179,D36,Raichur,8,7
+SYN-PS-0179,D36,Raichur,9,7
+SYN-PS-0179,D36,Raichur,10,7
+SYN-PS-0179,D36,Raichur,11,7
+SYN-PS-0179,D36,Raichur,12,7
+SYN-PS-0179,D36,Raichur,13,7
+SYN-PS-0179,D36,Raichur,14,7
+SYN-PS-0179,D36,Raichur,15,9
+SYN-PS-0179,D36,Raichur,16,10
+SYN-PS-0179,D36,Raichur,17,11
+SYN-PS-0179,D36,Raichur,18,15
+SYN-PS-0179,D36,Raichur,19,16
+SYN-PS-0179,D36,Raichur,20,16
+SYN-PS-0179,D36,Raichur,21,15
+SYN-PS-0179,D36,Raichur,22,14
+SYN-PS-0179,D36,Raichur,23,12
+SYN-PS-0180,D36,Raichur,0,50
+SYN-PS-0180,D36,Raichur,1,45
+SYN-PS-0180,D36,Raichur,2,39
+SYN-PS-0180,D36,Raichur,3,27
+SYN-PS-0180,D36,Raichur,4,22
+SYN-PS-0180,D36,Raichur,5,16
+SYN-PS-0180,D36,Raichur,6,16
+SYN-PS-0180,D36,Raichur,7,22
+SYN-PS-0180,D36,Raichur,8,27
+SYN-PS-0180,D36,Raichur,9,33
+SYN-PS-0180,D36,Raichur,10,33
+SYN-PS-0180,D36,Raichur,11,33
+SYN-PS-0180,D36,Raichur,12,33
+SYN-PS-0180,D36,Raichur,13,33
+SYN-PS-0180,D36,Raichur,14,33
+SYN-PS-0180,D36,Raichur,15,38
+SYN-PS-0180,D36,Raichur,16,44
+SYN-PS-0180,D36,Raichur,17,49
+SYN-PS-0180,D36,Raichur,18,61
+SYN-PS-0180,D36,Raichur,19,67
+SYN-PS-0180,D36,Raichur,20,67
+SYN-PS-0180,D36,Raichur,21,61
+SYN-PS-0180,D36,Raichur,22,56
+SYN-PS-0180,D36,Raichur,23,50
+SYN-PS-0181,D36,Raichur,0,46
+SYN-PS-0181,D36,Raichur,1,41
+SYN-PS-0181,D36,Raichur,2,36
+SYN-PS-0181,D36,Raichur,3,26
+SYN-PS-0181,D36,Raichur,4,21
+SYN-PS-0181,D36,Raichur,5,16
+SYN-PS-0181,D36,Raichur,6,15
+SYN-PS-0181,D36,Raichur,7,20
+SYN-PS-0181,D36,Raichur,8,25
+SYN-PS-0181,D36,Raichur,9,30
+SYN-PS-0181,D36,Raichur,10,30
+SYN-PS-0181,D36,Raichur,11,30
+SYN-PS-0181,D36,Raichur,12,30
+SYN-PS-0181,D36,Raichur,13,30
+SYN-PS-0181,D36,Raichur,14,30
+SYN-PS-0181,D36,Raichur,15,35
+SYN-PS-0181,D36,Raichur,16,40
+SYN-PS-0181,D36,Raichur,17,45
+SYN-PS-0181,D36,Raichur,18,57
+SYN-PS-0181,D36,Raichur,19,62
+SYN-PS-0181,D36,Raichur,20,62
+SYN-PS-0181,D36,Raichur,21,57
+SYN-PS-0181,D36,Raichur,22,51
+SYN-PS-0181,D36,Raichur,23,46
+SYN-PS-0182,D36,Raichur,0,51
+SYN-PS-0182,D36,Raichur,1,45
+SYN-PS-0182,D36,Raichur,2,40
+SYN-PS-0182,D36,Raichur,3,28
+SYN-PS-0182,D36,Raichur,4,23
+SYN-PS-0182,D36,Raichur,5,17
+SYN-PS-0182,D36,Raichur,6,17
+SYN-PS-0182,D36,Raichur,7,22
+SYN-PS-0182,D36,Raichur,8,27
+SYN-PS-0182,D36,Raichur,9,33
+SYN-PS-0182,D36,Raichur,10,33
+SYN-PS-0182,D36,Raichur,11,33
+SYN-PS-0182,D36,Raichur,12,33
+SYN-PS-0182,D36,Raichur,13,33
+SYN-PS-0182,D36,Raichur,14,33
+SYN-PS-0182,D36,Raichur,15,39
+SYN-PS-0182,D36,Raichur,16,44
+SYN-PS-0182,D36,Raichur,17,50
+SYN-PS-0182,D36,Raichur,18,62
+SYN-PS-0182,D36,Raichur,19,68
+SYN-PS-0182,D36,Raichur,20,68
+SYN-PS-0182,D36,Raichur,21,62
+SYN-PS-0182,D36,Raichur,22,56
+SYN-PS-0182,D36,Raichur,23,51
+SYN-PS-0183,D37,Vijayanagara,0,41
+SYN-PS-0183,D37,Vijayanagara,1,36
+SYN-PS-0183,D37,Vijayanagara,2,32
+SYN-PS-0183,D37,Vijayanagara,3,23
+SYN-PS-0183,D37,Vijayanagara,4,18
+SYN-PS-0183,D37,Vijayanagara,5,14
+SYN-PS-0183,D37,Vijayanagara,6,13
+SYN-PS-0183,D37,Vijayanagara,7,17
+SYN-PS-0183,D37,Vijayanagara,8,22
+SYN-PS-0183,D37,Vijayanagara,9,26
+SYN-PS-0183,D37,Vijayanagara,10,26
+SYN-PS-0183,D37,Vijayanagara,11,26
+SYN-PS-0183,D37,Vijayanagara,12,26
+SYN-PS-0183,D37,Vijayanagara,13,26
+SYN-PS-0183,D37,Vijayanagara,14,26
+SYN-PS-0183,D37,Vijayanagara,15,31
+SYN-PS-0183,D37,Vijayanagara,16,35
+SYN-PS-0183,D37,Vijayanagara,17,40
+SYN-PS-0183,D37,Vijayanagara,18,50
+SYN-PS-0183,D37,Vijayanagara,19,54
+SYN-PS-0183,D37,Vijayanagara,20,54
+SYN-PS-0183,D37,Vijayanagara,21,50
+SYN-PS-0183,D37,Vijayanagara,22,45
+SYN-PS-0183,D37,Vijayanagara,23,41
+SYN-PS-0184,D37,Vijayanagara,0,71
+SYN-PS-0184,D37,Vijayanagara,1,63
+SYN-PS-0184,D37,Vijayanagara,2,55
+SYN-PS-0184,D37,Vijayanagara,3,40
+SYN-PS-0184,D37,Vijayanagara,4,32
+SYN-PS-0184,D37,Vijayanagara,5,24
+SYN-PS-0184,D37,Vijayanagara,6,24
+SYN-PS-0184,D37,Vijayanagara,7,31
+SYN-PS-0184,D37,Vijayanagara,8,39
+SYN-PS-0184,D37,Vijayanagara,9,46
+SYN-PS-0184,D37,Vijayanagara,10,46
+SYN-PS-0184,D37,Vijayanagara,11,46
+SYN-PS-0184,D37,Vijayanagara,12,46
+SYN-PS-0184,D37,Vijayanagara,13,46
+SYN-PS-0184,D37,Vijayanagara,14,46
+SYN-PS-0184,D37,Vijayanagara,15,54
+SYN-PS-0184,D37,Vijayanagara,16,62
+SYN-PS-0184,D37,Vijayanagara,17,70
+SYN-PS-0184,D37,Vijayanagara,18,86
+SYN-PS-0184,D37,Vijayanagara,19,94
+SYN-PS-0184,D37,Vijayanagara,20,94
+SYN-PS-0184,D37,Vijayanagara,21,86
+SYN-PS-0184,D37,Vijayanagara,22,79
+SYN-PS-0184,D37,Vijayanagara,23,71
+SYN-PS-0185,D37,Vijayanagara,0,34
+SYN-PS-0185,D37,Vijayanagara,1,31
+SYN-PS-0185,D37,Vijayanagara,2,27
+SYN-PS-0185,D37,Vijayanagara,3,18
+SYN-PS-0185,D37,Vijayanagara,4,15
+SYN-PS-0185,D37,Vijayanagara,5,11
+SYN-PS-0185,D37,Vijayanagara,6,11
+SYN-PS-0185,D37,Vijayanagara,7,15
+SYN-PS-0185,D37,Vijayanagara,8,18
+SYN-PS-0185,D37,Vijayanagara,9,22
+SYN-PS-0185,D37,Vijayanagara,10,22
+SYN-PS-0185,D37,Vijayanagara,11,22
+SYN-PS-0185,D37,Vijayanagara,12,22
+SYN-PS-0185,D37,Vijayanagara,13,22
+SYN-PS-0185,D37,Vijayanagara,14,22
+SYN-PS-0185,D37,Vijayanagara,15,26
+SYN-PS-0185,D37,Vijayanagara,16,30
+SYN-PS-0185,D37,Vijayanagara,17,33
+SYN-PS-0185,D37,Vijayanagara,18,42
+SYN-PS-0185,D37,Vijayanagara,19,46
+SYN-PS-0185,D37,Vijayanagara,20,46
+SYN-PS-0185,D37,Vijayanagara,21,42
+SYN-PS-0185,D37,Vijayanagara,22,38
+SYN-PS-0185,D37,Vijayanagara,23,34
+SYN-PS-0186,D37,Vijayanagara,0,25
+SYN-PS-0186,D37,Vijayanagara,1,23
+SYN-PS-0186,D37,Vijayanagara,2,20
+SYN-PS-0186,D37,Vijayanagara,3,13
+SYN-PS-0186,D37,Vijayanagara,4,11
+SYN-PS-0186,D37,Vijayanagara,5,8
+SYN-PS-0186,D37,Vijayanagara,6,8
+SYN-PS-0186,D37,Vijayanagara,7,11
+SYN-PS-0186,D37,Vijayanagara,8,13
+SYN-PS-0186,D37,Vijayanagara,9,16
+SYN-PS-0186,D37,Vijayanagara,10,16
+SYN-PS-0186,D37,Vijayanagara,11,16
+SYN-PS-0186,D37,Vijayanagara,12,16
+SYN-PS-0186,D37,Vijayanagara,13,16
+SYN-PS-0186,D37,Vijayanagara,14,16
+SYN-PS-0186,D37,Vijayanagara,15,19
+SYN-PS-0186,D37,Vijayanagara,16,22
+SYN-PS-0186,D37,Vijayanagara,17,24
+SYN-PS-0186,D37,Vijayanagara,18,31
+SYN-PS-0186,D37,Vijayanagara,19,34
+SYN-PS-0186,D37,Vijayanagara,20,34
+SYN-PS-0186,D37,Vijayanagara,21,31
+SYN-PS-0186,D37,Vijayanagara,22,28
+SYN-PS-0186,D37,Vijayanagara,23,25
+SYN-PS-0187,D38,Karnataka Railways,0,7
+SYN-PS-0187,D38,Karnataka Railways,1,6
+SYN-PS-0187,D38,Karnataka Railways,2,5
+SYN-PS-0187,D38,Karnataka Railways,3,4
+SYN-PS-0187,D38,Karnataka Railways,4,3
+SYN-PS-0187,D38,Karnataka Railways,5,3
+SYN-PS-0187,D38,Karnataka Railways,6,2
+SYN-PS-0187,D38,Karnataka Railways,7,2
+SYN-PS-0187,D38,Karnataka Railways,8,3
+SYN-PS-0187,D38,Karnataka Railways,9,4
+SYN-PS-0187,D38,Karnataka Railways,10,4
+SYN-PS-0187,D38,Karnataka Railways,11,4
+SYN-PS-0187,D38,Karnataka Railways,12,4
+SYN-PS-0187,D38,Karnataka Railways,13,4
+SYN-PS-0187,D38,Karnataka Railways,14,4
+SYN-PS-0187,D38,Karnataka Railways,15,4
+SYN-PS-0187,D38,Karnataka Railways,16,5
+SYN-PS-0187,D38,Karnataka Railways,17,6
+SYN-PS-0187,D38,Karnataka Railways,18,8
+SYN-PS-0187,D38,Karnataka Railways,19,9
+SYN-PS-0187,D38,Karnataka Railways,20,9
+SYN-PS-0187,D38,Karnataka Railways,21,8
+SYN-PS-0187,D38,Karnataka Railways,22,8
+SYN-PS-0187,D38,Karnataka Railways,23,7
+SYN-PS-0188,D38,Karnataka Railways,0,16
+SYN-PS-0188,D38,Karnataka Railways,1,15
+SYN-PS-0188,D38,Karnataka Railways,2,13
+SYN-PS-0188,D38,Karnataka Railways,3,9
+SYN-PS-0188,D38,Karnataka Railways,4,8
+SYN-PS-0188,D38,Karnataka Railways,5,6
+SYN-PS-0188,D38,Karnataka Railways,6,5
+SYN-PS-0188,D38,Karnataka Railways,7,7
+SYN-PS-0188,D38,Karnataka Railways,8,8
+SYN-PS-0188,D38,Karnataka Railways,9,10
+SYN-PS-0188,D38,Karnataka Railways,10,10
+SYN-PS-0188,D38,Karnataka Railways,11,10
+SYN-PS-0188,D38,Karnataka Railways,12,10
+SYN-PS-0188,D38,Karnataka Railways,13,10
+SYN-PS-0188,D38,Karnataka Railways,14,10
+SYN-PS-0188,D38,Karnataka Railways,15,12
+SYN-PS-0188,D38,Karnataka Railways,16,14
+SYN-PS-0188,D38,Karnataka Railways,17,15
+SYN-PS-0188,D38,Karnataka Railways,18,20
+SYN-PS-0188,D38,Karnataka Railways,19,22
+SYN-PS-0188,D38,Karnataka Railways,20,22
+SYN-PS-0188,D38,Karnataka Railways,21,20
+SYN-PS-0188,D38,Karnataka Railways,22,18
+SYN-PS-0188,D38,Karnataka Railways,23,16
+SYN-PS-0189,D38,Karnataka Railways,0,20
+SYN-PS-0189,D38,Karnataka Railways,1,18
+SYN-PS-0189,D38,Karnataka Railways,2,16
+SYN-PS-0189,D38,Karnataka Railways,3,11
+SYN-PS-0189,D38,Karnataka Railways,4,9
+SYN-PS-0189,D38,Karnataka Railways,5,7
+SYN-PS-0189,D38,Karnataka Railways,6,7
+SYN-PS-0189,D38,Karnataka Railways,7,8
+SYN-PS-0189,D38,Karnataka Railways,8,10
+SYN-PS-0189,D38,Karnataka Railways,9,12
+SYN-PS-0189,D38,Karnataka Railways,10,12
+SYN-PS-0189,D38,Karnataka Railways,11,12
+SYN-PS-0189,D38,Karnataka Railways,12,12
+SYN-PS-0189,D38,Karnataka Railways,13,12
+SYN-PS-0189,D38,Karnataka Railways,14,12
+SYN-PS-0189,D38,Karnataka Railways,15,15
+SYN-PS-0189,D38,Karnataka Railways,16,17
+SYN-PS-0189,D38,Karnataka Railways,17,19
+SYN-PS-0189,D38,Karnataka Railways,18,24
+SYN-PS-0189,D38,Karnataka Railways,19,26
+SYN-PS-0189,D38,Karnataka Railways,20,26
+SYN-PS-0189,D38,Karnataka Railways,21,24
+SYN-PS-0189,D38,Karnataka Railways,22,22
+SYN-PS-0189,D38,Karnataka Railways,23,20

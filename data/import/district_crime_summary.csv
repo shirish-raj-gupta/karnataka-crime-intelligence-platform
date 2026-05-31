@@ -1,0 +1,40 @@
+district_id,district,range_name,district_type,ipc_bns_crimes,sll_crimes,year
+D01,Bengaluru City,Commissionerates,Commissionerate,37181,19291,2025
+D02,Mysuru City,Commissionerates,Commissionerate,2224,1040,2025
+D03,Hubballi Dharwad City,Commissionerates,Commissionerate,1488,1160,2025
+D04,Mangaluru City,Commissionerates,Commissionerate,2278,1205,2025
+D05,Belagavi City,Commissionerates,Commissionerate,1655,652,2025
+D06,Kalaburagi City,Commissionerates,Commissionerate,1730,1010,2025
+D07,Bengaluru Dist,Central Range,District,6433,1187,2025
+D08,Bengaluru South,Central Range,District,3644,936,2025
+D09,Tumakuru,Central Range,District,5961,2509,2025
+D10,Kolar,Central Range,District,2245,505,2025
+D11,Chickballapura,Central Range,District,2542,1619,2025
+D12,K.G.F,Central Range,District,782,360,2025
+D13,Chitradurga,Eastern Range,District,4098,1740,2025
+D14,Davanagere,Eastern Range,District,3385,1386,2025
+D15,Shivamogga,Eastern Range,District,4840,2155,2025
+D16,Haveri,Eastern Range,District,2406,1155,2025
+D17,Dakshina Kannada,Western Range,District,1816,417,2025
+D18,Udupi,Western Range,District,2249,752,2025
+D19,Chikkamagaluru,Western Range,District,2722,1488,2025
+D20,Uttara Kannada,Western Range,District,2334,1596,2025
+D21,Belagavi Dist,Northern Range,District,4535,2059,2025
+D22,Bagalkot,Northern Range,District,2208,1362,2025
+D23,Vijayapur,Northern Range,District,3062,1992,2025
+D24,Dharwad,Northern Range,District,1016,625,2025
+D25,Gadag,Northern Range,District,1043,1225,2025
+D26,Kalaburagi,North Eastern Range,District,2683,1025,2025
+D27,Bidar,North Eastern Range,District,3054,1172,2025
+D28,Yadgir,North Eastern Range,District,1622,1093,2025
+D29,Mysuru Dist,Southern Range,District,4952,912,2025
+D30,Mandya,Southern Range,District,4780,1150,2025
+D31,Chamarajanagar,Southern Range,District,2068,844,2025
+D32,Hassan,Southern Range,District,4781,1366,2025
+D33,Kodagu,Southern Range,District,1724,600,2025
+D34,Ballari,Ballari Range,District,1924,1961,2025
+D35,Koppal,Ballari Range,District,1945,1255,2025
+D36,Raichur,Ballari Range,District,2813,1458,2025
+D37,Vijayanagara,Ballari Range,District,1781,1467,2025
+D38,Karnataka Railways,Karnataka Railways,Railways,662,138,2025
+STATE,STATE,STATE,State Total,138666,63867,2025

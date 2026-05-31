@@ -1,0 +1,33 @@
+  # Dependencies
+node_modules/
+web/node_modules/
+functions/*/node_modules/
+
+# NOTE: client/ is the Catalyst deploy artifact (Vite build output).
+# It must NOT be ignored — Catalyst deploy respects these ignore patterns,
+# and ignoring client/ here causes assets to be skipped during deploy
+# (blank page / 404 on /assets/*). Keep the built client tracked.
+
+# Catalyst
+.catalyst/
+.output/
+.catalyst-cli.json
+.catalystrc
+catalyst-debug.log
+**/catalyst-debug.log
+
+# Build artifacts
+*.zip
+
+# Private submission notes (local only — not for public repo)
+docs/SUBMISSION.md
+
+# Logs / env
+*.log
+.env
+.env.local
+*.local.json
+
+# OS
+.DS_Store
+Thumbs.db

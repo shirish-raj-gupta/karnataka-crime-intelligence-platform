@@ -1,0 +1,53 @@
+victim_group,crime_type,is_total,count,year
+Women,Rape (Sec. 376 IPC),False,0,2025
+Children,Infanticide/ Foeticide (Sec. 315 & 316 IPC),False,5,2025
+SC/ST,Murder,False,94,2025
+Women,1.1 Custodial Rape,False,0,2025
+Children,Rape on Minor,False,0,2025
+SC/ST,Rape,False,113,2025
+Women,1.2 Gang Rape,False,16,2025
+Children,Exposure & abandonment (Sec. 317 IPC),False,65,2025
+SC/ST,Kidnapping,False,182,2025
+Women,1.3 other Cases of Rape,False,640,2025
+Children,Kidnapping & Abduction of Children,False,3886,2025
+SC/ST,Offences under the Protection of Civil Rights Act.,False,9,2025
+Women,Sub Total,True,656,2025
+Children,For Ransom - of Children,False,8,2025
+SC/ST,Offences under the SC & ST (prevention of Atrocities)Act 1989 (if the victim is SC),False,2013,2025
+Women,Outraging modesty (Molestation) (sec.354 IPC),False,5840,2025
+Children,of Children - for begging,False,0,2025
+SC/ST,Total (Item 1 to 5),True,2411,2025
+Women,Kidnapping & Abduction of Women: (Sec.366 IPC),False,124,2025
+Children,of Girls - Immoral Purpose,False,0,2025
+Women,Insulting modesty (Eve-Teasing) (Sec.294 & 509 IPC if victim is a woman),False,403,2025
+Children,With intent to Steal from Child,False,0,2025
+Women,Murder for Dowry - by burning (Sec.302 IPC),False,1,2025
+Children,Lawful Guardianship,False,4,2025
+Women,Murder for Dowry - by other means (Sec.302 IPC),False,7,2025
+Children,Procuration of Minor Girls - For Prostitution,False,1,2025
+Women,Murder for other reasons,False,372,2025
+Children,Procuration of Minor Girls - Importing of Girl,False,0,2025
+Women,Attempt to Commit Murder for dowry by burning (Sec.307 IPC),False,2,2025
+Children,Procuration of Minor Girls - For Other Purposes,False,15,2025
+Women,Attempt to Commit Murder for dowry by other means (Sec.307 IPC),False,20,2025
+Children,Sub Total,True,3914,2025
+Women,Attempt to Commit murder for other reasons,False,978,2025
+Children,Selling of girls for Prostitution (Sec.372 IPC),False,0,2025
+Women,Dowry Death-by burning (Sec.304-B IPC),False,1,2025
+Children,The Prohibition of Child Marriage Act - 2006,False,197,2025
+Women,Dowry Death-by other Means (Sec.304(B) IPC),False,115,2025
+Children,POCSO Act,False,4555,2025
+Women,Cruelty by Husband or Relatives of Husband (Sec.498-A IPC),False,2830,2025
+Children,Death of Children due to miscarriage,False,15,2025
+Women,Abetment of Suicide (Sec.306 IPC),False,181,2025
+Children,Juvenile Justice Act,False,151,2025
+Women,Immoral Traffic (prevention) Act.,False,316,2025
+Children,Child Labour (Pro.& Reg.) Act,False,78,2025
+Women,Indecent Representation of Women(Prohibition) Act-1986,False,1,2025
+Children,Probation of Offenders Act,False,0,2025
+Women,Pornography,False,4,2025
+Children,Total (Item 1 to 11),True,8980,2025
+Women,Offences against Public Servants (Sec.182-188-333-353 IPC),False,146,2025
+Women,Offences related to Marriage,False,28,2025
+Women,Cyber Crimes,False,4345,2025
+Women,Total (Item 1 to 20),True,16370,2025

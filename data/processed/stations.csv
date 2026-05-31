@@ -1,0 +1,190 @@
+station_id,station_name,district_id,district,range_name,latitude,longitude,total_crimes,synthetic
+SYN-PS-0001,Bengaluru City City PS,D01,Bengaluru City,Commissionerates,12.9414,77.6955,1978,true
+SYN-PS-0002,Bengaluru City Rural PS,D01,Bengaluru City,Commissionerates,13.0798,77.7635,4485,true
+SYN-PS-0003,Bengaluru City North PS,D01,Bengaluru City,Commissionerates,13.0644,77.5681,960,true
+SYN-PS-0004,Bengaluru City East PS,D01,Bengaluru City,Commissionerates,12.9707,77.5378,1982,true
+SYN-PS-0005,Bengaluru City Town PS,D01,Bengaluru City,Commissionerates,13.0611,77.5008,8376,true
+SYN-PS-0006,Bengaluru City Central PS,D01,Bengaluru City,Commissionerates,13.0395,77.6024,5728,true
+SYN-PS-0007,Bengaluru City West PS,D01,Bengaluru City,Commissionerates,13.1512,77.4474,9780,true
+SYN-PS-0008,Bengaluru City Extension PS,D01,Bengaluru City,Commissionerates,12.8194,77.6986,3802,true
+SYN-PS-0009,Bengaluru City South PS,D01,Bengaluru City,Commissionerates,13.0068,77.6442,1160,true
+SYN-PS-0010,Bengaluru City Cantonment PS,D01,Bengaluru City,Commissionerates,13.0732,77.7072,2711,true
+SYN-PS-0011,Bengaluru City Industrial PS,D01,Bengaluru City,Commissionerates,13.0216,77.723,8947,true
+SYN-PS-0012,Bengaluru City Market PS,D01,Bengaluru City,Commissionerates,12.8392,77.4568,6563,true
+SYN-PS-0013,Mysuru City Industrial PS,D02,Mysuru City,Commissionerates,12.2431,76.6484,1340,true
+SYN-PS-0014,Mysuru City West PS,D02,Mysuru City,Commissionerates,12.1349,76.7488,342,true
+SYN-PS-0015,Mysuru City Rural PS,D02,Mysuru City,Commissionerates,12.4548,76.7514,398,true
+SYN-PS-0016,Mysuru City Town PS,D02,Mysuru City,Commissionerates,12.2042,76.786,1184,true
+SYN-PS-0017,Hubballi Dharwad City Industrial PS,D03,Hubballi Dharwad City,Commissionerates,15.4677,75.1578,1621,true
+SYN-PS-0018,Hubballi Dharwad City City PS,D03,Hubballi Dharwad City,Commissionerates,15.2064,75.1318,351,true
+SYN-PS-0019,Hubballi Dharwad City Town PS,D03,Hubballi Dharwad City,Commissionerates,15.3371,75.0243,280,true
+SYN-PS-0020,Hubballi Dharwad City Central PS,D03,Hubballi Dharwad City,Commissionerates,15.2945,75.1187,396,true
+SYN-PS-0021,Mangaluru City City PS,D04,Mangaluru City,Commissionerates,12.7443,74.9805,666,true
+SYN-PS-0022,Mangaluru City North PS,D04,Mangaluru City,Commissionerates,12.7837,74.7714,1111,true
+SYN-PS-0023,Mangaluru City East PS,D04,Mangaluru City,Commissionerates,12.8532,74.7378,1327,true
+SYN-PS-0024,Mangaluru City Town PS,D04,Mangaluru City,Commissionerates,12.7155,74.7902,379,true
+SYN-PS-0025,Belagavi City City PS,D05,Belagavi City,Commissionerates,15.9322,74.6902,1338,true
+SYN-PS-0026,Belagavi City Extension PS,D05,Belagavi City,Commissionerates,15.6639,74.352,215,true
+SYN-PS-0027,Belagavi City Central PS,D05,Belagavi City,Commissionerates,15.6817,74.5719,476,true
+SYN-PS-0028,Belagavi City Cantonment PS,D05,Belagavi City,Commissionerates,15.8973,74.5797,278,true
+SYN-PS-0029,Kalaburagi City East PS,D06,Kalaburagi City,Commissionerates,17.2968,76.6935,318,true
+SYN-PS-0030,Kalaburagi City Town PS,D06,Kalaburagi City,Commissionerates,17.4035,76.953,1525,true
+SYN-PS-0031,Kalaburagi City Cantonment PS,D06,Kalaburagi City,Commissionerates,17.3312,76.7787,240,true
+SYN-PS-0032,Kalaburagi City South PS,D06,Kalaburagi City,Commissionerates,17.453,77.0029,657,true
+SYN-PS-0033,Bengaluru Dist West PS,D07,Bengaluru Dist,Central Range,13.0162,77.4122,338,true
+SYN-PS-0034,Bengaluru Dist City PS,D07,Bengaluru Dist,Central Range,12.9527,77.3176,1903,true
+SYN-PS-0035,Bengaluru Dist North PS,D07,Bengaluru Dist,Central Range,12.801,77.359,2975,true
+SYN-PS-0036,Bengaluru Dist Central PS,D07,Bengaluru Dist,Central Range,13.044,77.6486,1102,true
+SYN-PS-0037,Bengaluru Dist East PS,D07,Bengaluru Dist,Central Range,12.8593,77.6315,869,true
+SYN-PS-0038,Bengaluru Dist Market PS,D07,Bengaluru Dist,Central Range,12.8607,77.3172,433,true
+SYN-PS-0039,Bengaluru South South PS,D08,Bengaluru South,Central Range,12.6826,77.6582,396,true
+SYN-PS-0040,Bengaluru South North PS,D08,Bengaluru South,Central Range,12.6818,77.7049,1545,true
+SYN-PS-0041,Bengaluru South Extension PS,D08,Bengaluru South,Central Range,12.8151,77.6866,194,true
+SYN-PS-0042,Bengaluru South Town PS,D08,Bengaluru South,Central Range,12.673,77.6043,1729,true
+SYN-PS-0043,Bengaluru South Cantonment PS,D08,Bengaluru South,Central Range,12.7687,77.683,275,true
+SYN-PS-0044,Bengaluru South West PS,D08,Bengaluru South,Central Range,12.8158,77.5125,441,true
+SYN-PS-0045,Tumakuru North PS,D09,Tumakuru,Central Range,13.1522,77.2013,588,true
+SYN-PS-0046,Tumakuru East PS,D09,Tumakuru,Central Range,13.4201,77.1227,317,true
+SYN-PS-0047,Tumakuru Town PS,D09,Tumakuru,Central Range,13.2158,77.0179,759,true
+SYN-PS-0048,Tumakuru Rural PS,D09,Tumakuru,Central Range,13.2213,77.0791,1760,true
+SYN-PS-0049,Tumakuru City PS,D09,Tumakuru,Central Range,13.4932,77.2427,335,true
+SYN-PS-0050,Tumakuru Extension PS,D09,Tumakuru,Central Range,13.378,76.9692,853,true
+SYN-PS-0051,Tumakuru Cantonment PS,D09,Tumakuru,Central Range,13.4791,77.0962,1876,true
+SYN-PS-0052,Tumakuru Market PS,D09,Tumakuru,Central Range,13.1597,76.9965,1982,true
+SYN-PS-0053,Kolar Extension PS,D10,Kolar,Central Range,12.9601,78.1995,409,true
+SYN-PS-0054,Kolar North PS,D10,Kolar,Central Range,13.2857,78.1752,394,true
+SYN-PS-0055,Kolar South PS,D10,Kolar,Central Range,13.0327,78.214,855,true
+SYN-PS-0056,Kolar Industrial PS,D10,Kolar,Central Range,12.9404,78.2107,1092,true
+SYN-PS-0057,Chickballapura City PS,D11,Chickballapura,Central Range,13.3425,77.7272,1171,true
+SYN-PS-0058,Chickballapura Market PS,D11,Chickballapura,Central Range,13.4636,77.8292,685,true
+SYN-PS-0059,Chickballapura Extension PS,D11,Chickballapura,Central Range,13.4338,77.8957,957,true
+SYN-PS-0060,Chickballapura Town PS,D11,Chickballapura,Central Range,13.6309,77.615,374,true
+SYN-PS-0061,Chickballapura South PS,D11,Chickballapura,Central Range,13.252,77.9182,707,true
+SYN-PS-0062,Chickballapura North PS,D11,Chickballapura,Central Range,13.4951,77.7908,267,true
+SYN-PS-0063,K.G.F Extension PS,D12,K.G.F,Central Range,12.8241,78.4408,750,true
+SYN-PS-0064,K.G.F Rural PS,D12,K.G.F,Central Range,13.1509,78.0934,152,true
+SYN-PS-0065,K.G.F City PS,D12,K.G.F,Central Range,13.0902,78.3022,240,true
+SYN-PS-0066,Chitradurga South PS,D13,Chitradurga,Eastern Range,14.0702,76.4108,1944,true
+SYN-PS-0067,Chitradurga City PS,D13,Chitradurga,Eastern Range,14.0843,76.4122,318,true
+SYN-PS-0068,Chitradurga Industrial PS,D13,Chitradurga,Eastern Range,14.1132,76.5954,1050,true
+SYN-PS-0069,Chitradurga Rural PS,D13,Chitradurga,Eastern Range,14.07,76.5232,657,true
+SYN-PS-0070,Chitradurga East PS,D13,Chitradurga,Eastern Range,14.0863,76.3517,211,true
+SYN-PS-0071,Chitradurga Central PS,D13,Chitradurga,Eastern Range,14.2113,76.4045,1658,true
+SYN-PS-0072,Davanagere Central PS,D14,Davanagere,Eastern Range,14.6631,75.8072,339,true
+SYN-PS-0073,Davanagere Town PS,D14,Davanagere,Eastern Range,14.3396,76.0615,399,true
+SYN-PS-0074,Davanagere City PS,D14,Davanagere,Eastern Range,14.398,75.9989,317,true
+SYN-PS-0075,Davanagere East PS,D14,Davanagere,Eastern Range,14.3747,76.0738,1552,true
+SYN-PS-0076,Davanagere West PS,D14,Davanagere,Eastern Range,14.6567,75.78,1402,true
+SYN-PS-0077,Davanagere Extension PS,D14,Davanagere,Eastern Range,14.5131,75.7946,762,true
+SYN-PS-0078,Shivamogga Industrial PS,D15,Shivamogga,Eastern Range,13.9387,75.6423,1356,true
+SYN-PS-0079,Shivamogga East PS,D15,Shivamogga,Eastern Range,13.9836,75.6828,2128,true
+SYN-PS-0080,Shivamogga City PS,D15,Shivamogga,Eastern Range,13.8808,75.6661,1662,true
+SYN-PS-0081,Shivamogga Extension PS,D15,Shivamogga,Eastern Range,13.8228,75.4666,227,true
+SYN-PS-0082,Shivamogga West PS,D15,Shivamogga,Eastern Range,13.8022,75.4162,956,true
+SYN-PS-0083,Shivamogga Cantonment PS,D15,Shivamogga,Eastern Range,13.7841,75.5955,666,true
+SYN-PS-0084,Haveri Rural PS,D16,Haveri,Eastern Range,14.596,75.5471,930,true
+SYN-PS-0085,Haveri Industrial PS,D16,Haveri,Eastern Range,14.8113,75.5778,1671,true
+SYN-PS-0086,Haveri West PS,D16,Haveri,Eastern Range,14.8578,75.2236,210,true
+SYN-PS-0087,Haveri Town PS,D16,Haveri,Eastern Range,14.7461,75.4596,750,true
+SYN-PS-0088,Dakshina Kannada South PS,D17,Dakshina Kannada,Western Range,12.7394,75.1966,572,true
+SYN-PS-0089,Dakshina Kannada Town PS,D17,Dakshina Kannada,Western Range,12.8634,75.2586,307,true
+SYN-PS-0090,Dakshina Kannada North PS,D17,Dakshina Kannada,Western Range,13.0594,75.3881,664,true
+SYN-PS-0091,Dakshina Kannada Industrial PS,D17,Dakshina Kannada,Western Range,12.6884,75.2926,690,true
+SYN-PS-0092,Udupi Extension PS,D18,Udupi,Western Range,13.2043,74.5812,1118,true
+SYN-PS-0093,Udupi Market PS,D18,Udupi,Western Range,13.4728,74.9128,853,true
+SYN-PS-0094,Udupi Central PS,D18,Udupi,Western Range,13.1766,74.8541,170,true
+SYN-PS-0095,Udupi Town PS,D18,Udupi,Western Range,13.5003,74.7773,860,true
+SYN-PS-0096,Chikkamagaluru West PS,D19,Chikkamagaluru,Western Range,13.1253,75.9478,971,true
+SYN-PS-0097,Chikkamagaluru Town PS,D19,Chikkamagaluru,Western Range,13.2455,75.7876,397,true
+SYN-PS-0098,Chikkamagaluru East PS,D19,Chikkamagaluru,Western Range,13.4367,75.9082,573,true
+SYN-PS-0099,Chikkamagaluru Market PS,D19,Chikkamagaluru,Western Range,13.4077,75.8162,493,true
+SYN-PS-0100,Chikkamagaluru City PS,D19,Chikkamagaluru,Western Range,13.1648,75.8177,551,true
+SYN-PS-0101,Chikkamagaluru Central PS,D19,Chikkamagaluru,Western Range,13.2599,75.8069,1225,true
+SYN-PS-0102,Uttara Kannada Market PS,D20,Uttara Kannada,Western Range,14.4246,75.0129,520,true
+SYN-PS-0103,Uttara Kannada Town PS,D20,Uttara Kannada,Western Range,14.6441,74.8198,1153,true
+SYN-PS-0104,Uttara Kannada Rural PS,D20,Uttara Kannada,Western Range,14.4224,74.757,1187,true
+SYN-PS-0105,Uttara Kannada South PS,D20,Uttara Kannada,Western Range,14.5938,74.8697,1070,true
+SYN-PS-0106,Belagavi Dist Rural PS,D21,Belagavi Dist,Northern Range,15.6589,74.6659,1061,true
+SYN-PS-0107,Belagavi Dist Industrial PS,D21,Belagavi Dist,Northern Range,15.8859,74.4055,2366,true
+SYN-PS-0108,Belagavi Dist Town PS,D21,Belagavi Dist,Northern Range,15.886,74.5661,411,true
+SYN-PS-0109,Belagavi Dist Extension PS,D21,Belagavi Dist,Northern Range,15.995,74.5734,1619,true
+SYN-PS-0110,Belagavi Dist City PS,D21,Belagavi Dist,Northern Range,15.7733,74.6315,631,true
+SYN-PS-0111,Belagavi Dist South PS,D21,Belagavi Dist,Northern Range,16.0276,74.65,506,true
+SYN-PS-0112,Bagalkot Extension PS,D22,Bagalkot,Northern Range,16.312,75.7178,1394,true
+SYN-PS-0113,Bagalkot Central PS,D22,Bagalkot,Northern Range,16.19,75.5256,685,true
+SYN-PS-0114,Bagalkot Rural PS,D22,Bagalkot,Northern Range,16.1165,75.7176,857,true
+SYN-PS-0115,Bagalkot North PS,D22,Bagalkot,Northern Range,16.24,75.8392,634,true
+SYN-PS-0116,Vijayapur Town PS,D23,Vijayapur,Northern Range,16.7249,75.8475,796,true
+SYN-PS-0117,Vijayapur Cantonment PS,D23,Vijayapur,Northern Range,16.7677,75.5695,417,true
+SYN-PS-0118,Vijayapur Industrial PS,D23,Vijayapur,Northern Range,16.6848,75.8562,1656,true
+SYN-PS-0119,Vijayapur Central PS,D23,Vijayapur,Northern Range,16.6644,75.5696,1341,true
+SYN-PS-0120,Vijayapur Rural PS,D23,Vijayapur,Northern Range,16.6463,75.679,572,true
+SYN-PS-0121,Vijayapur Market PS,D23,Vijayapur,Northern Range,16.6988,75.7171,272,true
+SYN-PS-0122,Dharwad North PS,D24,Dharwad,Northern Range,15.3972,74.9617,668,true
+SYN-PS-0123,Dharwad Extension PS,D24,Dharwad,Northern Range,15.2702,75.1964,622,true
+SYN-PS-0124,Dharwad City PS,D24,Dharwad,Northern Range,15.3791,74.9107,351,true
+SYN-PS-0125,Gadag West PS,D25,Gadag,Northern Range,15.395,75.6809,565,true
+SYN-PS-0126,Gadag City PS,D25,Gadag,Northern Range,15.4701,75.7335,606,true
+SYN-PS-0127,Gadag Industrial PS,D25,Gadag,Northern Range,15.39,75.7814,895,true
+SYN-PS-0128,Gadag Market PS,D25,Gadag,Northern Range,15.2859,75.7666,202,true
+SYN-PS-0129,Kalaburagi Industrial PS,D26,Kalaburagi,North Eastern Range,17.3035,77.0034,233,true
+SYN-PS-0130,Kalaburagi Extension PS,D26,Kalaburagi,North Eastern Range,17.3122,76.7496,1159,true
+SYN-PS-0131,Kalaburagi Market PS,D26,Kalaburagi,North Eastern Range,17.5291,76.8463,591,true
+SYN-PS-0132,Kalaburagi South PS,D26,Kalaburagi,North Eastern Range,17.3606,76.672,1725,true
+SYN-PS-0133,Bidar Extension PS,D27,Bidar,North Eastern Range,18.0344,77.502,323,true
+SYN-PS-0134,Bidar Central PS,D27,Bidar,North Eastern Range,18.1117,77.3534,1053,true
+SYN-PS-0135,Bidar North PS,D27,Bidar,North Eastern Range,18.087,77.629,500,true
+SYN-PS-0136,Bidar Cantonment PS,D27,Bidar,North Eastern Range,18.0761,77.7214,260,true
+SYN-PS-0137,Bidar West PS,D27,Bidar,North Eastern Range,17.905,77.4765,1672,true
+SYN-PS-0138,Bidar Rural PS,D27,Bidar,North Eastern Range,17.7814,77.4955,418,true
+SYN-PS-0139,Yadgir West PS,D28,Yadgir,North Eastern Range,16.9368,77.1723,1543,true
+SYN-PS-0140,Yadgir North PS,D28,Yadgir,North Eastern Range,16.8596,77.0362,407,true
+SYN-PS-0141,Yadgir Rural PS,D28,Yadgir,North Eastern Range,16.8827,77.1677,385,true
+SYN-PS-0142,Yadgir Extension PS,D28,Yadgir,North Eastern Range,16.7836,77.2842,380,true
+SYN-PS-0143,Mysuru Dist Central PS,D29,Mysuru Dist,Southern Range,12.2006,76.6127,1340,true
+SYN-PS-0144,Mysuru Dist City PS,D29,Mysuru Dist,Southern Range,12.1434,76.779,709,true
+SYN-PS-0145,Mysuru Dist South PS,D29,Mysuru Dist,Southern Range,12.3204,76.7501,141,true
+SYN-PS-0146,Mysuru Dist Cantonment PS,D29,Mysuru Dist,Southern Range,12.3013,76.7289,1314,true
+SYN-PS-0147,Mysuru Dist East PS,D29,Mysuru Dist,Southern Range,12.4026,76.5883,1058,true
+SYN-PS-0148,Mysuru Dist Extension PS,D29,Mysuru Dist,Southern Range,12.1794,76.5959,1302,true
+SYN-PS-0149,Mandya City PS,D30,Mandya,Southern Range,12.4171,76.9468,1993,true
+SYN-PS-0150,Mandya Rural PS,D30,Mandya,Southern Range,12.6587,76.9992,1550,true
+SYN-PS-0151,Mandya South PS,D30,Mandya,Southern Range,12.5449,76.9592,537,true
+SYN-PS-0152,Mandya East PS,D30,Mandya,Southern Range,12.4829,77.089,198,true
+SYN-PS-0153,Mandya Extension PS,D30,Mandya,Southern Range,12.4028,76.7867,1233,true
+SYN-PS-0154,Mandya Market PS,D30,Mandya,Southern Range,12.3838,76.8166,419,true
+SYN-PS-0155,Chamarajanagar Town PS,D31,Chamarajanagar,Southern Range,11.8623,76.8029,1814,true
+SYN-PS-0156,Chamarajanagar North PS,D31,Chamarajanagar,Southern Range,11.8632,76.9811,485,true
+SYN-PS-0157,Chamarajanagar Cantonment PS,D31,Chamarajanagar,Southern Range,11.8815,76.9112,376,true
+SYN-PS-0158,Chamarajanagar Industrial PS,D31,Chamarajanagar,Southern Range,12.0473,77.0326,237,true
+SYN-PS-0159,Hassan Market PS,D32,Hassan,Southern Range,12.9668,76.2824,769,true
+SYN-PS-0160,Hassan Cantonment PS,D32,Hassan,Southern Range,12.8285,76.2404,302,true
+SYN-PS-0161,Hassan North PS,D32,Hassan,Southern Range,13.0861,75.9413,380,true
+SYN-PS-0162,Hassan Rural PS,D32,Hassan,Southern Range,13.0302,75.9844,1397,true
+SYN-PS-0163,Hassan West PS,D32,Hassan,Southern Range,13.0887,76.0182,339,true
+SYN-PS-0164,Hassan Town PS,D32,Hassan,Southern Range,12.9735,76.2759,2960,true
+SYN-PS-0165,Kodagu Cantonment PS,D33,Kodagu,Southern Range,12.241,75.7043,152,true
+SYN-PS-0166,Kodagu Extension PS,D33,Kodagu,Southern Range,12.2175,75.7795,406,true
+SYN-PS-0167,Kodagu North PS,D33,Kodagu,Southern Range,12.526,75.8205,913,true
+SYN-PS-0168,Kodagu Central PS,D33,Kodagu,Southern Range,12.4025,75.8381,853,true
+SYN-PS-0169,Ballari Rural PS,D34,Ballari,Ballari Range,15.1761,76.7943,1025,true
+SYN-PS-0170,Ballari Extension PS,D34,Ballari,Ballari Range,15.2313,76.7762,945,true
+SYN-PS-0171,Ballari North PS,D34,Ballari,Ballari Range,14.9874,77.0509,869,true
+SYN-PS-0172,Ballari Market PS,D34,Ballari,Ballari Range,15.1698,77.0286,1046,true
+SYN-PS-0173,Koppal Town PS,D35,Koppal,Ballari Range,15.3736,76.2129,877,true
+SYN-PS-0174,Koppal West PS,D35,Koppal,Ballari Range,15.3769,76.0393,946,true
+SYN-PS-0175,Koppal Extension PS,D35,Koppal,Ballari Range,15.2079,76.0029,284,true
+SYN-PS-0176,Koppal Market PS,D35,Koppal,Ballari Range,15.1762,76.3369,1093,true
+SYN-PS-0177,Raichur Extension PS,D36,Raichur,Ballari Range,16.401,77.1921,752,true
+SYN-PS-0178,Raichur Rural PS,D36,Raichur,Ballari Range,16.2956,77.359,488,true
+SYN-PS-0179,Raichur South PS,D36,Raichur,Ballari Range,16.3275,77.3308,227,true
+SYN-PS-0180,Raichur Industrial PS,D36,Raichur,Ballari Range,16.1234,77.1808,955,true
+SYN-PS-0181,Raichur Town PS,D36,Raichur,Ballari Range,16.2378,77.2142,881,true
+SYN-PS-0182,Raichur Cantonment PS,D36,Raichur,Ballari Range,16.1722,77.2236,968,true
+SYN-PS-0183,Vijayanagara East PS,D37,Vijayanagara,Ballari Range,15.226,76.5041,772,true
+SYN-PS-0184,Vijayanagara Market PS,D37,Vijayanagara,Ballari Range,15.4907,76.4958,1351,true
+SYN-PS-0185,Vijayanagara Central PS,D37,Vijayanagara,Ballari Range,15.3444,76.4553,649,true
+SYN-PS-0186,Vijayanagara Town PS,D37,Vijayanagara,Ballari Range,15.2976,76.3797,476,true
+SYN-PS-0187,Karnataka Railways Central PS,D38,Karnataka Railways,Karnataka Railways,15.3157,75.7037,123,true
+SYN-PS-0188,Karnataka Railways Extension PS,D38,Karnataka Railways,Karnataka Railways,15.3293,75.8695,306,true
+SYN-PS-0189,Karnataka Railways Town PS,D38,Karnataka Railways,Karnataka Railways,15.1185,75.772,371,true

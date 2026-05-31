@@ -1,0 +1,12 @@
+{
+  "deployment": {
+    "name": "event_handler",
+    "stack": "node18",
+    "type": "event",
+    "memory": 256,
+    "env_variables": {}
+  },
+  "execution": {
+    "main": "index.js"
+  }
+}

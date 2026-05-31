@@ -1,0 +1,14 @@
+{
+  "name": "crime_api",
+  "version": "1.0.0",
+  "description": "Crime Intelligence & Analytics API for Karnataka SCRB (Catalyst Advanced I/O function)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "zcatalyst-sdk-node": "^3.3.0"
+  }
+}

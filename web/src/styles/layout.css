@@ -1,0 +1,163 @@
+/* ============================================================
+   Layout — top bar, tabs, main grid, footer.
+   ============================================================ */
+
+/* Government tricolor accent strip (saffron / white / green) */
+.gov-strip { display: flex; height: 4px; width: 100%; position: sticky; top: 0; z-index: 700; }
+.gov-strip span { flex: 1; }
+.gov-strip span:nth-child(1) { background: #ff9933; }
+.gov-strip span:nth-child(2) { background: #f4f4f4; }
+.gov-strip span:nth-child(3) { background: #138808; }
+
+.brand-logo { width: 100%; height: 100%; object-fit: contain; border-radius: 11px; background: #fff; padding: 3px; }
+
+.topbar {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 16px;
+  padding: 12px 22px;
+  background: linear-gradient(90deg, rgba(13, 19, 28, 0.92), rgba(22, 31, 44, 0.92));
+  border-bottom: 1px solid var(--line);
+  position: sticky; top: 4px; z-index: 600;
+  backdrop-filter: blur(10px);
+}
+.brand { display: flex; align-items: center; gap: 14px; min-width: 0; }
+.brand-mark {
+  font-size: 22px; color: #fff;
+  background: var(--grad-brand);
+  width: 46px; height: 46px; border-radius: 14px;
+  display: grid; place-items: center;
+  box-shadow: var(--shadow-glow);
+  flex-shrink: 0;
+  position: relative; overflow: hidden;
+}
+.brand-mark::after {
+  content: ""; position: absolute; inset: 0;
+  background: radial-gradient(circle at 30% 20%, rgba(255,255,255,0.35), transparent 55%);
+}
+.topbar h1 { font-size: 17px; margin: 0; letter-spacing: 0.2px; white-space: nowrap; }
+.subtitle { margin: 0; font-size: 12px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.topbar-right { display: flex; align-items: center; gap: 9px; flex-wrap: wrap; justify-content: flex-end; }
+
+.badge {
+  font-size: 11px; background: var(--panel-2); color: var(--muted);
+  padding: 6px 11px; border-radius: 20px; border: 1px solid var(--line);
+  display: inline-flex; align-items: center; gap: 6px;
+}
+.badge .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--ok); box-shadow: 0 0 8px var(--ok); }
+.badge.offline .dot { background: var(--danger); box-shadow: 0 0 8px var(--danger); }
+.role-pill {
+  font-size: 12px; background: rgba(79, 156, 255, 0.14); color: var(--accent);
+  padding: 6px 12px; border-radius: 20px; border: 1px solid rgba(79, 156, 255, 0.32);
+  display: inline-flex; align-items: center; gap: 7px;
+}
+.role-pill .avatar {
+  width: 18px; height: 18px; border-radius: 50%; background: var(--grad-brand);
+  display: grid; place-items: center; font-size: 10px; font-weight: 700; color: #fff;
+}
+
+/* Tabs */
+.tabs {
+  display: flex; gap: 4px; padding: 0 16px;
+  background: rgba(15, 22, 32, 0.85);
+  border-bottom: 1px solid var(--line);
+  overflow-x: auto; position: sticky; top: 75px; z-index: 500;
+  backdrop-filter: blur(10px);
+  scrollbar-width: none;
+}
+.tabs::-webkit-scrollbar { display: none; }
+.tab {
+  background: none; border: none; color: var(--muted);
+  padding: 13px 15px; font-size: 13.5px; cursor: pointer;
+  border-bottom: 2.5px solid transparent; white-space: nowrap;
+  display: inline-flex; align-items: center; gap: 8px;
+  transition: color var(--speed), border-color var(--speed);
+}
+.tab svg { opacity: 0.7; transition: opacity var(--speed); }
+.tab:hover { color: var(--text); }
+.tab:hover svg { opacity: 1; }
+.tab.active { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
+.tab.active svg { opacity: 1; }
+
+main { padding: 24px 20px 40px; max-width: 1340px; margin: 0 auto; width: 100%; flex: 1 0 auto; }
+
+.page-head { margin-bottom: 18px; animation: fade-up 0.35s ease both; }
+.page-head h2 { margin: 0; font-size: 22px; letter-spacing: -0.3px; display: flex; align-items: center; gap: 11px; }
+.page-head .page-icon {
+  width: 38px; height: 38px; border-radius: 11px; display: grid; place-items: center;
+  background: rgba(79,156,255,0.14); color: var(--accent); border: 1px solid rgba(79,156,255,0.28);
+  flex-shrink: 0;
+}
+.page-head p { margin: 6px 0 0 49px; color: var(--muted); font-size: 13px; }
+
+.grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 16px; }
+@media (max-width: 900px) { .grid-2 { grid-template-columns: 1fr; } }
+
+.footer {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 18px 22px; border-top: 1px solid var(--line);
+  color: var(--muted); font-size: 12px; flex-wrap: wrap; gap: 8px;
+  flex-shrink: 0;
+}
+.footer .footer-badge { display: inline-flex; align-items: center; gap: 7px; }
+
+/* Boot / auth screens */
+.boot-screen { display: grid; place-items: center; height: 100vh; color: var(--muted); font-size: 15px; gap: 14px; }
+.boot-screen .boot-spin { width: 30px; height: 30px; border: 3px solid var(--line); border-top-color: var(--accent); border-radius: 50%; animation: spin 0.7s linear infinite; }
+
+/* ============================================================
+   Responsive — tablet & mobile
+   ============================================================ */
+
+/* Tablet / small laptop */
+@media (max-width: 920px) {
+  main { padding: 18px 16px 36px; }
+  .topbar { padding: 10px 16px; gap: 12px; }
+  .topbar h1 { font-size: 15px; }
+  .subtitle { display: none; }
+}
+
+/* Phones (landscape) and below */
+@media (max-width: 720px) {
+  /* topbar + strip scroll away; the tab bar becomes the sticky nav */
+  .gov-strip { position: static; }
+  .topbar {
+    position: static;
+    flex-wrap: wrap;
+    padding: 10px 14px;
+    gap: 10px;
+    row-gap: 10px;
+  }
+  .brand { gap: 10px; flex: 1 1 auto; }
+  .brand-mark { width: 40px; height: 40px; border-radius: 12px; }
+  .topbar h1 { font-size: 14.5px; white-space: normal; line-height: 1.25; }
+  /* search drops to its own full-width row below the brand */
+  .topbar-right {
+    order: 3; flex-basis: 100%;
+    gap: 8px;
+    justify-content: flex-start;
+  }
+  .tabs { position: sticky; top: 0; padding: 0 10px; }
+  .tab { padding: 12px 12px; font-size: 13px; }
+
+  .page-head { gap: 10px; }
+  .page-head h2 { font-size: 19px; }
+  .page-head .page-icon { width: 33px; height: 33px; }
+  .page-head p { margin-left: 0; }
+  .page-head-right { padding-top: 0; flex-wrap: wrap; }
+
+  .footer { padding: 16px 14px; font-size: 11.5px; }
+}
+
+/* Phones (portrait) */
+@media (max-width: 480px) {
+  main { padding: 14px 12px 32px; }
+  .topbar { padding: 9px 12px; }
+  .topbar h1 { font-size: 13.5px; }
+  .brand-mark { width: 36px; height: 36px; }
+  .badge { font-size: 10px; padding: 5px 9px; }
+  .role-pill { font-size: 11px; padding: 5px 9px; }
+  /* keep avatar + role, hide the long display name to save room */
+  .role-pill .rp-name { display: none; }
+  .tab { padding: 11px 10px; font-size: 12.5px; gap: 6px; }
+  .page-head h2 { font-size: 17.5px; }
+}

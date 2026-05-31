@@ -1,0 +1,9 @@
+{
+  "name": "event_handler",
+  "version": "1.0.0",
+  "description": "Event function reacting to in-project events (Data Store inserts, Stratus uploads) via Catalyst Signals",
+  "main": "index.js",
+  "dependencies": {
+    "zcatalyst-sdk-node": "^3.4.0"
+  }
+}

@@ -1,0 +1,39 @@
+district_id,district,range_name,district_type,latitude,longitude
+D01,Bengaluru City,Commissionerates,Commissionerate,12.9716,77.5946
+D02,Mysuru City,Commissionerates,Commissionerate,12.2958,76.6394
+D03,Hubballi Dharwad City,Commissionerates,Commissionerate,15.3647,75.124
+D04,Mangaluru City,Commissionerates,Commissionerate,12.9141,74.856
+D05,Belagavi City,Commissionerates,Commissionerate,15.8497,74.4977
+D06,Kalaburagi City,Commissionerates,Commissionerate,17.3297,76.8343
+D07,Bengaluru Dist,Central Range,District,13.0,77.5
+D08,Bengaluru South,Central Range,District,12.8,77.55
+D09,Tumakuru,Central Range,District,13.3379,77.1173
+D10,Kolar,Central Range,District,13.1357,78.1326
+D11,Chickballapura,Central Range,District,13.4355,77.7315
+D12,K.G.F,Central Range,District,12.9558,78.2691
+D13,Chitradurga,Eastern Range,District,14.2251,76.398
+D14,Davanagere,Eastern Range,District,14.4644,75.9218
+D15,Shivamogga,Eastern Range,District,13.9299,75.5681
+D16,Haveri,Eastern Range,District,14.7935,75.4045
+D17,Dakshina Kannada,Western Range,District,12.8703,75.2479
+D18,Udupi,Western Range,District,13.3409,74.7421
+D19,Chikkamagaluru,Western Range,District,13.3161,75.772
+D20,Uttara Kannada,Western Range,District,14.6195,74.8354
+D21,Belagavi Dist,Northern Range,District,15.8497,74.4977
+D22,Bagalkot,Northern Range,District,16.1691,75.6615
+D23,Vijayapur,Northern Range,District,16.8302,75.71
+D24,Dharwad,Northern Range,District,15.4589,75.0078
+D25,Gadag,Northern Range,District,15.4315,75.6355
+D26,Kalaburagi,North Eastern Range,District,17.3297,76.8343
+D27,Bidar,North Eastern Range,District,17.9133,77.5301
+D28,Yadgir,North Eastern Range,District,16.77,77.1376
+D29,Mysuru Dist,Southern Range,District,12.2958,76.6394
+D30,Mandya,Southern Range,District,12.5223,76.8954
+D31,Chamarajanagar,Southern Range,District,11.9261,76.9438
+D32,Hassan,Southern Range,District,13.0073,76.0962
+D33,Kodagu,Southern Range,District,12.3375,75.8069
+D34,Ballari,Ballari Range,District,15.1394,76.9214
+D35,Koppal,Ballari Range,District,15.35,76.1543
+D36,Raichur,Ballari Range,District,16.2076,77.3463
+D37,Vijayanagara,Ballari Range,District,15.335,76.46
+D38,Karnataka Railways,Karnataka Railways,Railways,15.3173,75.7139

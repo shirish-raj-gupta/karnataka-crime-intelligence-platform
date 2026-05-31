@@ -1,0 +1,10 @@
+{
+  "name": "crime-opendata-api",
+  "version": "1.0.0",
+  "description": "Karnataka Crime Open-Data API — Catalyst AppSail managed-runtime microservice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}

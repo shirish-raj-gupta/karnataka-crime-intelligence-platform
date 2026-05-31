@@ -1,0 +1,33 @@
+{
+  "deployment": {
+    "name": "crime_api",
+    "stack": "node18",
+    "type": "advancedio",
+    "memory": 512,
+    "env_variables": {
+      "USE_DATASTORE": "true",
+      "USE_CACHE": "true",
+      "ENFORCE_AUTH": "false",
+      "ADMIN_TOKEN": "REPLACE_WITH_YOUR_ADMIN_TOKEN",
+      "ALERT_FROM_EMAIL": "noreply@example.com",
+      "ALERT_TO_EMAIL": "alerts@example.com",
+      "PUSH_RECIPIENTS": "alerts@example.com",
+      "AUDIT_ENABLED": "true",
+      "STRATUS_BUCKET": "crimeintel-reports",
+      "USE_LLM": "true",
+      "LLM_MODEL": "crm-di-qwen_text_14b-fp8-it",
+      "LLM_PROJECT_ID": "42878000000018001",
+      "LLM_CONNECTION": "quickml_conn",
+      "LLM_ORG_ID": "60072987070",
+      "LLM_DEBUG": "false",
+      "ZIA_AUTOML_MODEL_ID": "42878000000020331",
+      "ALLOWED_ORIGINS": "https://datahackathon2026-60072987070.development.catalystserverless.in,https://app.helperhome.works",
+      "RATE_LIMIT_MAX": "150",
+      "RATE_LIMIT_WINDOW_MS": "60000",
+      "MAX_BODY": "256kb"
+    }
+  },
+  "execution": {
+    "main": "index.js"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "functions": {
+    "targets": [
+      "crime_api",
+      "ingest_cron",
+      "event_handler"
+    ],
+    "ignore": [
+      ".output"
+    ],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}

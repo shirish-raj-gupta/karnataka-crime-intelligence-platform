@@ -1,0 +1,8 @@
+{
+  "name": "crimeintel",
+  "version": "0.0.1",
+  "description": "Karnataka Crime Intelligence & Analytics Platform - SCRB dashboards, hotspot maps, and conversational crime intelligence",
+  "homepage": "index.html",
+  "login_redirect": "index.html",
+  "404": "404.html"
+}
