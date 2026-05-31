@@ -28,11 +28,14 @@ function heatColor(ratio) {
 
 export default function HotspotMap() {
   const [metric, setMetric] = useState("total");
-  const [level, setLevel] = useState("district"); // district | station
+  const [level, setLevel] = useState("district"); // district | station | incidents
   const districts = useAsync(() => api.districts(), []);
   const rank = useAsync(() => api.rank(metric, "desc", 100), [metric]);
   const hot = useAsync(() => api.hotspots(metric, 1.0), [metric]);
-  const stations = useAsync(() => (level === "station" ? api.stations({ limit: 500 }) : Promise.resolve(null)), [level]);
+  const stations = useAsync(() => (level === "station" ? api.firUnits(600) : Promise.resolve(null)), [level]);
+  const incidents = useAsync(() => (level === "incidents" ? api.firHotspots(800) : Promise.resolve(null)), [level]);
+  const firSummary = useAsync(() => api.firSummary(), []);
+  const firGroups = useAsync(() => api.firGroups(10), []);
   const hourly = useAsync(() => api.stationsHourly(), []);
   const spatio = useAsync(() => api.spatiotemporal(12), []);
 
@@ -42,7 +45,11 @@ export default function HotspotMap() {
         label="Level"
         value={level}
         onChange={setLevel}
-        options={[{ value: "district", label: "District" }, { value: "station", label: "Police Station" }]}
+        options={[
+          { value: "district", label: "District" },
+          { value: "station", label: "Police Station" },
+          { value: "incidents", label: "Live Incidents" },
+        ]}
       />
       <Segmented
         label="Metric"
@@ -71,6 +78,11 @@ export default function HotspotMap() {
   const stationRows = stations.data?.results || [];
   const stMax = stationRows.length ? Math.max(...stationRows.map((s) => s.total_crimes)) : 1;
 
+  const incidentCells = incidents.data?.cells || [];
+  const incMax = incidents.data?.max_count || 1;
+  const firTotal = firSummary.data?.source?.total_firs || 0;
+  const firGeo = firSummary.data?.source?.geo_valid_firs || 0;
+
   const metricLabel = metric === "ipc_bns_crimes" ? "IPC/BNS" : metric === "sll_crimes" ? "SLL" : "Total";
 
   return (
@@ -97,10 +109,19 @@ export default function HotspotMap() {
         </div>
         <div className="kpi ok">
           <div className="kpi-top"><span className="kpi-ic"><Icon name="building" size={18} /></span></div>
-          <div className="value">{level === "station" ? fmt(stationRows.length) : fmt((districts.data || []).length)}</div>
-          <div className="label">{level === "station" ? "Police stations" : "Districts / units"}</div>
+          <div className="value">{firTotal ? fmt(firTotal) : "–"}</div>
+          <div className="label">Real FIRs analysed (2016–2024)</div>
         </div>
       </div>
+
+      {firTotal > 0 && (
+        <div className="synthetic-banner" style={{ background: "rgba(61,220,151,0.08)", borderColor: "rgba(61,220,151,0.4)", color: "#9fe7c4" }}>
+          <span className="sb-ic" style={{ color: "var(--ok)" }}><Icon name="map" size={18} /></span>
+          <span><b style={{ color: "var(--ok)" }}>Real incident-level data:</b> the <b>Live Incidents</b> and <b>Police Station</b> layers
+          plot {fmt(firGeo)} geo-tagged FIRs from {fmt(firTotal)} real Karnataka Police records (2016–2024, Apache-2.0).
+          Switch the Level control to explore actual incident coordinates.</span>
+        </div>
+      )}
 
       <Card title="Crime hotspots map" icon="map" headRight={headRight}>
         <div className="map map-pro">
@@ -138,18 +159,36 @@ export default function HotspotMap() {
                 );
               })}
 
-            {level === "station" && stationRows.map((s) => {
+            {level === "station" && stationRows.map((s, i) => {
               const ratio = s.total_crimes / stMax;
               const radius = 4 + Math.sqrt(ratio) * 18;
               const color = heatColor(ratio);
               return (
-                <CircleMarker key={s.station_id} center={[s.latitude, s.longitude]} radius={radius}
+                <CircleMarker key={i} center={[s.latitude, s.longitude]} radius={radius}
                   className="hot-marker"
                   pathOptions={{ color: "#ffffff", weight: 0.8, fillColor: color, fillOpacity: 0.7 }}>
                   <Popup className="map-pop">
-                    <div className="mp-title">{s.station_name}</div>
+                    <div className="mp-title">{s.unit}</div>
                     <div className="mp-sub">{s.district}</div>
-                    <div className="mp-row"><span>Crimes</span><b>{fmt(s.total_crimes)}</b></div>
+                    <div className="mp-row"><span>FIRs (geo-tagged)</span><b>{fmt(s.total_crimes)}</b></div>
+                    <div className="mp-bar"><span style={{ width: `${Math.min(100, ratio * 100)}%`, background: color }} /></div>
+                  </Popup>
+                </CircleMarker>
+              );
+            })}
+
+            {level === "incidents" && incidentCells.map((c, i) => {
+              const ratio = c.count / incMax;
+              const radius = 3 + Math.sqrt(ratio) * 16;
+              const color = heatColor(ratio);
+              return (
+                <CircleMarker key={i} center={[c.lat, c.lng]} radius={radius}
+                  className="hot-marker"
+                  pathOptions={{ color, weight: 0.4, fillColor: color, fillOpacity: 0.55 }}>
+                  <Popup className="map-pop">
+                    <div className="mp-title">Incident cluster</div>
+                    <div className="mp-sub">{c.lat.toFixed(2)}, {c.lng.toFixed(2)} · ~1 km cell</div>
+                    <div className="mp-row"><span>FIRs in cell</span><b>{fmt(c.count)}</b></div>
                     <div className="mp-bar"><span style={{ width: `${Math.min(100, ratio * 100)}%`, background: color }} /></div>
                   </Popup>
                 </CircleMarker>
@@ -168,8 +207,10 @@ export default function HotspotMap() {
 
         <p className="note">
           {level === "district"
-            ? "District level: bubble size and colour scale with crime volume; pulsing red zones are statistical hotspots (z ≥ 1.0). Switch to Police Station for drill-down."
-            : "Police-station drill-down (synthetic stations; totals reconcile to real district figures)."}
+            ? "District level: bubble size and colour scale with crime volume; pulsing red zones are statistical hotspots (z ≥ 1.0). Switch to Police Station or Live Incidents for real FIR drill-down."
+            : level === "station"
+              ? "Police-unit drill-down — each point is a real police station plotted at the mean coordinate of its geo-tagged FIRs (real incident data, 2016–2024)."
+              : "Live incident clusters — each circle is a ~1 km grid cell coloured by the number of real geo-tagged FIRs that occurred there (2016–2024)."}
         </p>
       </Card>
 
@@ -219,6 +260,23 @@ export default function HotspotMap() {
           )}
         </Card>
       </div>
+
+      <Card title="Crime group breakdown (real FIR records)" icon="patterns">
+        <p className="note">Actual crime-group distribution across {fmt(firTotal)} real Karnataka Police FIRs (2016–2024).</p>
+        {firGroups.loading && <Loading />}
+        {firGroups.error && <ErrorBanner message={firGroups.error} />}
+        {firGroups.data && (
+          <div className="chart-wrap tall">
+            <Bar
+              data={{
+                labels: firGroups.data.results.map((g) => g.crime_group.length > 26 ? g.crime_group.slice(0, 24) + "…" : g.crime_group),
+                datasets: [{ label: "FIRs", data: firGroups.data.results.map((g) => g.count), borderRadius: 5, backgroundColor: "#4f9cff" }],
+              }}
+              options={{ responsive: true, maintainAspectRatio: false, indexAxis: "y", plugins: { legend: { display: false } } }}
+            />
+          </div>
+        )}
+      </Card>
 
       <Card title="Spatiotemporal hotspots (where + when)" icon="alert">
         <p className="note">Top station × time-band combinations for proactive resource deployment.</p>

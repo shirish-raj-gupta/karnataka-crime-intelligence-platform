@@ -9,6 +9,7 @@ export default function RiskVulnerable() {
   const [group, setGroup] = useState("Women");
   const risk = useAsync(() => api.riskScores(15), []);
   const vuln = useAsync(() => api.vulnerable(group), [group]);
+  const outcomes = useAsync(() => api.firOutcomes(15), []);
 
   const groupControl = (
     <Segmented
@@ -65,6 +66,45 @@ export default function RiskVulnerable() {
         )}
       </Card>
       </div>
+
+      <Card title="Case outcomes — arrest & conviction rates (real FIR data)" icon="shield">
+        <p className="note">
+          Real per-district outcomes from the Karnataka Police FIR dataset (2016–2024): arrest rate
+          (arrested ÷ accused) and conviction rate (convictions ÷ charge-sheeted). A genuine
+          record-level accountability metric the aggregate review data cannot provide.
+        </p>
+        {outcomes.loading && <Loading />}
+        {outcomes.error && <ErrorBanner message={outcomes.error} />}
+        {outcomes.data && (
+          <table style={{ marginTop: 10 }}>
+            <thead>
+              <tr>
+                <th>District</th>
+                <th className="right">Incidents</th>
+                <th className="right">Accused</th>
+                <th className="right">Arrest %</th>
+                <th className="right">Conviction %</th>
+              </tr>
+            </thead>
+            <tbody>
+              {outcomes.data.results.map((r, i) => (
+                <tr key={i}>
+                  <td>{r.district}</td>
+                  <td className="right">{fmt(r.incidents)}</td>
+                  <td className="right">{fmt(r.accused)}</td>
+                  <td className="right">{r.arrest_rate_pct ?? "–"}</td>
+                  <td className="right">
+                    <span className="band" style={{
+                      background: (r.conviction_rate_pct ?? 0) < 15 ? "rgba(255,92,108,0.2)" : (r.conviction_rate_pct ?? 0) < 35 ? "rgba(255,179,71,0.2)" : "rgba(61,220,151,0.2)",
+                      color: (r.conviction_rate_pct ?? 0) < 15 ? "#ff5c6c" : (r.conviction_rate_pct ?? 0) < 35 ? "#ffb347" : "#3ddc97",
+                    }}>{r.conviction_rate_pct ?? "–"}</span>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        )}
+      </Card>
     </>
   );
 }

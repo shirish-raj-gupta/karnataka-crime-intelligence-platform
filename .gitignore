@@ -19,6 +19,9 @@ catalyst-debug.log
 # Build artifacts
 *.zip
 
+# Large raw dataset (1.67M-row FIR file, ~573MB — not for git; processed outputs are bundled)
+data/import/FIR_Details_Data.csv
+
 # Private submission notes (local only — not for public repo)
 docs/SUBMISSION.md
 

@@ -94,6 +94,12 @@ export const api = {
   },
   stationsHourly: (district) => request(`/stations/hourly${district ? `?district=${encodeURIComponent(district)}` : ""}`),
   spatiotemporal: (limit = 15) => request(`/stations/spatiotemporal?limit=${limit}`),
+  // REAL incident-level FIR analytics (1.67M FIRs, Apache-2.0 via Kaggle)
+  firSummary: () => request("/fir/summary"),
+  firHotspots: (limit = 800) => request(`/fir/hotspots?limit=${limit}`),
+  firUnits: (limit = 600) => request(`/fir/units?limit=${limit}`),
+  firGroups: (limit = 20) => request(`/fir/groups?limit=${limit}`),
+  firOutcomes: (limit = 40) => request(`/fir/outcomes?limit=${limit}`),
   // Zia Services — text analytics on case notes
   ziaAnalyzeNotes: (text) => request("/zia/analyze-notes", {
     method: "POST",

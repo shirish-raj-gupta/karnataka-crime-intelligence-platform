@@ -353,6 +353,41 @@ router.get("/stations/spatiotemporal", (req, res) => {
   } catch (e) { fail(res, 500, e.message); }
 });
 
+// --- REAL incident-level FIR analytics (1.67M FIRs, Apache-2.0 via Kaggle) ---
+const FIR = require("./lib/fir");
+
+router.get("/fir/summary", (req, res) => {
+  try { ok(res, { result: FIR.summary() }); } catch (e) { fail(res, 500, e.message); }
+});
+router.get("/fir/hotspots", async (req, res) => {
+  try {
+    const limit = Math.min(parseInt(req.query.limit, 10) || 800, 1500);
+    const { value, cached } = await CACHE.remember(req, `fir:hotspots:${limit}`, null, async () => FIR.hotspots({ limit }));
+    res.setHeader("X-Cache", cached);
+    ok(res, { result: value });
+  } catch (e) { fail(res, 500, e.message); }
+});
+router.get("/fir/units", async (req, res) => {
+  try {
+    const limit = Math.min(parseInt(req.query.limit, 10) || 600, 1200);
+    const { value, cached } = await CACHE.remember(req, `fir:units:${limit}`, null, async () => FIR.units({ limit }));
+    res.setHeader("X-Cache", cached);
+    ok(res, { result: value });
+  } catch (e) { fail(res, 500, e.message); }
+});
+router.get("/fir/groups", (req, res) => {
+  try {
+    const limit = Math.min(parseInt(req.query.limit, 10) || 20, 107);
+    ok(res, { result: FIR.groups({ limit }) });
+  } catch (e) { fail(res, 500, e.message); }
+});
+router.get("/fir/outcomes", (req, res) => {
+  try {
+    const limit = Math.min(parseInt(req.query.limit, 10) || 40, 100);
+    ok(res, { result: FIR.outcomes({ limit }) });
+  } catch (e) { fail(res, 500, e.message); }
+});
+
 // --- Zia Services: text analytics on case notes + OCR (#14) ---------------
 const ZIA = require("./lib/zia");
 

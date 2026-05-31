@@ -83,19 +83,27 @@ Cron · Signals + Event Functions · Mail · Push Notifications · Pipelines (CI
 
 ## 5. Data
 
-Source: **Karnataka State Police — Monthly Crime Review (2025)**, published as
-open data (Government Open Data License – India / Public Domain) via
-[data.gov.in](https://www.data.gov.in).
+Two real, public Karnataka crime data sources:
 
-- 12 monthly review files (`data/import/`)
-- District-wise IPC/BNS & SLL totals, crime-head sub-type breakdowns, and crimes
-  against Women / Children / SC-ST.
+**1. KSP Monthly Crime Review (2025)** — aggregate state/district crime figures,
+published as open data (Government Open Data License – India) via
+[data.gov.in](https://www.data.gov.in). Powers district-level dashboards,
+trends, forecasting, socio-economic correlation, and anomaly detection.
 
-State totals reconcile to the official published figures.
+**2. Karnataka Police FIR dataset (2016–2024)** — ~1.67M **incident-level** FIR
+records (Apache-2.0, via Kaggle), of which ~487K carry valid geo-coordinates.
+Powers the real geospatial hotspot map, police-unit drill-down, live-incident
+clusters, real crime-group breakdowns, and case-outcome analytics (arrest &
+conviction rates). The raw 573MB file is not committed; the ETL
+(`etl/fir_incidents.py`) aggregates it into compact tables under
+`data/processed/` which are bundled into the API.
 
-> The KSP open dataset is **aggregate statistical data** — no incident-level
-> records or PII. Analytics are built to that granularity and modules are
-> integration-ready for SCRB's internal record systems.
+> District-level analytics reconcile to official published figures. The FIR
+> records provide genuine incident coordinates and case outcomes. Criminal-
+> network / per-offender link analysis uses clearly-labelled synthetic data
+> grounded in real distributions, since offender-identity links are not present
+> in any public dataset — the module is integration-ready for SCRB internal
+> records.
 
 ## 6. Project layout
 

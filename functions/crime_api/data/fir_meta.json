@@ -1,0 +1,13 @@
+{
+  "source": "Karnataka Police FIR dataset (incident-level)",
+  "license": "Apache-2.0",
+  "via": "Kaggle: vanshangaria/fir-details-karnataka-police",
+  "total_firs": 1674734,
+  "geo_valid_firs": 487228,
+  "year_min": 2016,
+  "year_max": 2024,
+  "hotspot_cells": 1500,
+  "units": 1064,
+  "crime_groups": 107,
+  "grid_dp": 2
+}
