@@ -86,6 +86,59 @@ input[type="text"] { min-width: 220px; }
 .map .leaflet-container { background: #eaeef3; }
 .leaflet-popup-content { font-size: 13px; }
 
+/* ---- Pro hotspot map ---- */
+.map-pro { position: relative; height: 560px; border: 1px solid var(--line); box-shadow: var(--shadow); }
+.map-pro .leaflet-container { background: #e8edf3; }
+/* glow on volume markers */
+.hot-marker { filter: drop-shadow(0 0 6px rgba(0,0,0,0.25)); transition: filter 0.2s; }
+.hot-marker:hover { filter: drop-shadow(0 0 10px rgba(255,59,92,0.55)); }
+
+/* themed leaflet popup */
+.map-pop .leaflet-popup-content-wrapper {
+  background: var(--panel); color: var(--text); border: 1px solid var(--line);
+  border-radius: 12px; box-shadow: var(--shadow); padding: 2px 4px;
+}
+.map-pop .leaflet-popup-tip { background: var(--panel); border: 1px solid var(--line); }
+.map-pop .leaflet-popup-content { margin: 11px 13px; font-size: 13px; min-width: 180px; }
+.map-pop .leaflet-popup-close-button { color: var(--muted); }
+.mp-title { font-weight: 700; font-size: 14px; display: flex; align-items: center; gap: 8px; }
+.mp-flag { font-size: 9px; font-weight: 700; letter-spacing: 0.4px; color: #fff; background: var(--grad-danger); padding: 2px 7px; border-radius: 10px; }
+.mp-sub { color: var(--muted); font-size: 11.5px; margin: 2px 0 8px; }
+.mp-row { display: flex; justify-content: space-between; gap: 16px; font-size: 12.5px; padding: 2px 0; }
+.mp-row span { color: var(--muted); }
+.mp-bar { height: 6px; border-radius: 4px; background: var(--panel-3); margin-top: 8px; overflow: hidden; }
+.mp-bar span { display: block; height: 100%; border-radius: 4px; }
+
+/* floating gradient legend overlay */
+.map-float-legend {
+  position: absolute; left: 14px; bottom: 14px; z-index: 500;
+  background: rgba(20,29,41,0.92); backdrop-filter: blur(8px);
+  border: 1px solid var(--line); border-radius: 12px; padding: 11px 13px;
+  box-shadow: var(--shadow); min-width: 160px;
+}
+.mfl-title { font-size: 11px; font-weight: 600; color: var(--text); margin-bottom: 7px; letter-spacing: 0.2px; }
+.mfl-bar { height: 9px; border-radius: 5px; background: linear-gradient(90deg, #52d6e2, #4f9cff, #ffb347, #ff7849, #ff3b5c); }
+.mfl-scale { display: flex; justify-content: space-between; font-size: 10px; color: var(--muted); margin-top: 4px; }
+.mfl-redzone { display: flex; align-items: center; gap: 7px; font-size: 11px; color: var(--muted); margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--line-soft); }
+.mfl-redzone .dot { width: 11px; height: 11px; }
+
+/* hotspot leaderboard */
+.hot-board { display: flex; flex-direction: column; gap: 11px; margin-top: 6px; }
+.hot-row { display: flex; align-items: center; gap: 12px; }
+.hot-rank {
+  flex-shrink: 0; width: 26px; height: 26px; border-radius: 8px;
+  display: grid; place-items: center; font-size: 12px; font-weight: 700;
+  background: var(--panel-2); color: var(--muted); border: 1px solid var(--line);
+}
+.hot-row:nth-child(1) .hot-rank { background: rgba(255,59,92,0.16); color: var(--danger); border-color: rgba(255,59,92,0.4); }
+.hot-row:nth-child(2) .hot-rank { background: rgba(255,120,73,0.14); color: #ff7849; border-color: rgba(255,120,73,0.35); }
+.hot-row:nth-child(3) .hot-rank { background: rgba(255,179,71,0.14); color: var(--warn); border-color: rgba(255,179,71,0.35); }
+.hot-meta { flex: 1; min-width: 0; }
+.hot-name { font-size: 13px; font-weight: 600; display: flex; align-items: center; }
+.hot-track { height: 7px; border-radius: 4px; background: var(--panel-2); margin-top: 5px; overflow: hidden; }
+.hot-track span { display: block; height: 100%; border-radius: 4px; transition: width 0.5s ease; }
+.hot-val { flex-shrink: 0; font-size: 13.5px; font-weight: 700; font-variant-numeric: tabular-nums; }
+
 /* ---- Tables ---- */
 table { width: 100%; border-collapse: collapse; font-size: 13px; }
 th, td { text-align: left; padding: 9px 10px; border-bottom: 1px solid var(--line-soft); }
@@ -272,6 +325,8 @@ tbody tr:last-child td { border-bottom: none; }
   .chart-wrap { height: 260px; }
   .chart-wrap.tall { height: 300px; }
   .map { height: 380px; }
+  .map-pro { height: 420px; }
+  .map-float-legend { left: 10px; bottom: 10px; padding: 9px 11px; min-width: 140px; }
 
   .controls { gap: 8px; width: 100%; }
   .controls label { flex: 1 1 auto; min-width: 0; }
